@@ -27,7 +27,7 @@ npm install
 npm run dev
 ```
 
-Pour une publication sous un sous-chemin, par exemple sur GitHub Pages : `BASE=/depute-d-un-jour/ npm run build`.
+Pour publier sous un sous-chemin : `BASE=/depute-d-un-jour/ npm run build`. Pour GitHub Pages, il suffit d'activer Pages (Settings → Pages → Source : GitHub Actions), puis de lancer le workflow « Publication » depuis l'onglet Actions.
 
 ## Régénérer les données
 
