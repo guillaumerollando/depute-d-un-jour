@@ -1,8 +1,8 @@
-# Publie l'application sur GitHub Pages à chaque modification de la branche principale.
+# Publie l'application sur GitHub Pages.
+# Déclenchement manuel (onglet Actions). Une fois le dépôt public et Pages activé
+# (Settings → Pages → Source : GitHub Actions), on peut ajouter « push: branches: [main] ».
 name: Publication
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 permissions:
   contents: read
