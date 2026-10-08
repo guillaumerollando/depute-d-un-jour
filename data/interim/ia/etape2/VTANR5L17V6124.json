@@ -1,0 +1,62 @@
+{
+  "uid": "VTANR5L17V6124",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Eddy Casterman (RN)",
+      "citation": "Ce texte, enfin, renforce la pénalisation de l’organisation de rave-parties.",
+      "justification": "Le groupe déclare voter le texte parce qu'il renforce la pénalisation des rave-parties, tout en souhaitant aller plus loin."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Anne-Sophie Ronceret",
+      "citation": "Ce texte y remédie en durcissant les sanctions applicables aux organisateurs comme aux participants",
+      "justification": "Le groupe déclare voter le texte pour durcir les sanctions et protéger les agriculteurs et la ruralité."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime que par une interjection sans rapport avec le contenu du texte."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Thibault Bazin",
+      "citation": "Force est de constater que notre arsenal actuel est insuffisant et qu’il n’est pas assez dissuasif.",
+      "justification": "Le groupe déclare soutenir le texte parce qu'il juge l'arsenal actuel insuffisant."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Éric Martineau",
+      "citation": "Pour toutes ces raisons, notre groupe votera en faveur de la proposition de loi.",
+      "justification": "Le groupe déclare voter le texte en raison des dommages causés par les rave-parties aux agriculteurs et aux communes."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Sylvain Berrios (HOR)",
+      "citation": "cette proposition de loi ne vise pas à interdire à la jeunesse de faire la fête ; elle vise au contraire à lui permettre de le faire en toute sécurité.",
+      "justification": "Le groupe déclare son soutien au texte, qu'il présente comme un encadrement sécurisé des rassemblements."
+    }
+  }
+}

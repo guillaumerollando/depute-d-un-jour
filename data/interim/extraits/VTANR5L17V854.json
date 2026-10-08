@@ -1,0 +1,309 @@
+{
+ "uid": "VTANR5L17V854",
+ "titre": "l'amendement n° 1 de M. Di Filippo à l'article unique de la proposition de loi instaurant un impôt plancher de 2 % sur le patrimoine des ultra riches (première lecture).",
+ "type": "amendement",
+ "date": "2025-02-20",
+ "dossier": "DLR5L17N51215",
+ "dossier_titre": "Impôt plancher de 2 % sur le patrimoine des ultra riches",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "contre",
+  "EPR": "pour",
+  "LFI": "contre",
+  "SOC": "contre",
+  "ECOS": "contre",
+  "DEM": "pour",
+  "HOR": "pour",
+  "GDR": "contre",
+  "UDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 0,
+   "contre": 42,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 14,
+   "contre": 2,
+   "abstention": 1
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 45,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 0,
+   "contre": 44,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 2,
+   "contre": 0,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 38,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 10,
+   "contre": 0,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 11,
+   "contre": 0,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 1,
+   "contre": 1,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 0,
+   "contre": 6,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 8,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC0930P0D1N000001",
+  "dossier": "DLR5L17N51215",
+  "texte": "PIONANR5L17BTC0930",
+  "division": "Article unique",
+  "auteur": "M. Di Filippo,  M. Bazin, Mme Corneloup, M. Cordier et M. Jeanbrun",
+  "auteur_groupe": "DR",
+  "auteur_type": "Député",
+  "dispositif": "Supprimer les alinéas 1 à 40.",
+  "expose": "Cet amendement s’oppose à la mise en place d'une charge fiscale supplémentaire qui pénalisera la création d’emploi et de richesse en France. Cette mesure idéologique n’apporte aucune réponse viable et structurelle aux difficultés de notre pays. L’urgence n’est pas d’augmenter toujours plus les impôts, alors que la France possède le taux de prélèvements obligatoires le plus élevé de toute l'Union Européenne, mais de mettre fin au dérapage de nos finances publiques, en réalisant les économies qui s’imposent et en valorisant le travail et le mérite."
+ },
+ "seance": "RUANR5L17S2025IDS29065",
+ "compte_rendu": "CRSANR5L17S2025O1N111",
+ "interventions": [
+  {
+   "orateur": "Mme Eva Sas",
+   "qualite": "rapporteure de la commission des finances, de l’économie générale et du contrôle budgétaire",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Si nous avons, avec ma collègue Clémentine Autain, souhaité vous soumettre cette proposition d’impôt plancher sur la fortune, c’est pour mettre fin à une injustice fiscale qui dure depuis trop longtemps, pour en finir avec le contournement de l’impôt par les plus fortunés et faire enfin évoluer un système fiscal où tout le monde – même les riches – contribue à l’effort public, sauf les ultrariches.En effet, qu’observons-nous depuis vingt ans ?D’un côté, les 500 plus grandes fortunes de France ont vu leur patrimoine multiplié par dix, passant de 124 milliards à 1 228 milliards d’euros ; le rendement du capital explose, atteignant 7 % à 10 % par an. Même en période de crise, le patrimoine des ultrariches ne subit qu’un impact temporaire et les fluctuations annuelles ne remettent jamais en cause la tendance de fond : une accumulation constante et massive du capital.De l’autre côté, nous avons un système fiscal, certes, très progressif, mais jusqu’à un certain niveau de revenus. À partir du seuil des 0,1 % les plus aisés, il devient au contraire dégressif : pendant que les classes moyennes et populaires contribuent à hauteur de 50 % de leur revenu à l’effort collectif – tout impôt confondu, y compris la TVA et l’impôt sur les sociétés –, les milliardaires, eux, ne paient que 27 %, et même 2 % si l’on ne prend en compte que les impôts personnels.Comment les plus riches font-ils pour payer si peu d’impôts ? D’abord, ils ont bien sûr bénéficié de l’affaiblissement de la fiscalité sur le capital depuis 2017, en particulier avec la transformation de l’impôt de solidarité sur la fortune (ISF) en impôt sur la fortune immobilière (IFI)…"
+  },
+  {
+   "orateur": "Mme Amélie de Montchalin",
+   "qualite": "ministre chargée des comptes publics",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Ces derniers mois, les Français ont exprimé un fort besoin de stabilité. Avec l’adoption d’un budget de compromis, nous sommes sur le chemin de la stabilité politique. Or le corollaire de cette stabilité politique est la stabilité économique et surtout fiscale. Ainsi, comme Éric Lombard et moi l’avons indiqué, les impôts exceptionnels issus de la loi de finances pour 2025 – la surtaxe de l’impôt sur les sociétés (IS) et la contribution différentielle sur les hauts revenus (CDHR) – resteront exceptionnels, et il n’est pas question de créer de nouvel impôt.Cette stabilité fiscale est primordiale pour créer les conditions qui permettent aux entrepreneurs, aux investisseurs et aux hommes et femmes de talent de créer de la richesse et de l’emploi en France. (Rumeurs sur les bancs des groupes LFI-NFP et EcoS.) C’est notamment elle qui contribue à maintenir sur le territoire national des entreprises en forte croissance et à financer plus généralement nos start-up, nos PME innovantes et nos industries stratégiques. Ces entreprises sont les emplois d’aujourd’hui et plus encore de demain.Le Sommet pour l’action sur l’intelligence artificielle qui s’est tenu la semaine dernière à Paris illustre bien la compétition internationale qui se joue actuellement pour attirer les investissements d’avenir. Nos choix politiques et financiers ne peuvent faire fi de cette réalité, encore moins quand notre souveraineté et autonomie stratégique, voire notre existence même en tant qu’Européens, sont en jeu dans un monde instable.Dans ce contexte, il est manifeste que la proposition de loi examinée ce jour, instaurant « un impôt plancher de 2 % sur le patrimoine des ultrariches », est à rebours des objectifs du gouvernement. Une telle contribution serait en effet à la fois confiscatoire et inefficace. (« Oh ! » sur les bancs du groupe EcoS.)"
+  },
+  {
+   "orateur": "M. François Jolivet",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "…le rendement que vous annoncez me semble illusoire. L’ISF rapportait 4 milliards, mais les 25 milliards dont vous parlez ne sont qu’une illusion. Vous brandissez ce chiffre comme un étendard, mais il flotte dans un vent qui n’existe pas ! D’ailleurs, ce texte ignore les effets de second ordre qu’aurait une telle taxe sur la valorisation des actifs. Comme l’a démontré l’économiste Antoine Levy, la taxation excessive d’un actif entraîne une dépréciation immédiate de sa valeur."
+  },
+  {
+   "orateur": "M. François Jolivet",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "…et l’optimisation agressive ! Le gouvernement nous présentera bientôt, je crois, un projet de loi sur le sujet. (M. Vincent Thiébaut applaudit.)Le tableau économique que vous dressez me semble absurde. (Exclamations sur les bancs des groupes LFI-NFP et EcoS.) Taxer lourdement les grandes fortunes n’est pas faire preuve de justice fiscale ;…"
+  },
+  {
+   "orateur": "M. Joël Bruneau",
+   "qualite": null,
+   "groupe": "LIOT",
+   "president_de_seance": false,
+   "texte": "En outre, un tel impôt pourrait rapidement être remis en cause sur le plan constitutionnel – même si je sais bien que pour vous, ce n’est pas grave. En instaurant un taux plancher, il s’apparente à une taxation confiscatoire, ce qui poserait un problème de conformité avec les principes dégagés par le Conseil constitutionnel. Rappelons que dans sa décision de 2012, ce dernier avait déjà censuré une taxation jugée « excessive au regard [des] facultés contributives » des contribuables concernés. Il est donc plus que probable qu’une telle mesure se heurterait à la même censure, nous exposant à une insécurité juridique qui nuirait davantage encore à notre attractivité économique."
+  },
+  {
+   "orateur": "M. Joël Bruneau",
+   "qualite": null,
+   "groupe": "LIOT",
+   "president_de_seance": false,
+   "texte": "Par exemple, mes collègues commissaires aux finances ont proposé, lors des débats en commission, une taxation plus ciblée des revenus des holdings familiales (« C’est fini ! » sur plusieurs bancs des groupes LFI-NFP et EcoS) et des dispositions destinées à lutter contre certaines pratiques d’évitement fiscal."
+  },
+  {
+   "orateur": "M. Nicolas Sansu",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "C’est cela qui est à l’ordre du jour ; pour ces raisons, le groupe de la Gauche démocrate et républicaine soutient pleinement cette initiative et votera le texte sans aucune réserve. (Les députés des groupes LFI-NFP et EcoS se lèvent et applaudissent. – M. Stéphane Peu et quelques députés du groupe SOC applaudissent également.)"
+  },
+  {
+   "orateur": "M. Olivier Fayssat",
+   "qualite": null,
+   "groupe": "UDR",
+   "president_de_seance": false,
+   "texte": "Tant qu’il restera de l’argent quelque part, vous le traquerez et vous exigerez qu’on le verse dans le puits sans fond de votre politique suicidaire. La démocratie, ce n’est pas proposer à 99 % de la population de confisquer les biens de 0,1 % des citoyens, ni même 0,001 %. Nous avons déjà le système de redistribution le plus généreux au monde. Ne tuez pas la poule, elle ne pondra plus, et les autres s’envoleront du poulailler France."
+  },
+  {
+   "orateur": "M. Olivier Fayssat",
+   "qualite": null,
+   "groupe": "UDR",
+   "president_de_seance": false,
+   "texte": "Dans votre amnésie ingrate, vous oubliez même que le capital que vous voulez encore taxer n’est que le reliquat qui a survécu à l’enfer fiscal. Nous ne voterons pas cette folie fiscale – et je vous remercie pour vos acclamations. (Applaudissements sur les bancs des groupes UDR et RN. – Exclamations sur les bancs des groupes LFI-NFP, EcoS et GDR.)"
+  },
+  {
+   "orateur": "M. Mickaël Bouloux",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "La justice fiscale est essentielle pour restaurer la cohésion sociale dont notre pays a besoin. Comment justifier que les travailleuses et les travailleurs paient une part proportionnellement plus importante de leurs revenus que les milliardaires ?Je pourrai multiplier les arguments mais je préfère être bref afin de préserver du temps pour le débat et d’arriver plus rapidement au vote du texte. Cette proposition de loi répond à une urgence sociale et économique. Nous soutiendrons la version défendue par Mme la rapporteure. (Applaudissements sur les bancs des groupes SOC, LFI-NFP, EcoS et GDR.)"
+  },
+  {
+   "orateur": "M. Jean-Paul Mattei",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Tout à l’heure, mon collègue Thierry Mandon a rappelé que notre groupe était très attaché à la justice fiscale.Cette proposition de loi trouve son origine dans un rapport de l’Institut des politiques publiques (IPP) et dans une théorie de Gabriel Zucman, un économiste très talentueux avec lequel j’ai d’ailleurs échangé à plusieurs reprises sur ces questions. Le débat mérite d’être posé.Cependant, cet article n’est pas opérant. Tout d’abord, il représente un retour en arrière puisqu’il prévoit d’inclure le patrimoine privé et professionnel et vise également les personnes, à l’étranger, qui investissent en France.D’autre part, vous ne distinguez pas personnes physiques et personnes morales. Nous sommes certes confrontés à une accumulation de richesses, essentiellement professionnelles – j’ai pu le vérifier dans le cadre du rapport que j’ai rédigé avec Nicolas Sansu. Cependant, les actionnaires n’ont pas droit au bénéfice – même s’ils ont d’autres droits. C’est l’assemblée générale de l’entreprise qui décide de l’affectation du bénéfice. Celui-ci est un bien de l’entreprise, il entre souvent en jeu dans la production, il peut être utilisé au profit des salariés, de l’investissement et du développement mais il n’appartient pas aux actionnaires en tant qu’individus. La mesure proposée est donc une très mauvaise idée.J’aime bien modéliser les projets, j’ai donc procédé à un petit calcul : une taxe de 2 % sur un patrimoine de 100 millions, cela représente 2 millions de recettes fiscales."
+  },
+  {
+   "orateur": "M. Jean-Paul Mattei",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Or, pour atteindre ce montant, les dirigeants de l’entreprise doivent distribuer 6,6 millions de dividendes. S’ils ne détiennent que 30 % du capital de l’entreprise, ils devraient même en verser près de 20 millions. Ils vont donc chercher cette somme à l’intérieur de l’entreprise – autant d’argent en moins pour le développement ou l’intéressement des salariés. (Applaudissements sur les bancs du groupe Dem et sur plusieurs bancs du groupe EPR.)Votre idée est intéressante mais le dispositif ne fonctionne pas. Si un tel texte était adopté, il provoquerait des effets pervers. Cependant, il faut continuer de mener une réflexion sur la justice fiscale. (Mêmes mouvements.)"
+  },
+  {
+   "orateur": "M. Nicolas Sansu",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "J’aimerais tout d’abord répondre à Mme la ministre. Cette proposition de loi ne concerne pas tout le monde mais 1 800 foyers fiscaux. Vous avez évoqué les 580 personnes qui se sont exilées à cause de l’ISF. Or je rappelle qu’on comptait à l’époque 385 000 foyers assujettis à l’ISF. Par conséquent, ne dites pas que cette mesure encouragera les départs. (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)D’autre part, monsieur Mattei, il s’agit d’une contribution différentielle. Par conséquent, vous ne pouvez pas affirmer que 2 % seraient prélevés sur le stock de patrimoine. C’est une taxe qui peut atteindre l’équivalent de 2 % du patrimoine, ce qui est différent. Si les milliardaires et les centimillionnaires paient l’impôt sur le revenu et l’IFI par exemple, on ne sera pas très loin des 2 %, dans ce cas il ne faudra pas aller chercher beaucoup d’argent pour atteindre le montant demandé.Par ailleurs, vous savez qu’à ce niveau de fortune, les revenus personnels et professionnels se confondent puisque ces personnes conservent leur argent dans des holdings familiales qui ne sont pas transparentes. Par conséquent elles n’ont pas besoin de percevoir des revenus, ce qui leur évite de payer des impôts sur le revenu. La taxe Zucman permet d’empêcher un tel comportement.Vous parlez d’une mesure confiscatoire mais, en réalité, ceux qui confisquent, ce sont bien les milliardaires qui s’en mettent plein les fouilles en prenant le travail des autres. (Applaudissements sur les bancs des groupes GDR et LFI-NFP ainsi que sur quelques bancs du groupe EcoS.)"
+  },
+  {
+   "orateur": "Mme Marietta Karamanli",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Seulement, le rétablissement en France d’un impôt ciblant spécifiquement les grandes fortunes s’inscrit aujourd’hui dans un contexte très différent de celui qui prévalait il y a quelques années. La taxation des super-riches figure au premier plan des débats internationaux, notamment dans le cadre du G20. Cela résulte d’une prise de conscience née des progrès considérables en matière d’échange de renseignements. Ils mettent à notre disposition de nouveaux outils qui permettent de comprendre l’évasion fiscale et de lutter contre elle.Si, à un moment donné, le gouvernement a entendu créer une nouvelle taxation temporaire et exceptionnelle, il ne touche d’aucune façon aux millionnaires et aux milliardaires. Alors que les salaires sont taxés suivant un barème progressif, les dividendes sont soumis à un prélèvement forfaitaire unique, la flat tax, dont le taux s’élève à 12,8 %. Du reste, les plus riches ne vivent pas des revenus du travail ni même des dividendes qu’ils perçoivent mais de l’argent qu’ils placent dans les entreprises. Or un revenu acquis à un contribuable mais non encore réalisé ne peut faire l’objet d’un impôt.Ces très, très riches se servent de leurs actions pour garantir d’autres achats ou parts d’entreprises, ce qui explique la formidable concentration des richesses à laquelle nous assistons. Certaines de leurs pratiques consistent, grâce à un régime de succession très favorable, à acheter, emprunter et mourir.En taxant les patrimoines qui excèdent 100 millions d’euros à un taux de 2 %, nous irons peu à peu vers davantage de justice fiscale. Les 15 à 25 milliards d’euros que cette taxe permettra de dégager contribueront au désendettement et aux investissements dans les domaines qui nous intéressent, notamment l’éducation et la santé. (Applaudissements sur plusieurs bancs du groupe SOC. – Mme Sandrine Rousseau applaudit également.)"
+  },
+  {
+   "orateur": "Mme Amélie de Montchalin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Il s’agirait d’une imposition non optimale puisqu’elle serait très importante et concernerait peu de monde – et que ce peu de monde passerait beaucoup plus facilement les frontières que les 385 000 contribuables au titre de l’ISF à l’époque. Je pense donc qu’il faut utiliser avec beaucoup de parcimonie les comparaisons de mobilité de la base fiscale.Enfin, comme vous le savez, la holding patrimoniale est un dispositif que nous suivons avec attention parce qu’il y a en effet des contournements."
+  },
+  {
+   "orateur": "Mme Amélie de Montchalin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Nous allons consulter, y travailler et revenir dans deux mois afin de présenter à votre assemblée un mécanisme que nous souhaitons efficace, ciblé et durable. (Applaudissements sur plusieurs bancs du groupe EPR.) Je suis défavorable à cette proposition de loi de la première à la dernière ligne et donc favorable à ces amendements de suppression. S’ils n’étaient pas adoptés, je m’en remettrais à la sagesse de l’Assemblée sur tous les amendements susceptibles d’améliorer le texte."
+  },
+  {
+   "orateur": "Mme Clémentine Autain",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "C’est tout petit. Arrêtez avec cet argument ! Et ayez conscience que 80 % des Français souhaitent le retour de l’ISF, que l’écrasante majorité de nos concitoyens veulent de la justice fiscale. (Mêmes mouvements.) L’Assemblée va-t-elle refléter la volonté des Français ou est-ce qu’on va continuer à être au service d’une infime minorité de lobbyistes, de gens hyper-riches qui font la pluie et le beau temps dans notre pays, au mépris de la démocratie et au mépris de celles et ceux qui ont le moins ? (Applaudissements sur les bancs du groupe EcoS, sur de nombreux bancs des groupes SOC et GDR et sur quelques bancs du groupe LFI-NFP.)"
+  },
+  {
+   "orateur": "Mme Clémentine Autain",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Voilà bien notre différence et notre désaccord, chers collègues : pour nous, si on ne partage pas les richesses, les pauvres vont continuer à être pauvres. Oui, il faut investir dans le bien commun et, pour y parvenir, il faut de la justice fiscale. (Vifs applaudissements sur les bancs des groupes EcoS, SOC et GDR.)"
+  },
+  {
+   "orateur": "M. Matthias Renault",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Vous êtes théoriquement en position de force par rapport au bloc de gauche et si vous voulez que cette proposition de loi soit rejetée, il suffit que vos collègues viennent et votent. (Exclamations sur les bancs du groupe LFI-NFP.) Vous ne pouvez pas sans arrêt supplier le Rassemblement national de vous venir en aide parce que vous n’êtes pas là. (Mmes Clémentine Autain et Sandrine Rousseau applaudissent.)"
+  },
+  {
+   "orateur": "M. Matthias Renault",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "…j’indique que nous voterons contre ces amendements de suppression, pour une raison simple : nous voulons débattre. (Mêmes mouvements.) Les députés de votre bloc ont déposé des amendements assez intéressants visant, par exemple, à sortir les biens professionnels du patrimoine taxable ou à transformer la valeur nette du patrimoine en croissance du patrimoine. Voilà des pistes intéressantes que l’on peut explorer dans le cadre d’un dialogue constructif. Nous voulons, pour notre part, que s’engage l’examen de l’article unique. Et si vous voulez rejeter ce texte, rappelez vos troupes et alors vous l’emporterez. (Applaudissements sur de nombreux bancs du groupe RN.)"
+  },
+  {
+   "orateur": "M. Fabien Di Filippo",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "…mais, ne nous trompons pas, c’est son patrimoine professionnel, elle n’en a donc pas la jouissance immédiate – à moins d’être condamnée par la loi pour abus de biens sociaux. Il ne faut pas tout confondre. Et même si elle ne verse pas de dividendes, elle devra donner 2 % de son capital tous les ans. Qu’est-ce qu’elle va faire ? Je poursuivrai ma démonstration plus tard pour ne pas abuser du temps de parole.Ce texte, si on ne sort pas les biens professionnels de l’assiette prévue, est encore pire que ce qu’on aurait pu penser."
+  },
+  {
+   "orateur": "Mme Eva Sas",
+   "qualite": "rapporteure",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Vous proposez ainsi de supprimer un à un – ou deux par deux selon les cas – tous les alinéas de la proposition de loi, uniquement pour ralentir les débats. Dans votre frénésie, vous avez même déposé des amendements dont l’adoption rendrait le texte plus strict : je pense au no 3, qui supprime le régime des impatriés, pourtant un dispositif d’assouplissement,…"
+  },
+  {
+   "orateur": "Mme Eva Sas",
+   "qualite": "rapporteure",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "…aux nos 6 et 7, qui rendent l’imposition plus forte pour les couples mariés ou pacsés, et au no 24, qui supprime un dispositif permettant d’échelonner le paiement pour ceux qui manquent de liquidités – ce qui n’est d’ailleurs pas sans rappeler l’exemple que vous venez de citer.Vous êtes ainsi pris d’une sorte de frénésie d’amendements qui n’ont d’autre but que de faire de l’obstruction…"
+  },
+  {
+   "orateur": "M. Fabien Di Filippo",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Madame la présidente, vous avez été témoin de l’accusation profondément injuste (Exclamations sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR) dont j’ai été nommément la cible. Mon cœur saigne (Les exclamations redoublent) parce que, depuis ce matin, j’ai systématiquement essayé d’orienter les débats vers le fond des choses, contrairement à beaucoup d’entre vous (L’orateur se tourne vers les bancs d’où proviennent les exclamations) qui avez une vision très idéologique. Je n’accepte donc pas qu’on m’accuse de faire de l’obstruction. (Exclamations sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR.) Je n’ai même pas déposé un amendement par milliard d’euros que vous comptez prélever. (Rires sur les bancs du groupe EcoS.) On peut bien prendre deux minutes pour discuter de chaque milliard que vous voulez retirer de la poche des Français ! (Vives exclamations sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR.) Ce n’est pas trop !Enfin – et, ensuite, j’en aurai fini, madame la présidente –, il y a deux semaines, lors de la niche du groupe DR, vous avez déposé 200 amendements. Ça, c’était de l’obstruction pour essayer de nous empêcher de voter. Vos bonnes leçons, vous pouvez donc vous les garder ! (Applaudissements ironiques sur quelques bancs du groupe LFI-NFP.)"
+  },
+  {
+   "orateur": "Mme Gabrielle Cathala",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Aussi caricaturaux que ceux de M. Woerth qui, à l’automne dernier, lors du débat budgétaire, nous avait accusés de vouloir appauvrir les milliardaires.Je répondrai d’abord à M. Sitzenstuhl. Je comprends que vous soyez mal à l’aise puisqu’avant d’être député, vous conseilliez M. Le Maire. Peut-être lui avez-vous donc donné de mauvais conseils qui ont contribué à accroître de 1 000 milliards d’euros la dette de la France. (Applaudissements sur les bancs des groupes LFI-NFP et EcoS, ainsi que sur quelques bancs du groupe SOC.) Vous avez affirmé que notre pays ne souffrait pas d’un problème de recettes. Pourtant, la Cour des comptes, une institution libérale, dit le contraire (Protestations sur les bancs du groupe EPR), puisque l’État perd 70 milliards d’euros par an à cause des suppressions de l’impôt de solidarité sur la fortune et de la cotisation sur la valeur ajoutée des entreprises (CVAE), à cause de la baisse de l’impôt sur les sociétés et de tous les cadeaux fiscaux faits par M. Macron aux plus riches. (Applaudissements sur les bancs du groupe LFI-NFP. – M. Charles Sitzenstuhl fait mine d’applaudir.)Ensuite, comme il est désormais habituel, on nous oppose que la mesure instituée par la proposition de loi serait inconstitutionnelle. Je remarque que le risque d’inconstitutionnalité ne vous gênait pas lorsqu’il s’agissait de voter avec l’extrême droite la loi « immigration », dont trente articles ont été censurés par le Conseil constitutionnel. (Applaudissements sur les bancs des groupes LFI-NFP et EcoS, ainsi que sur quelques bancs du groupe SOC.) Ni ce matin quand, avec le soutien du gouvernement, la droite extrême (Protestations sur les bancs du groupe UDR) a voté au Sénat l’interdiction de se marier avec un étranger en situation irrégulière (Applaudissements sur les bancs des groupes LFI-NFP et EcoS), ce qui est contraire à une décision du Conseil constitutionnel de 2003 qui fait de la liberté du mariage une composante de la liberté personnelle garantie par les articles 2 et 4 de la Déclaration des droits de l’homme et du citoyen.Enfin, à propos du caractère confiscatoire qu’aurait la proposition de loi, vous avez ressorti les arguments utilisés lorsqu’un individu, depuis revenu sur les bancs de l’hémicycle, un bolchevik qui a été président de la République, M. Hollande, proposait de taxer les riches à 75 %. Or, à l’époque, le Conseil constitutionnel n’a pas censuré la mesure parce qu’elle aurait été confiscatoire…"
+  },
+  {
+   "orateur": "Mme Gabrielle Cathala",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "La loi de M. Hollande était mal écrite, ce qui, malheureusement pour vous, n’est pas le cas de la proposition de Mme Sas.Enfin, je m’adresse aux collègues du groupe RN,… (Le temps de parole étant écoulé, Mme la présidente coupe le micro de l’oratrice. – Les députés du groupe LFI-NFP applaudissent cette dernière.)"
+  },
+  {
+   "orateur": "M. Paul Midy",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Je vais faire un peu voyager l’Assemblée, jusqu’en Norvège, et lui raconter une petite histoire. En 2023, il y a à peine plus que quelques mois, la Norvège s’est dit que ce serait une bonne idée d’augmenter les impôts des riches, qu’ainsi les recettes publiques allaient augmenter de 150 millions d’euros. Apparemment, beaucoup de gens dans cet hémicycle partagent ce type d’idées. Mais savez-vous ce qu’il s’est finalement passé ? Beaucoup de riches Norvégiens ont quitté le pays et, avec eux, 50 milliards d’euros de patrimoine. Dès l’année suivante, les recettes ont baissé de 450 millions d’euros. Le pays s’est donc retrouvé avec un trou de 600 millions dans son budget. (Mme Mathilde Feld et M. Hadrien Clouet s’exclament.)Bien sûr qu’on a besoin de ressources publiques, mais il faut les faire rentrer intelligemment. Ce que vous proposez est idiot…"
+  },
+  {
+   "orateur": "M. Hadrien Clouet",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "C’est toi, l’idiot !"
+  },
+  {
+   "orateur": "M. Paul Midy",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "…et risque de faire baisser les recettes de l’État. Ne faisons pas de choses idiotes !Je réponds par ailleurs à notre collègue qui, tout à l’heure, m’a interpellé avec virulence. Je vous donne l’exemple d’une entrepreneuse qui a créé une start-up – je suis désolé d’utiliser un mot qui vous fait un peu peur. Dans cette société, on vient de découvrir que, grâce à l’intelligence artificielle, le cancer du sein va pouvoir être détecté cinq ans plus tôt qu’avec les techniques actuelles. Quand une telle chose se produit, la valorisation de l’entreprise fait un bond très important. Reste que sa fondatrice n’a pas plus d’argent dans sa poche. Avec votre impôt idiot, elle devrait emprunter des millions d’euros pour garder le contrôle de son entreprise qui contribue à la santé du futur. En résumé : la taxation et les ressources publiques, oui ! mais les idioties, non merci ! (Applaudissements sur les bancs du groupe EPR. – Mme Karine Lebon et M. Inaki Echaniz s’exclament.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 1."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

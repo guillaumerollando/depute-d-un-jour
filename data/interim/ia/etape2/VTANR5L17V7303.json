@@ -1,0 +1,62 @@
+{
+  "uid": "VTANR5L17V7303",
+  "consigne": "etape2_ambiguite v1",
+  "groupes": {
+    "RN": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Eddy Casterman",
+      "citation": "Parce que votre trajectoire est totalement déconnectée des réalités économiques et agricoles de notre pays, notre groupe votera contre cette proposition de loi.",
+      "justification": "Le groupe déclare que la trajectoire prévue est trop contraignante pour l'agriculture et vote contre."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Marie Lebec",
+      "citation": "Nous l’avons soutenue hier, nous la soutenons aujourd’hui et nous la voterons. Pourquoi ? Parce qu’elle apporte des avancées concrètes pour la santé des Françaises et des Français",
+      "justification": "Le groupe déclare soutenir le texte et vote pour."
+    },
+    "LFI": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Claire Lejeune",
+      "citation": "Nous voilà enfin réunis, après trois tentatives, pour étudier la possibilité de mettre un coup d’arrêt à la pollution massive au cadmium dans nos sols et dans nos corps.",
+      "justification": "Le groupe déclare soutenir la réduction du cadmium prévue et vote pour."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Chantal Jourdan",
+      "citation": "Il a su nous convaincre nous aussi, socialistes, que la trajectoire devait être plus rapide que ce que nous pensions à l’origine.",
+      "justification": "Le groupe déclare soutenir la trajectoire prévue et vote pour."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Clémentine Autain",
+      "citation": "Ce texte est un bon compromis, qui prévoit une avancée forte : limiter dès 2030 la teneur en cadmium à 20 milligrammes par kilogramme d’engrais phosphaté, conformément à la recommandation sanitaire.",
+      "justification": "Le groupe déclare soutenir le contenu du texte et vote pour."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Éric Martineau",
+      "citation": "Nous avons cranté un message essentiel sur l’enjeu de santé publique. Nous attendons des réponses de l’Europe dans les semaines qui viennent. En attendant, nous voterons pour ce texte.",
+      "justification": "Le groupe déclare soutenir l'enjeu de santé publique du texte et vote pour, avec des réserves sur les coûts."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Anne-Cécile Violland",
+      "citation": "Nous ne serons peut-être pas d’accord sur la trajectoire, mais la nécessité absolue de traiter la question du cadmium est incontestable.",
+      "justification": "Le groupe déclare soutenir l'objectif du texte et vote pour."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    }
+  }
+}

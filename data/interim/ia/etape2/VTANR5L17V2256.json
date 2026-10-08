@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V2256",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Théo Bernhardt (RN)",
+      "citation": "Nous avons trouvé un bon équilibre entre le nombre de dons possibles par an, la nécessité d’en informer l’employeur soixante-douze heures ouvrées à l’avance et la possibilité laissée à l’employeur de demander un report des dons, ce qui permettra de sécuriser les TPE et PME.",
+      "justification": "Le groupe vote pour en jugeant le texte équilibré entre dons et contraintes des entreprises."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Camille Galliard-Minier (EPR)",
+      "citation": "Ce texte est équilibré, simple et il sera facile à appliquer.",
+      "justification": "Le groupe vote pour en déclarant le texte équilibré et applicable."
+    },
+    "LFI": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Ersilia Soudais (LFI-NFP)",
+      "citation": "Cette proposition de loi a le mérite de mettre en exergue la nécessité qu’il y a d’augmenter le nombre de donneurs de sang, de plaquettes et de plasma et de favoriser la régularité de ces dons.",
+      "justification": "Le groupe vote pour en soutenant l’objectif d’augmenter le nombre de donneurs."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Pierrick Courbon",
+      "citation": "Le don du sang permet de sauver des vies, et il importe que chacun y prenne sa part, y compris les entreprises.",
+      "justification": "Le groupe vote pour en soutenant la participation des entreprises au don du sang."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Josiane Corneloup (DR)",
+      "citation": "Le groupe Droite républicaine votera en faveur de cette proposition de loi qui, cela a été dit, répond à la fois à un impératif de santé publique et à un enjeu de souveraineté sanitaire.",
+      "justification": "Le groupe vote pour en invoquant la santé publique et la souveraineté sanitaire."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe s’exprime seulement sur un amendement relatif aux bénévoles, pas sur l’ensemble du texte."
+    },
+    "DEM": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Perrine Goulet",
+      "citation": "Ce texte partait d’une bonne intention mais le résultat n’est pas satisfaisant. Cela me contrarie, mais nous ne pourrons pas voter en faveur de son adoption.",
+      "justification": "Le groupe vote contre en invoquant l’imprécision du nombre d’absences et les contraintes pesant sur les entreprises, raisons qui portent sur le contenu."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Nathalie Colin-Oesterlé (HOR)",
+      "citation": "Je comprends les réserves de ma collègue, mais on touche là à des questions de santé publique et de souveraineté sanitaire.",
+      "justification": "Le groupe vote pour en invoquant la santé publique et la souveraineté sanitaire."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe s’exprime seulement sur le bénévolat associatif, pas sur le vote de l’ensemble."
+    },
+    "UDR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s’exprime pas dans l’extrait."
+    }
+  }
+}

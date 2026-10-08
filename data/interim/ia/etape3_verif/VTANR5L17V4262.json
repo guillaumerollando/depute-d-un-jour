@@ -1,0 +1,9 @@
+{
+  "uid": "VTANR5L17V4262",
+  "consigne": "etape3_verification v1",
+  "verdict": "rejete",
+  "problemes": [
+    "Amendement purement rédactionnel (changements de mots et de numérotation) : aucune règle nouvelle identifiable, la carte est marquée trop_technique et ne peut pas être rendue compréhensible pour l'utilisateur."
+  ],
+  "corrections": {}
+}

@@ -1,0 +1,69 @@
+{
+  "uid": "VTANR5L17V1473",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Jocelyn Dessigny",
+      "citation": "Là encore, nous avons essuyé les attaques de l’extrême gauche mais nous avons obtenu de conserver cette mesure essentielle.",
+      "justification": "Le groupe soutient les mesures du texte tout en demandant des moyens financiers."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Stéphane Mazars",
+      "citation": "Le groupe EPR votera ce texte et appelle toutes les forces de cette assemblée à faire un choix clair, celui de la responsabilité, et non du renoncement.",
+      "justification": "Le groupe soutient les mesures de lutte contre le narcotrafic prévues par le texte."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Antoine Léaument",
+      "citation": "Pour cela, ce ne sont pas de mesures de répression qu’il faut prendre, mais des mesures de prévention et de soins pour éviter l’entrée dans la drogue, diminuer la consommation et permettre la sortie de la dépendance.",
+      "justification": "Le groupe s'oppose à l'approche répressive du texte et défend la prévention et les soins."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Estelle Mercier",
+      "citation": "Si toutes ces dispositions, inspirées du rapport d’enquête sénatorial, vont dans le bon sens, nous vous alertons sur deux risques majeurs",
+      "justification": "Le groupe soutient la plupart des dispositions du texte tout en exprimant des réserves sur les moyens et sur le régime carcéral."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Olivier Marleix",
+      "citation": "Les députés du groupe Droite républicaine voteront ce texte avec beaucoup de conviction parce qu’il protège les premières victimes du trafic de drogue dans notre pays, à savoir les jeunes.",
+      "justification": "Le groupe soutient le contenu du texte."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Anne Bergantz",
+      "citation": "Ces propositions très concrètes permettront de lutter plus efficacement contre le trafic et d’améliorer la sécurité des Français qui y sont exposés.",
+      "justification": "Le groupe soutient les mesures du texte."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Agnès Firmin Le Bodo",
+      "citation": "Ces deux propositions de loi vont dans le bon sens. Elles donneront à nos agents des moyens supplémentaires pour lutter efficacement contre le narcotrafic.",
+      "justification": "Le groupe soutient les mesures du texte."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    }
+  }
+}

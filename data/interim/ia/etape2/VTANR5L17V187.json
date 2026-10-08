@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V187",
+  "consigne": "etape2_ambiguite v2",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "EPR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Stéphanie Rist",
+      "citation": "Nous sommes opposés à cet amendement. Il faut bien prévoir les retraites des agents hospitaliers et de ceux des collectivités territoriales.",
+      "justification": "Le groupe déclare s'opposer à l'amendement en invoquant le financement des retraites de la CNRACL."
+    },
+    "LFI": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Jérôme Guedj",
+      "citation": "Notre assemblée doit marquer son opposition ferme à ce tour de passe-passe – j’aurais pu parler de hold-up. Les crédits alloués à l’hôpital ne doivent pas être amputés de l’équivalent du financement – légitime – de la CNRACL.",
+      "justification": "Le groupe défend l'amendement pour s'opposer à l'imputation de la hausse de cotisation sur les crédits de l'hôpital."
+    },
+    "DR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Les orateurs du groupe s'expriment sur un autre amendement, sans se prononcer sur celui-ci."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "La seule intervention du groupe porte sur le retrait d'un autre amendement."
+    },
+    "DEM": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "HOR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "L'oratrice du groupe s'exprime sur des amendements précédents, sans se prononcer sur celui-ci."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "L'orateur du groupe s'exprime sur le cumul emploi-retraite, sans se prononcer sur cet amendement."
+    }
+  }
+}

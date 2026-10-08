@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V3878",
+  "consigne": "etape3_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "« Une taxe sur les salaires mal prévue » reprend la critique de l'auteur de l'amendement ; le texte officiel dit seulement que la taxe payée a été plus ou moins élevée que prévu."
+  ],
+  "corrections": {
+    "ce_que_ca_change": "Le texte augmente de 10,4 millions d'euros la part de TVA versée à l'audiovisuel public pour 2025. L'amendement réduit cette hausse de 500 000 euros, soit l'écart entre une hausse de 700 000 euros pour TV5 Monde et une baisse de 200 000 euros pour Arte, dues à une taxe sur les salaires différente de celle prévue."
+  }
+}

@@ -1,0 +1,106 @@
+{
+ "uid": "VTANR5L17V8429",
+ "titre": "l'amendement n° 1 du Gouvernement de rétablissement de l'article 11 (supprimé) du projet de loi relatif à la protection des enfants (seconde délibération) (première lecture).",
+ "type": "amendement",
+ "date": "2026-07-21",
+ "dossier": "DLR5L17N54372",
+ "dossier_titre": "Projet de loi relatif à la protection des enfants",
+ "sort": "adopté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "pour",
+  "LFI": "contre",
+  "DR": "pour",
+  "ECOS": "contre",
+  "DEM": "pour",
+  "HOR": "pour",
+  "LIOT": "pour",
+  "UDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 89,
+   "contre": 0,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 53,
+   "contre": 1,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 43,
+   "abstention": 1
+  },
+  "SOC": {
+   "pour": 9,
+   "contre": 20,
+   "abstention": 4
+  },
+  "DR": {
+   "pour": 37,
+   "contre": 0,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 1,
+   "contre": 16,
+   "abstention": 5
+  },
+  "DEM": {
+   "pour": 21,
+   "contre": 1,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 22,
+   "contre": 0,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 9,
+   "contre": 1,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 8,
+   "contre": 0,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 3,
+   "contre": 2,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901B3018P0D2N000001",
+  "dossier": "DLR5L17N54372",
+  "texte": "PRJLANR5L17BTC3018",
+  "division": "Article 11",
+  "auteur": "le Gouvernement",
+  "auteur_groupe": null,
+  "auteur_type": "Gouvernement",
+  "dispositif": "Rétablir cet article dans la rédaction suivante : Le code pénal est ainsi modifié : 1° L’article 222‑25 est ainsi modifié : a) Le premier alinéa est complété par une phrase ainsi rédigée : « La peine est portée à la réclusion criminelle à perpétuité lorsque la victime est un mineur de quinze ans. » ; b) Le deuxième alinéa est complété par une phrase ainsi rédigée : « La cour d’assises peut toutefois, par décision spéciale, porter la période de sûreté jusqu’à trente ans. » ; 2° Le premier alinéa de l’article 222‑26 est remplacé par quatre alinéas ainsi rédigés : « Le viol défini aux articles 222‑23, 222‑23‑1 et 222‑23‑2 est puni de la réclusion criminelle à perpétuité lorsqu’il est : « 1° Précédé, accompagné ou suivi de tortures ou d’actes de barbarie ; « 2° Commis sur un mineur de quinze ans et en concours avec un ou plusieurs autres viols commis sur d’autres victimes. « Les victimes sont informées, dès le début de la procédure, des dispositifs spécialisés de prise en charge du psychotraumatisme et des associations d’aide aux victimes. »",
+  "expose": "seconde délibération de l'article 11"
+ },
+ "seance": "RUANR5L17S2026IDS30880",
+ "compte_rendu": "CRSANR5L17S2026E1N023",
+ "interventions": [
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 1, tel qu’il vient d’être sous-amendé."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

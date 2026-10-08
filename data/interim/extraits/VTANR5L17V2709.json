@@ -1,0 +1,653 @@
+{
+ "uid": "VTANR5L17V2709",
+ "titre": "l'amendement de suppression n° 1 de M. Christophle et les amendements identiques suivants à l'article 1er A de la proposition de loi visant à renforcer les prérogatives des officiers de l'état-civil et du ministère public pour lutter contre les mariages simulés ou arrangés (première lecture).",
+ "type": "amendement",
+ "date": "2025-06-26",
+ "dossier": "DLR5L16N49075",
+ "dossier_titre": "Proposition de loi visant à renforcer les prérogatives des officiers de l’état civil et du ministère public pour lutter contre les mariages simulés ou arrangés",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "contre",
+  "EPR": "contre",
+  "LFI": "pour",
+  "SOC": "pour",
+  "ECOS": "pour",
+  "DEM": "contre",
+  "HOR": "contre",
+  "GDR": "pour",
+  "UDR": "contre"
+ },
+ "voix": {
+  "RN": {
+   "pour": 0,
+   "contre": 97,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 1,
+   "contre": 43,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 30,
+   "contre": 0,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 20,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 0,
+   "contre": 2,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 22,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 9,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 11,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 0,
+   "contre": 1,
+   "abstention": 3
+  },
+  "GDR": {
+   "pour": 4,
+   "contre": 0,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 0,
+   "contre": 16,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC1583P0D1N000001",
+  "dossier": "DLR5L16N49075",
+  "texte": "PIONANR5L17BTC1583",
+  "division": "Article 1er A",
+  "auteur": "M. Christophle,  M. Saulignac, Mme Capdevielle, Mme Karamanli, M. Naillet, M. Pena, Mme Thiébault-Martinez, M. Vicot, M. William, Mme Allemand, M. Aviragnet, M. Baptiste, M. Barusseau, Mme Battistel, M. Baumel, Mme Bellay, M. Benbrahim, M. Bouloux, M. Philippe Brun, M. Califer, M. Courbon, M. David, M. Delaporte, M. Delautrette, Mme Diop, Mme Dombre Coste, M. Dufau, M. Echaniz, M. Eskenazi, M. Faure, M. Fégné, M. Garot, Mme Godard, M. Gokel, Mme Got, M. Emmanuel Grégoire, M. Guedj, M. Hablot, Mme Hadizadeh, Mme Herouin-Léautey, Mme Céline Hervieu, M. Hollande, Mme Jourdan, Mme Keloua Hachi, M. Leseul, M. Lhardit, Mme Mercier, M. Oberti, Mme Pantel, Mme Pic, Mme Pirès Beaune, M. Potier, M. Pribetich, M. Proença, Mme Rossi, Mme Rouaux, M. Aurélien Rousseau, M. Roussel, Mme Runel, Mme Récalde, M. Saint-Pasteur, Mme Santiago, M. Simion, M. Sother, Mme Thomin, M. Vallaud et les membres du groupe Socialistes et apparentés",
+  "auteur_groupe": "SOC",
+  "auteur_type": "Député",
+  "dispositif": "Supprimer cet article.",
+  "expose": "Cet amendement du groupe Socialistes et apparentés vise à supprimer l'article 1er A. Les députés socialistes contestent fermement cette proposition de loi qui vise à interdire le mariage lorsque l'un des époux se trouve en situation irrégulière sur le territoire national. Non seulement d'être contraire au droit constitutionnel, cette proposition de loi, sous couvert du bon sens, risque d'avoir des effets très négatifs pour les élus locaux. Au Sénat, la commission des lois a non seulement rejeté le texte mais aussi clairement exprimé le fait qu'aucun amendement au texte ne permettrait de le rendre conforme aux exigences constitutionnelles : « Nonobstant l’éventuelle adoption d’amendements au stade de la séance publique visant à assurer une conciliation de ces deux objectifs avec la jurisprudence du Conseil constitutionnel, la commission a pris acte de l’impossibilité juridique d’adopter la présente proposition de loi en l’état, la jurisprudence constitutionnelle, réitérée depuis plus de trente ans, ne permettant pas, sans qu’une marge d’interprétation ne soit permise, de conditionner la célébration d’un mariage à la régularité du séjour des futurs époux. À moins d’une évolution jurisprudentielle que rien ne permet d’envisager à ce stade, la commission souligne que seule une révision de la Constitution permettrait d’aller dans le sens souhaité par l’auteur de la proposition de loi. » Pourtant, en séance publique, le rapporteur est venu encadrer l'article 1er par cet article 1er A afin de justifier l'adoption du texte. Toutefois, la précision de l'appréciation de la situation au regard du séjour par l'officier d'état civil avec la possibilité de saisir le procureur, prévue par cet article 1er A, ne permet en rien de rendre le dispositif conforme à la jurisprudence constitutionnelle. C'est pourquoi le groupe Socialistes et apparentés vise à supprimer cet article comme les deux autres."
+ },
+ "seance": "RUANR5L17S2025IDS29585",
+ "compte_rendu": "CRSANR5L17S2025O1N258",
+ "interventions": [
+  {
+   "orateur": "M. Aurélien Taché",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Nous étions habitués à voir les droites et les centres s’attaquer aux personnes étrangères – en matière d’accès au logement, à l’emploi ou à la santé. Il y a un peu plus d’un an, vous aviez d’ailleurs tenté de faire passer un texte absolument inique sur la préférence nationale.En revanche, votre volonté d’appliquer le principe de la préférence nationale et de réduire les droits des étrangers ne s’était pas encore immiscée jusque dans la sphère privée, celle du mariage et de la vie de famille."
+  },
+  {
+   "orateur": "Mme Caroline Colombier",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "OQTF !"
+  },
+  {
+   "orateur": "M. Aurélien Taché",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Depuis un mois, les textes visant à attaquer les droits des étrangers se sont succédé. Dans le département de Mayotte, le droit du sol, tout comme les droits des personnes immigrées, ont ainsi été quasiment réduits à néant."
+  },
+  {
+   "orateur": "M. Hervé de Lépinau",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Ça s’appelle le respect de la loi !"
+  },
+  {
+   "orateur": "M. Aurélien Taché",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Vous allez plus loin à présent puisque vous voulez transformer l’état civil en poste-frontière. C’est indigne. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+  },
+  {
+   "orateur": "M. Hervé de Lépinau",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Nous sommes l’État de droit, vous êtes l’État-voyou !"
+  },
+  {
+   "orateur": "M. Aurélien Taché",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Car le rôle du maire n’est pas de contrôler les papiers des personnes qui viennent se présenter à lui ni de retoquer leur demande si elles n’en disposent pas, mais de sceller leur union, en ce jour qui est peut-être le plus important de leur vie."
+  },
+  {
+   "orateur": "Mme Caroline Colombier",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "On ne veut pas d’eux ! Ce sont des personnes en situation irrégulière !"
+  },
+  {
+   "orateur": "M. Aurélien Taché",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Ce n’est pas ainsi que fonctionne la République française.Il faut bien sûr supprimer cet article, notamment l’alinéa 4. Vous devriez au moins cesser d’agiter vos obsessions xénophobes lorsqu’il s’agit de la vie privée de personnes."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je vous informe que sur les amendements no 1 et identiques, je suis saisi par les groupes Socialistes et apparentés et UDR – ils sont au moins d’accord sur ce point ! – de demandes de scrutin public. Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.La parole est à Mme Gabrielle Cathala, pour soutenir l’amendement no 123."
+  },
+  {
+   "orateur": "M. Sylvain Berrios",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "C’est encore un identique, monsieur le président ! Il a déjà été présenté !"
+  },
+  {
+   "orateur": "Mme Gabrielle Cathala",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Vous remarquerez qu’aucun texte de la niche UDR ne crée de nouveau droit. Ce ne sont que des textes de régression. (Applaudissements sur les bancs du groupe LFI-NFP et sur plusieurs bancs du groupe EcoS.) Le seul nouveau droit qui aurait pu être créé était un droit d’exception au profit de Mme Le Pen mais vous n’avez même pas réussi à faire adopter la proposition de loi qui prévoyait de l’instaurer."
+  },
+  {
+   "orateur": "M. Hervé de Lépinau",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Nous créons le droit de respecter la loi !"
+  },
+  {
+   "orateur": "M. Philippe Lottiaux",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Vous faites tout de travers !"
+  },
+  {
+   "orateur": "Mme Gabrielle Cathala",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Je rappelle que la liberté matrimoniale, celle de choisir son conjoint ou sa conjointe, est une liberté fondamentale à valeur constitutionnelle. Elle a en effet été consacrée par le Conseil constitutionnel dès 1993, puis une nouvelle fois en 2003. Dans sa décision de 1993, le Conseil estime qu’elle constitue « une composante de la liberté personnelle, résultant des articles 2 et 4 de la Déclaration des droits de l’homme et du citoyen de 1789 ». (Applaudissements sur les bancs du groupe LFI-NFP.)"
+  },
+  {
+   "orateur": "Mme Caroline Colombier",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Pour les personnes en situation régulière ?"
+  },
+  {
+   "orateur": "Mme Gabrielle Cathala",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Si vous persévérez dans la volonté de faire adopter ce texte, avec la complicité de certains groupes dont les relents xénophobes et racistes ne sont plus à prouver, nous saisirons évidemment le Conseil constitutionnel, qui se fera un plaisir de le censurer. (Applaudissements sur les bancs des groupes LFI-NFP et EcoS.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis de la commission sur ces amendements de suppression ?"
+  },
+  {
+   "orateur": "M. Éric Michoux",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "L’objectif de cet article est de permettre à un officier d’état civil de disposer d’informations pour apprécier la régularité du séjour du futur époux étranger. Ce n’est pas le cas en l’état, et ce n’est pas acceptable dans la mesure où la situation irrégulière d’un des futurs époux peut évidemment constituer un indice sérieux de défaut d’intention matrimoniale et donc entraîner la nullité du mariage.En privant le maire d’une information relative à la régularité du séjour, on l’empêche de remplir correctement son rôle de prévention des mariages frauduleux.Enfin, contrairement à ce qui a été dit, la jurisprudence du Conseil constitutionnel permet de prendre en considération la situation irrégulière d’un des époux pour prouver qu’un mariage est frauduleux. Je vous renvoie d’ailleurs au considérant 95 de la décision du 20 novembre 2003. Il y est indiqué que « le caractère irrégulier du séjour d’un étranger peut constituer dans certaines circonstances, rapproché d’autres éléments, un indice sérieux laissant présumer que le mariage est envisagé dans un but autre que l’union matrimoniale ».Pour toutes ces raisons, l’avis est défavorable."
+  },
+  {
+   "orateur": "Mme Ségolène Amiot",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Ça alors ! On ne l’aurait jamais cru !"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis du gouvernement ?"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "L’article 1er A ne dit pas ce que les amendements de suppression veulent lui faire dire. Par exemple, pour répondre à un député qui s’adressait tout à l’heure à M. le président de la commission des lois, un étranger en situation irrégulière désireux de se marier devra transmettre à l’officier d’état civil, à l’agent de la mairie qui le recevra, tout document prouvant qu’il s’est engagé sur la voie d’une régularisation ou que sa présence sur le territoire national est destinée à être pérenne. Ce document peut être, par exemple, le dossier de régularisation qu’il a déposé.Il est évident qu’il existe une inéquité de traitement entre le Français ou l’étranger en situation régulière qui fournissent un document prouvant leur identité – personne ne se marie dans une mairie sans présenter un document d’identité…"
+  },
+  {
+   "orateur": "M. Pierre Cazeneuve",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Et un acte de naissance !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "…et l’étranger en situation irrégulière, qui doit justifier de sa situation administrative sur le territoire national. D’ailleurs, l’officier d’état civil ou le maire ne se livrent pas à cette vérification en tant qu’élus mais comme agents de l’État, sous l’autorité du procureur de la République – de même, le maire qui procède au mariage, ou son délégué, le font en tant qu’agents de l’État et non en tant que membres d’un organe délibérant, qui exprimeraient à cette occasion leurs opinions politiques à l’occasion d’un acte administratif.L’article 1er A permet au maire, à son adjoint et à l’agent d’état civil de vérifier le consentement des personnes, ce à quoi la loi les oblige déjà. Il est certain que le mariage d’une personne en situation irrégulière n’entraîne pas sa régularisation immédiate ipso facto – si elle se marie un samedi, elle ne sera pas régularisée le dimanche –, mais chacun connaît la loi et sait donc que le mariage constitue un critère important qui sera pris en considération par le préfet qui doit décider de la régularisation – ou par le juge en cas de refus de ce dernier –, conformément à l’article 8 de la CEDH sur le droit au respect de la vie privée et familiale.L’article n’a donc rien d’infamant ; il ne vise qu’à corriger un manque dans la loi en permettant aux maires – quelle que soit leur couleur politique –, qui agissent sous l’autorité de l’État et de son représentant en matière d’état civil, le procureur de la République, de disposer des documents qui prouvent l’identité et donc, en effet, le statut administratif de la personne.Je rappelle qu’il existe plusieurs statuts administratifs dans notre pays : Français, étranger en situation régulière, étranger en situation irrégulière mais en voie de régularisation, étranger en situation irrégulière à qui l’État a demandé de quitter le territoire national. Cela s’appelle le droit. Avis défavorable sur ces amendements."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. le président de la commission des lois."
+  },
+  {
+   "orateur": "M. Florent Boudié",
+   "qualite": "président de la commission des lois",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Paul Christophle m’a demandé ce qui se passerait si la personne ne communiquait pas les documents relatifs à sa situation administrative sur le territoire. Comme je l’ai dit il y a quelques instants, les bans devraient malgré tout être publiés car l’article, tel qu’il vient modifier l’article 63 du code civil, n’en fait pas une condition. Dès lors que les bancs sont publiés, le mariage peut être célébré.Cependant, la non-communication de ces éléments pourra être considérée par l’officier d’état civil comme une raison, parmi d’autres, justifiant qu’il saisisse – s’il le souhaite – le procureur de la République, lequel prendra une décision en vertu des pouvoirs qui lui seront conférés par l’article 1er B que nous examinerons dans quelques instants.Je veux remercier M. le rapporteur d’avoir cité le considérant 95 de la décision du 20 novembre 2003 du Conseil constitutionnel mais je lui signale qu’il faudra faire de même lorsque nous examinerons l’article 1er. Il résulte en effet de cette même décision que l’article 1er est totalement contraire à la Constitution. En revanche, je vous rejoins, monsieur le rapporteur, lorsque vous expliquez que l’article 1er A est parfaitement, et incontestablement, conforme à la Constitution."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Sébastien Chenu."
+  },
+  {
+   "orateur": "M. Sébastien Chenu",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Certains collègues prétendent que cette proposition de loi vise à entraver la liberté de se marier. C’est faux : elle vise à entraver la liberté de ceux qui entravent la loi, donc à restaurer l’autorité et le respect du droit. Elle renforce le droit. Cette proposition de loi très intéressante défend donc nos libertés publiques.Elle exprime également notre confiance envers les élus locaux. Nous leur apportons, avec ce texte, un outil supplémentaire. Si un étranger fait l’objet d’une OQTF, il a enfreint la loi – aucun doute sur ce point – et nous considérons donc qu’il n’a pas le droit de se marier.Elle témoigne aussi de notre confiance envers les étrangers qui respectent la loi. Eux ne posent évidemment aucun problème et peuvent donc se marier. (Applaudissements sur les bancs des groupes RN et UDR.) Vous brossez un tableau épouvantable dans l’exposé sommaire de vos amendements alors que nous n’avons absolument rien contre les personnes qui respectent la loi – quelle que soit leur nationalité, leur religion, leur couleur de peau ou leur sexe. Arrêtez vos délires !"
+  },
+  {
+   "orateur": "Mme Sophie Taillé-Polian",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Ce n’est pas un délit d’être en situation irrégulière !"
+  },
+  {
+   "orateur": "M. Sébastien Chenu",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Pour vous – et c’est d’ailleurs pour cette raison que vous créez un amalgame –, l’étranger est forcément clandestin et fraudeur. Quelle drôle d’idée ! Quelle drôle de mentalité ! Bon nombre d’étrangers en situation régulière sont de bonne foi et peuvent tomber amoureux – je le précise pour faire plaisir à Mme Balage El Mariky, qui nous parlait d’amour tout à l’heure. Tout cela ne nous pose aucun problème."
+  },
+  {
+   "orateur": "Mme Dieynaba Diop",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Et toutes les personnes qui n’obtiennent pas de renouvellement de leur titre, qui doivent attendre parfois des années ?"
+  },
+  {
+   "orateur": "M. Sébastien Chenu",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "En revanche, nous en avons assez de vos discours moralisateurs, de cette moraline à deux balles que l’on entend matin, midi et soir et qui – comme je l’ai dit ce matin – ne sert qu’à masquer vos turpitudes."
+  },
+  {
+   "orateur": "Mme Sophie Taillé-Polian",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Vos discours accusateurs à deux balles, ça suffit aussi !"
+  },
+  {
+   "orateur": "M. Sébastien Chenu",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Vous faites des procès aux autres en leur reprochant des choses dont vous-mêmes êtes coupables et que vous voulez cacher ! On a appris aujourd’hui qu’un de vos militants, à Nantes, était poursuivi pour viol et on savait déjà qu’un militant de La France insoumise, également à Nantes, avait été poursuivi, lui, pour appartenance à un réseau pédophile. Alors, arrêtez de nous faire la morale alors que nous demandons uniquement le respect du droit ! Car ce texte défend le droit. (Vifs applaudissements sur les bancs des groupes RN et UDR.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Sandrine Rousseau. (Exclamations sur les bancs des groupes RN et UDR.)Un peu de calme, s’il vous plaît ! Je vous demande d’écouter Mme Rousseau aussi religieusement que vous avez écouté M. Chenu."
+  },
+  {
+   "orateur": "Mme Ayda Hadizadeh",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Chacun sa religion !"
+  },
+  {
+   "orateur": "Mme Sandrine Rousseau",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "J’ai parfois l’impression qu’à vos yeux, le peuple français vit sur une île très lointaine, n’est jamais entré en contact avec un autre peuple. Vous voulez le préserver de toute influence extérieure.Sachez-le : la France n’est pas une île et les Français de souche n’existent pas. (Exclamations sur les bancs des groupes RN et UDR.) Nous sommes Français parce que notre pays a été traversé par mille et un flux migratoires. (Applaudissements sur plusieurs bancs des groupes EcoS et LFI-NFP. – Mme Dieynaba Diop applaudit également.) Heureusement qu’il y a eu des amours non autorisées et des mariages avec des personnes étrangères !Heureusement que nos grands-parents et nos arrière-grands-parents se sont aimés par-delà les frontières, parce que c’est ce qui fait la richesse du peuple français ! (Applaudissements sur quelques bancs du groupe EcoS.) C’est aussi ce qui fait notre fierté ! Vouloir imaginer la France comme une île rabougrie, repliée sur elle-même, avec des barbelés tout autour pour que jamais personne n’y rentre, est à l’inverse de nos valeurs. (Exclamations sur les bancs des groupes RN et UDR.) Alors, oui : vive les mariages, vive l’amour et vive les enfants issus de ces mariages ! (Vifs applaudissements sur les bancs des groupes EcoS et LFI-NFP ainsi que sur quelques bancs du groupe SOC. – Mme Elsa Faucillon applaudit également.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Manuel Bompard."
+  },
+  {
+   "orateur": "M. Manuel Bompard",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Je voudrais vous livrer un témoignage personnel (« Oh non ! » sur les bancs des groupes RN et UDR)…"
+  },
+  {
+   "orateur": "M. Hervé de Lépinau",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Pitié !"
+  },
+  {
+   "orateur": "M. Manuel Bompard",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "…qui vous démontrera à quel point la proposition de loi que vous défendez est une honte.Il y a quelques jours, une personne m’a accosté dans la rue. Elle m’a dit : « Je suis tunnelier. C’est moi qui creuse les tunnels du Grand Paris. (M. Jérôme Legavre applaudit.) J’exerce ce métier en France depuis que j’y suis arrivé il y a une trentaine d’années. Il y a quelques mois, n’ayant pas la nationalité française, j’ai demandé le renouvellement de mon titre de séjour. À la préfecture, on ne m’a pas accordé ce renouvellement mais on ne me l’a pas non plus refusé ; on ne m’a pas répondu pour l’instant, malgré les nombreuses relances que j’ai faites pendant des mois et des mois."
+  },
+  {
+   "orateur": "Mme Dieynaba Diop",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "C’est ça le problème ! C’est le renouvellement du titre !"
+  },
+  {
+   "orateur": "M. Manuel Bompard",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "« J’étais marié, j’élevais des enfants, j’avais un emploi. Je contribuais à faire ce pays, la France."
+  },
+  {
+   "orateur": "Mme Caroline Colombier",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Ça n’a rien à voir avec ce qu’on propose !"
+  },
+  {
+   "orateur": "M. Manuel Bompard",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "« Au bout de deux mois, mon employeur m’a dit que, parce que mon titre de séjour n’avait pas été renouvelé, il était obligé de me licencier. J’ai donc perdu ma femme, ma famille, mon logement. » Cette personne est à présent forcée de dormir dans la rue. (Exclamations sur les bancs des groupes RN et UDR.)"
+  },
+  {
+   "orateur": "M. Jean-Paul Lecoq",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Ils sont nombreux dans cette situation !"
+  },
+  {
+   "orateur": "M. Manuel Bompard",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Peut-être cela vous fait-il rire ou cela ne vous fait-il rien…"
+  },
+  {
+   "orateur": "M. Maxime Laisney",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Ils n’en ont rien à faire !"
+  },
+  {
+   "orateur": "M. Manuel Bompard",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "…mais si le texte que vous proposez est adopté, une personne qui attend le renouvellement de son titre de séjour ne pourra pas se marier parce qu’elle ne pourra pas transmettre cette pièce ! (Vifs applaudissements sur les bancs des groupes LFI-NFP et EcoS ainsi que sur quelques bancs des groupes SOC et GDR.) Voilà la réalité !Je veux vous poser une question simple : combien voulez-vous briser de vies, détruire de familles, abandonner d’enfants par votre proposition de loi ? (Applaudissements prolongés sur les bancs des groupes LFI-NFP et EcoS ainsi que sur quelques bancs des groupes SOC et GDR. – Vives exclamations sur les bancs des groupes RN et UDR.) Ça, ce ne sont pas des mots et des phrases, pas de la politique politicienne pour essayer de faire son beurre électoral sur le dos des personnes qui vivent en France. Ces personnes, vous pourriez tout simplement les remercier au lieu de les insulter à longueur d’émissions dans les médias et de prises de parole dans l’hémicycle ! Quand des gens contribuent de façon aussi essentielle à la vie de la nation, la moindre des choses est de leur dire merci ! (Applaudissements sur les bancs des groupes LFI-NFP et EcoS ainsi que sur quelques bancs des groupes SOC et GDR.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Puisque nous examinons des amendements de suppression de l’article, je vais autoriser encore deux prises de parole, celles de Mmes Faucillon et Dupont. (« Oh non ! » et exclamations sur les bancs des groupes RN et UDR.) Un peu de calme, s’il vous plaît, chers collègues ! Nous accélérerons le rythme pour l’examen des amendements suivants mais ce dont nous débattons est au cœur de votre proposition de loi.Mmes Faucillon et Dupont prendront donc la parole, ensuite de quoi le ministre réagira aux prises de parole conformément à son souhait, puis nous passerons au vote.La parole est à Mme Elsa Faucillon."
+  },
+  {
+   "orateur": "Mme Elsa Faucillon",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Dans le prolongement de la prise de parole de notre collègue Manuel Bompard, je vais vous faire part de la situation de mon département. (« Oh non ! » sur les bancs des groupes RN et UDR.) Ne vous inquiétez pas, ça va aller !Dans les Hauts-de-Seine, 30 000 dossiers sont en attente de traitement au service des étrangers. Plusieurs milliers d’entre eux concernent des personnes qui, il y a encore quelques mois, étaient en situation régulière (Applaudissements sur plusieurs bancs des groupes LFI-NFP et EcoS ainsi que sur plusieurs bancs du groupe SOC) et n’aspirent qu’à une chose, rester en situation régulière, parce qu’elles disposent de titres depuis plusieurs années. Il s’agit même parfois d’obtenir pour la troisième ou la quatrième fois le renouvellement de cartes valables pendant dix ans, donc de personnes qui, pour certaines, sont dans notre pays depuis quarante ans, y ont construit toute leur vie et l’ont enrichi. (Applaudissements sur plusieurs bancs du groupe LFI-NFP et sur quelques bancs du groupe EcoS.)Ce sont ces personnes qui, du fait de retards organisés de l’État dans le traitement du renouvellement de leurs titres, se trouvent dépourvues non seulement de titres de séjour mais aussi, en raison du refus du ministère de l’intérieur, de récépissés et des attestations provisoires qui leur permettraient de faire valoir leur droit à l’emploi et aux prestations sociales. Même l’attestation de prolongation d’instruction dont vous parlez, monsieur le ministre, est très difficile à obtenir, puisqu’il faut parfois intervenir directement auprès du préfet simplement pour l’obtenir. (Applaudissements sur plusieurs bancs des groupes LFI-NFP et EcoS ainsi que sur quelques bancs du groupe SOC.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Stella Dupont."
+  },
+  {
+   "orateur": "Mme Stella Dupont",
+   "qualite": null,
+   "groupe": "NI",
+   "president_de_seance": false,
+   "texte": "Il est souvent question d’OQTF dans nos échanges. Je suis plus qu’agacée d’entendre des propos qui laissent penser que les étrangers qui font l’objet d’une OQTF seraient des délinquants. (Applaudissements sur plusieurs bancs des groupes LFI-NFP, SOC et EcoS.) Il s’agit tout de même d’une stigmatisation terrible dans notre pays, dans notre République, dans notre État de droit !L’État, par l’intermédiaire des préfets qui le représentent, délivre des obligations de quitter le territoire français en très grand nombre – en trop grand nombre, de mon point de vue. (Exclamations sur les bancs des groupes RN et UDR.)"
+  },
+  {
+   "orateur": "M. Hervé de Lépinau",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "C’est une honte de dire ça !"
+  },
+  {
+   "orateur": "Mme Stella Dupont",
+   "qualite": null,
+   "groupe": "NI",
+   "president_de_seance": false,
+   "texte": "La conséquence en est que nous nous dispersons et que nous ne nous concentrons pas sur les personnes étrangères qui doivent effectivement quitter très rapidement le territoire."
+  },
+  {
+   "orateur": "Mme Ayda Hadizadeh",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Bien sûr ! Exactement !"
+  },
+  {
+   "orateur": "Mme Stella Dupont",
+   "qualite": null,
+   "groupe": "NI",
+   "president_de_seance": false,
+   "texte": "Comme l’a dit Elsa Faucillon à l’instant, il arrive aussi que des personnes qui, depuis très longtemps, sont en situation régulière, travaillent et sont intégrées dans notre pays fassent l’objet d’OQTF. On sait que l’accès aux préfectures présente des difficultés majeures et que l’administration numérique pour les étrangers en France (Anef), la plateforme qui permet de solliciter l’obtention ou le renouvellement des titres de séjour, connaît des dysfonctionnements tout aussi majeurs !Je tiens à rappeler que l’OQTF procède d’une décision administrative faisant obligation de quitter le territoire français dans un délai défini. Il est tout à fait possible que les étrangers qui en font l’objet aient jusqu’alors respecté la loi – c’est d’ailleurs le cas de l’immense majorité d’entre eux. Ce ne sont pas des délinquants : il est fondamental de le répéter encore et encore ! (Applaudissements sur quelques bancs des groupes LFI-NFP, EcoS et GDR. – Mme Ayda Hadizadeh applaudit également.)Les contrevérités que nous entendons visent à créer la polémique et à stigmatiser l’ensemble des étrangers présents sur notre territoire. Il faut absolument que cela cesse ! Cela fait courir un risque majeur à notre République, à notre démocratie. (Applaudissements sur quelques bancs des groupes LFI-NFP, SOC et EcoS. – M. Éric Martineau applaudit également.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. le ministre d’État."
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Revenons-en à la proposition de loi centriste déposée au Sénat par M. Demilly – je rappelle en effet que c’est le groupe Union centriste du Sénat qui a élaboré et proposé ce texte.Je veux vous dire, monsieur Bompard, que vous n’avez pas tort : si l’article 1er de cette proposition de loi était adopté, sans doute la personne que vous citiez ne pourrait-elle pas se marier. Mais le gouvernement et, me semble-t-il, le bloc central, ou la majorité relative, proposent justement que l’article 1er ne soit pas retenu et que nous nous concentrions sur les articles 1er A et 1er B."
+  },
+  {
+   "orateur": "Mme Prisca Thevenot",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Exactement !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Votre propos ne me semble donc pas pertinent, sauf s’il s’agit pour vous d’exprimer encore plus fortement votre position – ce qui est tout à fait respectable.En effet, nous discutons non pas de l’article 1er mais de la suppression de l’article 1er A, ce qui n’a rien à voir. Imaginons que cette personne, qui se trouve depuis trente ans sur le territoire national, demande le renouvellement de son titre de séjour, qu’il ne lui soit pas accordé et qu’il veuille se marier. Dans ce cas, le récépissé de sa demande de renouvellement ferait partie des documents qu’il pourrait fournir. L’article 1er A ne prévoit pas… (« Il n’y a pas de récépissé ! » sur plusieurs bancs du groupe LFI-NFP.)Si : lorsque vous déposez une demande… (« Mais non ! » sur plusieurs bancs du groupe LFI-NFP.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "S’il vous plaît, chers collègues, écoutez le garde des sceaux !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Peut-être connaissez-vous mieux le ministère de l’intérieur que moi ? (« Oui ! » et exclamations sur quelques bancs du groupe LFI-NFP.) Lorsqu’on demande le renouvellement d’un titre de séjour, on dispose de son ancien titre de séjour et d’une forme de récépissé numérique ou physique sur lequel figure la date du dépôt de la demande."
+  },
+  {
+   "orateur": "Mme Ségolène Amiot",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Eh non !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Bien sûr que si ! (Exclamations prolongées sur les bancs du groupe LFI-NFP.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Allez, arrêtez, s’il vous plaît !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Ce récépissé n’est pas fourni dans un seul cas de figure, à savoir si le demandeur se trouve irrégulièrement sur le territoire national. (Protestations sur les bancs des groupes LFI-NFP, SOC et EcoS.) Si la personne dont nous parle M. Bompard n’avait pas obtenu ce récépissé, c’est donc qu’elle aurait creusé pendant trente ans les tunnels du Grand Paris, se serait mariée et aurait eu des enfants sans jamais obtenir de titre de séjour : soyons raisonnables ! Vous vous caricaturez vous-mêmes ! (Exclamations sur les bancs des groupes LFI-NFP, SOC et EcoS.)"
+  },
+  {
+   "orateur": "M. Rodrigo Arenas",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Recevez-la, cette personne !"
+  },
+  {
+   "orateur": "Mme Dieynaba Diop",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "On va vous envoyer les dossiers ! Il y en a tous les jours !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "En vue de son mariage, cette personne pourrait fournir les différents documents dont elle dispose – notamment les titres de séjour dont elle a joui pendant trente ans – à l’officier d’état civil, conformément au texte rédigé par M. Demilly et par l’Union centriste du Sénat : « Les futurs époux de nationalité étrangère fournissent à l’officier de l’état civil […] tout élément lui permettant d’apprécier leur situation au regard du séjour. » Il est évident que les documents dont je parle permettent d’apprécier l’intégration de la personne en question. À cet égard, d’autres questions se posent d’ailleurs : parle-t-elle français, par exemple ?J’espère en tout cas que vous avez rassuré cette personne mariée avec des enfants en lui disant : « Ne vous inquiétez pas ! Nous allons voter, en responsabilité, l’article 1er A de la proposition et ce que vous craignez n’arrivera jamais, parce que nous ne pratiquerons pas la politique du pire. » J’imagine que c’est ce que vous avez fait ! (Applaudissements sur quelques bancs des groupes EPR et DR.)Deuxième point : personnellement…"
+  },
+  {
+   "orateur": "M. Louis Boyard",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Ce n’est pas un jeu !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "En effet, ce n’est pas un jeu ! (Mme Sabrina Sebaihi s’exclame.) Vous n’allez pas m’apprendre, madame la députée, à gérer une ville populaire dont une part très importante de la population est immigrée et veut se marier ! Et vous n’allez pas à chaque fois me faire le coup du détail !"
+  },
+  {
+   "orateur": "Mme Sabrina Sebaihi",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Ce n’est pas un détail, c’est tous les jours !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je peux aussi raconter mon histoire familiale ou celle des personnes que je croise dans la rue – je suis d’ailleurs très heureux que nous croisions tous des gens dans la rue ! (Exclamations sur quelques bancs des groupes SOC et EcoS.) Les propos que vous tenez sont caricaturaux. Si vous croisez des gens dans la rue, ce ne doit pas souvent être les maires de votre circonscription. Ils vous expliqueraient les difficultés qu’ils rencontrent lorsqu’il s’agit pour eux de marier leurs administrés ! (Applaudissements sur les bancs des groupes EPR et DR ainsi que sur quelques bancs du groupe UDR.)Je veux dire à Mme Stella Dupont que son propos peut être entendu mais qu’il n’est pas raisonnable."
+  },
+  {
+   "orateur": "Mme Brigitte Barèges",
+   "qualite": null,
+   "groupe": "UDR",
+   "president_de_seance": false,
+   "texte": "Comme toujours !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Vous affirmez avec justesse que l’immense majorité des personnes qui font l’objet d’OQTF n’ont jamais troublé l’ordre public – il n’y a pas de statistiques à cet égard, mais on peut penser que c’est le cas de 95 % d’entre elles. Vous avez parfaitement raison sur ce point. Cependant, le fait de ne pas troubler l’ordre public n’est pas une condition suffisante de la régularisation ! (Exclamations sur les bancs des groupes LFI-NFP et EcoS.)"
+  },
+  {
+   "orateur": "Mme Sabrina Sebaihi",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Ce n’est pas ce qu’elle a dit !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je vous écoute avec beaucoup de patience et de sagesse mais manifestement, ce n’est pas réciproque. Sans doute pensez-vous appartenir au camp du bien tandis que ceux qui défendent une autre opinion que la vôtre appartiennent à celui du mal. Je voudrais néanmoins conclure mon raisonnement !Madame Dupont, vous connaissez bien le droit des étrangers – qui est sans doute, au demeurant, complexe et perfectible. Suivant ce droit, l’obligation de quitter le territoire français se justifie de deux manières : soit la personne concernée trouble l’ordre public – en général, elle fait alors l’objet d’une OQTF sans délai –, soit elle ne le trouble pas et doit alors quitter le territoire sans délai ou dans un délai de trente jours, qui peut parfois être plus long en fonction des préfectures et de la manière dont elles travaillent. Cette obligation peut d’ailleurs être contestée par l’intéressé.Aujourd’hui, une personne troublant l’ordre public et faisant à ce titre l’objet d’une OQTF sans délai peut se marier. J’espère que si une telle personne fournissait – ou ne fournissait pas – le document attestant de cette OQTF et de son motif, il ne viendrait à l’idée de personne ici de procéder à son mariage, alors qu’elle a commis un acte criminel ou délictuel si grave que la préfecture demande qu’elle quitte sans délai le territoire national ! Avouez que la disposition dont nous débattons nous aiderait à distinguer les étrangers qui troublent l’ordre public et n’ont pas vocation à s’intégrer sur le territoire national de ceux qui ne le troublent pas et peuvent discuter avec la préfecture de leur régularisation. Vous avez été maire, madame Dupont, vous connaissez tout cela et je sais qu’en tant qu’officier d’état civil, vous apprécieriez la situation, comme le texte le prévoit.Vous faites semblant de ne pas voir, madame la députée, que nous avons partiellement traité ce sujet. Je fais toute confiance à l’actuel ministre de l’intérieur pour appliquer la loi de la République et je regrette que vous n’ayez pas voté pour la loi pour contrôler l’immigration, améliorer l’intégration, qui a permis de distinguer les étrangers qui ne doivent pas être régularisés parce qu’ils troublent l’ordre public de ceux qui travaillent – comme la personne qu’évoque M. Bompard – et qui peuvent être régularisés, notamment parce qu’ils satisfont un certain nombre de critères d’intégration ou liés au travail.Le présent texte n’a trait ni à l’amour ni aux OQTF. Il vise seulement à aider les maires à appliquer les lois de République, faute de quoi ils encourent cinq ans d’emprisonnement. Je vous invite donc tous à adopter l’article 1er A et à repousser les amendements qui tendent à le supprimer. (Applaudissements sur plusieurs bancs des groupes EPR, DR et HOR.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix les amendements de suppression nos 1, 8, 26, 115, 118, 121 et 123."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ],
+ "compte_rendu_precedent": "CRSANR5L17S2025O1N257"
+}

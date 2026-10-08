@@ -1,0 +1,85 @@
+{
+  "uid": "VTANR5L17V8553",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe s'exprime sur l'article sans se prononcer sur l'amendement mis aux voix."
+    },
+    "EPR": {
+      "position": "contre",
+      "categorie": "B",
+      "orateur": "Mme Violette Spillebout",
+      "citation": "Il s’agit de faire en sorte que, dans le cadre scolaire, chaque enfant ait un entretien annuel de détection de ces violences",
+      "citation_raison": "je suis plutôt fière du compromis transpartisan vers lequel on s’avance, qui n’est pas honteux et fait du bien à l’Assemblée.",
+      "justification": "Le groupe déclare soutenir l'entretien annuel mais préfère la version de compromis du rapporteur, avec montée en charge progressive."
+    },
+    "LFI": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Gabrielle Cathala",
+      "citation": "Le seul amendement qui respecte la volonté de la Coalition féministe et enfantiste et les recommandations de la Ciivise est le no 1076 que je vous invite tous à voter.",
+      "justification": "Le groupe défend le contenu de son amendement."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "B",
+      "orateur": "Mme Fatiha Keloua Hachi",
+      "citation": "Le repérage systématique doit par conséquent constituer un pilier du développement de la culture de la protection de nos enfants.",
+      "citation_raison": "L’amendement de réécriture de l’article de M. le rapporteur convient à la Coalition féministe et enfantiste, mais aussi à la FSU",
+      "justification": "Le groupe déclare soutenir le repérage systématique mais appelle à voter l'amendement concurrent du rapporteur."
+    },
+    "DR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Émilie Bonnivard",
+      "citation": "nous allons nous donner une trajectoire pour atteindre l’objectif, dans cinq ans.",
+      "justification": "Le groupe soutient une mise en œuvre progressive de l'entretien annuel."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Clémentine Autain",
+      "citation": "Si nous ne sommes pas capables de trouver 1 milliard pour ce geste fondamental de prévention et d’éducation, alors nous ne sommes capables de rien !",
+      "justification": "Le groupe soutient la mise en œuvre et le financement de l'entretien annuel."
+    },
+    "DEM": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Perrine Goulet",
+      "citation": "Ce dernier n’existerait pas si l’amendement no 1076 de Mme Cathala était adopté.",
+      "justification": "Le groupe s'oppose à l'amendement parce qu'il supprimerait le référent prévu par l'article."
+    },
+    "HOR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "LIOT": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Elsa Faucillon",
+      "citation": "Ce qui est raisonnable, c’est de s’attaquer franchement au problème, dès maintenant.",
+      "justification": "Le groupe soutient la mise en place immédiate de l'entretien annuel obligatoire."
+    },
+    "UDR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    }
+  }
+}

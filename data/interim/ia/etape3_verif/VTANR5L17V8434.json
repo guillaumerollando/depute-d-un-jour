@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V8434",
+  "consigne": "etape3_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "Le titre parle d'un « nouvel » établissement public, alors que le texte transforme la société Agence de gestion de l'immobilier de l'État en établissement public et précise que cela « n'emporte ni création d'une personne morale nouvelle » (article 1er, IV, E)."
+  ],
+  "corrections": {
+    "titre": "Transformer l'agence immobilière de l'État en établissement public gérant ses bâtiments"
+  }
+}

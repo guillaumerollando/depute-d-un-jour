@@ -1,0 +1,83 @@
+{
+  "uid": "VTANR5L17V267",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Jean-Philippe Tanguy",
+      "citation": "Si on refuse que les TPE et PME soient pillées, il faut que chacun paie sa juste part – ni plus, ni moins.",
+      "justification": "Le groupe vote pour en soutenant l’imposition des multinationales."
+    },
+    "EPR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Daniel Labaronne",
+      "citation": "La première serait une délocalisation des sièges sociaux, entraînant une perte de recettes fiscales.",
+      "justification": "Le groupe vote contre en invoquant les effets attendus de la mesure sur les sièges sociaux et l’activité."
+    },
+    "LFI": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Aurélien Le Coq",
+      "citation": "Cet amendement propose donc que les bénéfices réalisés en France soient imposés en France",
+      "justification": "Le groupe vote pour en soutenant l’imposition en France des bénéfices réalisés en France."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Philippe Brun",
+      "citation": "L’adopter permettrait d’envoyer un signal au Gouvernement et aux sénateurs dans le cadre de la navette, et de rappeler qu’il est inacceptable qu’existent des mécanismes permettant aux multinationales une telle évasion fiscale.",
+      "justification": "Le groupe vote pour en soutenant la lutte contre l’évasion fiscale des multinationales."
+    },
+    "DR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Véronique Louwagie",
+      "citation": "Vous voulez les pousser hors de France. Vous refusez de voir la mobilité des entreprises. Avec tous les dispositifs que vous proposez, vous allez les effrayer et encourager leur départ vers l’étranger.",
+      "justification": "Le groupe vote contre en invoquant le risque de départ des entreprises."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s’exprime pas dans l’extrait."
+    },
+    "DEM": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Jean-Paul Mattei",
+      "citation": "Nous ne sommes pas seuls sur la planète, nous faisons partie d’un concert international. Nous devons travailler à améliorer les choses, mais sans faire croire à nos concitoyens que nous pouvons agir seuls, car c’est impossible.",
+      "justification": "Le groupe vote contre en estimant qu’une action unilatérale est impossible au regard des conventions internationales."
+    },
+    "HOR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s’exprime pas dans l’extrait."
+    },
+    "LIOT": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s’exprime pas dans l’extrait."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Nicolas Sansu",
+      "citation": "Alors, adoptons cette disposition novatrice et utile pour le pays !",
+      "justification": "Le groupe vote pour en soutenant une taxation unitaire des bénéfices des multinationales."
+    },
+    "UDR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s’exprime pas dans l’extrait."
+    }
+  }
+}

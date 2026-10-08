@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V7454",
+  "consigne": "etape2_ambiguite v1",
+  "groupes": {
+    "RN": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Stéphane Rambaud",
+      "citation": "Il réintroduisait de véritables contre-pouvoirs, notamment les collectivités des pièves, du nord et du sud, afin de mieux équilibrer l’exercice du pouvoir local.",
+      "justification": "Le groupe oppose au texte son propre contre-projet, différent sur le fond."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Pierre Cazeneuve (EPR)",
+      "citation": "c’est justement l’ensemble de ces doutes, l’ensemble de ces compromis, l’ensemble de ces petites insatisfactions qui fait que le texte sur lequel nous nous prononcerons tout à l’heure est un bon texte.",
+      "justification": "Le groupe déclare soutenir le contenu du texte et vote pour."
+    },
+    "LFI": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Éric Coquerel",
+      "citation": "Pour toutes ces raisons, nous avons choisi un cap clair : nous votons pour ce texte aujourd’hui",
+      "justification": "Le groupe déclare soutenir le contenu du texte et vote pour."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Marc Pena (SOC)",
+      "citation": "Malgré ces réserves, ce texte représente une étape utile pour mieux prendre en compte les spécificités de la Corse et construire une autonomie pleinement compatible avec les principes de notre République.",
+      "justification": "Le groupe déclare soutenir le contenu du texte et vote pour."
+    },
+    "DR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. François-Xavier Ceccoli",
+      "citation": "Le feu couve, non pas parce que le processus n’avance pas ; mais parce qu’il fait fausse route.",
+      "justification": "Le groupe s'oppose au contenu du texte, notamment à la concentration des pouvoirs et à l'absence de consultation préalable des Corses."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Sandra Regol (EcoS)",
+      "citation": "En attendant, faisons le choix de renforcer notre démocratie, notre République, celle qui unit dans la diversité, en votant pour ce texte.",
+      "justification": "Le groupe déclare soutenir le contenu du texte et vote pour."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "UDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Olivier Fayssat",
+      "citation": "par refus d’un texte qui ouvre des pouvoirs sans contre-pouvoirs, qui ressuscite une notion déjà censurée, qui se prive de ses propres leviers et qui écarte les Corses du seul choix qui comptait vraiment, celui du principe.",
+      "justification": "Le groupe s'oppose à plusieurs dispositions de fond du texte."
+    }
+  }
+}

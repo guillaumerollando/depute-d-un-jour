@@ -1,0 +1,653 @@
+{
+ "uid": "VTANR5L17V468",
+ "titre": "l'amendement de suppression n° 4 de M. Sitzenstuhl et les amendements identiques suivants à l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+ "type": "amendement",
+ "date": "2024-11-28",
+ "dossier": "DLR5L17N50684",
+ "dossier_titre": "Abrogation de la retraite à 64 ans",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "contre",
+  "EPR": "pour",
+  "LFI": "contre",
+  "SOC": "contre",
+  "DR": "pour",
+  "ECOS": "contre",
+  "DEM": "pour",
+  "HOR": "pour",
+  "GDR": "contre",
+  "UDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 0,
+   "contre": 81,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 52,
+   "contre": 0,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 69,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 0,
+   "contre": 43,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 13,
+   "contre": 0,
+   "abstention": 1
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 33,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 18,
+   "contre": 0,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 14,
+   "contre": 0,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 0,
+   "contre": 2,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 0,
+   "contre": 13,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 3,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC0613P0D1N000004",
+  "dossier": "DLR5L17N50684",
+  "texte": "PIONANR5L17BTC0613",
+  "division": "Article PREMIER",
+  "auteur": "M. Sitzenstuhl,  Mme Le Grip, Mme Miller et M. Labaronne",
+  "auteur_groupe": "EPR",
+  "auteur_type": "Député",
+  "dispositif": "Supprimer cet article.",
+  "expose": "Amendement de suppression de cette PPL irresponsable."
+ },
+ "seance": "RUANR5L17S2025IDS28718",
+ "compte_rendu": "CRSANR5L17S2025O1N056",
+ "interventions": [
+  {
+   "orateur": "M. Hendrik Davi",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Troisième mensonge : l’abrogation ne serait pas finançable. C’est faux, nous l’avons montré : il suffit, comme je l’ai proposé en commission, d’augmenter les cotisations patronales (« Ah ! » sur les bancs des groupes EPR, DR, Dem et HOR), de revenir sur une partie des allégements de cotisations qui ont été concédés, pour 80 milliards d’euros. Nous pourrions ainsi récupérer 13 milliards ! (Applaudissements sur les bancs du groupe EcoS.) Une autre solution consisterait à instaurer une taxe sur les milliardaires, qui permettrait de récupérer 3 milliards. Nous sommes capables de financer cette réforme des retraites ainsi que des emplois dans les hôpitaux et les écoles ! (Mêmes mouvements.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Jean-René Cazeneuve."
+  },
+  {
+   "orateur": "M. Jean-René Cazeneuve",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Que dit l’article 40 de la Constitution ?"
+  },
+  {
+   "orateur": "M. Emeric Salmon",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "On connaît !"
+  },
+  {
+   "orateur": "M. Jean-René Cazeneuve",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "« Les propositions et amendements formulés par les membres du Parlement ne sont pas recevables lorsque leur adoption aurait pour conséquence soit une diminution des ressources publiques, soit la création ou l’aggravation d’une charge publique. » Votre proposition de loi fait les deux ! Elle est doublement irrecevable, parce qu’elle réduirait le nombre de cotisants, entraînant une diminution des ressources publiques, d’une part, et parce qu’elle augmenterait le nombre de retraités, ce qui aggraverait la charge publique, d’autre part. (M. le rapporteur mime un cri d’effroi.)Vous ne pouvez pas compenser cette hausse de la charge publique, toute la jurisprudence le confirme, ainsi que le Conseil constitutionnel, jusqu’aux hommes de gauche. Citons Jérôme Cahuzac, ministre socialiste… (Tollé sur les bancs des groupes LFI-NFP, EcoS et GDR. – Rires.) Eh oui ! Il était président de la commission des finances et il est de gauche, ne vous déplaise, il est socialiste ! (Brouhaha. – Des députés du groupe LFI-NFP se lèvent pour applaudir. – Exclamations prolongées sur les bancs des groupes LFI-NFP, EcoS et GDR.)"
+  },
+  {
+   "orateur": "M. Alexis Corbière",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Excellent, vraiment !"
+  },
+  {
+   "orateur": "M. Jean-René Cazeneuve",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "En 2012, dans son rapport d’information sur la recevabilité financière des initiatives parlementaires, M. Cahuzac écrivait : « Serait ainsi irrecevable l’amendement qui propose […] d’abaisser l’âge de la retraite »."
+  },
+  {
+   "orateur": "M. Nicolas Sansu",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Et Balkany, qu’est-ce qu’il dit ?"
+  },
+  {
+   "orateur": "M. Jean-René Cazeneuve",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Par quel miracle avons-nous le loisir d’examiner une proposition de loi qui, de toute évidence, ne respecte pas la Constitution ? D’abord, parce que le bureau de l’Assemblée nationale, majoritairement de gauche, ne l’a pas respectée. (Applaudissements sur les bancs du groupe EPR.) Ensuite, parce que le président de la commission des finances, Éric Coquerel, qui est de gauche, Insoumis, ne l’a pas respectée, sciemment !"
+  },
+  {
+   "orateur": "M. Jean-Paul Lecoq",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Toi, tu es de droite et soumis aux grands patrons !"
+  },
+  {
+   "orateur": "M. Jean-René Cazeneuve",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Le Nouveau Front populaire ne respecte pas nos institutions, nous le savons. (Exclamations sur les bancs du groupe LFI-NFP.) Il ne respecte pas la police – selon lui, « la police tue » –, ni la justice – « la République, c’est nous ! » –, ni la Constitution. Vous en avez aujourd’hui une preuve supplémentaire. Si, par malheur, cette proposition loi était adoptée… (Le temps de parole étant écoulé, M. le président coupe le micro de l’orateur. – Les députés du groupe EPR applaudissent ce dernier.)"
+  },
+  {
+   "orateur": "Un député du groupe LFI-NFP",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Il y avait du lourd à la buvette !"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Jean-Hugues Ratenon."
+  },
+  {
+   "orateur": "M. Jean-Hugues Ratenon",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Ce qui se passe ici à un nom : Emmanuel Macron, le président qui n’aime pas les gens. (Applaudissements sur les bancs du groupe LFI-NFP.) Parlementaires macronistes, puisque vous ne voulez pas abroger la réforme des retraites, vous n’aimez pas les retraités, vous n’aimez pas les jeunes qui attendent un emploi, vous n’aimez pas les gens ! (« Oh ! » et exclamations sur les bancs des groupes EPR et Dem.) Vous faites de l’obstruction, vous ne voulez pas que l’Assemblée délibère sur notre proposition de loi. (Applaudissements sur les bancs du groupe LFI-NFP.)Ce texte vise pourtant à en finir avec la souffrance au travail, à allonger la vie des gens, à redonner espoir et dignité à toutes celles et tous ceux qui veulent partir à la retraite dans de meilleures conditions.Vous prétendez que notre texte est irresponsable."
+  },
+  {
+   "orateur": "M. Christophe Blanchet",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "C’est vrai !"
+  },
+  {
+   "orateur": "M. Jean-Hugues Ratenon",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Est-il irresponsable de répondre favorablement à l’attente des Françaises et des Français, de leur dire « Nous vous avons compris, nous allons vous rendre vos plus belles années » ? (Mêmes mouvements.) L’irresponsabilité est de votre côté, avec votre obstruction ! Vos arguments reflètent surtout votre agonie politique. Il est temps de partir, de faire vos valises et de laisser les gens vivre ! (Les députés du groupe LFI-NFP et quelques députés du groupe EcoS se lèvent et applaudissent l’orateur tandis qu’il continue de parler.)L’abrogation coûterait très cher, dites-vous, mais vous oubliez trop vite que lors des débats budgétaires, nous avons démontré que nous pouvions trouver des majorités pour dégager des recettes en prenant dans les poches des riches que vous, macronistes, voulez toujours protéger. Nous ne sommes pas dupes de votre obstruction, Macron lui-même la pratique… (Le temps de parole étant écoulé, M. le président coupe le micro de l’orateur.)"
+  },
+  {
+   "orateur": "Mme Sophia Chikirou",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Vive La Réunion !"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Yannick Monnet."
+  },
+  {
+   "orateur": "M. Frédéric Valletoux",
+   "qualite": "président de la commission des affaires sociales",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Enfin un peu de sagesse !"
+  },
+  {
+   "orateur": "M. Yannick Monnet",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "J’imaginais que nous pourrions avoir un débat de fond à la hauteur des enjeux ; il semble que l’on s’en éloigne largement."
+  },
+  {
+   "orateur": "Mme Véronique Louwagie",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "À qui la faute ?"
+  },
+  {
+   "orateur": "M. Yannick Monnet",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Je dirai trois choses. Premièrement, le groupe GDR ne s’est jamais vautré dans l’obstruction…"
+  },
+  {
+   "orateur": "M. Erwan Balanant",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Parce que Sébastien Jumel n’est plus là !"
+  },
+  {
+   "orateur": "M. Yannick Monnet",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "…parce que nous considérons que le Parlement et le débat parlementaire doivent être respectés. Votre attitude n’est pas digne de notre assemblée. (MM. Stéphane Peu, Arthur Delaporte, Gérard Leseul et Mme Sandra Regol applaudissent.)"
+  },
+  {
+   "orateur": "M. Erwan Balanant",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "La mauvaise foi incarnée !"
+  },
+  {
+   "orateur": "M. Yannick Monnet",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Deuxièmement, vous avez une approche comptable des retraites – vous aussi, madame la ministre. Dois-je vous rappeler l’état dans lequel vous laissez le pays après sept ans au pouvoir ? (Applaudissements sur quelques bancs des groupes GDR et EcoS.)"
+  },
+  {
+   "orateur": "M. Alexis Corbière",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "C’est vrai !"
+  },
+  {
+   "orateur": "M. Yannick Monnet",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Pensez-vous être les mieux placés pour expliquer comment assurer l’équilibre du système de retraite ? Je n’en suis pas sûr. Souvenez-vous de ce que disait le COR lorsque vous avez préparé la réforme : le système n’est pas en faillite, il manque de recettes."
+  },
+  {
+   "orateur": "M. Erwan Balanant",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Le COR dit le contraire !"
+  },
+  {
+   "orateur": "M. Yannick Monnet",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "C’est faux ! Vous avez remplacé le président du COR parce que ses conclusions ne vous plaisaient pas. (Applaudissements sur quelques bancs du groupe LFI-NFP et GDR. – Exclamations sur quelques bancs des groupes EPR et Dem.) Laissez-moi finir ! Vous utilisez le COR comme cela vous arrange : il n’a jamais poussé à réformer les retraites – même si sa position s’est infléchie depuis que vous en avez changé le président."
+  },
+  {
+   "orateur": "M. Jean-Carles Grelier",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Sors de ce COR ! (Sourires.)"
+  },
+  {
+   "orateur": "M. Yannick Monnet",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Troisièmement, vous privilégiez une logique comptable, parce que c’est plus simple, alors que réformer les retraites relève d’un choix de société. Je crois que vous avez peur : peur que nous réussissions à faire autrement, peur que les gens puissent être heureux à la retraite. Vous décrétez qu’il faut travailler plus. Comme nous démontrons qu’on peut travailler moins à condition d’augmenter les recettes, la peur vous conduit à l’absurde, jusqu’à pratiquer l’obstruction. Nous ne partageons pas le même projet de société, c’est tout le problème ! (Applaudissements sur les bancs du groupe GDR et sur quelques bancs des groupes SOC et EcoS.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Sylvain Berrios."
+  },
+  {
+   "orateur": "M. Sylvain Berrios",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "On nous reproche toujours de faire de l’obstruction, mais vous remarquerez qu’à la différence du rapporteur, qui reste assis à sa place, nous défendons nos amendements debout. (Vives exclamations sur les bancs des groupes LFI-NFP et GDR.)"
+  },
+  {
+   "orateur": "M. Davy Rimane",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Cet argument est nul !"
+  },
+  {
+   "orateur": "M. Sylvain Berrios",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "À l’extérieur de l’Assemblée, certains encouragent les insultes envers les parlementaires du socle commun ; d’autres, ayant enfilé la camisole mélenchoniste, signent actuellement des livres à Bruxelles, pour ne pas voir qu’on détricote la réforme Touraine.Sur le fond, chacun conviendra que l’évolution démographique commande une réflexion sur la durée du travail et que le contexte budgétaire ne permet pas l’adoption de votre proposition. En toute occasion – le rapporteur l’a rappelé –, l’État viendra combler le déficit de la sécurité sociale. C’est vrai, mais comment le fera-t-il ? Par des impôts,…"
+  },
+  {
+   "orateur": "Mme Danièle Obono",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Oui ! Il faut faire payer les riches !"
+  },
+  {
+   "orateur": "M. Sylvain Berrios",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "…payés précisément par ceux à qui vous prétendez offrir une retraite ! (Exclamations sur plusieurs bancs du groupe LFI-NFP.) Ainsi, ce que vous donnez d’une main aux retraités, vous le reprenez de l’autre.Nous sommes favorables à la suppression de ce texte, qui constitue une aberration à la fois démographique et économique. (Applaudissements sur quelques bancs du groupe HOR.)"
+  },
+  {
+   "orateur": "M. Jean-Paul Lecoq",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Avec Édouard Philippe, la retraite, c’est à 67 ans !"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Arthur Delaporte."
+  },
+  {
+   "orateur": "M. Arthur Delaporte",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "À Mme la ministre qui vante la générosité du système de retraite français, je répondrai en citant quatre exemples. On peut partir à la retraite à partir de 60 ans et trente-cinq années d’activité en Croatie ; à 57 ans et quarante annuités au Luxembourg ; à 60 ans et trente-cinq années de cotisations en République tchèque ; à 60 ans et quarante années de cotisation en Slovénie. (Applaudissements sur quelques bancs des groupes LFI-NFP et EcoS.)En outre, l’âge de décote en France est élevé par rapport aux pays de l’OCDE, où il se situe aux alentours de 65 ans. Quand on se compare, parfois on se désole !"
+  },
+  {
+   "orateur": "M. Sylvain Maillard",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Surtout si l’on se compare au Luxembourg !"
+  },
+  {
+   "orateur": "M. Arthur Delaporte",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Vous n’avez fait que renforcer ces écarts.L’article 1er n’est pas le monstre financier que vous vous plaisez à décrire. L’étude d’impact qui accompagnait le projet de réforme de 2023 indiquait qu’elle devait rapporter 5,3 milliards d’euros en 2025 et 7,3 milliards en 2027 ; mais si l’on retire les dépenses induites – liées au RSA ou à l’invalidité, soit 2 à 3 milliards selon la direction de la recherche, des études, de l’évaluation et des statistiques (Drees) –, le rendement ne dépasse pas 4 à 5 milliards par an. La réforme Borne n’est donc pas une recette miracle !"
+  },
+  {
+   "orateur": "Mme Élisabeth Borne",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Nous n’avons jamais dit ça !"
+  },
+  {
+   "orateur": "M. Arthur Delaporte",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Ce coût est aisé à absorber sur le plan budgétaire. Le premier ministre a soudainement fait une annonce, cet après-midi dans Le Figaro, sans concerter le Parlement, qui coûte 3 milliards d’euros ! Et vous prétendez que 4 à 5 milliards, pour offrir deux ans de vie aux Français, représentent une dépense budgétaire inacceptable ? Un peu de sérieux ! (Applaudissements sur les bancs des groupes SOC et sur plusieurs bancs des groupes LFI-NFP et EcoS.) Franchement, demandez aux Français s’ils préfèrent vos taxes sur l’électricité ou un impôt sur la vie !Je précise que nous sommes d’accord avec la proposition du premier ministre de renoncer à augmenter les taxes sur l’électricité."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Constance de Pélichy."
+  },
+  {
+   "orateur": "Mme Constance de Pélichy",
+   "qualite": null,
+   "groupe": "LIOT",
+   "president_de_seance": false,
+   "texte": "Dans cette ambiance électrique et ce débat caricatural à bien des égards, je tenterai d’apporter un peu de nuance. (« Ah ! » sur plusieurs bancs des groupes LFI-NFP, EcoS et GDR.)"
+  },
+  {
+   "orateur": "M. Alexis Corbière",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Toujours modeste, c’est bien !"
+  },
+  {
+   "orateur": "Mme Constance de Pélichy",
+   "qualite": null,
+   "groupe": "LIOT",
+   "president_de_seance": false,
+   "texte": "Ce ne sera pas évident !Le groupe LIOT, qui s’est illustré, sous la précédente législature, par son combat contre la réforme des retraites défendue par le gouvernement Borne, votera contre les amendements de suppression. Néanmoins, j’en profite pour affirmer l’attachement de mon groupe à la réforme Touraine, ce qui nous conduira à défendre par la suite plusieurs amendements importants. En revenant sur cette dernière, la proposition de loi va beaucoup trop loin. Ce sujet est sérieux et ne peut être rouvert sans un travail approfondi. (Applaudissements les bancs du groupe LIOT et sur certains bancs du groupe SOC.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Philippe Vigier."
+  },
+  {
+   "orateur": "M. Dominique Potier",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "De la nuance !"
+  },
+  {
+   "orateur": "M. Philippe Vigier",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Je m’exprimerai avec nuance, pour faire plaisir à M. Potier.Monsieur le rapporteur, au lieu de discuter, pourriez-vous respecter les orateurs et me prêter un peu d’attention ?Je vous remercie d’avoir reconnu qu’il manquait 130 milliards d’euros pour équilibrer le système de retraite. Le groupe Les Démocrates souhaite consolider le système par répartition. Or votre texte conduirait à le fracturer.D’autre part, il est dommage que M. Davi n’ait pas cité l’avis de la Caisse nationale d’assurance vieillesse (Cnav), qui souligne que si ce texte était adopté, 16 milliards d’euros supplémentaires seraient à trouver d’ici à 2032.Monsieur le rapporteur, voici les chiffres correspondant aux fameux 130 milliards que nous recherchons : 54 milliards de hausse des prélèvements payés par le salarié, dont 21 milliards de CSG ; 45 milliards pour les cotisations employeur, avec des taux de cotisation s’élevant à 30,5 % pour les fonctionnaires des collectivités locales et des hôpitaux, 74,3 % pour les fonctionnaires civils de l’État et 126 % pour les militaires. En suivant votre démarche, 80 % des Français – que j’invoque à mon tour – verraient leur pouvoir d’achat baisser à la retraite."
+  },
+  {
+   "orateur": "Mme Émilie Bonnivard",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Eh oui !"
+  },
+  {
+   "orateur": "M. Philippe Vigier",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Ces 80 % souhaitent un système par répartition pérenne et la prise en compte des critères de pénibilité. Je regrette que vous ayez placé ce texte au sein d’une niche parlementaire et que vous vouliez discuter en une seule journée tout ce qui n’a pu l’être en trois semaines, lorsque vous avez bloqué ce débat en 2023."
+  },
+  {
+   "orateur": "Mme Mathilde Panot",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Ne vous inquiétez pas, on continuera à en parler !"
+  },
+  {
+   "orateur": "M. Philippe Vigier",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "La conséquence est grave, puisque nous ne pourrons même pas examiner la proposition de loi visant à reconnaître la pénibilité des métiers féminins."
+  },
+  {
+   "orateur": "Mme Sabrina Sebaihi",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "À cause de vous !"
+  },
+  {
+   "orateur": "M. Philippe Vigier",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Heureusement que nous avons, nous, déjà traité de ce sujet. (Applaudissements sur quelques bancs des groupes Dem et EPR.)"
+  },
+  {
+   "orateur": "M. Matthias Tavel",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Hypocrite !"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme la ministre."
+  },
+  {
+   "orateur": "Mme Astrid Panosyan-Bouvet",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je souhaite répondre à Yannick Monnet et à Arthur Delaporte, qui étaient des collègues de la commission des affaires sociales et pour lesquels j’ai beaucoup d’estime. (Exclamations.)"
+  },
+  {
+   "orateur": "M. Philippe Juvin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Vous avez de drôles d’amis !"
+  },
+  {
+   "orateur": "Mme Astrid Panosyan-Bouvet",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Vous n’étiez pas encore député, monsieur Monnet, lorsque la réforme visant à instituer un système de retraite par points, défendue par Édouard Philippe, a été examinée à l’Assemblée en 2020 : 12 348 amendements avaient alors été déposés par le groupe GDR."
+  },
+  {
+   "orateur": "M. André Chassaigne",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Non !"
+  },
+  {
+   "orateur": "Mme Astrid Panosyan-Bouvet",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "C’est en tout cas l’information que j’ai.Néanmoins, je vous rejoins sur la nécessité de ne pas réduire la retraite à une question comptable : elle est liée à la vie au travail et je regrette que l’on ne parle pas du monde du travail et des problèmes de salaire, d’usure professionnelle et d’accidents de la vie…"
+  },
+  {
+   "orateur": "M. Matthias Tavel",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Ni des plans de licenciement…"
+  },
+  {
+   "orateur": "Mme Astrid Panosyan-Bouvet",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "…– sans oublier les nouvelles plus heureuses, comme les naissances, ce qui me donne l’occasion de féliciter M. Benjamin Lucas-Lundy.Cependant, le régime par répartition repose sur un équilibre entre actifs et retraités. En outre, le taux de remplacement du salaire par la pension de retraite, calculé sur les vingt-cinq meilleures années, avoisine les 74 % en France, où la durée de vie à la retraite est l’une des plus élevées au monde."
+  },
+  {
+   "orateur": "Un député du groupe LFI-NFP",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "C’est heureux !"
+  },
+  {
+   "orateur": "Mme Astrid Panosyan-Bouvet",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Ces spécificités ont un coût et doivent être financées…"
+  },
+  {
+   "orateur": "Mme Mathilde Panot",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Vous ne parlez que d’argent, c’est incroyable !"
+  },
+  {
+   "orateur": "Mme Astrid Panosyan-Bouvet",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "…en maintenant un bon équilibre entre actifs et retraités et un niveau de cotisation adéquat.Monsieur Delaporte, vous avez mentionné les âges de départ à la retraite, notamment en Croatie, au Luxembourg et en Slovénie."
+  },
+  {
+   "orateur": "M. Matthias Tavel",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Vous comptez parler jusqu’à minuit ?"
+  },
+  {
+   "orateur": "Mme Astrid Panosyan-Bouvet",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je vous invite à observer la part du financement des retraites dans le PIB de ces pays, et la manière dont ils organisent ce financement."
+  },
+  {
+   "orateur": "M. Frédéric Petit",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Exactement !"
+  },
+  {
+   "orateur": "Mme Astrid Panosyan-Bouvet",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "En effet, ces pays disposent d’un système par capitalisation – raison pour laquelle il est possible d’y partir à la retraite plus tôt –, ce qui n’est pas le choix de la France."
+  },
+  {
+   "orateur": "M. Sylvain Maillard",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Eh oui !"
+  },
+  {
+   "orateur": "Mme Astrid Panosyan-Bouvet",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Si nous voulons conserver un système par répartition solide, nous devons demeurer exigeants quant à l’équilibre démographique et le financement. C’est ce que nous avons fait en 2023 et c’est ce que le Parti socialiste avait fait en 2014 – réformes que nous souhaitons maintenir en soutenant ces amendements de suppression. (Applaudissements sur quelques bancs du groupe EPR.)"
+  },
+  {
+   "orateur": "M. Arthur Delaporte",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "J’ai parlé du coût budgétaire !"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix les amendements no 4 et identiques."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

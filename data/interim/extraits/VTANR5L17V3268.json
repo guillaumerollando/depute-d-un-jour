@@ -1,0 +1,98 @@
+{
+ "uid": "VTANR5L17V3268",
+ "titre": "l'amendement n° 3 de M. Fugit après l'article 1er bis de la proposition de loi visant à rendre systématique l'information du consommateur sur l'origine des denrées alimentaires par le moyen de l'étiquetage (première lecture).",
+ "type": "amendement",
+ "date": "2025-10-30",
+ "dossier": "DLR5L17N52787",
+ "dossier_titre": "Rendre systématique l’information du consommateur sur l’origine des denrées alimentaires par le moyen de l’étiquetage",
+ "sort": "adopté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "contre",
+  "LFI": "pour",
+  "SOC": "contre",
+  "DR": "pour",
+  "ECOS": "contre",
+  "HOR": "contre",
+  "UDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 120,
+   "contre": 0,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 0,
+   "contre": 36,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 38,
+   "contre": 0,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 1,
+   "contre": 43,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 16,
+   "contre": 0,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 25,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 1,
+   "contre": 3,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 4,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 0,
+   "contre": 1,
+   "abstention": 1
+  },
+  "GDR": {
+   "pour": 0,
+   "contre": 1,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 14,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC1985P0D1N000003",
+  "dossier": "DLR5L17N52787",
+  "texte": "PIONANR5L17BTC1985",
+  "division": "Article 1er bis",
+  "auteur": "M. Fugit et M. Pierre Cazeneuve",
+  "auteur_groupe": "EPR",
+  "auteur_type": "Député",
+  "dispositif": "Le livre IV du code de la consommation est ainsi modifié : 1° Après l’article L. 412‑4, il est inséré un article L. 412‑4‑1 ainsi rédigé : « Art. L. 412‑4‑1 . – Lorsqu’un produit agricole ou alimentaire destiné à la consommation humaine ou animale importé a été produit dans des conditions impliquant l’utilisation de produits phytopharmaceutiques contenant une ou des substances actives de la famille des néonicotinoïdes ou présentant des modes d’action identiques à ceux de ces substances, l’étiquetage de ce produit doit le mentionner. » 2° Après l’article L. 451‑13, il est inséré un article L. 451‑13‑1 ainsi rédigé : « Art. L. 451‑13‑1 . – Le non-respect de l’obligation prévue à l’article L. 412‑4‑1 est puni de six mois d’emprisonnement et de 150 000 euros d’amende. Le montant de cette amende peut être porté à 10 % du chiffre d’affaires annuel moyen, calculé sur les trois derniers exercices connus, si ce montant est plus favorable à la répression de l’infraction. »",
+  "expose": "Cet amendement d’appel vise, dans le même esprit que l’amendement de Julien Dive adopté en commission et qui visait à instaurer un étiquetage lorsqu’un produit alimentaire a été traité avec des substances actives non-autorisées dans l’UE, à instaurer un étiquetage lorsqu’un produit agricole ou alimentaire importé en France a été traité à l’acétamipride, Sulfoxaflor, ou du Flupyradifurone, substances toujours autorisées au niveau européen."
+ },
+ "seance": "RUANR5L17S2026IDS29855",
+ "compte_rendu": "CRSANR5L17S2026O1N022",
+ "interventions": [
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 3."
+  }
+ ]
+}

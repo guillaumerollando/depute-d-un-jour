@@ -1,0 +1,161 @@
+{
+ "uid": "VTANR5L17V1900",
+ "titre": "l'amendement n° 630 de Mme Thiébault-Martinez à l'article 5 de la proposition de loi relative au droit à l'aide à mourir (première lecture).",
+ "type": "amendement",
+ "date": "2025-05-20",
+ "dossier": "DLR5L17N51670",
+ "dossier_titre": "Fin de vie",
+ "sort": "rejeté",
+ "positions": {
+  "EPR": "contre",
+  "LFI": "contre",
+  "SOC": "pour",
+  "DR": "contre",
+  "ECOS": "contre",
+  "DEM": "contre",
+  "HOR": "contre",
+  "UDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 49,
+   "contre": 16,
+   "abstention": 9
+  },
+  "EPR": {
+   "pour": 0,
+   "contre": 36,
+   "abstention": 2
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 37,
+   "abstention": 1
+  },
+  "SOC": {
+   "pour": 36,
+   "contre": 0,
+   "abstention": 3
+  },
+  "DR": {
+   "pour": 0,
+   "contre": 13,
+   "abstention": 1
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 19,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 2,
+   "contre": 20,
+   "abstention": 1
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 15,
+   "abstention": 1
+  },
+  "LIOT": {
+   "pour": 2,
+   "contre": 3,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 2,
+   "contre": 1,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 10,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC1364P0D1N000630",
+  "dossier": "DLR5L17N51670",
+  "texte": "PIONANR5L17BTC1364",
+  "division": "Article 5",
+  "auteur": "Mme Thiébault-Martinez,  Mme Godard, M. Delautrette, Mme Bellay, M. Simion, M. Aviragnet, M. Delaporte, Mme Dombre Coste, Mme Battistel, M. Guedj, Mme Runel, Mme Allemand, M. Baptiste, M. Barusseau, M. Baumel, M. Benbrahim, M. Bouloux, M. Philippe Brun, Mme Capdevielle, M. Courbon, M. David, Mme Diop, M. Dufau, M. Echaniz, M. Eskenazi, M. Faure, M. Fégné, M. Garot, M. Gokel, Mme Got, M. Emmanuel Grégoire, M. Hablot, Mme Hadizadeh, Mme Herouin-Léautey, Mme Céline Hervieu, M. Hollande, Mme Jourdan, Mme Karamanli, Mme Keloua Hachi, M. Leseul, M. Lhardit, Mme Mercier, M. Naillet, M. Oberti, Mme Pantel, M. Pena, Mme Pic, Mme Pirès Beaune, M. Pribetich, M. Proença, Mme Rossi, Mme Rouaux, M. Aurélien Rousseau, M. Roussel, Mme Récalde, M. Saint-Pasteur, Mme Santiago, M. Sother, Mme Thomin, M. Vallaud, M. Vicot, M. William et les membres du groupe Socialistes et apparentés",
+  "auteur_groupe": "SOC",
+  "auteur_type": "Député",
+  "dispositif": "À l’alinéa 4, après le mot : « activité » insérer les mots : « , qui est de droit formé à ce type d’accompagnement, et »",
+  "expose": "Cet amendement d'appel vise à garantir le droit pour les médecins qui accompagneront les personnes demandant une aide à mourir à bénéficier d'une formation continue dédiée à ce type d'accompagnement. En effet, l'accompagnement des personnes en fin de vie va probablement être émotionnellement lourd pour les médecins et nécessite des savoir-être spécifiques, notamment de bienveillance. Il est donc proposé que ces médecins volontaires à accompagner les personnes demandant une aide à mourir puissent faire jouer un tel droit à la formation continue."
+ },
+ "seance": "RUANR5L17S2025IDS29392",
+ "compte_rendu": "CRSANR5L17S2025O1N206",
+ "interventions": [
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Sandrine Runel, pour soutenir l’amendement no 630."
+  },
+  {
+   "orateur": "Mme Sandrine Runel",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Nous avons à peu près tout entendu : qu’il faut que le médecin soit volontaire, qu’il ait de l’expérience, voire vingt ans d’expérience, que le patient soit agonisant pour que le médecin, volontaire et très expérimenté donc, puisse pratiquer l’aide à mourir, etc. Pourtant, nous avons la solution : former les médecins. Comme évoqué pendant l’examen du texte relatif aux soins palliatifs, il s’agit d’une nécessité, voire d’une obligation morale.Le présent amendement vise à proposer aux médecins une formation – notamment une formation continue – sur l’aide à mourir. Tout le monde ici le reconnaît : il ne s’agit pas d’un acte évident ou facile à accomplir. C’est pourquoi les médecins qui le pratiqueront seront volontaires, puisqu’ils n’auront pas fait jouer leur clause de conscience. L’objectif de l’amendement est de les accompagner et de les former, pour une meilleure pratique de l’aide à mourir. (Applaudissements sur certains bancs du groupe SOC.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis de la commission ?"
+  },
+  {
+   "orateur": "M. Laurent Panifous",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "La formation est un sujet important mais l’adoption de l’amendement pourrait fragiliser le texte en raison de sa rédaction. Doit-on comprendre que le médecin recevant la demande d’aide à mourir peut être « de droit formé à ce type d’accompagnement » ou qu’il doit l’être ? Dans ce dernier cas, l’accès au dispositif se trouverait drastiquement réduit.Avis défavorable, en raison de l’ambiguïté que comporte la rédaction."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis du gouvernement ?"
+  },
+  {
+   "orateur": "Mme Catherine Vautrin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Même avis."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Annie Vidal."
+  },
+  {
+   "orateur": "Mme Annie Vidal",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Je souhaite revenir à la question précédemment évoquée de l’existence d’une liste de praticiens.Nous définissons en ce moment la procédure de l’aide à mourir, qui doit être à la fois très sécurisée et assez fluide pour que les étapes puissent s’enchaîner. On y entre par une demande dont nous avons heureusement décidé qu’elle serait écrite. Ensuite, le médecin communique au patient des informations sur son état de santé, sur l’accès aux soins palliatifs et sur la possibilité de consulter un psychiatre. Enfin, il lui expose les conditions de l’accès à l’aide à mourir. Le cas échéant, à un moment ou à un autre de la procédure, il pourra lui indiquer son refus de pratiquer le geste demandé et l’orientera vers un confrère. Toutefois, en absence de liste et si, comme au Canada, seuls 3 % des médecins sont volontaires, je me demande combien de coups de téléphone il devra passer pour trouver une solution pour son patient. L’existence d’une telle liste, facilement accessible, servirait donc les intérêts tant des demandeurs que des médecins."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 630."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "uid": "VTANR5L17V3290",
+ "titre": "l'amendement n° 3052 (rect.) de M. Juvin à l'article 3 du projet de loi de finances pour 2026 (première lecture).",
+ "type": "amendement",
+ "date": "2025-10-31",
+ "dossier": "DLR5L17N52428",
+ "dossier_titre": "Projet de loi de finances pour 2026",
+ "sort": "adopté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "pour",
+  "LFI": "contre",
+  "SOC": "contre",
+  "DR": "pour",
+  "ECOS": "contre",
+  "DEM": "contre",
+  "HOR": "pour",
+  "LIOT": "contre",
+  "GDR": "contre",
+  "UDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 94,
+   "contre": 0,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 61,
+   "contre": 0,
+   "abstention": 2
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 61,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 0,
+   "contre": 55,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 23,
+   "contre": 0,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 36,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 17,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 20,
+   "contre": 0,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 1,
+   "contre": 7,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 0,
+   "contre": 8,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 6,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901B1906P1D1N003052",
+  "dossier": "DLR5L17N52428",
+  "texte": "PRJLANR5L17B1906",
+  "division": "Article 3",
+  "auteur": "M. Juvin",
+  "auteur_groupe": "DR",
+  "auteur_type": "Député",
+  "dispositif": "I. – À l’alinéa 8, substituer au taux : « 33,33 % » ; le taux : « 50 % ». II. – En conséquence, substituer à l’alinéa 10 les alinéas deux suivants : « 4° Elles ne sont pas contrôlées par une autre société soumise à la présente taxe, directement ou indirectement. Ce contrôle s’entend soit de la détention de la majorité des droits de vote ou des droits financiers, soit de l’exercice en fait du pouvoir de décision. « Le contrôle, au sens de l’alinéa précédent, peut être exercé à travers une détention indirecte, définie comme la détention des droits financiers ou droits de vote par l’intermédiaire d’une chaîne de droits financiers ou de droits de vote. » III. – En conséquence, à l’alinéa 26, substituer aux mots : « mentionnées au 1° du 2 du A du III » les mots : « de transfert de disponibilités ». IV. – En conséquence, substituer aux alinéas 31 à 86 les sept alinéas suivants : « III. – La taxe est assise sur la somme de la valeur des actifs suivants détenus par la société ou par une société contrôlée par celle‑ci à la date de la clôture de l’exercice au titre duquel la taxe est due : « 1. Les biens affectés à l’exercice non professionnel de la chasse ; « 2. Les biens affectés à l’exercice non professionnel de la pêche ; « 3. La valeur nette des amortissements des véhicules de tourisme non affectés à une activité professionnelle ; « 4. Les aéronefs non affectés à des prestations de services aériens à titre onéreux ; « 5. Les biens mentionnés à l’article 150 VI dès lors qu’ils ne font pas l’objet d’une mise à disposition ou d’une ouverture au public ; « 6. Les logements et résidences à l’exception de ceux mis à disposition, même partiellement, de la personne physique mentionnée au 2° du A du I du présent article. » V. – En conséquence, supprimer les alinéas 89 à 92. VI. – En conséquence, à la fin de l’alinéa 94, substituer au taux : « 2 % » le taux : « 20 % ». VII. – En conséquence, supprimer la seconde phrase de l’alinéa 97.",
+  "expose": "Cet amendement vise à recentrer la taxe sur les actifs non affectés à une activité opérationnelle des sociétés holding patrimoniales sur un objectif de lutte contre l’optimisation fiscale. En effet, dans sa rédaction actuelle, la taxe sur les sociétés holdings a une assiette trop large, qui cible des éléments de l’actif tels que la trésorerie qui jouent un rôle central dans la définition de la stratégie des PME et des ETI familiales. Mais, s’agissant des biens somptuaires qui ne devraient pas être logés dans une société, le taux de 2 % proposé par la taxe est insuffisamment dissuasif. Aussi, afin de permettre à la taxe d’accomplir pleinement son objectif de lutte contre l’optimisation fiscale tout en évitant les effets de bord qui pénaliseraient l’économie productive, cet amendement limite l’assiette de la taxe aux seuls actifs qui ne peuvent manifestement pas être affectés à une activité économique réelle, mais sont détenus au sein de la holding dans un seul but fiscal. En outre, cet amendement renforce le caractère dissuasif de la taxe en portant son taux à 20 %. Il vise ainsi à inciter les actionnaires personnes physiques de la holding à réaffecter les biens somptuaires à leur patrimoine personnel, obérant des stratégies d’optimisation fiscale qui s’appuient sur des dispositifs de soutien aux transmissions d’entreprises. Enfin, cet amendement relève le seuil de détention d’une société holding par une personne physique à 50 % des droits de vote ou des droits financiers. Il s’agit d’éviter la situation où un actionnaire personne physique détient 33,33 % des parts de la société, sans être en mesure d’imposer une politique de distribution de dividendes."
+ },
+ "seance": "RUANR5L17S2026IDS29857",
+ "compte_rendu": "CRSANR5L17S2026O1N024",
+ "interventions": [
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 3052 rectifié, tel qu’il a été sous-amendé."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

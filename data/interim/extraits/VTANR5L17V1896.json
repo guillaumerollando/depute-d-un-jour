@@ -1,0 +1,107 @@
+{
+ "uid": "VTANR5L17V1896",
+ "titre": "l'amendement n° 2702 du Gouvernement à l'article 5 de la proposition de loi relative au droit à l'aide à mourir (première lecture).",
+ "type": "amendement",
+ "date": "2025-05-20",
+ "dossier": "DLR5L17N51670",
+ "dossier_titre": "Fin de vie",
+ "sort": "adopté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "pour",
+  "LFI": "pour",
+  "SOC": "pour",
+  "DR": "contre",
+  "ECOS": "pour",
+  "DEM": "pour",
+  "HOR": "pour",
+  "LIOT": "pour",
+  "GDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 61,
+   "contre": 6,
+   "abstention": 9
+  },
+  "EPR": {
+   "pour": 25,
+   "contre": 0,
+   "abstention": 2
+  },
+  "LFI": {
+   "pour": 35,
+   "contre": 0,
+   "abstention": 2
+  },
+  "SOC": {
+   "pour": 35,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 1,
+   "contre": 11,
+   "abstention": 6
+  },
+  "ECOS": {
+   "pour": 18,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 21,
+   "contre": 0,
+   "abstention": 2
+  },
+  "HOR": {
+   "pour": 15,
+   "contre": 0,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 6,
+   "contre": 0,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 5,
+   "contre": 0,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 2,
+   "contre": 7,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC1364P0D1N002702",
+  "dossier": "DLR5L17N51670",
+  "texte": "PIONANR5L17BTC1364",
+  "division": "Article 5",
+  "auteur": "le Gouvernement",
+  "auteur_groupe": null,
+  "auteur_type": "Gouvernement",
+  "dispositif": "À l’alinéa 4, substituer au mot : « expresse » les mots : « écrite ou par tout autre mode d’expression adapté à ses capacités ».",
+  "expose": "Cet amendement vise à préciser que la demande doit être déposée par écrit ou par tout autre mode d'expression adapté à ses capacités."
+ },
+ "seance": "RUANR5L17S2025IDS29392",
+ "compte_rendu": "CRSANR5L17S2025O1N206",
+ "interventions": [
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 2702."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

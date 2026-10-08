@@ -1,0 +1,69 @@
+{
+  "uid": "VTANR5L17V4707",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Guillaume Gouffier Valente (EPR)",
+      "citation": "Le groupe Ensemble pour la République votera évidemment en faveur de la présente proposition de loi, avec conviction et engagement.",
+      "justification": "Le groupe déclare soutenir le texte qui transpose l'accord du 11 juillet 2023."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Hadrien Clouet",
+      "citation": "Faute de pouvoir protéger les agents et éliminer les capitalistes de nos affaires, nous prenons rendez-vous pour 2029. En attendant, nous voterons contre la proposition de loi.",
+      "justification": "Le groupe vote contre en raison de la place laissée aux assureurs privés dans le dispositif."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Élisabeth de Maistre (DR)",
+      "citation": "Pour toutes ces raisons, tout en demeurant pleinement vigilant sur les conséquences financières pour les collectivités locales, le groupe Droite républicaine votera en faveur de ce texte et soutiendra son adoption conforme.",
+      "justification": "Le groupe déclare soutenir le texte pour les avancées qu'il contient."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Emmanuel Duplessy (EcoS)",
+      "citation": "Nous voterons donc conforme ce texte qui permet, dans un contexte de fortes contraintes, une avancée sociale dans un cadre néanmoins très limité.",
+      "justification": "Le groupe vote le texte qu'il qualifie d'avancée sociale."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Josy Poueyto (Dem)",
+      "citation": "C’est un texte de justice sociale, c’est un texte de responsabilité territoriale. Il aura évidemment notre plein et entier soutien.",
+      "justification": "Le groupe déclare soutenir le texte sur le fond."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Agnès Firmin Le Bodo (HOR)",
+      "citation": "Pour toutes ces raisons, nous voterons en faveur de ce texte, qui permet de franchir un pas supplémentaire, petit mais très important.",
+      "justification": "Le groupe déclare soutenir le texte sur le fond."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Stéphane Viry (LIOT)",
+      "citation": "Saluons ces avancées en adoptant le présent texte, qui remet de l’ordre, sécurise et protège.",
+      "justification": "Le groupe déclare soutenir le texte pour les protections qu'il apporte."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Olivier Fayssat (UDR)",
+      "citation": "Ce texte adresse un vrai message de reconnaissance aux agents territoriaux. Il permettra de réduire la précarité et de renforcer l’attractivité de la fonction publique territoriale.",
+      "justification": "Le groupe déclare soutenir le texte pour ses effets sur les agents."
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "uid": "VTANR5L17V988",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Constance Le Grip (EPR)",
+      "citation": "nous soutenons ce pays et ses dirigeants, en particulier le président Volodymyr Zelensky, dans leur combat héroïque contre un agresseur.",
+      "justification": "Le groupe vote pour en déclarant son soutien à l’Ukraine."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Bastien Lachaud",
+      "citation": "En somme, contrairement à ce que vous affirmez, ce texte ne renforcera en rien le soutien à l’Ukraine.",
+      "justification": "Le groupe vote contre en s’opposant à l’orientation de la résolution."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Thierry Sother (SOC)",
+      "citation": "le groupe Socialistes votera pour cette proposition de résolution qui témoigne du soutien de la représentation nationale française à l’Ukraine.",
+      "justification": "Le groupe vote pour en approuvant le soutien exprimé par la résolution."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Jean-Louis Thiériot",
+      "citation": "Nous ne pouvons pas ne pas voter cette proposition de résolution. C’est un signal.",
+      "justification": "Le groupe vote pour en présentant la résolution comme un signal à envoyer."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Cyrielle Chatelain (EcoS)",
+      "citation": "notre rôle est de porter clairement et fièrement le message de la France et de cette assemblée, à savoir le soutien indéfectible à la souveraineté et à la liberté du peuple ukrainien.",
+      "justification": "Le groupe vote pour en déclarant son soutien au peuple ukrainien."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": "Mme Sabine Thillaye",
+      "citation": null,
+      "justification": "Les propos du groupe dans l’extrait ne portent pas explicitement sur la résolution ni sur la raison de son vote."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Bertrand Bouyx (HOR)",
+      "citation": "avec cette résolution, la France est avec l’Ukraine et soutient l’Ukraine.",
+      "justification": "Le groupe vote pour en approuvant le soutien exprimé par la résolution."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Michel Castellani (LIOT)",
+      "citation": "Nous soutenons cette proposition de résolution dans un esprit de réalisme et de responsabilité.",
+      "justification": "Le groupe vote pour en déclarant soutenir la résolution."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Jean-Paul Lecoq (GDR)",
+      "citation": "Mais vous avez profité de cette occasion pour assurer la promotion du président de la République et de son discours guerrier, pour faire un bond qui nous emmène vers l’Europe fédérale, pour nous inviter à soutenir l’adhésion de l’Ukraine à l’Union européenne",
+      "justification": "Le groupe vote contre en s’opposant à plusieurs orientations contenues dans la résolution."
+    }
+  }
+}

@@ -1,0 +1,306 @@
+{
+ "uid": "VTANR5L17V4745",
+ "titre": "l'ensemble de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (première lecture).",
+ "type": "ensemble",
+ "date": "2025-12-11",
+ "dossier": "DLR5L17N53069",
+ "dossier_titre": "Retrouver la confiance et l’équilibre dans les rapports locatifs",
+ "sort": "adopté",
+ "positions": {
+  "RN": "contre",
+  "EPR": "contre",
+  "LFI": "pour",
+  "SOC": "pour",
+  "ECOS": "pour",
+  "DEM": "contre",
+  "HOR": "contre",
+  "GDR": "pour",
+  "UDR": "contre"
+ },
+ "voix": {
+  "RN": {
+   "pour": 0,
+   "contre": 28,
+   "abstention": 1
+  },
+  "EPR": {
+   "pour": 0,
+   "contre": 13,
+   "abstention": 3
+  },
+  "LFI": {
+   "pour": 30,
+   "contre": 0,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 54,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 0,
+   "contre": 2,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 17,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 4,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 6,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 1,
+   "contre": 0,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 3,
+   "contre": 0,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 0,
+   "contre": 3,
+   "abstention": 0
+  }
+ },
+ "amendement": null,
+ "seance": "RUANR5L17S2026IDS30044",
+ "compte_rendu": "CRSANR5L17S2026O1N091",
+ "interventions": [
+  {
+   "orateur": "M. Inaki Echaniz",
+   "qualite": "rapporteur de la commission des affaires économiques",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Le logement constitue désormais le premier poste de dépense des ménages français, qu’il s’agisse du remboursement de l’emprunt pour ceux qui ont eu l’opportunité de devenir propriétaires de leur résidence principale ou du montant du loyer pour ceux qui sont locataires. Les ménages y consacrent plus de 28 % de leur revenu, un taux jamais atteint jusqu’à présent.Dans ce contexte d’inflation constante, la proposition de loi vise à pérenniser et améliorer le dispositif expérimental d’encadrement des loyers élaboré en 2014 par la loi dite Alur de Cécile Duflot, appliqué sous le gouvernement Édouard Philippe avec la loi Elan, et qui prendra fin dans moins d’un an, en novembre 2026.Cette mesure est plébiscitée par les Français, qui y sont favorables à 87 %. Fait notable, 85 % des propriétaires sondés se positionnent, selon une récente enquête d’Ipsos, en faveur de ce dispositif, par ailleurs plébiscité par les maires de gauche mais aussi du centre et de la droite qui l’ont mis en œuvre. Ce texte a du reste recueilli le soutien de l’AMF – Association des maires de France et des présidents d’intercommunalité –, de France urbaine et d’Intercommunalités de France.Dans un contexte de crise du logement, le groupe socialiste est convaincu que le texte qu’il propose représente une réponse claire et indispensable : d’abord parce que l’encadrement des loyers permet de limiter la hausse des prix alors que le coût de l’immobilier progresse plus rapidement que les revenus ; ensuite parce qu’il est maintenant avéré, à travers plusieurs études étayées, que cet encadrement n’a pas d’effet sur l’offre locative."
+  },
+  {
+   "orateur": "M. Vincent Jeanbrun",
+   "qualite": "ministre de la ville et du logement",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Il y a en France une crise du logement que nul n’ignore. Les difficultés d’accès au logement sont réelles et concernent désormais tous nos concitoyens, en particulier les classes moyennes. Le logement constitue le premier poste de dépense des ménages et représente un véritable enjeu de pouvoir d’achat pour les familles françaises. L’accès à la propriété est plus difficile encore pour les primo-accédants qu’il ne l’était il y a quelques années, ce qui emporte des conséquences sur les projets de vie de famille, en particulier parmi les jeunes générations. Le contexte économique d’il y a quinze, vingt ou trente ans était bien plus favorable aux primo-accédants qu’il ne l’est de nos jours. La rotation dans le parc social en est d’autant plus grippée.Les parlementaires, aussi bien à l’Assemblée nationale qu’au Sénat, se sont saisis de cette question majeure, qui constitue l’une des préoccupations principales des Français. C’est pourquoi je suis heureux de travailler régulièrement avec presque tous les groupes des deux assemblées pour chercher des solutions à la crise du logement. Nous partageons, je crois, le constat qu’il est nécessaire de relancer la production de logements par un choc d’offre et de simplification."
+  },
+  {
+   "orateur": "M. Philippe Gosselin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "…risque d’aggraver les déséquilibres que l’on prétend corriger.Je ne doute pas de votre bonne foi, mais cette pérennisation nous semble prématurée, car aucune évaluation complète n’a été remise, comme le prévoit pourtant l’article 140 de la loi Elan. Or un tel rapport, qui sera remis prochainement au Parlement, doit évidemment constituer la base de notre réflexion – pourquoi demander une évaluation si l’on ne tient pas compte de ses conclusions ? Il serait donc beaucoup plus sage d’attendre celles-ci avant d’entériner une évolution structurelle telle que celle que vous proposez.En outre, à la suite de l’examen du texte en commission, le dispositif a été étendu aux territoires hors zones tendues. Or nous devons réellement faire preuve de la plus grande prudence en la matière. Une telle extension législative exige que soit menée au préalable, comme l’expliquait M. le ministre, une véritable étude évaluant l’impact territorial et économique de la mesure envisagée – la question se pose à Paris, mais aussi en province, dans les régions. Nous le savons, le mieux est parfois l’ennemi du bien.Dans les zones où l’encadrement a déjà été instauré, les effets de celui-ci sont bien connus : certains propriétaires ont préféré retirer leur bien du marché ou se tourner vers la location saisonnière, en passant notamment par les plateformes en ligne, pour contourner certains plafonds. La conséquence est très directe : l’offre locative diminue encore et les ménages les plus modestes en paient le prix.Nous, au groupe DR, refusons ce cercle vicieux. Ne tirons pas contre les propriétaires qui, pour une grande majorité d’entre eux, sont loin d’être de cupides possédants – pour reprendre une petite musique bien connue. Défendons au contraire nos petits propriétaires bailleurs : oui à un statut du bailleur privé !La contraction de l’offre s’explique aussi par d’autres politiques publiques, comme le fameux DPE – le diagnostic de performance énergétique – qui, sous sa forme actuelle, conduit au retrait temporaire de très nombreux logements du marché, ou encore le ZAN – l’objectif zéro artificialisation nette –, qui freine durablement la construction, y compris dans des territoires où les besoins sont pourtant immenses. Nous le répétons : le principe du ZAN se défend, mais son application ne doit être ni sclérosante ni contre-productive."
+  },
+  {
+   "orateur": "M. Philippe Gosselin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Il faut agir sur trois leviers : la reconstruction d’une offre suffisante grâce à la relance du neuf et à la mobilisation du parc vacant ; une rénovation énergétique réaliste, compatible avec la soutenabilité financière des propriétaires ; une simplification des normes pour restaurer la confiance des acteurs du secteur.Pour notre groupe, il est absolument indispensable d’évaluer l’expérimentation au moyen d’éléments de mesure solides avant de la transformer éventuellement en un dispositif pérenne – ne pas passer par cette étape serait irresponsable. Nous avons besoin d’une politique du logement qui soit juste, lisible et durable et dont nos concitoyens sont les bénéficiaires. Il faut permettre à ces derniers de se loger et de vivre dignement. (Applaudissements sur quelques bancs du groupe DR.)"
+  },
+  {
+   "orateur": "M. Mickaël Cosson",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Certes, monsieur le rapporteur, vous avez mené une mission flash avec Annaïg Le Meur en septembre dernier, dont je salue le travail. Elle conclut que le dispositif fonctionne. Mais permettez-moi d’émettre des réserves sur la généralisation d’un outil dont les effets secondaires n’ont pas encore été totalement mesurés."
+  },
+  {
+   "orateur": "M. Mickaël Cosson",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Il est indispensable d’examiner les résultats complets d’une expérimentation avant de pérenniser le dispositif, et plus encore avant d’évaluer ses dispositions. Sinon, nous trahissons le principe même de l’expérimentation.Sur le fond, ne nous trompons pas de combat. L’article 1er de ce texte vise à pérenniser l’encadrement et à le généraliser aux communes volontaires. Or l’encadrement des loyers traite le symptôme – la fièvre des prix. Il ne soigne pas nécessairement la maladie – la pénurie d’offre. Le remède ne risque-t-il pas d’être contre-productif ? En voulant trop contraindre, ne risquons-nous pas de tarir la source ?Le marché locatif a besoin d’un cadre, de règles, mais aussi de confiance. Si l’on supprime toute rentabilité locative par une rigidité excessive, les investisseurs se détourneront de la pierre – ils l’ont déjà fait. Soyons attentifs à l’effet repoussoir. Sans investisseurs, sans propriétaires, il y aura forcément davantage de locataires en attente d’un logement. Or il n’y a déjà pas assez de constructions, pas assez de rénovations. Au bout du compte, ce seront moins de logements pour les Français.Le rapporteur souligne que la baisse de l’offre locative touche aussi les villes sans encadrement. C’est vrai, mais cela prouve justement que le mal est structurel.C’est pourquoi, avec mon collègue sénateur Marc-Philippe Daubresse, sous l’impulsion de l’ancienne ministre Valérie Létard, et avec le soutien de l’actuel ministre, nous plaidons pour la création d’un véritable statut du bailleur privé. Il aurait du sens, car nous devons reconnaître le rôle essentiel du propriétaire qui met un bien sur le marché : il faut l’inciter fiscalement, l’encourager à investir dans la pierre dans la durée, plutôt que de brandir la menace de sanctions ou de restrictions administratives.S’il n’y a pas de retraite sans cotisant, il n’y a pas non plus de locataires sans investisseurs. On ne se loge pas avec un plan d’épargne en actions (PEA) ; on se loge parce qu’il existe un parc locatif soutenu par la confiance des propriétaires vis-à-vis de l’État. La relance du secteur de la construction, en crise grave en France – il suffit d’une visite de quelques heures dans un salon de l’immobilier pour le comprendre – comme en Europe, demande des mesures évaluées et calibrées avec attention.Notre groupe salue toutefois certaines avancées, notamment le travail réalisé en commission pour mieux encadrer les compléments de loyer abusifs : c’est l’objet de l’article 2, qui vise à protéger les locataires des congés frauduleux ou d’éventuelles représailles. Il est essentiel de sanctionner les abus et de protéger les plus fragiles.À ce stade, nous ne pouvons cependant pas souscrire à la philosophie générale de la proposition de loi, qui consiste à graver dans le marbre, sans évaluation fine et complète, un dispositif qui pourrait gripper davantage un marché déjà à l’arrêt. Nous partageons le diagnostic de la crise, mais nous divergeons sur la méthode et sur le calendrier.Parce que l’évaluation finale n’est pas encore disponible, que nous croyons que la confiance se construit par l’incitation plutôt que par la contrainte, que nous refusons de décourager l’investissement locatif indispensable à nos territoires, le groupe Les Démocrates fera largement le choix de la responsabilité et de la vigilance en s’abstenant sur ce texte."
+  },
+  {
+   "orateur": "M. David Taupiac",
+   "qualite": null,
+   "groupe": "LIOT",
+   "president_de_seance": false,
+   "texte": "La proposition de loi que nous examinons intervient dans un contexte de crise profonde et multifactorielle du logement. Partout au sein de notre territoire, dans les métropoles comme dans les villes moyennes, la demande excède largement l’offre. Le parc locatif privé se contracte, en particulier dans les zones les plus tendues, et les ménages – notamment les plus jeunes, les plus modestes et les classes moyennes – peinent chaque jour davantage à accéder à un logement abordable.Dans ce contexte, l’encadrement des loyers est devenu un outil de régulation utile. À Paris, à Lille, à Lyon ou encore à Montpellier, il a permis de contenir des hausses allant parfois du simple au double, sans pour autant suffire, à lui seul, à rétablir un équilibre durable.Son bilan reste difficile à isoler dans un environnement où de nombreux facteurs – hausse des taux, raréfaction du foncier, renchérissement des coûts de construction, développement des locations touristiques – alimentent les tensions actuelles du secteur.La proposition de loi vise à rendre permanent l’encadrement des loyers, en lui apportant certains ajustements. Elle reprend largement les constats de la mission flash menée l’an dernier par nos collègues Annaïg Le Meur et Inaki Echaniz : complexité d’entrée dans le dispositif, contrôle insuffisant, complément de loyer encore trop imprécis, manque de lisibilité pour le locataire, contournement par le biais de colocations avec services – également appelées coliving.Nous partageons ces constats et reconnaissons l’intérêt des mesures proposées. Cela étant, notre groupe souhaite aborder ce débat avec sérieux, pragmatisme et responsabilité.L’encadrement des loyers demeure un dispositif expérimental, dont les effets varient fortement selon les territoires. Deux évaluations importantes – le rapport gouvernemental attendu pour mai 2026 et la mission confiée à deux universitaires, qui devaient rendre leur rapport en novembre 2025 – doivent encore nous être transmises.À un an de la fin prévue de l’expérimentation, nous devons éviter deux écueils : celui d’une sortie sèche, qui serait problématique dans les communes concernées, mais aussi celui d’une généralisation immédiate et globale sans disposer d’un retour d’expérience complet.C’est la raison pour laquelle le groupe Libertés, indépendants, outre-mer et territoires défendra une position mesurée, avec un amendement visant à prolonger de deux ans l’expérimentation de l’encadrement des loyers. Plusieurs considérations en sont à l’origine.La première est un constat : le secteur traverse une crise de l’offre et de la demande d’une ampleur inédite. La hausse des taux d’intérêt continue à produire ses effets, avec une diffusion particulièrement lente, tant sur la production neuve que sur l’ancien. Les obligations de rénovation énergétique montent en puissance, avec des conséquences encore mal mesurées mais manifestement significatives sur l’offre locative, en particulier dans l’habitat collectif. Dans ces conditions, modifier ou pérenniser définitivement le cadre sans disposer d’un recul complet sur son expérimentation nous semble risqué.Pour répondre durablement à la crise, il est indispensable de relancer la construction de logements, mais aussi de soutenir l’investissement locatif, social comme privé. Le débat sur l’encadrement des loyers ne saurait être dissocié du débat sur le statut du bailleur privé. Or celui-ci n’est pas achevé ; en l’état, il ne permet pas de sécuriser suffisamment les propriétaires et donc d’équilibrer les effets potentiels d’un renforcement de l’encadrement. Le risque d’accentuer le désengagement des bailleurs est réel.Par ailleurs, nous manquons encore de données consolidées quant aux conséquences du dispositif sur l’évolution de l’offre. Quelques corrélations figurent certes dans l’exposé des motifs de la proposition de loi, mais elles ne suffisent pas pour légiférer en pleine connaissance de cause. Prolonger l’expérimentation de deux ans nous permettra de disposer enfin d’éléments chiffrés solides.En outre, à l’approche des élections municipales, cette prolongation offrira une visibilité aux collectivités ayant choisi l’encadrement des loyers. Elle leur permettra de sécuriser le dispositif, d’en mesurer les effets, et, le cas échéant, d’ajuster leur politique locale du logement. Cela permettra aussi d’éviter que certaines collectivités ne soient tentées de réduire volontairement leur production de logements et de renoncer aux outils de construction pour éviter les mécontentements locaux, tout en encadrant les loyers pour donner satisfaction aux locataires.Pour protéger au mieux les locataires, il faut veiller en parallèle à préserver l’offre locative. Lorsque l’investissement locatif devient moins attractif, la réduction du parc privé accentue mécaniquement les tensions sur les loyers. Toute régulation durable doit être cohérente, stable et s’accompagner d’un véritable statut du bailleur privé. La priorité demeure l’accès de nos concitoyens à un logement abordable, ce qui implique d’actionner l’ensemble des leviers disponibles. Parce que toute décision sur l’avenir de l’expérimentation de l’encadrement devra s’appuyer sur une évaluation complète et objectivée, sa prolongation nous apparaît comme la solution la plus raisonnable. (Applaudissements sur quelques bancs des groupes SOC et GDR.)"
+  },
+  {
+   "orateur": "M. Stéphane Lenormand",
+   "qualite": null,
+   "groupe": "LIOT",
+   "president_de_seance": false,
+   "texte": "Cet amendement, que je défends au nom de notre collègue Valérie Létard, vise à prolonger de deux ans l’expérimentation de l’encadrement des loyers, portant sa durée de huit à dix ans. Cette prolongation constitue une solution plus rationnelle que la pérennisation, dans un contexte particulier. Nos débats ont montré la complexité du sujet, qui mérite mieux qu’une approche binaire selon laquelle il faudrait soit supprimer le dispositif, soit le pérenniser sans recul.Le logement n’est pas une marchandise comme les autres. Nous vivons une crise majeure de l’offre et de la demande, la hausse des taux continue d’avoir des effets tant sur l’ancien que sur le neuf, les normes énergétiques pèsent fortement sur l’offre locative et, dans la plupart des territoires concernés, l’encadrement n’a été appliqué que très récemment, ce qui rend son évaluation prématurée.Deux rapports importants sont attendus, qui nous permettront de disposer de données consolidées et d’un recul suffisant. Légiférer sans en prendre connaissance constituerait une prise de risque inutile, d’autant que le débat sur l’encadrement doit s’articuler avec la discussion du statut du bailleur privé, qui n’a pas encore abouti.Prolonger l’expérimentation permettra de disposer d’une évaluation complète, indispensable à une décision éclairée."
+  },
+  {
+   "orateur": "Mme Sandrine Runel",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Monsieur le ministre, ne prenez pas vos rêves pour des réalités : il n’y a pas encore de changement de majorité à Lyon, et ce n’est pas prévu, pas plus qu’à Paris d’ailleurs. (Murmures sur les bancs des groupes RN et EPR.) Ce n’est pas en voulant supprimer l’encadrement des loyers que vous allez pouvoir gagner ces villes, au contraire, car, dans ces deux villes, l’encadrement des loyers a permis à davantage de locataires d’accéder à des logements et surtout à des logements en centre-ville. (Applaudissements sur les bancs du groupe SOC et sur quelques bancs du groupe EcoS.) Il faut donc continuer ainsi, et notre groupe sera évidemment défavorable à cet amendement."
+  },
+  {
+   "orateur": "M. Inaki Echaniz",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Je comprends l’intention, mais ces amendements sont en grande partie satisfaits, puisque les logements classés G sont déjà frappés d’indécence énergétique, si bien qu’ils ne peuvent pas être loués et encore moins être sujets à un complément de loyer ; ce sera aussi bientôt le cas des logements classés F. Inclure ces dispositions dans le texte peut sous-entendre que ces logements pourraient tout de même être mis en location et qu’ils n’ont pas besoin d’être rénovés. Je demande donc le retrait des amendements, sans quoi mon avis sera défavorable."
+  },
+  {
+   "orateur": "M. François Jolivet",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "Notre collègue Stéphane Peu est au cœur du sujet ; il touche de près les effets de bord ou les angles morts de l’encadrement des loyers. Ce qu’il dit est vrai : pourquoi des logements classés F ou G seraient-ils soumis au même encadrement des loyers que le reste de la rue, comme c’est actuellement le cas dans toutes les villes qui conduisent ce type de politique ? Toutefois, avec quel argent le propriétaire fera-t-il des travaux de réhabilitation ?Les passoires thermiques ont un bel avenir devant elles ! Dans une rue donnée, tous les logements, quel que soit leur classement au titre du DPE, peuvent avoir des loyers similaires dès lors qu’ils satisfont aux obligations en matière d’encadrement des loyers. C’est la limite du dispositif. Nous avons besoin d’études comparatives pour nous poser les bonnes questions. Cela dit, nous ne voterons pas pour cet amendement. (M. Jean Moulliere applaudit.)"
+  },
+  {
+   "orateur": "Mme Sandrine Nosbé",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Puisque nous n’avons pas obtenu la suppression du complément de loyer, nous proposons, par cet amendement de repli, d’en encadrer plus strictement les conditions d’application, afin de mettre fin aux abus massifs constatés sur le terrain.Par la même occasion, cet amendement permettra de garantir que le complément de loyer demeure une exception limitée aux logements présentant réellement des caractéristiques exceptionnelles. Il y a un flou juridique autour de la notion de « caractéristiques de localisation ou de confort » déterminantes, qui est systématiquement exploitée par les bailleurs et les professionnels de l’immobilier pour motiver des compléments de loyer injustifiés. La jurisprudence a progressivement précisé les contours du complément de loyer et a établi qu’il doit reposer sur des « caractéristiques propres et objectives » du logement.L’amendement opère en outre un renversement de la charge de la preuve : il ne reviendrait plus au locataire de contester le complément de loyer, mais au bailleur de prouver, dès la signature du bail, que son logement justifie réellement un dépassement du loyer de référence majoré.Cet amendement vise à faire du complément de loyer une exception encadrée et justifiée. Il ne doit plus être un mécanisme de contournement généralisé de l’encadrement des loyers. (Mme Anaïs Belouassa-Cherifi applaudit.)"
+  },
+  {
+   "orateur": "M. Olivier Fayssat",
+   "qualite": null,
+   "groupe": "UDR",
+   "president_de_seance": false,
+   "texte": "À cause de vos propositions, l’investisseur ne sera plus au rendez-vous. Dans dix ans, le manque de logements sera encore plus grave. Que ferez-vous alors ? Vous confisquerez encore plus de logements pour les transformer en logements sociaux ? Est-ce là l’avenir dont vous rêvez pour nous ? (Applaudissements sur les bancs des groupes UDR et RN.)"
+  },
+  {
+   "orateur": "Mme Sandrine Nosbé",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Je tiens à préciser que les petits logements sont surreprésentés parmi les biens qui font l’objet d’un dépassement du loyer de référence majoré : c’est le cas de 91 % des logements de 10 mètres carrés ou moins et de 34 % des studios. Or ces logements sont majoritairement occupés par des jeunes, des étudiants et des célibataires. C’est pourquoi nous proposons de plafonner le complément de loyer à 10 % du loyer de référence majoré. (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+  },
+  {
+   "orateur": "M. Stéphane Peu",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "J’ai rappelé lors de la discussion générale que, dans bien des endroits où l’encadrement des loyers avait été décidé, il n’était pas toujours appliqué. C’est si vrai que, dans le territoire où je suis élu, 60 % des loyers n’obéissent pas à l’encadrement décidé par la collectivité.Tout le monde tombera certainement d’accord sur le fait qu’une règle doit être respectée. Or, pour qu’une règle soit respectée, il faut des moyens, notamment des sanctions. Nous souhaitons que la mise en demeure par le préfet soit non pas une simple faculté, mais une obligation."
+  },
+  {
+   "orateur": "M. Bernard Chaix",
+   "qualite": null,
+   "groupe": "UDR",
+   "president_de_seance": false,
+   "texte": "On peut le considérer comme un amendement d’appel : il s’agit d’ouvrir un débat sur la manière dont nous pourrions libérer le marché locatif, aujourd’hui sous tension.Si nous voulons davantage de logements disponibles, il faut cesser d’étouffer ceux qui les mettent sur le marché. L’une des causes majeures de la pénurie actuelle de logements est l’inflation réglementaire : l’accumulation des contraintes et leur changement constant découragent l’investissement.Les bailleurs font déjà face à une rentabilité qui s’est effondrée. La taxe foncière est en hausse. Les travaux énergétiques se chiffrent parfois à plusieurs dizaines de milliers d’euros. Ajoutez à cela des restrictions successives et une incertitude juridique permanente, et les bailleurs jettent l’éponge !Doubler ou tripler les amendes ne créera pas plus de logements, mais accélérera la sortie des bailleurs du marché. Or, lorsqu’un propriétaire quitte le marché, ce n’est pas lui qui souffre ; ce sont les locataires, qui perdent un logement. Réduire les amendes, ce n’est donc pas renoncer au contrôle, mais afficher la volonté de maintenir les investisseurs sur le marché.Si nous voulons plus de logements, nous devons commencer par ne pas décourager ceux qui les mettent à disposition. Un marché ne respire pas sous les couches de normes empilées à l’infini ! La stabilité et la lisibilité, voilà ce qui donne confiance aux investisseurs. Voilà comment on redonne aux locataires la possibilité de se loger. (Applaudissements sur les bancs du groupe UDR.)"
+  },
+  {
+   "orateur": "M. Boris Tavernier",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Au sein d’une agglomération qui pratique l’encadrement des loyers, le loyer médian peut être très différent selon les quartiers. Or l’encadrement des loyers n’a pas vocation à entériner les inégalités, voire les excès, du passé, mais à les réduire dans une même zone et entre les différentes zones d’un même territoire."
+  },
+  {
+   "orateur": "M. Boris Tavernier",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Ainsi, l’encadrement doit pouvoir s’ajuster à la tension et modérer les écarts importants à l’intérieur même des territoires sur lesquels il s’applique. Cet amendement prévoit donc que, dans les zones « où le loyer médian est supérieur de 10 % au niveau du loyer médian du reste de l’agglomération pour les mêmes catégories de logement », le loyer de référence peut être majoré au maximum de 10 %."
+  },
+  {
+   "orateur": "M. Frédéric-Pierre Vos",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Si la rente locative n’est plus adaptée, c’est-à-dire si elle ne permet plus de rembourser les travaux ou n’assure plus un complément de retraite au propriétaire – qui n’est pas forcément un spéculateur non vertueux ! –, tout va être bloqué et on va se retrouver avec les mêmes difficultés qu’à la sortie de la seconde guerre mondiale : l’impossibilité de faire évoluer le parc immobilier. (M. Aurélien Rousseau s’exclame.) C’est réglé comme du papier à musique. Nous avons là une très mauvaise loi. (Applaudissements sur plusieurs bancs des groupes RN et UDR.)"
+  },
+  {
+   "orateur": "M. François Jolivet",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "Tout le monde – y compris notre collègue du groupe LFI qui a évoqué la proximité d’une fontaine… – a parlé d’une manière ou d’une autre de la qualité du service rendu par le logement au locataire, mais j’aurais aimé que les groupes s’expriment davantage à ce sujet, car la vraie difficulté est là : l’encadrement des loyers ne tient pas compte de la qualité du service rendu. Notre collègue du Rassemblement national le dit : dans une rue donnée, avec l’encadrement des loyers, un propriétaire qui entreprend des travaux pour que son logement soit désormais classé A continuera à percevoir le même loyer qu’un propriétaire qui ne fait pas de travaux et dont le logement reste classé B. Cela n’a pas de sens et c’est injuste."
+  },
+  {
+   "orateur": "M. Stéphane Peu",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Nous souhaitons qu’une vigilance accrue soit exercée à l’égard des plateformes de location. Il faut mettre fin aux dérives constatées : sur la plateforme SeLoger, 24 % des annonces ne respectent pas l’encadrement des loyers, et sur la plateforme Particulier à particulier, on monte à 48 %.Cet amendement vise à contraindre les bailleurs et les plateformes à respecter l’encadrement des loyers lorsqu’il a été décidé par les collectivités : les annonces devraient indiquer les conditions tarifaires au regard des règles d’encadrement du loyer. En cas de manquement, l’autorité compétente pourrait prononcer une amende."
+  },
+  {
+   "orateur": "M. Vincent Jeanbrun",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je comprends moi aussi l’intention, mais je rappelle qu’en matière d’annonces locatives, des obligations s’appliquent déjà tant aux bailleurs particuliers qu’aux professionnels du secteur immobilier. Pour les professionnels de l’intermédiation immobilière, ces obligations sont assorties de sanctions, prévues par le code de la consommation. S’agissant des bailleurs particuliers et des relations entre particuliers, les différends sont réglés par le juge judiciaire, comme pour l’ensemble des sujets relevant des rapports locatifs. J’estime donc que ces amendements sont satisfaits et j’en demande le retrait, sans quoi j’inviterai à leur rejet."
+  },
+  {
+   "orateur": "Mme Marie Lebec",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Cet amendement, dont je suis cosignataire, a été déposé par notre collègue Guillaume Kasbarian.Monsieur le rapporteur, vous réalisez souvent un travail de qualité et je vous en sais gré, mais je ne comprends pas du tout comme on peut écrire, dans un texte de loi, ce qui figure à l’alinéa 4 de l’article 2 : « En cas de congé pour vente ou pour reprise, l’ancien locataire peut, entre trois et six mois après l’expiration de son titre d’occupation, demander au bailleur communication de tout élément probant de nature à établir la réalité de la vente, du projet de vente, de la mise en vente effective du logement ou de sa reprise. » Alors que nous essayons tous, dans cette assemblée, d’améliorer les relations entre les bailleurs et les locataires, cette disposition n’est pas de nature à y contribuer.Par ailleurs, je suppose que vous êtes comme moi régulièrement confronté à des situations où les locataires ne rendent pas le logement. Cette règle ne ferait qu’empirer la relation entre le locataire et le bailleur. Plus globalement, elle désinciterait les propriétaires à mettre leur logement sur le marché locatif."
+  },
+  {
+   "orateur": "M. Frédéric-Pierre Vos",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "En effet, le code civil dispose que les contrats se concluent de bonne foi. S’ils se concluent de bonne foi, ils se résolvent de bonne foi. Les obligations imposées aux propriétaires par la loi de 1989 sont déjà largement suffisantes sans qu’il soit besoin de transformer les uns ou les autres en inquisiteurs, ce qui conduirait fatalement à inverser les rôles : les locataires pourraient être instrumentalisés par des plaideurs ; il en résulterait un engorgement accru des tribunaux et des cours. Je suis donc pour la suppression de l’article 2. (Applaudissements sur plusieurs bancs des groupes RN et UDR.)"
+  },
+  {
+   "orateur": "M. Inaki Echaniz",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je suis favorable à l’amendement de M. Tavernier, sous réserve de l’adoption du sous-amendement. L’amendement se bornerait donc à interdire la revalorisation du complément de loyer – par exemple à l’IRL – pendant la durée du bail. En effet, une vue ou un balcon n’a pas vocation à être revalorisé ainsi dans le temps."
+  },
+  {
+   "orateur": "Mme Annaïg Le Meur",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Comme je l’ai dit lors de la discussion générale, le mot « encadrement » fait peur. C’est pourquoi je propose plutôt de parler d’ajustement des loyers aux prix du marché, ce qui correspond à la réalité. En effet, la loi en vigueur, loin de déterminer un loyer social, permet la fixation d’un loyer juste par rapport au marché."
+  },
+  {
+   "orateur": "M. Inaki Echaniz",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je partage l’avis de notre collègue sur l’effet un peu stigmatisant du terme « encadrement » mais, en pastichant de manière humoristique des propos tenus sur certains bancs, je dirai qu’il est trop tôt pour prendre une décision sur le titre de la proposition de loi et qu’il faut attendre le rapport ministériel pour le faire. (Applaudissements et sourires sur les bancs des groupes SOC et EcoS. – M. Stéphane Peu applaudit et sourit également.)Je remercie le groupe socialiste de m’avoir fait confiance sur ce texte et l’ensemble des élus qui s’intéressent au sujet. J’espère un vote favorable le plus large possible. Je tiens à associer à ce résultat les maires qui ont travaillé avec nous sur le texte, ainsi que les acteurs du logement, qui y sont favorables. Faisons confiance à nos territoires ! (Applaudissements sur plusieurs bancs du groupe SOC.)"
+  },
+  {
+   "orateur": "M. Vincent Jeanbrun",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je salue l’énergie de M. le rapporteur et la force de ses convictions. (Applaudissements sur les bancs du groupe SOC et sur plusieurs bancs du groupe EcoS. – M. Stéphane Peu applaudit également.) On ne peut que reconnaître sa sincérité et le travail de fond qu’il a mené.Madame Le Meur, je ne suis pas certain qu’il faille déguiser les titres des textes mais, en raison de votre travail sur le logement, des échanges réguliers que nous avons et de la passion que vous mettez sur ce sujet, je m’en remets à la sagesse de l’Assemblée à propos de votre amendement."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Elle est de droit. La séance est suspendue."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(La séance, suspendue à dix-neuf heures trente-trois, est reprise à dix-neuf heures trente-cinq.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La séance est reprise. Je mets aux voix l’ensemble de la proposition de loi."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

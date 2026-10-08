@@ -1,0 +1,55 @@
+{
+  "uid": "VTANR5L17V8280",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Christophe Bentz",
+      "citation": "Cette loi va arracher des vies humaines, des vies soignables, des vies sauvables.",
+      "justification": "Le groupe s'oppose à la création d'une aide à mourir."
+    },
+    "LFI": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Karen Erodi",
+      "citation": "Cette loi n’ôte aucun droit mais elle en crée un : le droit de disposer de soi.",
+      "justification": "Le groupe soutient la création du droit à l'aide à mourir."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Océane Godard",
+      "citation": "au nom de la dignité et de la liberté, une large majorité du groupe Socialistes et apparentés votera pour la proposition de loi relative au droit à l’aide à mourir en France.",
+      "justification": "Le groupe soutient la création du droit à l'aide à mourir."
+    },
+    "DR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Justine Gruet",
+      "citation": "Nous nous apprêtons à reconnaître un droit à mourir sans garantie d’accéder partout au droit d’être soigné et accompagné.",
+      "justification": "Le groupe s'oppose au texte en invoquant l'accès insuffisant aux soins et le respect de la vie."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Sandrine Rousseau",
+      "citation": "Avec cette proposition de loi qui crée l’aide à mourir, le législateur ne détourne plus le regard.",
+      "justification": "Le groupe soutient la création du droit à l'aide à mourir."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": "M. Yannick Monnet",
+      "citation": null,
+      "justification": "L'orateur annonce une abstention personnelle et indique que tous les votes seront représentés dans le groupe, sans exposer la raison du vote du groupe."
+    },
+    "UDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Olivier Fayssat",
+      "citation": "Ce texte est dangereux : nous avons échoué à sécuriser son application.",
+      "justification": "Le groupe juge que le texte ne protège pas suffisamment les personnes vulnérables."
+    }
+  }
+}

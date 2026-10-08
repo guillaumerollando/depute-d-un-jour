@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V3919",
+  "consigne": "etape3_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "La dernière phrase reprend la justification du Gouvernement contre l'amendement (sous-consommation des crédits) sans contrepartie : argument d'un camp, contraire à la neutralité."
+  ],
+  "corrections": {
+    "ce_que_ca_change": "Le texte de fin d'année annule environ 50 millions d'euros prévus pour l'outre-mer en 2025, sur l'emploi (18,8 millions) et les conditions de vie (31,2 millions). L'amendement supprime ces annulations : l'argent resterait disponible pour ces programmes."
+  }
+}

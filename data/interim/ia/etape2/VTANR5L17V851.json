@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V851",
+  "consigne": "etape2_ambiguite v2",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Les propos du groupe dans l'extrait ne portent pas sur l'article 2 bis ni sur l'amendement."
+    },
+    "EPR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Charles Sitzenstuhl",
+      "citation": "Nous soutiendrons l’article 2 bis qui renforce la transparence au sujet de la pollution des eaux en prévoyant la diffusion d’informations à l’ensemble de nos concitoyens.",
+      "justification": "Le groupe déclare soutenir l'article dont l'amendement demande la suppression."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime que par une interjection sans rapport avec le fond de l'amendement."
+    },
+    "DR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Fabien Di Filippo",
+      "citation": "quoique utile, l’article passe un peu à côté du problème.",
+      "justification": "Le groupe juge l'article utile tout en estimant qu'il ne couvre pas l'exposition par le milieu marin."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "DEM": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Cyrille Isaac-Sibille",
+      "citation": "Il faut donc absolument que la transparence s’impose.",
+      "justification": "Le groupe déclare la transparence sur les Pfas dans l'eau nécessaire, ce que prévoit l'article."
+    },
+    "HOR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Éric Michoux",
+      "citation": "Nous préférerions commencer par établir une échelle de leur nocivité",
+      "justification": "Le groupe demande la suppression de l'article en préférant d'abord établir une échelle de nocivité des substances."
+    }
+  }
+}

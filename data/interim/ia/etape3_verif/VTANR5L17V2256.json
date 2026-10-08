@@ -1,0 +1,12 @@
+{
+ "uid": "VTANR5L17V2256",
+ "consigne": "etape3_verification v2",
+ "verdict": "corrige",
+ "problemes": [
+  "Le texte adopté impose de prévenir l'employeur au moins trois jours ouvrés avant le don, et non deux jours.",
+  "Le plafond de huit absences par an figure bien dans le texte adopté ; le don se fait sur le site de collecte le plus proche du travail ou du domicile."
+ ],
+ "corrections": {
+  "ce_que_ca_change": "Les salariés et agents publics pourraient s'absenter pour donner leur sang, leurs plaquettes ou leur plasma près de leur travail ou de leur domicile, dans la limite de huit absences par an, en prévenant leur employeur au moins trois jours ouvrés avant. Leur salaire serait maintenu pendant le trajet et le don. L'employeur pourrait refuser pour des raisons d'organisation."
+ }
+}

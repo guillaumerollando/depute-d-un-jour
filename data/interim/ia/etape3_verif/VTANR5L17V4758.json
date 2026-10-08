@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V4758",
+  "consigne": "etape3_verification v2",
+  "verdict": "corrige",
+  "problemes": [
+    "La carte présente l'article 105 comme un relèvement de l'âge de départ, alors qu'il réécrit à la baisse le calendrier de hausse issu de la loi de 2023 (le débat parle de « suspension de la réforme des retraites de 2023 ») : formulation trompeuse sur le sens de la mesure."
+  ],
+  "corrections": {
+    "ce_que_ca_change": "Le texte fixe les dépenses de la Sécurité sociale pour 2026, dont 274,4 milliards d'euros pour l'assurance maladie. Il crée un congé de naissance indemnisé d'un ou deux mois, après les congés de maternité, de paternité ou d'adoption. Il ralentit la hausse de l'âge de départ à la retraite prévue en 2023 : 62 ans et 9 mois pour les nés de 1963 à mars 1965, puis 63 ans et 9 mois pour les nés en 1968."
+  }
+}

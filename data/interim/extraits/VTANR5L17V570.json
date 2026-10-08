@@ -1,0 +1,157 @@
+{
+ "uid": "VTANR5L17V570",
+ "titre": "l'amendement n° 68 de Mme Trouvé à l'article 21 du projet de loi d'urgence pour Mayotte (première lecture).",
+ "type": "amendement",
+ "date": "2025-01-21",
+ "dossier": "DLR5L17N51222",
+ "dossier_titre": "Projet de loi d'urgence pour Mayotte",
+ "sort": "adopté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "contre",
+  "LFI": "pour",
+  "SOC": "pour",
+  "DR": "contre",
+  "ECOS": "pour",
+  "DEM": "contre",
+  "HOR": "contre",
+  "LIOT": "pour",
+  "GDR": "pour",
+  "UDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 81,
+   "contre": 0,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 0,
+   "contre": 19,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 33,
+   "contre": 0,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 23,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 0,
+   "contre": 5,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 10,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 12,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 5,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 3,
+   "contre": 0,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 5,
+   "contre": 0,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 7,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC0775P0D1N000068",
+  "dossier": "DLR5L17N51222",
+  "texte": "PRJLANR5L17BTC0775",
+  "division": "Article 21",
+  "auteur": "Mme Trouvé,  Mme Abomangoli, M. Alexandre, M. Amard, Mme Amiot, Mme Amrani, M. Arenas, M. Arnault, Mme Belouassa-Cherifi, M. Bernalicis, M. Bex, M. Bilongo, M. Bompard, M. Boumertit, M. Boyard, M. Cadalen, M. Caron, M. Carrière, Mme Cathala, M. Cernon, Mme Chikirou, M. Clouet, M. Coquerel, M. Coulomme, M. Delogu, M. Diouara, Mme Dufour, Mme Erodi, Mme Feld, M. Fernandes, Mme Ferrer, M. Gaillard, Mme Guetté, M. Guiraud, Mme Hamdane, Mme Hignet, M. Kerbrat, M. Lachaud, M. Lahmar, M. Laisney, M. Le Coq, M. Le Gall, Mme Leboucher, M. Legavre, Mme Legrain, Mme Lejeune, Mme Lepvraud, M. Léaument, Mme Élisa Martin, M. Maudet, Mme Maximi, Mme Mesmeur, Mme Manon Meunier, M. Nilor, Mme Nosbé, Mme Obono, Mme Oziol, Mme Panot, M. Pilato, M. Piquemal, M. Portes, M. Prud'homme, M. Ratenon, M. Saint-Martin, M. Saintoul, Mme Soudais, Mme Stambach-Terrenoir, M. Taché, Mme Taurinya, M. Tavel et M. Vannier",
+  "auteur_groupe": "LFI",
+  "auteur_type": "Député",
+  "dispositif": "À la première phrase de l’alinéa 1, substituer à la date : « 31 mars 2025 », la date : « 30 juin 2025 ».",
+  "expose": "Cet amendement du groupe LFI-NFP vise à augmenter de trois mois la période de maintien des droits et prestations sociales des résidents mahorais. Il est question ici de soulager les victimes du cyclone des démarches administratives de renouvellement de leurs droits et prestations sociales ainsi que de leurs préoccupations financières. Mayotte connaît en effet le taux de chômage le plus élevé de France, à 37 %, le PIB par habitant le plus bas de France, à 10 600 € et le taux de pauvreté s'élève à 77%. Le délai de quatre mois prévu initialement par le texte est trop court : d’une part parce qu’une nouvelle tempête, le cyclone Dikeledi, a frappé Mayotte le 11 janvier, d’autre part parce que l’accès aux bâtiments administratifs restants sont au mieux restreints au pire impossibles."
+ },
+ "seance": "RUANR5L17S2025IDS28942",
+ "compte_rendu": "CRSANR5L17S2025O1N076",
+ "interventions": [
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme la présidente de la commission des affaires économiques, pour soutenir l’amendement no 68."
+  },
+  {
+   "orateur": "Mme Aurélie Trouvé",
+   "qualite": "présidente de la commission des affaires économiques",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "L’article 21 vise à soulager les victimes du cyclone des démarches administratives ordinairement requises pour renouveler les droits à prestations sociales, en prolongeant de quatre mois le versement de celles-ci par la caisse de sécurité sociale de Mayotte. J’ai déposé cet amendement car j’estime la prolongation trop courte, d’autant qu’aux problèmes pris en compte dans la première version du texte, que nous avons examinée en commission, sont venus s’ajouter les énormes dégâts de la tempête Dikeledi. N’oublions pas que l’accès aux bâtiments administratifs est fortement restreint, voire impossible, comme cela nous a été rapporté et comme le savent ceux qui ont pu se rendre à Mayotte, et cette situation risque fort de durer. Pour ces raisons, je propose de prolonger le délai prévu de trois mois supplémentaires.Le taux de chômage s’élevant à Mayotte à 37 % et le taux de pauvreté à 77 %, pouvoir recourir aux aides sociales revêt une importance extrême. Vu la situation des Mahoraises et des Mahorais après la catastrophe Chido, il nous semble nécessaire de prolonger le maintien de leurs droits aux prestations versées par la caisse de sécurité sociale. (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis de la commission ?"
+  },
+  {
+   "orateur": "Mme Estelle Youssouffa",
+   "qualite": "rapporteure",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Avis favorable."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis du gouvernement ?"
+  },
+  {
+   "orateur": "M. Manuel Valls",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Vous comprendrez que, comme membre du gouvernement, j’émette un avis défavorable.Je m’étonne, du reste, que l’amendement n’ait pas été déclaré irrecevable, comme l’a été un amendement de M. Gosselin, pour une raison financière évidente : il n’est pas gagé. Je peux me tromper, mais je ne comprends pas comment un tel amendement a pu venir en discussion en séance. C’est une raison de plus pour émettre un avis défavorable."
+  },
+  {
+   "orateur": "M. Philippe Gosselin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Je confirme !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 68."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

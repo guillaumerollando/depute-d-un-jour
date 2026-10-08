@@ -1,0 +1,62 @@
+{
+  "uid": "VTANR5L17V1310",
+  "consigne": "etape2_ambiguite v2",
+  "groupes": {
+    "RN": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Franck Allisio",
+      "citation": "Lorsqu’à Marseille, en 2024, se sont tenus deux procès pour fausses procurations lors d’élections municipales, il est évident qu’il y a un problème de fraude",
+      "justification": "Le groupe invoque un problème de fraude électorale à Marseille et vote contre la suppression de l'article."
+    },
+    "EPR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Sylvain Maillard",
+      "citation": "Chacun d’entre vous, lorsque l’on discute avec lui, admet que le mode de scrutin dans ces trois villes pose problème.",
+      "justification": "Le groupe juge le mode de scrutin actuel problématique et vote contre la suppression de l'article."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Bastien Lachaud",
+      "citation": "Élire de manière dissociée les conseillers de la mairie centrale et ceux de la mairie d’arrondissement serait une bonne chose, pour une raison simple : cela mettrait un terme au cumul de ces deux mandats !",
+      "justification": "Le groupe soutient l'élection dissociée prévue par l'article et vote contre sa suppression."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Emmanuel Grégoire",
+      "citation": "en brisant le lien organique entre les conseils d’arrondissement et les conseils centraux, vous allez condamner les arrondissements à une mort clinique.",
+      "justification": "Le groupe s'oppose au contenu de l'article et vote pour sa suppression."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Danielle Simonnet",
+      "citation": "Deuxièmement, elle déconnecte les arrondissements et les secteurs des conseils municipaux. Cette déconnexion est telle que vous pourrez très bien, à Paris, à Lyon ou à Marseille, avoir une liste gagnante qui ne présenterait que des candidats dans les quartiers bourgeois.",
+      "justification": "Le groupe s'oppose aux effets de l'article sur la représentation des quartiers et vote pour sa suppression."
+    },
+    "DEM": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Stéphane Peu",
+      "citation": "il en résulte un risque énorme que certains arrondissements soient surreprésentés, ou ne soient pas représentés du tout, au sein des conseils municipaux.",
+      "justification": "Le groupe s'oppose aux effets de l'article et vote pour sa suppression."
+    },
+    "UDR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    }
+  }
+}

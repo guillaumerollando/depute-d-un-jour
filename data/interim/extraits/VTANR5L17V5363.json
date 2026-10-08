@@ -1,0 +1,265 @@
+{
+ "uid": "VTANR5L17V5363",
+ "titre": "l'amendement n° 4 de M. Tryzna et les amendements identiques suivants à l'article premier de la proposition de loi pour protéger l'eau potable (première lecture).",
+ "type": "amendement",
+ "date": "2026-02-12",
+ "dossier": "DLR5L17N53425",
+ "dossier_titre": "Protéger l'eau potable",
+ "sort": "adopté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "pour",
+  "LFI": "contre",
+  "DR": "pour",
+  "ECOS": "pour",
+  "HOR": "pour",
+  "UDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 64,
+   "contre": 0,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 20,
+   "contre": 2,
+   "abstention": 1
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 41,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 5,
+   "contre": 16,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 15,
+   "contre": 0,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 36,
+   "contre": 0,
+   "abstention": 2
+  },
+  "DEM": {
+   "pour": 2,
+   "contre": 0,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 10,
+   "contre": 0,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 0,
+   "contre": 0,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 2,
+   "contre": 0,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 6,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC2427P0D1N000004",
+  "dossier": "DLR5L17N53425",
+  "texte": "PIONANR5L17BTC2427",
+  "division": "Article PREMIER",
+  "auteur": "M. Tryzna,  M. Thiériot, Mme de Maistre, Mme Minard, Mme Corneloup, M. Duparay, M. Brigand, M. Ray, M. Lepers et M. Ceccoli",
+  "auteur_groupe": "DR",
+  "auteur_type": "Député",
+  "dispositif": "Supprimer les alinéas 6 et 7.",
+  "expose": "Ces alinéas introduisent une nouvelle strate de planification en matière de gestion de l’eau, alors même que les schémas existants (SDAGE, SAGE, projets de territoire) constituent déjà un cadre particulièrement dense. Cette superposition de documents et d’objectifs contribue à la complexité normative et à l’insécurité juridique pour les collectivités et les acteurs locaux, sans garantie d’une amélioration concrète de la qualité de la ressource. La protection de l’eau ne saurait justifier une inflation de dispositifs redondants et peu lisibles. Il convient donc de les supprimer."
+ },
+ "seance": "RUANR5L17S2026IDS30263",
+ "compte_rendu": "CRSANR5L17S2026O1N148",
+ "interventions": [
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je suis saisie de trois amendements identiques, nos 4, 65 et 105. La parole est à Mme Christelle Minard, pour soutenir l’amendement no 4."
+  },
+  {
+   "orateur": "Mme Christelle Minard",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Il existe déjà de nombreux outils de planification en matière de gestion de l’eau, tels que les schémas directeurs d’aménagement et de gestion des eaux (Sdage) et les Sage, qui font l’objet d’une réglementation particulièrement dense. Les alinéas 6 et 7 introduisent une nouvelle strate de planification et de gestion dans la politique de préservation de la ressource en eau. Ils imposent un nouveau document, une nouvelle norme, aux collectivités territoriales, alors que les Français demandent une simplification administrative et une meilleure lisibilité des règles et des textes.Nous partageons tous l’objectif de préserver la ressource en eau, mais cela ne peut pas justifier la création de nouvelles contraintes redondantes et peu lisibles. C’est la raison pour laquelle nous souhaitons la suppression de ces deux alinéas."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Sébastien Humbert, pour soutenir l’amendement no 65."
+  },
+  {
+   "orateur": "M. Sébastien Humbert",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Les alinéas 6 et 7 introduisent une nouvelle complexité sans réelle efficacité démontrée."
+  },
+  {
+   "orateur": "Mme Christine Arrighi",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Vous n’en savez rien !"
+  },
+  {
+   "orateur": "M. Sébastien Humbert",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Pour rappel, un Sage est défini à l’échelle d’un bassin-versant ou d’une nappe. Il s’agit donc souvent d’un espace très vaste. Le Sage est généralement trop large pour définir finement des zones sensibles liées à un captage donné, surtout quand plusieurs aires d’alimentation des captages très différentes coexistent dans le même territoire. Cet outil stratégique n’est pas opérationnel, à la différence de l’aire d’alimentation des captages, qui permet l’application de mesures rapides, ciblées et si nécessaire contraignantes dans une zone hydrogéologique précise, souvent localisée sur quelques communes. Contrairement au Sage, l’aire d’alimentation des captages apparaît donc la solution la plus efficace sur le plan environnemental et économique."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Anne-Sophie Ronceret, pour soutenir l’amendement no 105."
+  },
+  {
+   "orateur": "Mme Anne-Sophie Ronceret",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Les alinéas 6 et 7 introduisent une obligation générale de planification de la gestion et de la préservation de la ressource en eau en la subordonnant à la prise en compte de plusieurs documents, dont le Sdage et le Sage. (Exclamations sur quelques bancs du groupe LFI-NFP.) Nous sommes attachés à la cohérence des politiques publiques et nous refusons la superposition systématique des schémas et des plans, qui finit par produire des effets inverses à ceux recherchés : complexité, lenteur, dilution des responsabilités. Les collectivités ont besoin de clarté et d’une capacité d’action, pas d’un carcan administratif supplémentaire. (Mêmes mouvements.) Supprimer ces dispositions, ce n’est pas affaiblir la protection de l’eau, c’est éviter d’alourdir un cadre déjà très structuré."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis de la commission sur ces amendements identiques ?"
+  },
+  {
+   "orateur": "M. Jean-Claude Raux",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Une journée d’initiative parlementaire devrait être l’occasion de débattre de manière approfondie et argumentée des sujets abordés, au lieu de quoi nous entendons des approximations et des contrevérités (Applaudissements sur plusieurs bancs des groupes LFI-NFP, SOC, EcoS et GDR), auxquelles il nous faut répondre à la hâte pour ne pas ralentir la discussion.Monsieur Humbert, vous avez confondu le Sage et l’aire d’alimentation des captages – revoyez les définitions, vos propos étaient assez confus. Néanmoins, parce que je ne suis pas dogmatique (Rires sur les bancs du groupe DR. – Mme Anne-Laure Blin s’exclame) et parce que l’objectif de la proposition de loi est de fixer un cadre lisible et rapidement opérationnel, sans créer de complexité, je formule un avis favorable sur ces amendements, ce dont vous devriez vous féliciter. (Applaudissements sur les bancs du groupe EcoS.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis du gouvernement ?"
+  },
+  {
+   "orateur": "M. Mathieu Lefèvre",
+   "qualite": "ministre délégué",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Favorable."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Philippe Vigier."
+  },
+  {
+   "orateur": "M. Philippe Vigier",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Je n’ai pas pu m’exprimer sur les très bons amendements de Christelle Minard et de Guillaume Kasbarian plus tôt dans la discussion, mais je voulais dire à M. le rapporteur, pour qui la proposition de loi concernerait 25 % de la SAU, que, chez moi, ce serait 80 % ! (M. Ugo Bernalicis s’exclame.)"
+  },
+  {
+   "orateur": "Mme Anne-Laure Blin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "C’est la réalité du terrain !"
+  },
+  {
+   "orateur": "M. Philippe Vigier",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Oui, c’est la réalité. Quand seulement 3 % à 5 % de la SAU est touchée, des mesures d’accompagnement sont possibles, et nous n’avons d’ailleurs pas attendu votre texte pour en prendre. Il y a plus de vingt ans que nous proposons des mesures d’accompagnement pour les captages sensibles, avec de vrais résultats. (Exclamations sur les bancs du groupe EcoS.) Venez voir les agriculteurs et cessez de les considérer uniquement comme des boucs émissaires, ce qui ne leur rend vraiment pas service ! (Applaudissements sur quelques bancs du groupe EPR. – M. Alexandre Dufosset applaudit également.)"
+  },
+  {
+   "orateur": "M. Ugo Bernalicis",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Vous n’avez rien capté !"
+  },
+  {
+   "orateur": "M. Philippe Vigier",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Nous voulons tout autant que vous une eau de qualité, mais nous n’avons pas comme vous une image déformée de la situation. (Exclamations sur quelques bancs du groupe EcoS.) Je connais bien Jean-Claude Raux et je suis surpris qu’il défende de telles mesures de portée générale. La proposition de loi a certes été modifiée en commission, mais, je vous le dis, elle menace toute une part de notre agriculture. (Applaudissements sur plusieurs bancs des groupes Dem, RN, EPR, DR et HOR.) Accompagnons les acteurs, embarquons tout le monde dans cette démarche, y compris les collectivités ! Chez moi, ce sont plus de 15 millions d’euros qui ont été investis pour les accompagner dans la production de l’eau potable. Entendez notre message !"
+  },
+  {
+   "orateur": "Mme Anne-Laure Blin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Exactement !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Fabrice Barusseau."
+  },
+  {
+   "orateur": "M. Fabrice Barusseau",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Le groupe Socialistes et apparentés votera contre ces amendements identiques. Comme toujours sur ce sujet, nous ne parvenons pas à avancer parce que nous fonctionnons en silos."
+  },
+  {
+   "orateur": "M. Philippe Vigier",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Très bien !"
+  },
+  {
+   "orateur": "M. Fabrice Barusseau",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Tant que nous séparerons la question de la qualité de celle de la quantité, nous ne progresserons pas. Il est important d’aborder le grand cycle de l’eau, mais il s’agit d’un tout et les Sage et les Sdage permettent aussi d’intégrer des notions qualitatives. (Applaudissements sur les bancs du groupe SOC.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix les amendements identiques nos 4, 65 et 105."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

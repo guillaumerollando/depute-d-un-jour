@@ -1,0 +1,76 @@
+{
+ "uid": "VTANR5L17V4711",
+ "consigne": "etape2_ambiguite v2",
+ "groupes": {
+  "RN": {
+   "position": "contre",
+   "categorie": "C",
+   "orateur": null,
+   "citation": null,
+   "justification": "Le groupe ne s'exprime pas dans l'extrait."
+  },
+  "EPR": {
+   "position": "contre",
+   "categorie": "C",
+   "orateur": null,
+   "citation": null,
+   "justification": "Le groupe ne s'exprime pas dans l'extrait."
+  },
+  "LFI": {
+   "position": "contre",
+   "categorie": "C",
+   "orateur": null,
+   "citation": null,
+   "justification": "Le groupe ne s'exprime pas dans l'extrait."
+  },
+  "SOC": {
+   "position": "contre",
+   "categorie": "C",
+   "orateur": null,
+   "citation": null,
+   "justification": "Le groupe ne s'exprime pas dans l'extrait."
+  },
+  "DR": {
+   "position": "pour",
+   "categorie": "C",
+   "orateur": null,
+   "citation": null,
+   "justification": "Le groupe ne s'exprime pas dans l'extrait."
+  },
+  "ECOS": {
+   "position": "contre",
+   "categorie": "C",
+   "orateur": null,
+   "citation": null,
+   "justification": "Le groupe ne s'exprime pas dans l'extrait."
+  },
+  "DEM": {
+   "position": "contre",
+   "categorie": "C",
+   "orateur": null,
+   "citation": null,
+   "justification": "Le groupe ne s'exprime pas dans l'extrait."
+  },
+  "HOR": {
+   "position": "pour",
+   "categorie": "A",
+   "orateur": "M. Jean Moulliere",
+   "citation": "quelques points restent à éclaircir et c’est pourquoi nous proposons qu’« un décret en Conseil d’État précise la répartition des compétences, en matière d’assistance éducative, entre l’administrateur ad hoc et l’avocat »",
+   "justification": "Le groupe défend son amendement pour préciser la répartition des compétences entre administrateur ad hoc et avocat."
+  },
+  "GDR": {
+   "position": "contre",
+   "categorie": "C",
+   "orateur": null,
+   "citation": null,
+   "justification": "Le groupe ne s'exprime pas dans l'extrait."
+  },
+  "UDR": {
+   "position": "contre",
+   "categorie": "C",
+   "orateur": null,
+   "citation": null,
+   "justification": "Le groupe ne s'exprime pas dans l'extrait."
+  }
+ }
+}

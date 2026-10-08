@@ -1,0 +1,55 @@
+{
+  "uid": "VTANR5L17V5363",
+  "consigne": "etape2_ambiguite v2",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Sébastien Humbert",
+      "citation": "Les alinéas 6 et 7 introduisent une nouvelle complexité sans réelle efficacité démontrée.",
+      "justification": "Le groupe soutient la suppression en jugeant que les alinéas ajoutent de la complexité sans efficacité démontrée."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Anne-Sophie Ronceret",
+      "citation": "nous refusons la superposition systématique des schémas et des plans, qui finit par produire des effets inverses à ceux recherchés : complexité, lenteur, dilution des responsabilités.",
+      "justification": "Le groupe soutient la suppression en refusant la superposition des documents de planification."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas sur la mesure dans l'extrait."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Christelle Minard",
+      "citation": "Nous partageons tous l’objectif de préserver la ressource en eau, mais cela ne peut pas justifier la création de nouvelles contraintes redondantes et peu lisibles. C’est la raison pour laquelle nous souhaitons la suppression de ces deux alinéas.",
+      "justification": "Le groupe défend la suppression des alinéas en les jugeant redondants avec les outils de planification existants."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas sur la mesure dans l'extrait."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    }
+  }
+}

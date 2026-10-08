@@ -1,0 +1,48 @@
+{
+  "uid": "VTANR5L17V6045",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Théo Bernhardt",
+      "citation": "C’est la reconnaissance par la représentation nationale qu’un peuple ne se dissout pas dans une région artificielle",
+      "justification": "Le groupe déclare voter le texte qu'il présente comme une reconnaissance de l'identité alsacienne."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Gabriel Attal",
+      "citation": "Il faut assumer de déparisianiser la France et de rendre nos institutions plus locales, plus proches.",
+      "justification": "Le groupe défend le texte comme un rapprochement des institutions des citoyens."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Emmanuel Fernandes",
+      "citation": "La proposition de loi ne règle rien : elle ne dit pas qui fera quoi dans l’intérêt général des populations alsacienne et française.",
+      "justification": "Le groupe déclare voter contre un texte qu'il juge sans effet et inapplicable, et défend un autre schéma territorial."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Thierry Sother (SOC)",
+      "citation": "Vous voulez déjà aller plus loin et récupérer l’ensemble des compétences de la région Grand Est sur le territoire de l’Alsace. Ce n’est pas sérieux et ce n’est pas respectueux de nos concitoyens !",
+      "justification": "Le groupe s'oppose au transfert des compétences régionales à l'Alsace et invoque la fragilité juridique du texte."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Jérémie Iordanoff (EcoS)",
+      "citation": "Ma conclusion demeure inchangée : ce texte relève du bricolage et n’est fondé sur aucune raison valable.",
+      "justification": "Le groupe déclare voter contre un texte qu'il juge non fondé et limité à un seul territoire."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Maxime Michelet (UDR)",
+      "citation": "Le groupe Union des droites pour la République votera en faveur de ce texte, qui – c’est heureux – nous permet de remettre en cause la loi Notre, dangereuse et insensée, et d’enfoncer un coin dans le redécoupage tout aussi insensé des régions effectué en 2015.",
+      "justification": "Le groupe déclare voter le texte parce qu'il remet en cause le découpage régional de 2015."
+    }
+  }
+}

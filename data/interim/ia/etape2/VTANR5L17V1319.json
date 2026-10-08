@@ -1,0 +1,69 @@
+{
+  "uid": "VTANR5L17V1319",
+  "consigne": "etape2_ambiguite v1",
+  "groupes": {
+    "RN": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Robert Le Bourgeois",
+      "citation": "Pour le Rassemblement national, il n’est pas envisageable de poursuivre cette facétie jusqu’en 2028 et encore moins d’étendre ce dispositif aux marques de distributeurs",
+      "justification": "Le groupe déclare s'opposer à la prolongation et à l'extension du SRP + 10."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Anne-Sophie Ronceret",
+      "citation": "La prolongation du SRP + 10 jusqu’en 2028 n’est pas une extension par défaut : c’est un choix assumé",
+      "justification": "Le groupe déclare soutenir la prolongation du SRP + 10 et les mesures du texte."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Mathilde Hignet",
+      "citation": "Finalement, le texte issu de la CMP est bien décevant : il ressemble surtout à une loi pour assurer la stabilité des marges des multinationales de la grande distribution et de l’agroalimentaire.",
+      "justification": "Le groupe déclare s'opposer à la prolongation du dispositif en raison de ses effets sur les marges et les prix."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Mélanie Thomin",
+      "citation": "afin de garantir le compromis utile entre respect du consommateur et revenu agricole, le groupe Socialistes et apparentés votera la prolongation du SRP + 10.",
+      "justification": "Le groupe déclare soutenir le compromis du texte, notamment les sanctions et la transparence obtenues."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Julien Dive",
+      "citation": "Oui, ce texte n’est pas parfait et il ne résout pas tout, mais il demeure, dans son équilibre final, un outil de protection, de correction et de réajustement.",
+      "justification": "Le groupe déclare soutenir la prolongation des outils prévus par le texte."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Richard Ramos",
+      "citation": "Le SRP + 10 ne fera pas ruisseler à coup sûr plus d’argent jusqu’aux cours des fermes, mais les paysans et les industriels nous ont dit qu’avec sa disparition, ils se feraient davantage étriller dans les boxes de négociation.",
+      "justification": "Le groupe déclare soutenir le maintien du SRP + 10."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    }
+  }
+}

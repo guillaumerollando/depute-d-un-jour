@@ -1,0 +1,14 @@
+{
+  "uid": "VTANR5L17V8429",
+  "consigne": "etape3_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "Le titre « certains viols, notamment sur des enfants de moins de 15 ans » laisse croire que tout viol sur un enfant de moins de 15 ans serait puni de perpétuité, alors que le dispositif ne vise que celui commis par une personne ayant aussi violé d'autres victimes.",
+    "Le résumé dit « informées dès le début » sans préciser qu'il s'agit du début de la procédure, et « soins spécialisés » déforme « dispositifs spécialisés de prise en charge du psychotraumatisme ».",
+    "Point d'attention : l'amendement a été mis aux voix « tel qu'il vient d'être sous-amendé » ; le contenu du sous-amendement n'est pas fourni, le résumé repose sur le dispositif initial (identique à l'article 11 du texte de la commission)."
+  ],
+  "corrections": {
+    "titre": "Punir de perpétuité les viols avec torture et certains viols d'enfants de moins de 15 ans",
+    "ce_que_ca_change": "Seraient punis de la réclusion à perpétuité les viols avec tortures ou actes de barbarie, et les viols sur un enfant de moins de 15 ans commis par une personne ayant violé d'autres victimes. Un autre crime du code pénal serait aussi puni de perpétuité si la victime a moins de 15 ans. Dès le début de la procédure, les victimes seraient informées des aides spécialisées et des associations d'aide."
+  }
+}

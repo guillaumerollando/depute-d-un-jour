@@ -1,0 +1,232 @@
+{
+ "uid": "VTANR5L17V520",
+ "titre": "l'amendement n° 6 de M. Jean-Philippe Tanguy après l'article premier du projet de loi spéciale prévue par l'article 45 de la loi organique du 1er août 2001 relative aux lois de finances (première lecture).",
+ "type": "amendement",
+ "date": "2024-12-16",
+ "dossier": "DLR5L17N51079",
+ "dossier_titre": "Projet de loi spéciale prévue par l’article 45 de la loi organique du 1er août 2001 relative aux lois de finances",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "contre",
+  "SOC": "contre",
+  "DR": "contre",
+  "ECOS": "contre",
+  "DEM": "contre",
+  "HOR": "contre",
+  "LIOT": "contre",
+  "UDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 104,
+   "contre": 1,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 0,
+   "contre": 62,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 0,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 0,
+   "contre": 33,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 0,
+   "contre": 26,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 21,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 22,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 19,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 0,
+   "contre": 11,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 0,
+   "contre": 0,
+   "abstention": 4
+  },
+  "UDR": {
+   "pour": 11,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901B0711P0D1N000006",
+  "dossier": "DLR5L17N51079",
+  "texte": "PRJLANR5L17B0711",
+  "division": "Article PREMIER",
+  "auteur": "M. Jean-Philippe Tanguy et les membres du groupe Rassemblement National",
+  "auteur_groupe": "RN",
+  "auteur_type": "Député",
+  "dispositif": "Jusqu’à l’entrée en vigueur de la loi de finances pour 2025, le montant du prélèvement effectué sur les recettes de l’État au titre de la participation de la France au budget de l’Union européenne est évalué pour l’exercice 2025 à 21 609 624 014 €.",
+  "expose": "La France doit faire un effort significatif de maîtrise de la dépense publique en 2024 compte tenu des difficultés budgétaires que nous connaissons. Le Rassemblement national défend la mise en place d’un « rabais » sur la contribution de la France au financement de l’Union européenne, dont la France est le seul grand pays contributeur net à ne pas bénéficier. Néanmoins, compte tenu de l’urgence des mesures à prendre et du contexte politique, le groupe Rassemblement national propose de reconduire en 2025 le contribution de la France au budget de l’Union européenne (PSR UE) à son niveau de 2024."
+ },
+ "seance": "RUANR5L17S2025IDS28877",
+ "compte_rendu": "CRSANR5L17S2025O1N064",
+ "interventions": [
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je suis saisie de plusieurs amendements portant article additionnel après l’article 1er, et de plusieurs demandes de scrutin public sur ces amendements : sur l’amendement no 6, par le groupe Rassemblement national ; sur l’amendement no 19, par le groupe Rassemblement national et par le groupe Socialistes ; sur l’amendement no 29, par le groupe Socialistes. Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.Les amendements nos 6 et 19 peuvent être soumis à une discussion commune. La parole est à M. Jean-Philippe Tanguy, pour soutenir l’amendement no 6."
+  },
+  {
+   "orateur": "M. Jean-Philippe Tanguy",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Le Conseil d’État a décidé que la contribution à l’Union européenne était devenue un impôt que nous devions continuer à prélever sur les Français – interprétation dont nous nous félicitons, puisque cela fait vingt ans que nous affirmons qu’il ne s’agit pas d’une contribution volontaire, mais bien d’un impôt imposé aux Français ! Un tel avis fait écho au discours de vérité que nous avons toujours tenu aux Français.Je mets, en revanche, n’importe quel collègue au défi de nous expliquer le raisonnement du Conseil d’État : il faut prolonger l’existant – en l’améliorant de 2 milliards d’euros ! La prolongation de l’existant se double d’une lourde majoration ; hors de proportion avec l’inflation monétaire, celle-ci a tout d’une décision politique arbitraire. J’aimerais donc qu’on m’explique l’inventivité du Conseil d’État, qui, censé appliquer « le droit, rien que le droit », semble plutôt appliquer votre droit, du moins une conception du droit qui lui appartient, comme quelque chose qui tombe du ciel (Exclamations sur les bancs des groupes EPR, DR, Dem et HOR.)"
+  },
+  {
+   "orateur": "M. François Cormier-Bouligeon",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "L’extrême droite n’aime pas le droit !"
+  },
+  {
+   "orateur": "M. Jean-Philippe Tanguy",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "N’ayant, pour ma part, délégué ni ma réflexion ni mon libre arbitre au Conseil d’État, je conserve la modeste part du pouvoir souverain que m’ont attribuée les électeurs de la quatrième circonscription de la Somme.Ainsi, nous proposons, non pas de faire un Frexit – vous chercheriez encore à faire peur à tout le monde – mais de reconduire la contribution à l’Union européenne de l’année dernière à l’euro près. Contrairement à vous, quand nous nous engageons à payer une certaine somme, nous payons à l’euro près – et non à 30 milliards d’euros de déficit près ! (Applaudissements sur les bancs des groupes RN et UDR.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Philippe Brun, pour soutenir l’amendement no 19."
+  },
+  {
+   "orateur": "M. Philippe Brun",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Avant de défendre l’amendement, je voudrais répondre à M. le ministre démissionnaire : il ne fallait voir aucun mea culpa dans notre déclaration lors de la discussion générale. (Applaudissements sur les bancs du groupe SOC.) Nous voulions simplement rappeler votre choix de faire payer aux Français la facture de la censure quand d’autres dispositions auraient permis d’en limiter les effets en adoptant un mini-budget avant la fin de l’année pour éviter de les faire souffrir. Nous demandons d’ailleurs l’abrogation de la circulaire prise par Michel Barnier qui vise à empêcher toute subvention et tout investissement public à partir du 1er janvier 2025, au mépris des règles budgétaires elles-mêmes. (Mêmes mouvements.)Notre amendement concerne le prélèvement sur recettes au profit de l’Union européenne (PSR-UE) : d’après la note du secrétariat général du gouvernement, une telle contribution ne relève pas des services votés ; en conséquence, elle ne peut être reconduite ou indexée au titre de la loi spéciale. Nous demandons donc des précisions au rapporteur général et au ministre sur ce point."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis de la commission sur ces deux amendements en discussion commune ?"
+  },
+  {
+   "orateur": "M. Charles de Courson",
+   "qualite": "rapporteur général",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "L’amendement no 6 n’ayant pas été examiné en commission, je répondrai à titre personnel. Dans son avis, le Conseil d’État soutient que l’autorisation de percevoir les ressources, qui fait l’objet de l’article 1er, emporte reconduction des prélèvements sur recettes. Il n’est donc pas nécessaire d’ajouter au texte une mention du PSR-UE : en droit constitutionnel, les prélèvements sur recettes – ceux en faveur de l’Union européenne comme ceux en faveur des collectivités territoriales – sont assimilés à des recettes, reconduites par l’article 1er. L’amendement est donc inutile.J’ajouterai un argument, valant aussi à propos de l’amendement de notre collègue Brun : s’il fallait inscrire un montant dans la loi, il conviendrait plutôt de retenir celui de 23,1 milliards, résultant de l’accord trouvé entre le Conseil européen et le Parlement européen le 16 novembre 2024, lors du comité de conciliation. Ce montant a été adopté formellement par le Conseil le 25 novembre, puis par le Parlement européen le 27 novembre. Nous ne pouvons décider unilatéralement de nous accorder des rabais ; retenir le montant prévu pour 2024 ne serait pas conforme à nos engagements européens. Pour cette raison, je suis défavorable à l’amendement no 6.Le même raisonnement, selon lequel le PSR-UE est intégré à l’article 1er, conduit à considérer que l’amendement no 19, qui retient le montant de l’accord, est inutile. Je demande donc à notre collègue de bien vouloir le retirer, puisqu’il est satisfait."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis du gouvernement ?"
+  },
+  {
+   "orateur": "M. Laurent Saint-Martin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "J’émettrai les mêmes avis que M. le rapporteur général. Dans son avis, le Conseil d’État précise, d’une part, que le décret à prendre doit emporter le respect par la France de ses engagements européens dans le cadre du PSR-UE, dont le montant est donc cohérent ; d’autre part, que les PSR, en faveur de l’UE ou des collectivités territoriales, sont bien inclus dans l’article 1er.Demande de retrait ; à défaut, avis défavorable."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. le rapporteur général."
+  },
+  {
+   "orateur": "M. Charles de Courson",
+   "qualite": "rapporteur général",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "J’ai oublié de préciser que je n’avais aucun doute quant à la décision de notre collègue Brun, que mes arguments avaient déjà conduit à retirer son amendement en commission des finances."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Il peut changer d’avis…(M. Philippe Brun indique qu’il retire son amendement, aussitôt repris par M. Jean-Philippe Tanguy.)La parole est à M. Jean-Philippe Tanguy."
+  },
+  {
+   "orateur": "M. Jean-Philippe Tanguy",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Le groupe Rassemblement national n’a pas été convaincu par l’argumentation du rapporteur général, et encore moins par celle du ministre. Je remercie toutefois ce dernier d’avoir montré clairement à nos concitoyens qu’il invoque ce qui n’est rien d’autre qu’un argument d’autorité : vous n’avez pas avancé le moindre argument juridique ou rationnel. Pour vous, si le Conseil d’État dit que le ciel est rouge, c’est que le ciel est rouge – eh bien non, le Conseil d’État peut dire ce qu’il veut, le ciel reste bleu ! Nous refusons de nous laisser impressionner par ce genre de raisonnements absurdes. (Exclamations sur plusieurs bancs des groupes EPR, DR, Dem et HOR.)"
+  },
+  {
+   "orateur": "M. Laurent Croizier",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Quel mépris pour les institutions !"
+  },
+  {
+   "orateur": "M. Jean-Philippe Tanguy",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Un débat apparemment insignifiant permet en réalité d’apprendre des choses très importantes pour nos compatriotes : c’est désormais officiel, la contribution à l’Union européenne est bien un impôt prélevé sur les Français et remis à la Commission européenne. Merci pour cet aveu ! Cela fait des années que Marine Le Pen défend cette idée, qui nous vaut de nous faire insulter et dont la vérité est enfin gravée dans la loi ! (Applaudissements sur les bancs du groupe RN. – Exclamations sur les bancs des groupes EPR, DR, Dem et HOR.)Deuxième chose, et j’en terminerai là : vous révélez aussi la mascarade que constitue notre vote annuel sur cette contribution !"
+  },
+  {
+   "orateur": "Mme Marie-Pierre Rixain",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "C’est vous, la mascarade !"
+  },
+  {
+   "orateur": "M. Jean-Philippe Tanguy",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Si la contribution est automatique, si le Parlement français ne peut contester un accord conclu ailleurs, à quoi sert-il de voter ? Vous mentez aux Français quand vous leur dites que le Parlement serait encore souverain en matière de politique européenne. En fait, Neelie Kroes avait raison : il ne peut y avoir de démocratie au sein de l’Union européenne en dehors du cadre des traités européens. Voilà le fait honteux que vous révélez aujourd’hui ! (Applaudissements sur les bancs du groupe RN. – Exclamations sur les bancs des groupes EPR, DR, Dem et HOR.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 6."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

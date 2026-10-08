@@ -1,0 +1,309 @@
+{
+ "uid": "VTANR5L17V219",
+ "titre": "l'amendement de suppression n° 1 de M. Coulomme et les amendements identiques suivants à l'article unique de la proposition de loi visant à réduire les contraintes énergétiques pesant sur l’offre locative et à juguler leurs effets sur la crise du logement (première lecture).",
+ "type": "amendement",
+ "date": "2024-10-31",
+ "dossier": "DLR5L17N50434",
+ "dossier_titre": "Réduire les contraintes énergétiques pesant sur l’offre locative et juguler leurs effets sur la crise du logement",
+ "sort": "adopté",
+ "positions": {
+  "RN": "contre",
+  "EPR": "pour",
+  "LFI": "pour",
+  "SOC": "pour",
+  "DR": "contre",
+  "ECOS": "pour",
+  "DEM": "pour",
+  "GDR": "pour",
+  "UDR": "contre"
+ },
+ "voix": {
+  "RN": {
+   "pour": 0,
+   "contre": 115,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 38,
+   "contre": 0,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 50,
+   "contre": 0,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 36,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 0,
+   "contre": 6,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 26,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 12,
+   "contre": 0,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 0,
+   "abstention": 7
+  },
+  "LIOT": {
+   "pour": 0,
+   "contre": 0,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 7,
+   "contre": 0,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 0,
+   "contre": 11,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901B0278P0D1N000001",
+  "dossier": "DLR5L17N50434",
+  "texte": "PIONANR5L17B0278",
+  "division": "Article unique",
+  "auteur": "M. Coulomme,  Mme Abomangoli, M. Alexandre, M. Amard, Mme Amiot, Mme Amrani, M. Arenas, M. Arnault, Mme Belouassa-Cherifi, M. Bernalicis, M. Bex, M. Bilongo, M. Bompard, M. Boumertit, M. Boyard, M. Cadalen, M. Caron, M. Carrière, Mme Cathala, M. Cernon, Mme Chikirou, M. Clouet, M. Coquerel, M. Delogu, M. Diouara, Mme Dufour, Mme Erodi, Mme Feld, M. Fernandes, Mme Ferrer, M. Gaillard, Mme Guetté, M. Guiraud, Mme Hamdane, Mme Hignet, M. Kerbrat, M. Lachaud, M. Lahmar, M. Laisney, M. Le Coq, M. Le Gall, Mme Leboucher, M. Legavre, Mme Legrain, Mme Lejeune, Mme Lepvraud, M. Léaument, Mme Élisa Martin, M. Maudet, Mme Maximi, Mme Mesmeur, Mme Manon Meunier, M. Nilor, Mme Nosbé, Mme Obono, Mme Oziol, Mme Panot, M. Pilato, M. Piquemal, M. Portes, M. Prud'homme, M. Ratenon, M. Saint-Martin, M. Saintoul, Mme Soudais, Mme Stambach-Terrenoir, M. Taché, Mme Taurinya, M. Tavel, Mme Trouvé et M. Vannier",
+  "auteur_groupe": "LFI",
+  "auteur_type": "Député",
+  "dispositif": "Supprimer cet article.",
+  "expose": "Par cet amendement, les députées et députés du groupe LFI-NFP demandent la suppression de l'article de cette proposition de loi. Cette proposition de loi va permettre à des propriétaires de continuer à louer des passoires thermiques, qui deviennent des bouilloires thermiques l’été. Le RN s’oppose à réduire la précarité énergétique des Français et des Françaises alors que elle a augmenté en 2023. D'après le baromètre énergie-info du médiateur national de l'énergie, 79% des consommateurs ont réduit leur chauffage pour ne pas avoir des factures trop élevées, soit 10 points de plus qu’en 2022 et 26 de plus qu’en 2020. De plus, cette proposition de loi va à l’encontre des mesures qu’il est nécessaire de prendre pour réduire nos émissions de gaz à effet de serre (EGES) afin d’atteindre la neutralité carbone. Le RN s’oppose à la lutte contre le changement climatique et à l’adaptation aux conséquences de ce dernier. L’urgence est de renforcer la politique de rénovation thermique mais pas de la détricoter. En outre, le RN présente cette proposition de loi comme une manière de lutter contre la crise du logement. En réalité, le RN préfère protéger les propriétaires : le RN est une arnaque sociale. Il a voté contre l’encadrement des loyers à la baisse, contre la régulation des meublés de tourisme (Airbnb) et il est favorable à davantage de dispositifs fiscaux d’investissements."
+ },
+ "seance": "RUANR5L17S2025IDS28619",
+ "compte_rendu": "CRSANR5L17S2025O1N031",
+ "interventions": [
+  {
+   "orateur": "M. Mickaël Cosson",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Enfin, contrairement à ce que vous laissez penser, l’interdiction de louer les logements ne concernera que les renouvellements de bail. Je le répète pour ceux qui auraient du mal à imprimer. (Exclamations sur les bancs du groupe RN.)Y renoncer ne sera pas efficace. Les passoires thermiques pénalisent avant tout les ménages les plus précaires, car leur chauffage coûte une fortune. (« Eh oui ! » sur les bancs du groupe Dem.) En encourageant la rénovation, on préserve l’environnement et on accompagne les transitions, tout en luttant contre la précarité énergétique.Enfin, revenir sur l’interdiction de location des passoires thermiques enverrait un très mauvais signal à ceux qui ont déjà fait l’effort de rénover leur bien, comme à ceux qui l’ont vendu parce qu’ils n’avaient pas les moyens d’engager les travaux. Ces biens sont très prisés par les primo-accédants. Il est important que l’État ne change pas les règles en permanence, surtout quand il s’agit de changements aussi significatifs. La filière du bâtiment a besoin de stabilité, de visibilité et d’un cap clair, pas d’un retour en arrière.Je sais que nos débats nous conduiront à questionner le calendrier adopté dans le cadre de la loi « climat et résilience ». Mais, là encore, nous devons penser au signal que nous adressons : modifier les échéances alors que la première d’entre elles est dans quelques semaines serait un très mauvais message. Cela reviendrait à indiquer que les obligations de rénovation pourraient être repoussées indéfiniment.Toutefois, nous devons continuer de réfléchir collectivement à l’application efficace de ce dispositif et y apporter les retouches qui apparaîtraient nécessaires. Notre groupe, qui avait fait adopter une proposition de résolution visant à accentuer les efforts pour favoriser l’accès de tous au logement, considère que nous devons penser de façon globale les problématiques du logement, qui occupent une place essentielle dans la vie quotidienne des Français.Nous devons regarder les situations particulières des copropriétés. Comme nous l’avions défendu à l’occasion de la discussion du projet de loi relatif aux copropriétés dégradées, nous devons veiller à ce que les interdictions de location ne s’appliquent pas dans les copropriétés ayant décidé de rénovations d’ampleur.Il nous faut travailler sur un report du règlement des travaux énergétiques au moment de la vente du bien, ce qui résoudrait le problème du reste à régler une fois les subventions déduites. Vous l’aurez compris, les actions à mener sont multiples."
+  },
+  {
+   "orateur": "M. Henri Alfandari",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "Avec cette proposition de loi, vous avez choisi d’abroger le DPE. Pour nous, la réponse est non. Ce serait détourner le regard de nos objectifs climatiques et de la réalité du secteur. Au 1er janvier 2022, 17 % des logements, soit 5,2 millions, sont classés F ou G – ce sont des passoires thermiques. Le secteur du bâtiment, qui comprend le logement et les locaux tertiaires, représente 18 % des émissions de gaz à effet de serre en France et 27 % de l’énergie utilisée. Il est donc incontestable qu’il nous faut mieux construire, et surtout rénover, afin de réduire nos émissions et de protéger nos concitoyens de la précarité énergétique.Abroger, ce serait rejeter ce constat et renoncer à des objectifs essentiels. Au groupe Horizons & indépendants, nous ne voulons renoncer ni à nos ambitions ni à nos objectifs, mais nous ne voulons pas que nos concitoyens se trouvent dans des impasses.Les délais inscrits dans la loi « climat et résilience » pour effectuer les travaux ne sont pas tenables. Nous n’avons pas assez de bras pour les réaliser dans les temps. Or, en l’état, si ces travaux ne sont pas faits, nombre de logements ne seront plus louables au 1er janvier 2025, c’est-à-dire dans deux mois. Il y a donc urgence, car en pleine crise des parcours résidentiels, des logements risquent de sortir du parc locatif et des locataires ne trouveront plus de logement."
+  },
+  {
+   "orateur": "M. Henri Alfandari",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "Le Rassemblement national ouvre un vrai sujet, mais le prend dans le mauvais sens. C’est pourquoi le groupe Horizons & indépendants s’oppose à l’abrogation du DPE, mais souhaite ouvrir la porte à la résolution d’un problème urgent en proposant de décaler les délais, pour protéger à la fois les propriétaires et les locataires."
+  },
+  {
+   "orateur": "M. Jean-Paul Lecoq",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "D’après les chiffres publiés en juin par l’Observatoire national de la précarité énergétique, de plus en plus de ménages déclarent souffrir du froid chez eux. Ils étaient 14 % en 2020, 20 % en 2021, 22 % en 2022 et 26 % en 2023. En outre, 59 % d’entre eux ont déclaré avoir souffert de la chaleur dans leur logement en 2022, soit une hausse de 8 points par rapport à 2020.Comme nous le disons depuis très longtemps, cette progression inquiétante de la précarité énergétique impose de revoir le mode de fixation des tarifs de l’énergie afin que ceux-ci reflètent les coûts de production. Elle impose également un effort pour renforcer les aides à la rénovation énergétique des bâtiments, une démarche répondant à la fois à un enjeu environnemental et énergétique majeur – le secteur du bâtiment représente 44 % de notre consommation finale d’énergie – et à un enjeu social décisif. En effet, la rénovation des logements est un puissant levier de baisse de la facture énergétique des ménages, particulièrement des plus modestes, qui sont souvent ceux qui occupent les logements les moins bien isolés.L’enjeu est également sanitaire. Les travaux menés par France Stratégie sur la rénovation énergétique des logements ont quantifié le bénéfice de la rénovation thermique. Le gain moyen annuel pour la société a été estimé à 7 500 euros, décomposé en 400 euros de réduction des coûts de soins, 1 400 euros d’amélioration du bien-être et 5 700 euros de réduction du risque de mortalité. Selon cette étude, la rénovation de l’ensemble des passoires énergétiques d’ici à 2028 permettrait d’éviter des coûts de santé de près de 10 milliards d’euros par an. Au moment où l’on cherche des financements pour la sécurité sociale, cela fait réfléchir.Nous nous heurtons depuis des années à une insuffisance chronique des moyens pour l’atteinte de nos objectifs en matière de rénovation énergétique des logements. Les dispositifs sont peu lisibles et insuffisamment dotés. Alors que le gouvernement précédent misait sur 200 000 rénovations performantes par an dès 2024, nous atteindrons péniblement les 84 000 en fin d’année – et aucune augmentation de ce nombre n’est prévue dans le prochain budget, qui diminue encore les moyens.Cette situation n’est pas nouvelle. Depuis plusieurs années, les groupes qui composent le Nouveau Front populaire ont formulé des propositions afin de créer les conditions de l’élimination des passoires thermiques en dix ans. La proposition de création d’une prime pour le climat visait par exemple à instaurer une avance remboursable intégrale versée par l’État par le biais de l’Agence nationale de l’habitat (Anah) et à éliminer potentiellement tout reste à charge pour les propriétaires modestes. Malheureusement, ces propositions n’ont pas été suivies d’effet et nous en sommes restés au saupoudrage.Nous aurions pu attendre des députés, même du RN, qu’ils formulent de leur côté des propositions constructives. Même à droite, les pistes de réflexion ne manquent pas : des exonérations temporaires sur la taxe foncière pour les propriétaires qui rénovent leur logement, des subventions ou des prêts à taux zéro pour la rénovation, un assouplissement des règles de majorité dans les copropriétés pour faciliter le vote des travaux de rénovation énergétique, ou encore un renforcement de la lutte contre la fraude et les arnaques.Vous auriez pu faire des propositions et nous aurions pu en débattre, au lieu de quoi vous ne proposez rien, sinon de renoncer à toute ambition en matière de rénovation énergétique du parc de logements. Vous proposez non d’aider les propriétaires, mais de les dédouaner de toute responsabilité : après tout, ce ne sont pas eux qui paient les factures d’énergie, ce sont leurs locataires ! Votre approche est aussi primaire, pour ne pas dire ridicule, qu’elle est intolérable.Si le texte que vous nous proposez devait être adopté, les premières victimes en seraient les centaines de milliers de locataires qui doivent assumer des factures énergétiques toujours plus élevées, souffrir du froid ou de la chaleur excessive dans l’indifférence totale des propriétaires, rarement aussi modestes que vous le prétendez. Aujourd’hui, les 3,5 % de ménages propriétaires de plus de cinq logements possèdent la moitié du parc locatif privé. À lui seul, ce chiffre suffit à dénoncer le cynisme qui vous anime. Nous voterons évidemment contre ce texte indigne. (Applaudissements sur les bancs du groupe GDR.)"
+  },
+  {
+   "orateur": "M. Maxime Michelet",
+   "qualite": null,
+   "groupe": "UDR",
+   "president_de_seance": false,
+   "texte": "Vous défendez le DPE au nom de l’écologie, de la souveraineté énergétique de notre nation et de la lutte contre la précarité énergétique des Français. Mais si vous aviez réellement de telles préoccupations, peut-être auriez-vous pu commencer par ne pas casser méthodiquement notre indépendance énergétique en sabordant notre filière nucléaire. (Applaudissements sur les bancs des groupes UDR et RN.)Aujourd’hui, nous voulons dire avec force que le patrimoine des Français n’a pas à payer les erreurs de son gouvernement, les aveuglements des technocrates et les politiques conçues sans conscience des réalités de terrain."
+  },
+  {
+   "orateur": "M. Maxime Michelet",
+   "qualite": null,
+   "groupe": "UDR",
+   "president_de_seance": false,
+   "texte": "Nous ne vous laisserons pas vous acheter une bonne conscience verte sur le dos des Français et de leur patrimoine. Nous partageons bien évidemment l’ambition de rénovation énergétique du parc immobilier, mais il est urgent de regarder les choses en face : votre politique n’est ni juste ni efficace. Envoyons aux Français un signal d’espérance qui soit aussi un signal de rupture avec les errements bureaucratiques du macronisme. C’est la volonté qu’ils ont exprimée aux élections législatives. C’est pourquoi le groupe de l’Union des droites pour la République votera la proposition de loi de nos alliés et amis du groupe Rassemblement national. (Applaudissements sur les bancs des groupes UDR et RN.)"
+  },
+  {
+   "orateur": "M. Frédéric Falcon",
+   "qualite": "rapporteur de la commission des affaires économiques",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je vous avoue, madame la ministre, que le discours de politique générale du Premier ministre nous avait donné des espoirs, dans la mesure où il envoyait quelques signaux au monde de l’immobilier fortement mis à mal par sept ans de macronisme. À vous entendre ce soir, même si le Premier ministre s’est engagé il y a quelques semaines à assouplir le dispositif du DPE, je crois finalement que rien ne va changer,…"
+  },
+  {
+   "orateur": "Mme Aurélie Trouvé",
+   "qualite": "présidente de la commission des affaires économiques",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Pour les autres, notamment pour les propriétaires bailleurs aux revenus modestes et pour ceux qui possèdent un bien en copropriété, il peut effectivement exister des difficultés dont la commission a longuement débattu. Des dispositifs existent, mais il faut garder ces difficultés à l’esprit, d’autant que les crédits de MaPrimeRénov’ risquent d’être amputés de 1 milliard d’euros l’année prochaine."
+  },
+  {
+   "orateur": "Mme Aurélie Trouvé",
+   "qualite": "présidente de la commission des affaires économiques",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Il serait donc souhaitable de renforcer les dispositifs d’aide à la rénovation thermique comme MaPrimeRénov’ et l’éco-prêt à taux zéro et de réfléchir à des dispositifs qui réduiraient autant que possible le reste à charge pour les propriétaires aux revenus modestes.Voilà ce qu’on peut retenir du débat en commission des affaires économiques. Plutôt que de reculer devant l’obstacle, essayons de le franchir en créant des dispositifs qui permettront d’accélérer le rythme beaucoup trop lent de la rénovation thermique. (Applaudissements sur plusieurs bancs des groupes LFI-NFP, SOC, EcoS et GDR.)"
+  },
+  {
+   "orateur": "Mme Valérie Létard",
+   "qualite": "ministre du logement et de la rénovation urbaine",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Monsieur le rapporteur, vous avez eu l’amabilité de rappeler tout ce qui vous chagrine dans la loi « climat et résilience ». Ses dispositions sont au cœur des engagements et de l’action du Gouvernement, mais elles sont aussi soutenues par une grande partie des députés sur tous les bancs. En effet, elles visent non seulement à accomplir nos objectifs climatiques, mais aussi à accompagner les populations face à des problèmes sociaux comme la difficulté à se chauffer et à supporter l’impact de la consommation énergétique sur le budget des ménages. Si le logement est le poste principal de dépense des ménages français, c’est parce que les coûts combinés du loyer et de l’énergie représentent une part significative de leurs charges mensuelles.Vous avez affirmé qu’en supprimant les étiquettes du DPE et en cessant de rendre obligatoire la rénovation thermique des logements, on résoudrait tous les problèmes ou qu’en tout cas, on se passerait de démarches technocratiques. Mais pourquoi ces démarches ont-elles été imaginées ? Tout simplement pour améliorer le quotidien des millions de ménages qui n’arrivent plus à joindre les deux bouts parce qu’ils habitent des logements ne respectant pas les normes énergétiques.Que ce soit compliqué, j’en conviens. Qu’on puisse faire mieux, j’en conviens. C’est ce vers quoi nous tendons au quotidien, année après année, en améliorant le dispositif du DPE. De nombreuses mesures ont déjà été prises en ce sens. Des dispositions datant de 2021 et de 2024 ont encore fait évoluer le DPE pour mieux l’adapter aux petits logements. Nous étudions continuellement les pistes d’amélioration tout en essayant d’assurer une certaine stabilité des normes. En effet, la moindre modification des dispositifs entraîne un effet stop and go qui fait obstacle au mouvement dynamique que nous visons, à savoir l’utilisation de MaPrimeRénov’ par le plus grand nombre possible de ménages, particulièrement les plus modestes.Monsieur le rapporteur, nous n’avons pas toujours raison. Nous ne sommes pas les meilleurs sur tout."
+  },
+  {
+   "orateur": "Mme Valérie Létard",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Cela n’est pas facile, le dispositif est sans doute perfectible, mais nous devons poursuivre dans cette voie. Des initiatives parlementaires en ce sens seront bientôt examinées. L’essentiel est d’améliorer les choses et de continuer à progresser, mais certainement pas en renonçant et en laissant les gens dans la précarité. (Applaudissements sur les bancs du groupe EPR et sur quelques bancs des groupes Dem et HOR.)"
+  },
+  {
+   "orateur": "M. Jean-Luc Fugit",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "J’ai rencontré lundi la branche lyonnaise de l’Union des syndicats de l’immobilier (Unis), qui regroupe tous les métiers du secteur de l’immobilier, des gestionnaires locatifs aux syndics de copropriété en passant par les indépendants et les experts. Que nous demandent-ils ? De ne surtout pas renoncer à l’ambition de la loi « climat et résilience ».Mme la ministre l’a rappelé, il faut poursuivre notre politique encourageant la rénovation énergétique des bâtiments, car nous obtenons ainsi deux résultats intéressants : nous réduisons non seulement la facture des occupants de ces logements, notamment des locataires, mais aussi ce que j’appelle « la facture CO2 » de ces mêmes logements. Nous menons donc une action à la fois sociale et environnementale. Au Rassemblement national, manifestement, ce n’est pas la première de vos préoccupations !"
+  },
+  {
+   "orateur": "M. Jean-Luc Fugit",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Monsieur le rapporteur, que proposez-vous pour les ménages modestes en situation de précarité énergétique ? Que proposez-vous pour réduire les émissions de gaz à effet de serre du secteur – très émetteur – du bâtiment ? Comme d’habitude, le Rassemblement national s’oppose à tout mais ne propose rien."
+  },
+  {
+   "orateur": "M. Jean-Pierre Taite",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Rendre le DPE beaucoup moins strict n’est pas du tout la solution.J’en viens à nos amendements, qui seront défendus par Anne-Laure Blin. Nous présenterons une mesure encourageant, dans les copropriétés, l’adoption d’un plan pluriannuel de travaux. De la sorte, les locataires disposeront d’un engagement des propriétaires à réaliser des rénovations."
+  },
+  {
+   "orateur": "M. Jean-Pierre Taite",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Votre proposition de loi semble relever du bon sens, mais elle ne permettra pas d’atteindre les objectifs visés. En particulier, vous allez plonger dans la difficulté certains de nos concitoyens, notamment dans vos circonscriptions, en les mettant face à des factures d’énergie exorbitantes. (Applaudissements sur les bancs du groupe DR.)"
+  },
+  {
+   "orateur": "M. Mickaël Cosson",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Mme la ministre a évoqué un texte transpartisan destiné à apporter des solutions aux difficultés que nous pourrions rencontrer à partir du 1er janvier 2025.Dans les copropriétés, entre le moment où l’on décide d’engager des travaux et celui où ces travaux démarrent, il peut se passer un certain temps, compte tenu des délais nécessaires pour obtenir les devis, l’accord des différents copropriétaires et les subventions de l’Anah. C’est pourquoi nous devons adopter des dispositions permettant de tenir compte de l’engagement des syndics de copropriété à réaliser des travaux. (« Et la conclusion ? » et autres exclamations sur les bancs du groupe RN.)Mesdames et messieurs du RN, je vous fais part de l’expérience de gens qui, sur le terrain, ont suivi des opérations de travaux. (Applaudissements sur les bancs du groupe Dem. – M. Gabriel Attal applaudit également.) Certes, ils n’ont pas la science infuse comme certains semblent l’avoir ici du simple fait qu’ils ont été élus députés et se sont assis dans l’hémicycle ! Je vous parle de la conduite d’opérations lourdes de réhabilitation thermique, qui demandent beaucoup de temps, davantage qu’il ne nous en faudra ce soir pour prendre une décision.S’agissant des adaptations que nous devons apporter, l’idée est de ne laisser personne sur le bord de la route et de faire en sorte que les logements vacants… (Brouhaha sur les bancs du groupe RN.)"
+  },
+  {
+   "orateur": "Mme Elsa Faucillon",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Cette proposition de loi du Rassemblement national vise à réduire nos ambitions en matière de rénovation énergétique des logements. Nous avons là un combo antisocial, antiécologique et antisanitaire !La proposition de loi tend à défendre les multipropriétaires qui, n’occupant pas les logements, ne sont absolument pas intéressés par la réalisation des travaux. Pourtant avertis des risques sanitaires courus par les locataires des passoires thermiques – maladies cardiovasculaires et respiratoires, déshydratation estivale –, ils préfèrent ne rien entreprendre.Si les données chiffrées révèlent une diminution importante de l’offre de location ces derniers mois, cette baisse concerne l’ensemble des biens et non spécifiquement les biens classés G et F. Encore faut-il lire les statistiques, ce dont vous n’avez que faire quand il s’agit de s’occuper des plus modestes et de lutter contre le réchauffement climatique.Alors que la rénovation énergétique des logements constitue un des enjeux majeurs de la transition écologique et de la lutte contre la précarité, comme à leur habitude, les députés du Rassemblement national – députés non de la résistance, mais du renoncement –…"
+  },
+  {
+   "orateur": "M. Pierre Pribetich",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "En refusant d’interdire la location des passoires thermiques, le Rassemblement national, qui se veut matin, midi et soir chantre de la sécurité (« Oui » sur les bancs du groupe RN), fait la démonstration brillante qu’il est le champion toutes catégories de l’insécurité ! (Applaudissements sur les bancs du groupe SOC. – Rires et exclamations sur les bancs du groupe RN.)Champion de l’insécurité sociale, car en les maintenant dans la précarité énergétique, il plongerait les plus fragiles à la limite de l’endettement pour régler leurs factures de chauffage ! Champion de l’insécurité économique, car à le suivre, les entreprises locales seraient confrontées à la disparition des marchés locaux qui les font vivre et leur permettent de maintenir leurs savoir-faire ! Champion de l’insécurité sanitaire, car si elles ne sont pas combattues, l’humidité et l’insalubrité entraînent des maladies ! Champion de l’insécurité énergétique, enfin, car si nos 5 millions de passoires thermiques subsistent, leurs occupants seront confrontés à des factures exorbitantes !Il faut donc accélérer la mutation du parc des logements collectifs, des maisons individuelles et des copropriétés grâce à des mécanismes et des financements adéquats. Alors votez les recettes ! (Rires et exclamations sur les bancs du groupe RN.)"
+  },
+  {
+   "orateur": "M. Pierre Pribetich",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "L’erreur est humaine. (« Oui ! » sur les bancs du groupe RN.) Mes chers collègues, faites un geste efficace, votez pour la suppression de l’article ! (« Olé ! » sur les bancs du groupe RN. – Applaudissements sur les bancs du groupe SOC, dont certains députés se lèvent. – Applaudissements et rires sur les bancs du groupe RN.)"
+  },
+  {
+   "orateur": "Mme Julie Laernoes",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "L’urgence écologique et l’urgence sociale sont très préoccupantes ; nous devons y faire face sans retarder les échéances. Nous ne pouvons faire reculer le réchauffement climatique sans agir sur ses causes. Il convient d’aider celles et ceux qui ne parviennent pas à se conformer à la loi et d’agir sur ce sujet extrêmement important pour l’indépendance et la souveraineté énergétiques de notre pays.Rappelons-le, la meilleure énergie est celle que l’on ne consomme pas. (Applaudissements sur plusieurs bancs du groupe EcoS et sur quelques bancs des groupes LFI-NFP et SOC.)"
+  },
+  {
+   "orateur": "Mme Julie Laernoes",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Cette proposition de loi est une folie pure et simple. J’appelle nos collègues centristes à voter résolument l’amendement de suppression de son article unique, faute de quoi ils risquent d’utiliser un véhicule du Rassemblement national climatonégationniste pour retarder des échéances sur le climat. (Vives exclamations sur les bancs du groupe RN. – Applaudissements sur les bancs du groupe EcoS. – M. Dominique Potier applaudit également.)"
+  },
+  {
+   "orateur": "M. Frédéric Falcon",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Nous sommes opposés à cette tendance. Nous voulons que les petits propriétaires le demeurent, car nous sommes attachés à cette vision de la propriété immobilière en France. (Applaudissements sur les bancs des groupes RN et UDR.)Cette proposition de loi n’a pas la prétention de résoudre à elle seule la crise du logement."
+  },
+  {
+   "orateur": "M. Frédéric Falcon",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Nous voulons seulement créer un choc d’offre sur le parc ancien, car la bureaucratisation à outrance est en train d’assécher le marché locatif. J’ai cité l’exemple de Paris : l’offre locative y a diminué de 75 %. Cela devrait vous interpeller, chers collègues du bloc de l’extrême gauche qui êtes élus dans ces grandes métropoles ! (Applaudissements sur les bancs des groupes RN et UDR.)"
+  },
+  {
+   "orateur": "Mme Valérie Létard",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je ne suis pas sûre que le report de la rénovation énergétique proposé par votre texte soit la solution pour créer un choc d’offre dans ce pays. Je suis même certaine du contraire ! (Applaudissements sur quelques bancs des groupes EPR et LIOT.)J’ai énoncé clairement la position du Gouvernement dans mon intervention préalable à l’examen du texte. Nous ne souhaitons pas remettre en cause le calendrier de la loi « climat et résilience ». Cela reviendrait à abandonner un enjeu essentiel à la fois pour le climat et pour nos concitoyens confrontés à la précarité énergétique.Les propriétaires bailleurs ont été informés de ce calendrier longtemps à l’avance et beaucoup en ont tenu compte. Ne vous en déplaise, monsieur le rapporteur, ils sont fortement aidés par l’Anah pour répondre à cet objectif. Grâce aux travaux de rénovation énergétique ainsi effectués, il y a 400 000 passoires énergétiques F et G de moins chaque année.Le bénéfice immédiat est triple. Les occupants voient leurs factures d’énergie baisser : elles sont divisées par deux, trois ou quatre. Les propriétaires voient la valeur patrimoniale de leurs biens augmenter. Enfin, en remplissant nos objectifs de rénovation énergétique, nous soutenons l’activité des artisans de nos territoires, qui souffrent en ce moment.Sans surprise, aucune des fédérations professionnelles que j’ai consultées n’a donc demandé le report du calendrier. En revanche, j’ai entendu les préoccupations légitimes de certains propriétaires bailleurs en copropriété qui ont du mal à réaliser des travaux. Le Gouvernement n’est pas fermé au débat et soutiendra une autre proposition de loi destinée à traiter ce sujet. J’émets donc un avis favorable aux amendements de suppression. (Applaudissements sur les bancs du groupe EPR.)"
+  },
+  {
+   "orateur": "M. Hervé de Lépinau",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Pour illustrer mon propos, je vais vous lire l’extrait d’un article paru dans Lyon Mag le 2 janvier 2023 et intitulé : « Elle loue un taudis à Lyon : sa propriétaire est l’adjointe au maire chargée du social. » Nous sommes donc dans une commune écolo-socialo-bobo. « Au cœur du quartier de la Guillotière, de nombreux locataires se plaignent des mauvaises conditions de vie au sein de leur appartement. Parmi ces logements abîmés par le temps, l’un d’eux est loué par une jeune femme qui vient de devenir maman. Mais la propriétaire, Sandrine Runel, adjointe au maire de Lyon chargée des solidarités, n’a pas fait le nécessaire durant de longs mois pour régler les multiples problèmes dans cet appartement. » (Applaudissements sur plusieurs bancs du groupe RN. – Exclamations sur plusieurs bancs du groupe SOC.)Voilà qui sont réellement ceux qui défendent les amendements de suppression : des hypocrites !Certes, il est nécessaire de rénover le parc ancien. Cependant, nous ne pourrons pas le faire si les propriétaires continuent à être matraqués."
+  },
+  {
+   "orateur": "M. Hervé de Lépinau",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Un, des gens resteront et deviendront squatteurs. Deux, les marchands de sommeil s’en donneront à cœur joie, car vous ne mettrez jamais les moyens nécessaires pour les contrôler. Trois, des propriétaires désespérés céderont leur bien à des gens peu scrupuleux.Il est donc nécessaire de revoir le calendrier pour laisser le temps aux propriétaires de réaliser les travaux en fonction des moyens.Madame la ministre, il est absolument nécessaire de reconduire le programme de l’Anru, l’Agence nationale pour la rénovation urbaine, sans lequel nous ne pourrons pas rénover les centres anciens. (Applaudissements sur les bancs du groupe RN.)"
+  },
+  {
+   "orateur": "M. Raphaël Arnault",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Nous vivons tout de même un moment particulier. Le Rassemblement national et l’extrême droite vont si loin dans les attaques envers les plus précaires et les plus jeunes que même les macronistes n’arrivent plus à les suivre ! (Applaudissements sur plusieurs bancs du groupe LFI-NFP. – Exclamations sur les bancs du groupe EPR.)"
+  },
+  {
+   "orateur": "M. Thomas Cazenave",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "C’est bon !"
+  },
+  {
+   "orateur": "M. Raphaël Arnault",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "On l’a bien compris : avec cette proposition de loi, le RN veut protéger les multipropriétaires en s’attaquant aux plus précaires et aux plus jeunes. (Applaudissements sur les bancs du groupe LFI-NFP et sur quelques bancs du groupe EcoS.)Chers collègues du Nouveau Front populaire, cela va peut-être vous surprendre, mais je vous trouve un peu durs avec Mme Le Pen. Comment pourrait-elle se soucier un seul instant du sort des Françaises et des Français qui découvrent leur facture d’électricité et leur loyer chaque mois alors qu’elle a vécu toute sa jeunesse dans un château à Saint-Cloud, dans la banlieue riche de Paris ? (Applaudissements sur les bancs du groupe LFI-NFP, dont quelques députés se lèvent, et sur quelques bancs du groupe EcoS. – Vives exclamations sur les bancs des groupes RN et UDR.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix les amendements identiques nos 1, 2 et 3."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

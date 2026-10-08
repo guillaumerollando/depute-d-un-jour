@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V2653",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": "M. Jean-Philippe Tanguy",
+      "citation": null,
+      "justification": "L'orateur critique d'autres groupes et le texte initial sans exposer la raison du vote du groupe sur le texte soumis au vote."
+    },
+    "EPR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Jean-Luc Fugit",
+      "citation": "Sur le plan de la souveraineté comme sur le plan climatique, ce moratoire est un renoncement.",
+      "justification": "Le groupe s'oppose au moratoire sur les énergies renouvelables introduit dans le texte."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Maxime Laisney",
+      "citation": "Ce moratoire stupide sur les renouvelables est aussi un gigantesque plan social, supprimant 80 000 emplois.",
+      "justification": "Le groupe s'oppose au moratoire sur les renouvelables et à la place donnée au nucléaire."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Karim Benbrahim",
+      "citation": "Ce texte est devenu dangereux pour l’environnement, pour les 120 000 emplois créés dans les énergies solaire et éolienne, pour le pouvoir d’achat de nos concitoyens et pour notre souveraineté.",
+      "justification": "Le groupe s'oppose au contenu du texte tel qu'amendé."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": "Mme Julie Laernoes",
+      "citation": null,
+      "justification": "L'oratrice critique l'attitude d'autres groupes sans exposer la raison du vote du groupe."
+    },
+    "DEM": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Philippe Bolo",
+      "citation": "Ce texte, mes chers collègues, est aux antipodes de ce que devrait être la stratégie énergétique de la France.",
+      "justification": "Le groupe s'oppose au contenu du texte tel qu'amendé."
+    },
+    "HOR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Henri Alfandari",
+      "citation": "Le résultat est un texte déséquilibré, incohérent et qui met en danger – pour parler franchement – notre avenir énergétique.",
+      "justification": "Le groupe s'oppose au contenu du texte, notamment au moratoire sur les renouvelables."
+    },
+    "LIOT": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Joël Bruneau",
+      "citation": "Nous considérons néanmoins qu’un moratoire serait une solution trop rigide.",
+      "justification": "Le groupe s'oppose à plusieurs dispositions du texte, dont le moratoire et la sortie du marché européen."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Julien Brugerolles",
+      "citation": "L’adoption, à l’initiative du groupe Droite républicaine, avec le soutien du Rassemblement national, d’un moratoire sur tout projet d’énergie renouvelable, a malheureusement complètement déséquilibré le texte et créé de nombreuses incertitudes.",
+      "justification": "Le groupe s'oppose au moratoire sur les renouvelables et à l'absence de moyens."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": "M. Éric Michoux",
+      "citation": null,
+      "justification": "L'orateur expose ses orientations énergétiques sans se prononcer sur le texte soumis au vote."
+    }
+  }
+}

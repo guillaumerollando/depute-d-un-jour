@@ -1,0 +1,13 @@
+{
+  "uid": "VTANR5L17V710",
+  "consigne": "etape3_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "« Durcir » est un verbe connoté ; le titre peut décrire l'action précise votée.",
+    "« et non plus un seul » affirme une règle certaine alors que le débat évoque un aménagement pour les familles monoparentales dont les sources ne donnent pas l'issue ; le résumé doit s'en tenir à ce qui est établi."
+  ],
+  "corrections": {
+    "titre": "Allonger la résidence exigée des parents pour qu'un enfant né à Mayotte devienne français",
+    "ce_que_ca_change": "Un enfant né à Mayotte de parents étrangers peut devenir français si l'un de ses parents au moins y résidait régulièrement depuis plus de trois mois à sa naissance. L'article exige cette résidence régulière de ses deux parents. D'après le débat, un amendement adopté en séance porte la durée exigée à trois ans."
+  }
+}

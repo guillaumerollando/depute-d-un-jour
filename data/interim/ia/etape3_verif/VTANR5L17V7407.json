@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V7407",
+  "consigne": "etape3_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "La liste des matières exclues est présentée comme complète alors qu'elle est partielle (droits civiques, libertés publiques, droit pénal, monnaie, etc.) ; les adaptations portent sur les lois et les règlements."
+  ],
+  "corrections": {
+    "ce_que_ca_change": "La Corse aurait un statut d'autonomie insulaire, avec deux nouvelles collectivités (Nord et Sud) en plus des communes et de la collectivité de Corse. Avec l'accord du Parlement ou du Gouvernement, elle pourrait adapter lois et règlements, sauf entre autres en justice, défense, sécurité, nationalité et élections. Des exceptions à l'égalité seraient possibles pour l'emploi, le logement, le foncier."
+  }
+}

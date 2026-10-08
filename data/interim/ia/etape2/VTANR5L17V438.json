@@ -1,0 +1,83 @@
+{
+  "uid": "VTANR5L17V438",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Matthias Renault",
+      "citation": "le groupe RN ne peut pas voter en faveur d’une partie recettes qui mènerait notre pays au chaos.",
+      "justification": "Le groupe s'oppose aux hausses d'impôts contenues dans le texte."
+    },
+    "EPR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. David Amiel",
+      "citation": "Si nous rejetons le sérieux budgétaire, qui implique d’additionner le coût des mesures que l’on vote, ce sont les plans sociaux qu’il faudra compter en janvier ! C’est la raison pour laquelle nous voterons contre la première partie du PLF.",
+      "justification": "Le groupe s'oppose aux hausses de taxes et de charges adoptées."
+    },
+    "LFI": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Aurélien Le Coq",
+      "citation": "Ce budget est le budget du Nouveau Front populaire.",
+      "justification": "Le groupe soutient les prélèvements adoptés dans le texte."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Philippe Brun",
+      "citation": "Ces recettes ne touchent pas ceux qui travaillent, mais une infime minorité de contribuables, qui peuvent se le permettre.",
+      "justification": "Le groupe soutient la répartition de l'effort fiscal issue de ses amendements."
+    },
+    "DR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Véronique Louwagie",
+      "citation": "La version du texte issue de nos débats, totalement dénaturée, ne correspond en rien à la proposition initiale souhaitée par Michel Barnier : c’est pourquoi, en toute responsabilité, les députés de la Droite républicaine voteront contre.",
+      "justification": "Le groupe s'oppose au contenu du texte tel qu'amendé."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Eva Sas",
+      "citation": "prévoyant en toute justice fiscale d’augmenter de 34 milliards – selon le calcul même du Gouvernement – les recettes publiques",
+      "justification": "Le groupe soutient la hausse des recettes prévue par le texte."
+    },
+    "DEM": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Jean-Paul Mattei",
+      "citation": "Nous, députés du groupe Les Démocrates, qui avons depuis le départ placé la construction européenne au cœur de notre engagement politique, ne pouvons accepter ce Frexit de fait.",
+      "justification": "Le groupe s'oppose au contenu du texte tel qu'amendé, notamment au rejet du prélèvement européen."
+    },
+    "HOR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Félicie Gérard",
+      "citation": "Le groupe Horizons & indépendants ne peut accepter un texte qui abandonne toute logique de responsabilité financière et ignore les répercussions qu’il aura sur l’économie française.",
+      "justification": "Le groupe s'oppose aux hausses d'impôts contenues dans le texte."
+    },
+    "LIOT": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Charles de Courson",
+      "citation": "D’un autre côté, l’effort demandé aux collectivités territoriales était disproportionné et ne répondait pas aux difficultés financières structurelles des départements.",
+      "justification": "Le groupe invoque l'effort demandé aux collectivités et la cohérence avec le rejet de l'article d'équilibre."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Nicolas Sansu",
+      "citation": "le groupe de la Gauche démocrate et républicaine votera en faveur de cette première partie – largement amendée, elle est en adéquation avec les aspirations populaires.",
+      "justification": "Le groupe soutient les mesures fiscales adoptées."
+    },
+    "UDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Éric Ciotti",
+      "citation": "Masochiste, ce coup de massue fiscale est inutile puisqu’il ne s’accompagne d’aucune baisse de la dépense, bien au contraire.",
+      "justification": "Le groupe s'oppose aux hausses d'impôts contenues dans le texte."
+    }
+  }
+}

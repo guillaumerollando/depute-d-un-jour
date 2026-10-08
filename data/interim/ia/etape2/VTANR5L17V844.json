@@ -1,0 +1,83 @@
+{
+  "uid": "VTANR5L17V844",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Dominique Potier",
+      "citation": "Le texte compte aussi des mesures de simplification potentiellement dangereuses, car elles pourraient se traduire par des régressions environnementales.",
+      "justification": "Le groupe s'oppose aux mesures de simplification et à l'absence de régulation du foncier dans le texte."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Julien Dive",
+      "citation": "Le texte issu de la CMP, après les débats au Sénat, préserve ces avancées et répond à plusieurs attentes du monde agricole dans son ensemble",
+      "justification": "Le groupe soutient le contenu du texte."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Benoît Biteau",
+      "citation": "pour la souveraineté alimentaire, pour les agriculteurs et pour nos enfants, l’écologie plus tard, c’est l’écologie trop tard ! Nous voterons donc contre ce texte, qui est un contresens historique.",
+      "justification": "Le groupe s'oppose à l'orientation environnementale du texte."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Éric Martineau",
+      "citation": "Le groupe Les Démocrates salue les avancées contenues dans ce projet de loi et il le votera.",
+      "justification": "Le groupe soutient le contenu du texte."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Thierry Benoit",
+      "citation": "La dépénalisation des atteintes à l’environnement non intentionnelles va dans le bon sens",
+      "justification": "Le groupe soutient plusieurs mesures du texte."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. David Taupiac",
+      "citation": "Parce que nous devons à nos agriculteurs des avancées concrètes, si marginales soient-elles, les membres du groupe LIOT se prononceront en faveur du texte",
+      "justification": "Le groupe vote pour en raison des mesures concrètes du texte."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. André Chassaigne",
+      "citation": "l’article 13 prévoit une dangereuse régression du droit environnemental",
+      "justification": "Le groupe s'oppose aux dispositions du texte sur l'environnement, la formation et la spécialisation."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Matthieu Bloch",
+      "citation": "En votant ce projet de loi, le groupe Union des droites pour la République affirme son soutien indéfectible aux agriculteurs.",
+      "justification": "Le groupe soutient les mesures de simplification et d'installation du texte."
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "uid": "VTANR5L17V8431",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Anne Genetet",
+      "citation": "Ce texte constitue une avancée majeure : nous sommes le premier pays européen à interdire les réseaux sociaux aux moins de 15 ans.",
+      "justification": "Le groupe soutient l'interdiction prévue par le texte."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Arnaud Saint-Martin",
+      "citation": "Ses jeunes usagers contourneront l’interdiction, quoi qu’il arrive, et non sans risque, puisque les espaces numériques insécures où s’aventurer ne manquent pas.",
+      "justification": "Le groupe conteste l'efficacité de l'interdiction et privilégie d'autres mesures."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Arthur Delaporte",
+      "citation": "Nous partageons l’ambition de limiter l’accès aux réseaux sociaux, car cette direction est la meilleure pour protéger les mineurs.",
+      "justification": "Le groupe déclare partager l'objectif du texte, pour lequel il vote."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Lionel Duparay",
+      "citation": "Pour protéger la jeunesse contre le principal fléau de notre époque, le groupe Droite républicaine votera en faveur de la proposition de loi.",
+      "justification": "Le groupe soutient le contenu du texte."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Laurent Croizier",
+      "citation": "Parce qu’il nous faut avancer, parce qu’elle va dans le bon sens et parce qu’il est urgent de protéger nos enfants, le groupe Démocrate votera en faveur de ce texte.",
+      "justification": "Le groupe soutient le contenu du texte."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Laurent Marcangeli",
+      "citation": "Le groupe Horizons & indépendants votera donc ce texte avec fierté",
+      "justification": "Le groupe soutient l'âge minimum fixé par le texte."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    }
+  }
+}

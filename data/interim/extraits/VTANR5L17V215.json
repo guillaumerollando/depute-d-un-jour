@@ -1,0 +1,122 @@
+{
+ "uid": "VTANR5L17V215",
+ "titre": "l'article 2 octies de la proposition de loi visant à restaurer un système de retraite plus juste en annulant les dernières réformes portant sur l’âge de départ et le nombre d’annuités (première lecture).",
+ "type": "article",
+ "date": "2024-10-31",
+ "dossier": "DLR5L17N50453",
+ "dossier_titre": "Restaurer un système de retraite plus juste en annulant les dernières réformes portant sur l'âge de départ et le nombre d'annuités",
+ "sort": "adopté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "pour",
+  "LFI": "contre",
+  "SOC": "contre",
+  "DR": "contre",
+  "ECOS": "contre",
+  "DEM": "contre"
+ },
+ "voix": {
+  "RN": {
+   "pour": 80,
+   "contre": 0,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 20,
+   "contre": 2,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 25,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 0,
+   "contre": 24,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 0,
+   "contre": 7,
+   "abstention": 3
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 17,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 1,
+   "contre": 7,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 6,
+   "contre": 5,
+   "abstention": 2
+  },
+  "LIOT": {
+   "pour": 1,
+   "contre": 1,
+   "abstention": 1
+  },
+  "GDR": {
+   "pour": 0,
+   "contre": 0,
+   "abstention": 3
+  },
+  "UDR": {
+   "pour": 3,
+   "contre": 0,
+   "abstention": 5
+  }
+ },
+ "amendement": null,
+ "seance": "RUANR5L17S2025IDS28618",
+ "compte_rendu": "CRSANR5L17S2025O1N030",
+ "interventions": [
+  {
+   "orateur": "M. Ugo Bernalicis",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Ensuite, dès lors que le critère de l’urgence est évacué, reste le critère de l’efficacité. Pour que la loi soit effectivement abrogée, il ne suffit pas de voter un texte en première lecture à l’Assemblée ; il faut une navette parlementaire. Je vous l’apprends peut-être, chers collègues, mais il faut que le texte aille au Sénat, puis revienne, s’il n’y a pas de commission mixte paritaire (CMP) à l’issue de la première lecture dans les deux chambres. Or les prochaines niches parlementaires au Sénat pour abroger la réforme portant l’âge de départ à 64 ans auront lieu en décembre 2024 et en janvier 2025. Vous aurez donc l’occasion de vous rattraper, avec la coalition majoritaire – en majorité relative certes, mais en majorité à l’Assemblée nationale – du Nouveau Front populaire, le 28 novembre prochain. (Applaudissements sur quelques bancs du groupe LFI-NFP.) Je me tiens à votre disposition, car je serai le rapporteur de cette proposition de loi d’abrogation…"
+  },
+  {
+   "orateur": "M. Ugo Bernalicis",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "…que vous voterez parce que ce circuit-là sera efficace pour abroger effectivement la réforme des retraites. Enfin, nous vous en voulons de ne pas avoir voté l’amendement du groupe LFI-NFP au projet de loi de financement de la sécurité sociale (PLFSS) ; nous proposons une base de financement, au moins à court terme, pesant sur les actifs qui gagnent le plus, lesquels paieront une légère surcotisation. Vous l’avez refusé, car vous n’avez pas de proposition pour financer l’abrogation de la retraite à 64 ans, sinon de dire aux femmes de procréer davantage ; c’est inacceptable. (Applaudissements sur les bancs du groupe LFI-NFP, ainsi que sur quelques bancs du groupe GDR.)"
+  },
+  {
+   "orateur": "M. Benjamin Lucas-Lundy",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Quand autant de gens se sont mobilisés contre cette réforme, quand autant de gens en souffrent, faire croire que vous pourriez l’abroger aujourd’hui est un mensonge vraiment répugnant, et qui vous ressemble d’ailleurs. (Vives protestations sur les bancs du groupe RN.) Avant même d’être vidée de sa substance, votre proposition de loi était un coup d’un soir législatif."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Ne prenez pas à partie vos collègues."
+  },
+  {
+   "orateur": "M. Benjamin Lucas-Lundy",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Je m’exprimerai donc à la troisième personne. Le texte du Rassemblement national était un coup d’un soir législatif, puisqu’il s’agissait de voter aujourd’hui un texte qui n’aurait pas été transmis au Sénat ensuite, et qui n’aurait rien changé à la vie de personne. Or nous sommes à l’Assemblée nationale pour changer la vie de nos concitoyens, pas pour créer des visuels et faire des effets de communication, ou pour permettre à Mme Le Pen d’entamer sa dix-huitième campagne présidentielle. (Applaudissements sur les bancs des groupes EcoS et SOC. – Protestations sur les bancs du groupe RN.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’article 2 octies."
+  }
+ ]
+}

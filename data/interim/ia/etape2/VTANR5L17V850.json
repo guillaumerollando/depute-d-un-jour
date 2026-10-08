@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V850",
+  "consigne": "etape2_ambiguite v2",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Eddy Casterman",
+      "citation": "Cet article, qui ne sert strictement à rien, porte le stigmate du lobby de la décroissance industrielle.",
+      "justification": "Le groupe déclare s'opposer à l'article 2 et à sa redevance, et vote pour sa suppression."
+    },
+    "EPR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Roland Lescure",
+      "citation": "Enfin, nous finançons la transition.",
+      "justification": "Le groupe déclare soutenir le texte, dont le financement de la transition, et vote contre la suppression de l'article 2."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "L'intervention du groupe est une interjection qui ne porte pas sur la raison du vote."
+    },
+    "DR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Vincent Descoeur",
+      "citation": "Je me réjouis de l’inscription dans ce texte du principe d’une redevance acquittée par les producteurs de Pfas",
+      "justification": "Le groupe déclare approuver la redevance prévue par l'article 2 et vote contre sa suppression."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "DEM": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Cyrille Isaac-Sibille",
+      "citation": "L’article 2 vise à créer une redevance pollueur-payeur dont le principe semble logique",
+      "justification": "Le groupe déclare approuver le principe de la redevance prévue par l'article 2 et vote contre sa suppression."
+    },
+    "HOR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Éric Michoux",
+      "citation": "En proposant de créer une nouvelle taxe, dont on ne connaît ni le montant exact, ni ce qu’elle va rapporter à l’État, vous faites un acte de déloyauté vis-à-vis de nos entreprises",
+      "justification": "Le groupe, auteur de l'amendement, déclare s'opposer à la redevance créée par l'article 2 et vote pour sa suppression."
+    }
+  }
+}

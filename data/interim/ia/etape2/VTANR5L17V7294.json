@@ -1,0 +1,69 @@
+{
+  "uid": "VTANR5L17V7294",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Jordan Guitton",
+      "citation": "Il faut faire en sorte que le crime ne paie pas.",
+      "justification": "Le groupe défend un élargissement des confiscations prévues par le texte et vote pour."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Sylvain Maillard",
+      "citation": "nous avons voté une amélioration essentielle des délais de paiement des experts, qui était très attendue.",
+      "justification": "Le groupe vote pour en saluant l'amélioration des délais de paiement des experts."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Ugo Bernalicis",
+      "citation": "nous voterons contre ce texte parce que, pour prendre un exemple, l’enquête post-sentencielle est très problématique",
+      "justification": "Le groupe vote contre en jugeant problématique l'enquête post-sentencielle et la destruction de biens avant jugement."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe s'exprime seulement sur un amendement relatif aux délais de paiement, ce qui ne permet pas de trancher sur le vote de l'ensemble."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe s'exprime seulement sur des amendements, ce qui ne permet pas de trancher sur le vote de l'ensemble."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe s'exprime seulement sur des amendements, ce qui ne permet pas de trancher sur le vote de l'ensemble."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Anne Bergantz",
+      "citation": "ce texte dote la République des armes juridiques dont elle a besoin pour continuer à sanctionner là où ça fait mal.",
+      "justification": "Le groupe vote pour en estimant que le texte renforce les moyens de sanction."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Xavier Albertini",
+      "citation": "C’est la logique de ce texte, que le groupe Horizons & indépendants soutient sans réserve.",
+      "justification": "Le groupe vote pour en déclarant soutenir le texte sans réserve."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "L'intervention attribuée au groupe porte sur un amendement relatif aux délais de paiement, ce qui ne permet pas de trancher sur le vote de l'ensemble."
+    }
+  }
+}

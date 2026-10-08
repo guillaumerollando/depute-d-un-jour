@@ -1,0 +1,11 @@
+{
+ "uid": "VTANR5L17V1474",
+ "consigne": "etape3_verification v2",
+ "verdict": "corrige",
+ "problemes": [
+  "Le texte adopté ne contient que des renvois entre articles du statut de la magistrature (et une date d'entrée en vigueur) ; le contenu concret des règles appliquées au nouveau procureur n'est pas dans les sources. La carte est exacte mais l'utilisateur ne peut pas savoir ce qu'il vote : mesure trop technique au sens de la consigne."
+ ],
+ "corrections": {
+  "lisibilite": "trop_technique"
+ }
+}

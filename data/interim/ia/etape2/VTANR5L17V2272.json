@@ -1,0 +1,69 @@
+{
+  "uid": "VTANR5L17V2272",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe s’exprime seulement sur un amendement relatif à la nationalité, pas sur l’ensemble du texte."
+    },
+    "EPR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Charles Sitzenstuhl",
+      "citation": "Nous vous alertons sur le fait que nous n’avons pas, en 2025, avec un déficit public qui représente 5,8 % du PIB, les moyens de payer la réforme que vous proposez, alors que l’estimation basse de son coût est de l’ordre de 3 milliards d’euros.",
+      "justification": "Le groupe vote contre en invoquant le coût de la mesure et son financement par les entreprises."
+    },
+    "LFI": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Sarah Legrain (LFI-NFP)",
+      "citation": "mais parce que nous croyons au principe de l’égalité entre les enfants et à leur droit de voir couverts leurs besoins minimaux.",
+      "justification": "Le groupe vote pour en invoquant l’égalité entre les enfants."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Jérôme Guedj",
+      "citation": "Notre vote d’aujourd’hui a un petit caractère historique : non seulement nous élargissons le périmètre de la sécurité sociale, dans une proportion inégalée depuis longtemps, en revenant aux sources du Conseil national de la Résistance",
+      "justification": "Le groupe vote pour en soutenant l’élargissement de la sécurité sociale."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Antoine Vermorel-Marques (DR)",
+      "citation": "La mesure proposée n’est certainement pas l’unique solution au problème mais elle contribuera à relancer la natalité, notamment en aidant les jeunes parents qui ont un seul enfant.",
+      "justification": "Le groupe vote pour en estimant que la mesure soutiendra la natalité."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. François Ruffin",
+      "citation": "Verser des allocations familiales à tous les parents dès le premier enfant serait une avancée en la matière.",
+      "justification": "Le groupe vote pour en qualifiant la mesure d’avancée."
+    },
+    "HOR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Béatrice Piron",
+      "citation": "Le groupe Horizons & indépendants, auquel j’appartiens, votera majoritairement contre cette proposition de loi en l’état. Il le fera non par rejet de son objectif, mais parce qu’elle ouvre un droit nouveau sans financement identifié, dans un contexte de fortes contraintes budgétaires.",
+      "justification": "Le groupe vote contre en invoquant l’absence de financement, argument que la consigne range dans le fond."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe s’exprime seulement sur un amendement relatif à la nationalité, pas sur l’ensemble du texte."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Éric Michoux",
+      "citation": "Le versement des allocations familiales dès le premier enfant est une très bonne chose, une juste reconnaissance de la cellule familiale.",
+      "justification": "Le groupe vote pour en soutenant le versement dès le premier enfant."
+    }
+  }
+}

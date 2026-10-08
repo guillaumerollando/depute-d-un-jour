@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V239",
+  "consigne": "etape3_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "Le texte présente l'abrogation comme certaine, alors que l'amendement réécrit une phrase de l'annexe du budget de la Sécurité sociale qui décrit l'évolution prévue des comptes des retraites (alinéa 10 de l'annexe) ; la carte doit dire où la mesure est inscrite."
+  ],
+  "corrections": {
+    "ce_que_ca_change": "L'amendement réécrit l'annexe du budget de la Sécurité sociale qui décrit l'évolution prévue des comptes des retraites. Il y inscrit qu'au 1er janvier 2025 sont abrogés deux points de la réforme de 2023 : le recul de l'âge minimum de départ de 62 à 64 ans et l'accélération de la hausse de la durée de cotisation exigée pour une retraite complète (dite « à taux plein »)."
+  }
+}

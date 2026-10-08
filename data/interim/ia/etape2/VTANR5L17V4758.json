@@ -1,0 +1,62 @@
+{
+  "uid": "VTANR5L17V4758",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Joëlle Mélin",
+      "citation": "préfèrent voter contre votre projet de loi, afin que les Français, qui seront certes fragilisés, puissent survivre et relancer la productivité et les richesses françaises.",
+      "justification": "Le groupe vote contre en invoquant les effets du texte sur les Français et l’économie."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Camille Galliard-Minier",
+      "citation": "Ne pas voter ce PLFSS ne serait pas un geste neutre. Ce serait refuser de soutenir des politiques essentielles pour les Françaises et les Français les plus modestes.",
+      "justification": "Le groupe vote pour en défendant les mesures contenues dans le texte."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Hadrien Clouet",
+      "citation": "Vous faites donc payer les gens en 2026 pour une mesure qui ne pourra pas être introduite en 2026.",
+      "justification": "Le groupe vote contre en critiquant les prélèvements prévus par le texte."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Sandrine Runel",
+      "citation": "Enfin, voter ce PLFSS, c’est permettre aux femmes de bénéficier de deux avancées majeures : l’introduction d’un nouveau congé de naissance et la prise en compte des trimestres de maternité dans l’ouverture des droits au départ anticipé pour carrière longue.",
+      "justification": "Le groupe vote pour en citant des mesures du texte qu’il soutient."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Philippe Vigier",
+      "citation": "il n’y a pas d’autre choix que de donner un budget à la sécurité sociale.",
+      "justification": "Le groupe vote pour en affirmant la nécessité de doter la sécurité sociale d’un budget."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Christophe Naegelen",
+      "citation": "Surtout, grâce au travail parlementaire, le texte qui nous est soumis aujourd’hui est bien meilleur que la copie initiale du gouvernement.",
+      "justification": "Le groupe vote pour en mettant en avant les modifications apportées au texte."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Yannick Monnet",
+      "citation": "Il est illusoire et dangereux de continuer à aborder le déficit de la sécurité sociale par le seul prisme d’une réduction des dépenses de santé.",
+      "justification": "Le groupe vote contre en critiquant l’approche du financement de la sécurité sociale retenue."
+    },
+    "UDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Éric Michoux",
+      "citation": "Ce budget de la sécurité sociale, c’est le budget de ceux qui n’aiment pas la France, de ceux qui n’aiment pas l’entreprise, de ceux qui n’aiment pas les retraités, de ceux qui n’aiment pas les Français !",
+      "justification": "Le groupe vote contre en rejetant le contenu du budget."
+    }
+  }
+}

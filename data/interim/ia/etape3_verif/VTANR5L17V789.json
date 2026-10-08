@@ -1,0 +1,12 @@
+{
+ "uid": "VTANR5L17V789",
+ "consigne": "etape3_verification v2",
+ "verdict": "corrige",
+ "problemes": [
+  "La formule « Selon le débat » expose une incertitude au lecteur alors que la mesure figure dans les sources (article adopté conforme, non reproduit dans le texte de CMP).",
+  "La carte omet que l'éligibilité aux élections de la MSA reste conditionnée au paiement des cotisations (article 2, 3°)."
+ ],
+ "corrections": {
+  "ce_que_ca_change": "Le texte modifie les élections de la Mutualité sociale agricole (MSA), la sécurité sociale des agriculteurs : la métropole de Lyon y est découpée en circonscriptions, et les assurés en retard de cotisations peuvent voter mais doivent les avoir réglées pour être candidats. Il permet aussi aux dirigeants de coopératives vendant des pesticides de siéger au bureau des chambres d'agriculture."
+ }
+}

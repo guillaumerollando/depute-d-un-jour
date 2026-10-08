@@ -1,0 +1,83 @@
+{
+  "uid": "VTANR5L17V7405",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Michaël Taverne",
+      "citation": "Vous êtes opposés à ce texte, qui pourtant vise à protéger un peu plus les Français en prolongeant la durée de rétention des étrangers condamnés et dangereux",
+      "justification": "Le groupe vote pour en présentant le texte comme une protection accrue des Français."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Antoine Léaument",
+      "citation": "les mesures que vous prévoyez dans ce texte auraient été inefficaces. C’est précisément la raison pour laquelle nous le combattons.",
+      "justification": "Le groupe vote contre en jugeant les mesures du texte inefficaces."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Élisabeth de Maistre",
+      "citation": "quand il libère des individus dangereux, faute d’outils juridiques pour les retenir, quand notre droit faillit à protéger Philippine",
+      "justification": "Le groupe dénonce l'absence d'outils juridiques pour retenir des individus dangereux et vote pour le texte."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Léa Balage El Mariky",
+      "citation": "Les associations observent depuis des années que l’allongement de rétention n’améliore pas significativement le nombre d’éloignements.",
+      "justification": "Le groupe vote contre en contestant l'utilité et la portée des mesures du texte."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Anne Bergantz",
+      "citation": "Le groupe Les Démocrates considère que l’équilibre trouvé est le bon. Nous voterons donc ce texte avec résolution.",
+      "justification": "Le groupe vote pour en approuvant l'équilibre du texte."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Sylvain Berrios",
+      "citation": "le groupe Horizons & indépendants votera avec conviction, fermeté et détermination le texte qui nous est proposé.",
+      "justification": "Le groupe vote pour en déclarant soutenir le texte."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Laurent Mazaury",
+      "citation": "Cette proposition de loi est cohérente et proportionnée. Elle répond à des problèmes concrets, urgents.",
+      "justification": "L'orateur du groupe vote pour en jugeant le texte cohérent et proportionné."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Marcellin Nadeau",
+      "citation": "Ce texte faisant reculer l’État de droit, nous voterons évidemment contre.",
+      "justification": "Le groupe vote contre en estimant que le texte fait reculer l'État de droit."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Matthieu Bloch",
+      "citation": "Lorsqu’il s’agit de protéger les Français, nous avons toujours considéré que le mieux ne devait jamais être l’ennemi du bien ; dès lors, même si ce texte a été affaibli, le groupe UDR votera en sa faveur.",
+      "justification": "Le groupe vote pour au nom de la protection des Français."
+    }
+  }
+}

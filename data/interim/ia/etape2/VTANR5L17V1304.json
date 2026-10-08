@@ -1,0 +1,69 @@
+{
+  "uid": "VTANR5L17V1304",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Michel Guiniot",
+      "citation": "Nous ne devons pas réfréner l’expression de la démocratie dans la ruralité !",
+      "justification": "Le groupe s'oppose à la suppression du panachage et à la contrainte imposée aux petites communes."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Guillaume Gouffier Valente",
+      "citation": "Ce texte est profondément républicain car il achève d’introduire la parité dans toutes les strates de notre démocratie",
+      "justification": "Le groupe soutient l'extension de la parité aux petites communes."
+    },
+    "LFI": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Anaïs Belouassa-Cherifi",
+      "citation": "Cette proposition de loi, enfin, est une avancée majeure pour la parité et la vitalité démocratique de notre pays et de nos communes.",
+      "justification": "Le groupe soutient le scrutin de liste paritaire."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Hervé Saulignac",
+      "citation": "Fidèles à leur histoire, ils voteront ce texte : il ne faut jamais remettre à demain le combat pour l’égalité",
+      "justification": "Le groupe soutient l'extension de la parité."
+    },
+    "DR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Pierre Cordier",
+      "citation": "Dans d’autres départements, cependant, une politisation existe même dans de petits villages. Je ne connaissais pas cela, mais le risque est donc bien réel",
+      "justification": "Le groupe invoque un risque de politisation des petites communes."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Benjamin Lucas-Lundy",
+      "citation": "Tant que les femmes ne seront pas les égales des hommes dans la vie institutionnelle et démocratique sur une seule parcelle du territoire, le combat pour l’égalité et la parité politique ne sera pas achevé.",
+      "justification": "Le groupe soutient l'extension de la parité."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Marc Fesneau",
+      "citation": "Or la proposition permet à ceux qui rencontrent des difficultés de compléter leurs listes. Il me semble donc que c’est une avancée.",
+      "justification": "Le groupe soutient le contenu du texte."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Julien Brugerolles",
+      "citation": "il n’y a aucune raison de priver une partie du territoire des conditions d’accès aux fonctions électives qui ont cours partout ailleurs. C’est une question d’égalité réelle.",
+      "justification": "Le groupe soutient l'harmonisation du mode de scrutin au nom de l'égalité."
+    },
+    "UDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Sophie Ricourt Vaginay",
+      "citation": "La parité, brandie comme un étendard, constituera en réalité une contrainte bloquant la formation des listes.",
+      "justification": "Le groupe estime que la réforme fragilisera les communes rurales."
+    }
+  }
+}

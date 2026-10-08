@@ -1,0 +1,62 @@
+{
+  "uid": "VTANR5L17V7027",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Frédéric Falcon (RN)",
+      "citation": "le Rassemblement national vote systématiquement en faveur de toute mesure susceptible de renforcer la production de logement",
+      "justification": "Le groupe vote pour en présentant le texte comme susceptible de renforcer la production de logement, malgré des réserves sur le dispositif."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Annaïg Le Meur (EPR)",
+      "citation": "Le groupe Ensemble pour la République était déjà satisfait par la version du texte issue des travaux de la commission.",
+      "justification": "Le groupe vote pour en se déclarant satisfait du texte."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. François Piquemal",
+      "citation": "Il faut apporter des réponses à ces problèmes, notamment en matière de maîtrise du prix du foncier, que cette proposition de loi n’aborde pas",
+      "justification": "Le groupe vote contre en reprochant au texte de ne pas traiter la maîtrise du prix du foncier."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Lionel Duparay",
+      "citation": "son initiative apporte des leviers pour répondre partiellement à cette crise. Nous voterons donc le texte.",
+      "justification": "Le groupe vote pour en estimant que le texte apporte des leviers face à la crise du logement."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Pascal Lecamp",
+      "citation": "Il est nécessaire que ce type de dispositif s’applique aussi aux maisons individuelles car c’est le seul endroit où on peut investir pour loger ces personnes en milieu rural.",
+      "justification": "Le groupe défend l'extension du dispositif aux maisons individuelles prévue par le texte et vote pour."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Les interventions du groupe portent sur des amendements et ne permettent pas de trancher sur le vote de l'ensemble."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Charles de Courson (LIOT)",
+      "citation": "Notre groupe votera bien entendu pour cette proposition de loi que nous avons déposée.",
+      "justification": "Le groupe, auteur du texte, vote pour."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Olivier Fayssat (UDR)",
+      "citation": "Le groupe UDR votera pour ce texte, qui n’est pas pleinement satisfaisant mais qui fera un peu de bien",
+      "justification": "Le groupe vote pour en estimant que le texte aura des effets positifs."
+    }
+  }
+}

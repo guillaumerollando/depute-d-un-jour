@@ -1,0 +1,83 @@
+{
+  "uid": "VTANR5L17V1041",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Laure Miller",
+      "citation": "Mon groupe, Ensemble pour la République, votera en faveur de ce texte, parce qu’il sauvegarde entièrement les trois grands axes de la proposition de loi initiale.",
+      "justification": "Le groupe soutient le contenu du texte issu de la CMP."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Bérenger Cernon",
+      "citation": "Nous voterons donc contre cette proposition de loi. Ne vous y trompez pas, chers collègues : l’adversaire d’une vraie liberté, c’est le désir excessif de sécurité.",
+      "justification": "Le groupe s'oppose aux mesures de surveillance et d'extension des pouvoirs des agents prévues par le texte."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Roger Vicot",
+      "citation": "L’appétit de répression qui émane de ce texte nous préoccupe",
+      "justification": "Le groupe s'oppose au texte en invoquant l'étendue des pouvoirs confiés aux agents et la disproportion de sanctions."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Ian Boucard",
+      "citation": "En somme, le groupe Droite républicaine estime qu’il était temps de donner ces droits aux agents de sûreté, car on ne peut leur demander d’assurer la sécurité des usagers des transports en commun sans leur en donner les moyens.",
+      "justification": "Le groupe soutient le renforcement des prérogatives des agents de sûreté."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Sandra Regol",
+      "citation": "Elle accentue en outre la surveillance généralisée d’une population qui n’a pourtant rien à se reprocher",
+      "justification": "Le groupe s'oppose aux mesures de surveillance et de transfert de missions au secteur privé."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Philippe Latombe",
+      "citation": "Notre groupe votera donc pour ce texte, qui est attendu par nos concitoyens.",
+      "justification": "Le groupe soutient le renforcement des moyens des agents de sûreté, avec des réserves sur la vidéosurveillance algorithmique."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Jean Moulliere",
+      "citation": "Le groupe Horizons & indépendants adhère pleinement à l’objectif de cette proposition de loi : renforcer la sécurité des usagers et des agents des transports publics face aux incivilités, à la délinquance et aux menaces terroristes.",
+      "justification": "Le groupe soutient l'objectif et les mesures du texte."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Yannick Favennec-Bécot",
+      "citation": "Nous soutenons les deux objectifs de ce texte",
+      "justification": "Le groupe soutient les objectifs du texte, avec des réserves sur certaines mesures."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    }
+  }
+}

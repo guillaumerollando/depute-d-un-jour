@@ -1,0 +1,268 @@
+{
+ "uid": "VTANR5L17V3261",
+ "titre": "l'amendement de suppression n° 2 de M. Christophle et les amendements identiques suivants à l'article unique de la proposition de loi visant au rétablissement du délit de séjour irrégulier (première lecture).",
+ "type": "amendement",
+ "date": "2025-10-30",
+ "dossier": "DLR5L17N52801",
+ "dossier_titre": "Rétablissement du délit de séjour irrégulier",
+ "sort": "adopté",
+ "positions": {
+  "RN": "contre",
+  "EPR": "pour",
+  "LFI": "pour",
+  "SOC": "pour",
+  "DR": "contre",
+  "ECOS": "pour",
+  "DEM": "pour",
+  "HOR": "contre",
+  "GDR": "pour",
+  "UDR": "contre"
+ },
+ "voix": {
+  "RN": {
+   "pour": 0,
+   "contre": 120,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 47,
+   "contre": 0,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 52,
+   "contre": 0,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 57,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 0,
+   "contre": 26,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 35,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 11,
+   "contre": 1,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 1,
+   "contre": 4,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 0,
+   "contre": 1,
+   "abstention": 1
+  },
+  "GDR": {
+   "pour": 6,
+   "contre": 0,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 0,
+   "contre": 15,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901B1839P0D1N000002",
+  "dossier": "DLR5L17N52801",
+  "texte": "PIONANR5L17B1839",
+  "division": "Article unique",
+  "auteur": "M. Christophle,  Mme Allemand, Mme Capdevielle, Mme Karamanli, M. Pena, M. Saulignac, Mme Thiébault-Martinez, M. Vicot, M. William, M. Aviragnet, M. Baptiste, M. Barusseau, Mme Battistel, M. Baumel, M. Belhaddad, Mme Bellay, M. Benbrahim, M. Bouloux, M. Philippe Brun, M. Califer, M. Courbon, M. David, M. Delaporte, M. Delautrette, Mme Diop, Mme Dombre Coste, M. Dufau, M. Echaniz, M. Faure, Mme Froger, M. Fégné, M. Garot, Mme Godard, M. Gokel, Mme Got, M. Emmanuel Grégoire, M. Guedj, M. Hablot, Mme Hadizadeh, Mme Herouin-Léautey, Mme Céline Hervieu, M. Hollande, M. Houlié, Mme Jourdan, Mme Keloua Hachi, M. Leseul, M. Lhardit, Mme Mercier, M. Naillet, M. Oberti, Mme Pantel, Mme Pic, Mme Pirès Beaune, M. Potier, M. Pribetich, M. Proença, Mme Rossi, Mme Rouaux, M. Aurélien Rousseau, M. Roussel, Mme Runel, Mme Récalde, M. Saint-Pasteur, Mme Santiago, M. Simion, M. Sother, Mme Thomin, M. Vallaud et les membres du groupe Socialistes et apparentés",
+  "auteur_groupe": "SOC",
+  "auteur_type": "Député",
+  "dispositif": "Supprimer cet article.",
+  "expose": "Cet amendement du groupe Socialistes et apparentés vise à supprimer l'article unique de cette proposition de loi du Rassemblement national. Abrogé par une loi du 31 décembre 2012, le délit de séjour irrégulier était sur la sellette alors que les juridictions nationales et européenne avaient sérieusement restreint les conséquences d'une telle infraction. Dès lors qu'aucune autre infraction n'a été commise, la Cour de cassation a estimé qu'à lui seul, ce délit ne pouvait justifier un placement en garde à vue. De son côté, le Conseil constitutionnel avait clairement exclu la possibilité des contrôles d'identité au faciès... Finalement, la volonté de rétablir ce délit trahit celle d'organiser une chasse aux étrangers commencée par le précédent Ministre de l'intérieur. Ce rétablissement aurait pour effet de permettre un glissement des contrôles d’identité dont on peut imaginer les dérives avec les discriminations au faciès. Sans l’écrire dans l’exposé des motifs de sa proposition de loi, le RN entend permettre une chasse aux étrangers déjà amorcé par le précédent ministre de l’intérieur M. Retailleau. La mobilisation des forces de l’ordre sur ce type d’opération aurait pour effet le délaissement des missions qui devraient être prioritaires pour la police et la gendarmerie, à savoir la lutte contre la criminalité organisée. La démagogie rencontre assez vite ses limites et si d’aventure une telle mesure venait à être adoptée, nul doute que son application causerait davantage de désordres dans notre République."
+ },
+ "seance": "RUANR5L17S2026IDS29855",
+ "compte_rendu": "CRSANR5L17S2026O1N022",
+ "interventions": [
+  {
+   "orateur": "M. Laurent Nuñez",
+   "qualite": "ministre de l’intérieur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je souhaite à mon tour réagir en quelques minutes aux propos tenus ce matin dans la discussion générale, avant qu’on en vienne à l’examen de l’article unique.Tout d’abord, j’ai entendu dire à plusieurs reprises que des personnes se retrouveraient en séjour irrégulier en raison du manque d’efficacité du travail des préfectures. Je tiens pourtant à saluer l’engagement de leurs agents, qui exercent leur fonction dans un contexte compliqué (Applaudissements sur les bancs des groupes EPR et Dem. – Mme Léa Balage El Mariky et Mme Christine Pirès Beaune applaudissent également), en se fondant sur des textes dont le moins qu’on puisse dire est qu’ils sont très mouvants. Bien évidemment, nous renforçons les effectifs et améliorons le dispositif de traitement Anef – administration numérique pour les étrangers en France.Par ailleurs, certaines interventions ont laissé penser que nous pourrions revenir, à l’occasion de cette discussion, sur certaines dispositions concernant l’accès au séjour. Que les choses soient claires, il n’est pas dans mon intention de l’assouplir."
+  },
+  {
+   "orateur": "M. Éric Martineau",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Le groupe Démocrates ne votera pas ce texte. Pour nous, l’immigration est bien un sujet à traiter, mais les positions et les propositions du RN sont inopérantes. Il n’est donc pas question que nous consacrions tout notre après-midi à ce texte. Il faut écouter ce qu’a dit M. le ministre et donner aux forces de l’ordre les moyens de lutter contre l’immigration illégale, mais sans faire n’importe quoi. (Applaudissements sur quelques bancs du groupe EPR et sur plusieurs bancs du groupe SOC.)"
+  },
+  {
+   "orateur": "Mme Sylvie Josserand",
+   "qualite": "rapporteure de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Madame Balage El Mariky, je ne peux pas vous laisser dire que le Rassemblement national et la présidente Le Pen ne connaissent pas le code pénal au prétexte que le délit d’entrée sur le territoire y figure déjà. En effet, le délit de séjour sur le territoire sans document l’autorisant n’existe pas. C’est vous qui confondez plusieurs délits et ne savez pas lire le code pénal.Monsieur Sitzenstuhl, vous nous avez dit : « Chers collègues d’extrême droite, vous n’avez pas changé. » Vous, en revanche, vous semblez avoir changé puisqu’en janvier 2024, vous avez voté, avec une grande majorité de députés de votre groupe, le délit de séjour irrégulier. (Applaudissements sur les bancs des groupes RN et UDR.) Peut-être s’agit-il là d’un effet de votre conception du « en même temps », mais vous ne pouviez pas être pour une mesure hier et contre aujourd’hui."
+  },
+  {
+   "orateur": "Mme Élisa Martin",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "…– par là même, nous les protégerions d’ailleurs des filières de traite des êtres humains –, et, bien sûr, de scolariser les enfants. Voilà ce que nous devrions faire. Ce n’est pas seulement une question de morale, c’est aussi le droit et l’histoire de notre pays qui sont en jeu. Alors, votons contre cette proposition de loi ! (Applaudissements sur les bancs du groupe LFI-NFP.)"
+  },
+  {
+   "orateur": "M. Romain Eskenazi",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Votre proposition de loi est à la fois illégale, inefficace et inhumaine. Illégale, car elle contrevient au droit européen et aux principes de notre Constitution. Inefficace, car elle mobiliserait des policiers pour faire payer des amendes à des personnes insolvables et des juges pour s’occuper de personnes qui ne sont pas des délinquants.Pour finir, elle est inhumaine, car jamais la République ne saurait pénaliser une condition administrative ni confondre absence de titre et délinquance. J’ai avec vous, madame Le Pen, et M. Bardella, un point commun : c’est bien un certain Jean-Marie Le Pen qui m’a poussé à m’engager en politique, non pas pour défendre ses idées nauséabondes, qui rappellent les heures les plus sombres de notre histoire, mais contre ces idées et pour les valeurs de la République. (Applaudissements sur les bancs du groupe SOC, dont plusieurs députés se lèvent, et sur plusieurs bancs du groupe EcoS.)"
+  },
+  {
+   "orateur": "Mme Sylvie Josserand",
+   "qualite": "rapporteure",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Pour le reste, les reproches qui nous sont adressés – ne pas connaître le code pénal, méconnaître le droit européen – sont évidemment sans fondement. Nous avons interrogé la direction des affaires criminelles et des grâces (DACG) ; nous avons interrogé les services de l’État ; nous avons procédé nous-mêmes aux analyses juridiques. Tout le monde nous a assuré que la conformité de notre proposition au droit européen était indiscutable. Vous continuez de semer la confusion afin que la question reste nébuleuse dans l’esprit des Français."
+  },
+  {
+   "orateur": "Mme Sylvie Josserand",
+   "qualite": "rapporteure",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Qui plus est, lors de l’interpellation d’un étranger, sa situation est réexaminée. Au contraire, une interdiction du territoire français (ITF) est une peine : inscrite au casier judiciaire, elle est exécutoire et le reste jusqu’à sa prescription, au bout de dix ans, ce qui dispense de quelque réexamen que ce soit.Il est donc évident que Lola et Philippine seraient en vie (Vives exclamations sur les bancs des groupes LFI-NFP, SOC et EcoS)…"
+  },
+  {
+   "orateur": "M. Laurent Nuñez",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Ils visent en effet à supprimer l’article unique de la proposition de loi. Pour les raisons que j’ai indiquées et qui peuvent d’ailleurs être très éloignées de celles qui motivent les auteurs de certains de ces amendements, je ne peux qu’y être favorable. La conformité, ce n’est pas le problème : sur ce point, vous avez raison, madame la rapporteure. Le problème, c’est l’efficacité ! Je vous le répète : la priorité est donnée à la reconduite. Qu’il s’agisse d’OQTF ou d’interdiction du territoire français, c’est la même chose. Vous parlez d’appliquer l’article 40 du code de procédure pénale, madame la présidente Marine Le Pen, mais je ne sais pas si vous vous rendez bien compte de ce que cela veut dire ! (Exclamations sur les bancs du groupe EcoS.) Cela signifie qu’il faudra systématiquement saisir la justice ! Vous allez engorger les tribunaux là où ce que nous souhaitons, c’est l’efficacité des reconduites.Dans les affaires dramatiques que vous citez, madame la rapporteure, ce qui aurait tout changé, c’est que l’on applique effectivement ces reconduites : c’est cela qui doit être amélioré ! De ce point de vue, l’OQTF et l’interdiction judiciaire du territoire, c’est bien la même chose. La politique menée par le gouvernement n’a donc pas d’autre objectif que d’être efficace,…"
+  },
+  {
+   "orateur": "M. Laurent Nuñez",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Il n’y a rien de plus que ce qui existe déjà dans le cadre de la retenue d’un étranger prévue aux fins de vérifier son droit de séjour. En revanche, le règlement relatif à la procédure de retour à la frontière, dit règlement retour, est actuellement en discussion : il rendra possible, dans le cadre de cette procédure administrative, de fouiller dans les téléphones portables, ce qui permettra d’identifier plus sérieusement les filières concernées. D’autres mesures permettent donc d’obtenir des résultats bien plus efficaces ! Ce que vous proposez n’est qu’une mesure d’affichage et ce que veulent les Français – vous l’avez dit, madame Le Pen, je vous prends au mot –, ce sont des actes, pas des mots ! (M. Sylvain Maillard applaudit. – Exclamations sur les bancs du groupe RN.)"
+  },
+  {
+   "orateur": "Mme Danièle Obono",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Madame la rapporteure, vous aurez beau citer tous les sondages du monde pour accréditer l’idée selon laquelle les Français seraient majoritairement favorables à ce que vous proposez, nous vous avons déjà répondu : l’immigration n’est pas la première préoccupation des millions de gens qui vivent dans notre pays, au contraire de l’urgence sociale, économique et écologique. Cela dit, il est vrai que votre travail a été préparé par des décennies de collusion et même de collaboration (Applaudissements sur les bancs du groupe LFI-NFP) avec les thèses racistes et xénophobes.Nous l’avons observé année après année, ici même à l’Assemblée nationale, au travers de certains textes. M. le ministre affirme d’ailleurs qu’il serait plus efficace que vous en la matière ; c’est l’expression du fait que la droite se tient aux côtés de l’extrême droite dans la même folie raciste et xénophobe. Quoi que vous prétendiez, votre texte n’est ni juste ni conforme à la réalité, d’autant que de toute évidence – votre intervention l’a démontré –, vous ne savez pas que la politique menée ces dernières années a mis des milliers de personnes en situation irrégulière, alors qu’elles étaient entrées sur le territoire de manière régulière (Applaudissements sur les bancs du groupe LFI-NFP), qu’elles bénéficiaient du droit de séjour et qu’elles vivaient parfois en France depuis des dizaines d’années.Les politiques menées par les gouvernements successifs ont fait en sorte que des parents ou des grands-parents dont le séjour était régulier se retrouvent du jour au lendemain en situation irrégulière, sans aucun moyen d’y remédier. Ces personnes ont vu leur vie brisée à cause de vous ! Ce qu’assume le Rassemblement national n’est donc que la continuation de ce qu’ont fait les macronistes : une politique de fabrique de sans-papiers qui conduit à criminaliser des personnes déjà vulnérables et précaires. (Applaudissements sur les bancs du groupe LFI-NFP. – Mme Sandrine Rousseau applaudit également.) Ces personnes, ce sont les travailleurs et les travailleuses essentiels de ce pays, qui le font tourner et sans qui quasiment aucun secteur ne pourrait fonctionner ! Vous le savez ! (Applaudissements sur les bancs du groupe LFI-NFP et sur quelques bancs du groupe EcoS.)"
+  },
+  {
+   "orateur": "M. Christophe Proença",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Mon cœur saigne d’entendre vos propos sur l’immigration, madame la rapporteure. (Exclamations sur les bancs du groupe RN.) Je vous le dis sincèrement ! Nombre de nos collègues pensent d’ailleurs certainement comme moi, à commencer par ceux qui sont d’origine étrangère. (Applaudissements sur les bancs du groupe SOC.) Mon père est arrivé de manière irrégulière en France et une partie de sa famille a alors été mise en prison pendant quelques jours. C’était en 1959 !Presque 2 millions de Portugais sont arrivés en France de manière irrégulière entre 1955 et 1965 – c’est aussi le cas de nombreux Espagnols et d’autres encore –, sous le regard bienveillant des gendarmes qui, dans les Pyrénées, les laissaient passer en leur indiquant la direction à prendre pour rebâtir leur existence, notamment la banlieue parisienne – en particulier Champigny-sur-Marne –, mais aussi Clermont-Ferrand et le grand Sud-Ouest. (Applaudissements sur les bancs des groupes SOC, LFI-NFP, EcoS et GDR et sur quelques bancs du groupe EPR.) Ils sont venus travailler dans les carrières ; sans eux et sans le regard bienveillant des Français et notamment des Lotois, je ne serais pas ici, député du Lot ! (Les députés des groupes SOC, LFI-NFP, EcoS et GDR ainsi que Mme Natalia Pouzyreff, continuant d’applaudir, se lèvent.)Je pense que vous vous trompez : ceux qui fuient leur pays ne viennent pas pour les aides sociales ! Ils viennent parce que c’est la misère chez eux. Vous aurez beau construire les murs les plus hauts, les frontières les plus hermétiques, les grillages les plus solides, vous n’empêcherez pas la misère de venir ! Occupez-vous de cette misère et ils ne viendront plus ! (Les députés des groupes SOC, LFI-NFP, EcoS et GDR, toujours debout, continuent d’applaudir. – Des « Bravo ! » retentissent sur les bancs du groupe SOC.)"
+  },
+  {
+   "orateur": "M. Pouria Amirshahi",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Vous n’êtes pas convaincus, je le sais bien : vous ne le serez jamais. Au fond, deux visions s’opposent et nous sommes fiers d’être de ce côté-ci, fiers d’appartenir à une France, notre patrie républicaine, qui s’enrichit des mémoires immigrées, dont la langue s’enrichit des mots des autres, dont la cuisine s’enrichit du parfum et des saveurs de tous les autres ! (Applaudissements sur les bancs des groupes EcoS, LFI-NFP, SOC et GDR.)"
+  },
+  {
+   "orateur": "M. Pouria Amirshahi",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Et ce qui fait la grandeur de la nation française, c’est précisément cette richesse-là ! Croyez bien une chose : lorsque des femmes et des hommes en détresse viennent chez nous, ce n’est pas en lisant le code pénal, comme le disait Léa Balage El Mariky ; ils le font parce que notre France, cette terre révolutionnaire, est une terre de liberté qui permet aux gens de s’extraire de leur condition. (Mêmes mouvements.)Nous ne vous convaincrons pas mais je veux m’adresser à tous les autres bancs, à celles et ceux qui ont été élus pour empêcher ces idées-là d’advenir : il n’est pas encore trop tard ! (Les députés des groupes EcoS, LFI-NFP, SOC et GDR se lèvent et applaudissent. – Plusieurs députés des groupes EPR et Dem applaudissent également.) Le vote qui a eu lieu ce matin pose un grave problème et je le dis solennellement : tous les démocrates qui ont été élus pour ce mandat doivent se réunir pour empêcher cette infamie de scinder la République !"
+  },
+  {
+   "orateur": "M. Richard Ramos",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Vous n’arrêtez pas de parler des électeurs, madame la rapporteure, pour essayer de flatter ceux qui pourraient vous amener au pouvoir. Mais nous, nous parlons ici d’êtres humains (Applaudissements sur plusieurs bancs des groupes Dem, EPR, SOC, EcoS et GDR), d’hommes et de femmes qui ont risqué leur vie parce qu’ils pensaient que la France était un grand pays ! Je vous le dis, madame : il y a sur ces bancs une droite modérée qui s’apprête à voter avec le Rassemblement national alors que dans les territoires, nos évêques et le Secours catholique sont aux côtés des migrants ! C’est la honte de la Droite républicaine que d’agir ainsi ! (Applaudissements sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR et sur quelques bancs des groupes Dem et EPR. – Les députés des groupes SOC, EcoS et GDR ainsi que Mme Natalia Pouzyreff se lèvent.)Nous devons donc, nous, le centre, empêcher la haine d’arriver ! (Exclamations sur les bancs des groupes RN et UDR. – M. Laurent Jacobelli dresse le poing.) Nous devons le faire tous ensemble. Je dis merci à la droite des territoires et merci aux évêques de défendre l’humanité et non la démagogie ! (Les applaudissements se poursuivent.)"
+  },
+  {
+   "orateur": "M. Thomas Cazenave",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Mme Le Pen, tout à l’heure, a placé le débat sur la question de l’efficacité, disant, à propos de cette proposition de loi, que « les policiers l’attendent ». Mais l’ensemble de ce texte repose sur un énorme mensonge ! Les policiers et les magistrats ne l’attendent pas : ils l’ont déjà essayé ! Un seul chiffre suffit à le démontrer : en 2009, sur 100 000 mises en cause pour séjour irrégulier, seules 597 condamnations ont été prononcées, soit moins de 1 %. Le résultat sera nul, madame Le Pen : vous allez emboliser le système et saper le travail des policiers et des magistrats, qui ont bien d’autres priorités. C’est une farce ! (Applaudissements sur les bancs du groupe EPR.)"
+  },
+  {
+   "orateur": "M. Thomas Cazenave",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Par un joli coup de communication, vous faites croire aux Français que vous allez résoudre leurs problèmes, mais – nous avons été très nombreux à le dire depuis le début de la discussion – il n’y a aucun résultat à attendre de ce que vous proposez. C’est la raison pour laquelle nous voterons ces amendements de suppression. (Applaudissements sur les bancs des groupes EPR et Dem et sur quelques bancs des groupes SOC et EcoS.)"
+  },
+  {
+   "orateur": "M. Fabien Di Filippo",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "…et oublier de quoi on parle. Nombre d’entre vous se prévalent d’être des descendants d’immigrés, mais c’est aussi mon cas ! (Exclamations sur les bancs des groupes LFI-NFP, SOC et EcoS.) C’est probablement aussi le cas de nombreux autres députés. Mais ici, nous sommes tous des élus du peuple français : nous sommes français avant tout (Applaudissements sur les bancs des groupes DR, RN et UDR), avec la responsabilité de redresser notre pays.Je remercie d’ailleurs mes parents et mes grands-parents de ne m’avoir jamais rien expliqué d’autre : je suis français et tout ce que l’on a, on le doit à notre République ! (Mêmes mouvements.)"
+  },
+  {
+   "orateur": "M. Fabien Di Filippo",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Quand on voit que nos capacités d’intégration sont saturées, il faut avoir l’honnêteté de le reconnaître ! Le délit de séjour irrégulier a déjà existé dans le passé ; la gauche l’a supprimé en arrivant au pouvoir. Avez-vous l’impression que depuis, la situation du pays, en matière migratoire et d’intégration, s’est améliorée ? (Nouvelles exclamations sur les bancs des groupes SOC et EcoS.) N’avez-vous pas envie de réintroduire des repères dans notre pays ? On peut les appeler des repères de fermeté ; pour ma part, je les appelle simplement des repères républicains, permettant aux gens qui rejoignent notre pays de le faire en respectant ses règles et avec la volonté pleine et entière de s’intégrer ! (Applaudissements sur les bancs des groupes DR, RN et UDR.)"
+  },
+  {
+   "orateur": "M. Stéphane Peu",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Je souscris à de nombreux propos tenus précédemment, aussi me contenterai-je d’insister sur quelques points. Tout d’abord, je vous invite tous ici à vous promener dans un rayon de 500 mètres autour de l’Assemblée nationale, car il n’est pas nécessaire d’aller très loin, et de frapper à la porte de tous les restaurants pour voir ce qu’il se passe dans les arrière-cuisines. (Applaudissements sur les bancs des groupes GDR, LFI-NFP et EcoS.)"
+  },
+  {
+   "orateur": "M. Stéphane Peu",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "…pour la simple et bonne raison que le patronat en use et abuse ! Pendant la crise sanitaire, alors que vous étiez tous repliés dans vos appartements, qui ouvrait les magasins, qui vous livrait les marchandises ? (Applaudissements continus sur les bancs des groupes GDR, LFI-NFP, SOC et EcoS.) Qui est mort du covid faute d’avoir été protégé ? Les salariés sans papiers ! (Vifs applaudissements sur les mêmes bancs dont les députés se lèvent. – M. Richard Ramos se lève également pour applaudir.)Je vous le dis clairement : s’il y a une urgence dans ce pays, c’est bien de régulariser tous ceux qui travaillent, tous ceux qui, par leur sueur, font marcher le pays."
+  },
+  {
+   "orateur": "Mme Marine Le Pen",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Monsieur Sitzenstuhl, le montant de l’AME a augmenté de 80 % entre 2009 et 2022. En effet, cela n’a pas beaucoup changé.Madame Balage El Mariky, je n’ai qu’un DEA de droit pénal. Je sais, c’est peu, mais cela m’a tout de même obligée à ouvrir de temps en temps un code pénal. Merci beaucoup pour votre sollicitude. (Applaudissements sur les bancs des groupes RN et UDR. – Exclamations sur les bancs des groupes LFI-NFP et EcoS.)Partout en Europe, la gauche s’est rendu compte que l’immigration avait atteint un niveau qui n’était plus soutenable. Partout en Europe, les positions les plus restrictives en matière d’immigration sont prises par des gouvernements socialistes. Vous, vous n’avez pas changé. Il paraît que nous non plus, d’ailleurs."
+  },
+  {
+   "orateur": "Mme Marine Le Pen",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Vous nous donnez l’impression d’assister à un concert Stars 80 ! Cela nous rajeunit ! (Applaudissements sur les bancs des groupes RN et UDR.)Vos hurlements, vos insultes, vos vociférations suffisent à vous décrédibiliser quand vous essayez de convaincre que vous luttez contre la haine. De fait, vous n’êtes que haine. (Mêmes mouvements.) Cela n’a pas d’importance car, vous avez pu vous en rendre compte, nous avons le cuir épais.En revanche, monsieur le ministre de l’intérieur, ne pas vous avoir entendu réagir lorsque M. Lachaud a accusé les policiers de se livrer à des rafles, c’est beaucoup plus grave ! (Les députés des groupes RN et UDR se lèvent et applaudissent longuement.)"
+  },
+  {
+   "orateur": "M. Emeric Salmon",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Quelle honte !"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix les amendements identiques nos 2, 4, 6, 11, 44, 76 et 86."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

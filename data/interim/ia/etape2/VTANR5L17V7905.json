@@ -1,0 +1,83 @@
+{
+  "uid": "VTANR5L17V7905",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Julien Limongi",
+      "citation": "C’est parce que chaque euro supplémentaire consacré à nos armées est préférable à l’immobilisme que nous voterons cette actualisation, malgré toutes les insuffisances que nous avons dénoncées.",
+      "justification": "Le groupe vote pour en raison de la hausse des crédits des armées, tout en jugeant le texte insuffisant."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. François Cormier-Bouligeon",
+      "citation": "nous préparons bien notre nation aux conflits actuels et à ceux de demain. C’est pourquoi le groupe Ensemble pour la République votera avec détermination ce projet de loi d’actualisation.",
+      "justification": "Le groupe soutient le contenu de l'actualisation de la programmation militaire."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Aurélien Saintoul",
+      "citation": "Vous vous vantez d’augmenter encore le budget des armées de 36 milliards, mais c’est plutôt un aveu d’impréparation ou d’insincérité que cette hausse.",
+      "justification": "Le groupe s'oppose au texte en contestant la stratégie et l'usage des crédits prévus."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Lise Magnier",
+      "citation": "Ce texte garantit notre crédibilité. C’est pourquoi le groupe Horizons & indépendants le votera.",
+      "justification": "Le groupe soutient la trajectoire financière et les mesures du texte."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Yannick Favennec-Bécot",
+      "citation": "Malgré ces quelques réserves, et parce que ce texte traduit indéniablement un effort pour nos armées, le groupe LIOT votera le projet de loi actualisant la programmation militaire.",
+      "justification": "Le groupe vote pour en raison de l'effort budgétaire en faveur des armées."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Matthieu Bloch",
+      "citation": "Oui, les 36 milliards d’euros supplémentaires prévus par cette actualisation sont nécessaires. Oui, les efforts consentis sur les munitions, les capacités spatiales, l’aviation de combat et les drones vont dans le bon sens.",
+      "justification": "Le groupe soutient les crédits et les choix capacitaires du texte, qu'il juge insuffisants."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Édouard Bénard",
+      "citation": "Autrement dit, ce projet ne prépare pas seulement nos armées, il prépare aussi notre société à vivre durablement sous le régime de l’exception.",
+      "justification": "Le groupe s'oppose aux dispositions d'exception et à l'orientation stratégique du texte."
+    }
+  }
+}

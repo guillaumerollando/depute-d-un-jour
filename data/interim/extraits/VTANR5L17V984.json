@@ -1,0 +1,283 @@
+{
+ "uid": "VTANR5L17V984",
+ "titre": "l'amendement n° 34 de M. Ciotti et l'amendement identique suivant à l'article unique de la proposition de résolution européenne appelant au renforcement du soutien à l'Ukraine.",
+ "type": "amendement",
+ "date": "2025-03-12",
+ "dossier": "DLR5L17N51467",
+ "dossier_titre": "Renforcement du soutien à l'Ukraine",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "contre",
+  "LFI": "pour",
+  "SOC": "contre",
+  "DR": "contre",
+  "ECOS": "contre",
+  "DEM": "contre",
+  "HOR": "contre",
+  "LIOT": "contre",
+  "GDR": "pour",
+  "UDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 71,
+   "contre": 0,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 0,
+   "contre": 46,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 24,
+   "contre": 0,
+   "abstention": 1
+  },
+  "SOC": {
+   "pour": 0,
+   "contre": 24,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 0,
+   "contre": 14,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 23,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 23,
+   "abstention": 1
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 20,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 0,
+   "contre": 8,
+   "abstention": 2
+  },
+  "GDR": {
+   "pour": 9,
+   "contre": 0,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 6,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC1001P0D1N000034",
+  "dossier": "DLR5L17N51467",
+  "texte": "PNREANR5L17BTC1001",
+  "division": "Article unique",
+  "auteur": "M. Ciotti,  M. Allegret-Pilot, M. Alloncle, Mme Barèges, M. Bloch, M. Chaix, M. Chavent, Mme D'Intorni, M. Fayssat, M. Lenoir, Mme Mansouri, M. Michelet, M. Michoux, Mme Ricourt Vaginay, M. Trébuchet, M. Verny et les membres du groupe UDR",
+  "auteur_groupe": "UDR",
+  "auteur_type": "Député",
+  "dispositif": "Supprimer l'alinéa 69.",
+  "expose": "Cet amendement vise à supprimer l'alinéa 69. En effet, les dispositions de l'alinéa prévoient l'extension des garanties de sécurité occidentales envers l'Ukraine. Il s'agit d'une proposition dangereuse qui impliquerait de faire entrer l’Union européenne, et donc la France, dans une guerre contre la Russie, au sens de l'article 42 paragraphe 7 du traité de l'Union européenne. De surcroît, cette extension impliquerait aussi l'activation de l'article 5 du traité de l'Atlantique nord, et donc l'implication d’États membres de l'OTAN comme la Grande-Bretagne, les États-Unis, et la Turquie dans une guerre contre la Russie. Cette extension pourrait transformer la nature du conflit, qui deviendrait possiblement mondial, et opposerait alors de grandes puissances nucléaires. La guerre mondiale et nucléaire ne devrait, en aucun cas, être une option. Cette extension reviendrait de facto à précipiter une adhésion de l’Ukraine à l’OTAN, ce qui constitue une ligne rouge pour la Russie, et éloignerait encore plus les perspectives de cessez-le-feu, mais aussi d'une paix durable entre les deux belligérants. Par ailleurs, la proposition de l'alinéa 69 est absolument décalée par rapport aux efforts de paix déployés par d'autres États du monde, qui échangent avec les deux belligérants, et qui tentent de poser les fondations d'une discussion entre l'Ukraine et la Russie. Ces efforts ont pour objectif de parvenir à la première urgence, qui est le cessez-le-feu, alors même que le conflit qui perdure a fait 1 million de morts et blessés."
+ },
+ "seance": "RUANR5L17S2025IDS29163",
+ "compte_rendu": "CRSANR5L17S2025O1N128",
+ "interventions": [
+  {
+   "orateur": "M. Thierry Sother",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Cet amendement déposé par le collègue Chenu va à contresens de ce qu’il faut faire, à contresens de la politique de sanctions qui doit être la nôtre face à la Russie et même à contresens des déclarations faites par son propre groupe au cours de la séance précédente. Il n’est pas possible de continuer à laisser la Russie faire de l’argent grâce à l’exportation de matières énergétiques. Il faut au contraire renforcer les sanctions sur ce qui lui permet de financer l’économie de guerre, donc la guerre contre l’Ukraine.Sortir de l’addiction à l’énergie russe permettra de parvenir à cette souveraineté énergétique européenne qui est nécessaire dans la construction du monde que nous souhaitons. Le groupe Socialistes et apparentés votera donc, lui aussi, contre cet amendement."
+  },
+  {
+   "orateur": "M. Benjamin Haddad",
+   "qualite": "ministre délégué",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "On parle ici des actifs de la banque centrale russe qui ont été immobilisés en Europe au lendemain de l’agression de la Russie contre l’Ukraine, le 24 février 2022. Comme Mme Le Grip l’a rappelé, les intérêts produits par ces avoirs gelés sont utilisés comme garantie dans le cadre d’un prêt à l’Ukraine, décidé au niveau du G7 et d’un montant de 50 milliards d’euros, qui sert à financer les dépenses militaires de l’Ukraine, sa reconstruction, et le soutien économique dont elle a besoin. L’Europe y participe à hauteur de 20 milliards d’euros.Comme M. le rapporteur l’a dit, la saisie du principal de ces avoirs soulèverait des questions juridiques. Elle pourrait aussi représenter un précédent économique pour les investisseurs étrangers. Cela étant dit, comme l’a déjà indiqué le gouvernement, c’est un levier dont nous disposons dans le rapport de force et dans la négociation avec la Russie.Toute décision sur ces avoirs gelés doit être prise collectivement, dans le cadre de l’Union européenne. Je rappelle d’ailleurs que ces avoirs ne se trouvent pas en France et que certains de nos partenaires et voisins européens sont plus exposés que d’autres dans ce dossier, d’où la difficulté. Néanmoins, je le répète, c’est un levier dont nous disposons. Le gouvernement s’en remet à la sagesse de l’Assemblée."
+  },
+  {
+   "orateur": "M. Jean-Louis Thiériot",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "L’enjeu est de parvenir à utiliser tous les moyens à notre disposition, pour en faire un levier. La Russie est l’agresseur, l’Ukraine est l’agressé ; moralement et éthiquement, la saisie des avoirs russes ne pose évidemment aucun problème, mais je suis pleinement conscient des difficultés juridiques qu’elle peut soulever, y compris vis-à-vis d’autres acteurs. Le sous-amendement met le texte de l’amendement en conformité avec le droit international, sans ambiguïté possible. Utiliser le Parlement français, que j’espère aussi unanime que possible, pour peser dans les débats actuels et promouvoir la sécurité de l’Ukraine et la paix, a tout son sens. C’est pourquoi je voterai pour l’amendement. (Applaudissements sur quelques bancs du groupe EPR.)"
+  },
+  {
+   "orateur": "Mme Léa Balage El Mariky",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Que de temps perdu ! Voilà des mois – que dis-je, des années ! – que les Écologistes réclament la saisie des avoirs russes gelés. Je suis heureuse qu’enfin une majorité, sinon une forme de consensus – on verra les votes –, se dégage autour de cette proposition. Je me réjouis également de voir que la sagesse a éclairé le gouvernement, même s’il aurait pu se déclarer favorable à la mesure.Il faut laisser de côté les craintes et sortir de l’hypocrisie : nous utilisons déjà les intérêts des avoirs russes gelés ; c’est donc possible en droit européen. Saisir le capital est indispensable du point de vue de notre indépendance, mais surtout de celui de la justice : c’est une mesure juste pour les Ukrainiennes et les Ukrainiens.À cet égard, le sous-amendement du rapporteur vient sécuriser l’amendement de Mme Le Grip en rappelant que les avoirs russes doivent être utilisés pour le peuple ukrainien ; c’est pour lui que nous devons nous mobiliser et c’est à lui que nous devons penser ce soir. (Applaudissements sur les bancs du groupe EcoS.)"
+  },
+  {
+   "orateur": "M. Thierry Sother",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Voyez le chemin que nous parcourons sur la question de l’usage des avoirs russes ! Il y a quelques semaines, leur saisie semblait impossible ; aujourd’hui, nous franchissons des pas en ce sens, et j’en suis très heureux.Néanmoins, je rejoins M. le rapporteur : le droit coutumier international commande que cette saisie soit une contre-mesure de l’Ukraine à l’égard de la Russie qui l’a agressée ; ces avoirs doivent donc servir à l’Ukraine pour financer sa reconstruction et, plus largement, pour réparer les dommages causés par l’agression. Cela a d’ailleurs été rappelé par Enrico Letta la semaine dernière : la Russie devra payer ; en tant qu’agresseur, il est logique qu’elle participe à cet effort.Je soutiens donc le sous-amendement de M. le rapporteur, qui vient border la disposition et permet de poursuivre le cheminement positif sur la question de l’usage des avoirs russes. S’il est adopté, nous voterons pour l’amendement de Mme Le Grip. (Applaudissements sur quelques bancs du groupe SOC. – M. Harold Huwart applaudit également.)"
+  },
+  {
+   "orateur": "M. Bruno Fuchs",
+   "qualite": "président de la commission des affaires étrangères",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "D’abord, les Américains nous engagent à le faire – c’est un premier élément d’alerte. Ensuite, rien n’empêche les Russes d’en faire autant avec nos avoirs à nous. Enfin, cela créera une forte défiance sur les marchés ; des investisseurs d’autres pays peuvent commencer à douter de l’espace européen, et réduire le volume de leurs investissements.Il n’y a pas d’étude d’impact, mais il est fort possible qu’à dix ou quinze ans, le bilan de la captation d’actifs russes, qui ne peut se faire qu’à l’échelle européenne – vous l’avez dit, une grande partie de ces actifs est à Bruxelles, seuls 20 à 25 milliards se trouvent en France –, soit très nettement négatif. En effet, le coût de cette mesure peut s’avérer plus important que son bénéfice à court terme. Je n’affirme pas que c’est la réalité, mais c’est une des hypothèses. En l’absence d’étude d’impact, il faut légiférer avec beaucoup de prudence.S’agissant du droit international, les choses me semblent très claires : d’abord, une telle saisie serait contraire à la Constitution française et au droit européen, qui garantissent le droit de propriété ; en outre, un traité bilatéral franco-russe protège les investissements de part et d’autre."
+  },
+  {
+   "orateur": "M. Bruno Fuchs",
+   "qualite": "président de la commission des affaires étrangères",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Néanmoins, cela peut constituer un élément de levier très fort : c’est un argument essentiel qui peut être utilisé dans le cadre de négociations de paix.Je n’ai pas de certitudes, mais il faut procéder avec précaution. Le dispositif envisagé ne me semble ni juridiquement possible, ni économiquement efficace. (M. Aurélien Taché applaudit.)"
+  },
+  {
+   "orateur": "M. Bertrand Bouyx",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "L’agression militaire menée par la fédération de Russie contre l’Ukraine constitue une violation du droit international et de la Charte des Nations unies. Le crime d’agression, l’un des plus graves en droit international, relève de la compétence des juridictions pénales internationales. Or la Cour pénale internationale (CPI) ne peut juger M. Poutine et Mme Lvova-Belova pour le moment en raison de limitations juridictionnelles.Le Conseil de l’Europe, avec le soutien de l’Union européenne et de partenaires internationaux, a posé les fondements juridiques pour la création d’un tribunal spécial pour le crime d’agression contre l’Ukraine.Le présent amendement vise à promouvoir la création d’un tribunal spécial disposant de ressources financières, techniques et juridiques. Un tel tribunal mènerait un travail complémentaire à celui de la CPI et des juridictions nationales compétentes, afin de faire reconnaître que la Russie est pleinement responsable du crime d’agression contre l’Ukraine. (M. François Cormier-Bouligeon applaudit.)"
+  },
+  {
+   "orateur": "M. Jean-Paul Lecoq",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Je reviens sur ce qui est proposé dans l’amendement. Pour ma part, je plaide toujours en faveur de la CPI et du rôle de l’ONU.Dans cette période, on a tendance à nier le droit international, le rôle des institutions internationales et la Charte des Nations unies, alors que la France est membre permanent du Conseil de sécurité, autrement dit l’une des cinq puissances qui en détient les clés, forte de son droit de veto. Nous devrions toujours plaider pour que les instances de l’ONU œuvrent dans de telles circonstances.Si l’ONU considérait qu’il est nécessaire, compte tenu de la situation, de créer un tribunal spécial, en associant le cas échéant d’autres acteurs, je trouverais cela bien. Mais ne proposons pas de le faire dans le dos de cette institution ! Si nous continuons d’agir ainsi, nous allons la faire mourir ! La paix dans le monde doit s’appuyer sur le multilatéralisme. Notre pays, membre permanent du Conseil de sécurité, doit l’expliquer et le défendre sans relâche. (Applaudissements sur les bancs des groupes GDR et LFI-NFP. – Mme Christine Arrighi applaudit également.)"
+  },
+  {
+   "orateur": "M. Laurent Mazaury",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Voyons si nous sommes vraiment courageux : cet amendement vise à condamner les propos hostiles tenus par le président Donald Trump.Ses propos ont été très clairs : il a inversé les rôles, prétendant que l’Ukraine était à l’origine du conflit avec la Russie. Fin février, il a aussi affirmé que la présence du président ukrainien lors des négociations avec la Russie n’était « pas importante ». Or, sans l’Ukraine, les négociations seraient vaines, son absence entraînant une paix fragile et un sentiment d’impunité pour la Russie.J’entends certes que, dans les dernières heures, M. Trump a un peu changé d’avis. Peut-être en changera-t-il encore demain, avant de nous expliquer, après-demain, que c’est de la faute des extraterrestres ! Quant à moi, je pense qu’il faut condamner ses propos pour qu’on entende dans le monde que nous n’acceptons le renversement de la vérité. C’est la raison pour laquelle j’espère que vous voterez ces amendements. (Applaudissements sur quelques bancs des groupes LIOT et SOC.)"
+  },
+  {
+   "orateur": "M. Arnaud Le Gall",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Nous nous apprêtons à condamner les propos de Donald Trump, mais vous validez une Europe de la défense pour laquelle il est question d’acheter des matériels au même Trump, pour plusieurs centaines de milliards ! Vous lui obéissez, le petit doigt sur la couture du pantalon ! Il vous demande un tribut ; l’Europe le verse. La France ne sera pas le principal tributaire – encore heureux, il nous reste quelques capacités autonomes –, mais les autres pays membres lui achèteront massivement. (Applaudissements sur les bancs du groupe LFI-NFP.)Mais bon, on va condamner les propos de Trump dans une résolution qui n’a aucun caractère contraignant. Très bien, nous y sommes favorables, mais allez au bout de la logique ! (Applaudissements sur les bancs du groupe LFI-NFP.)"
+  },
+  {
+   "orateur": "M. Frédéric Petit",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Oui, les frontières sont nationales, mais une frontière, en démocratie, c’est une ligne claire, pas une ligne rouge ! Voilà, c’est clair. (« Non ! » sur les bancs du groupe RN.) Cela signifie qu’une frontière définit aussi une responsabilité et peut être franchie. On peut travailler et coopérer par-dessus les frontières !Ce que dit votre amendement, c’est une négation complète de ce que nous défendons ici depuis toujours – et pas seulement depuis cinq ou dix ans – et qui existe au niveau international : la diplomatie parlementaire."
+  },
+  {
+   "orateur": "M. Charles Sitzenstuhl",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Pour qui vous prenez-vous en évoquant ainsi le respect de la souveraineté des États et des frontières protégées par le droit international ? En 2023, au cours de la commission d’enquête relative aux ingérences de puissances étrangères, malgré mes nombreuses questions, Mme Le Pen n’est jamais revenue sur les propos qu’elle a tenus en 2014 concernant l’annexion de la Crimée."
+  },
+  {
+   "orateur": "Mme Delphine Batho",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Or nous avons besoin que cette résolution soit adoptée. (Applaudissements sur les bancs des groupes EcoS et SOC et sur quelques bancs des groupes EPR et Dem.) N’entrons pas dans ce jeu et cessons de répondre aux provocations ! Le jeu est clair ; vos positions sont connues et limpides. Vous êtes contre les sanctions, vous l’avez toujours été,…"
+  },
+  {
+   "orateur": "M. Maxime Michelet",
+   "qualite": null,
+   "groupe": "UDR",
+   "president_de_seance": false,
+   "texte": "Le groupe UDR demande la suppression de l’alinéa 69, qui appelle à l’extension immédiate des garanties de sécurité occidentales à l’Ukraine. Une telle disposition est tout simplement dangereuse : une extension « immédiate », en plein conflit, de ces garanties reviendrait tout simplement à nous faire basculer dans la guerre. Je sais ce que vous allez nous répondre : cette extension ne sera en réalité pas immédiate. Mais dans ce cas, ne dites pas qu’elle l’est !Nous soutiendrons d’ailleurs l’amendement no 14 de nos amis du groupe Rassemblement national, qui propose de simplement retirer le mot « immédiate ». Quant à nous, nous souhaitons la suppression pure et simple de l’ensemble de l’alinéa, car il est à nos yeux emblématique de la surenchère guerrière qu’implique cette proposition de résolution européenne. En décalage total avec les négociations actuelles qui cherchent à bâtir la paix, cet alinéa semble vouloir prolonger la guerre. (Applaudissements sur les bancs des groupes UDR et RN.)"
+  },
+  {
+   "orateur": "M. Jean-Paul Lecoq",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Tel qu’il est rédigé, cet alinéa appelle « à l’extension immédiate des garanties de sécurité occidentales envers l’Ukraine ». Cela reviendrait à dire que nous entrons immédiatement en guerre, puisque nous considérons l’Ukraine comme étant protégée par les traités internationaux, notamment le traité de l’Atlantique Nord. On ferait comme si l’Ukraine était protégée par l’Otan. Ce n’est pas possible ! Cela nous engagerait immédiatement.Il est vrai que cette résolution ne cherche peut-être qu’à faire peur ou à aider dans les négociations, mais qu’est-ce que c’est dangereux ! Comment les citoyens français apprécieront-ils cet alinéa ? Ils considéreront qu’il nous invite à entrer en guerre contre la Russie, dans le cadre du traité de l’Atlantique Nord. Ce n’est pas acceptable ! Nous demandons sa suppression."
+  },
+  {
+   "orateur": "M. Laurent Mazaury",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Nous en avons longuement débattu en commission. Cet alinéa ne vise nullement au déclenchement du fameux article 5 du traité de l’Atlantique Nord ! J’ai d’ailleurs moi-même déposé un amendement, no 29, que nous examinerons ensuite et qui viendra préciser la rédaction de l’alinéa – je pense que vous serez définitivement rassurés à ce moment-là. Vous l’avez bien compris, monsieur Lecoq : il s’agit de peser, pas de déclencher ! Nous en avons déjà parlé ensemble."
+  },
+  {
+   "orateur": "M. Benjamin Haddad",
+   "qualite": "ministre délégué",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Avis défavorable. Nous devons élaborer dès maintenant des garanties de sécurité qui seront nécessaires pour maintenir une paix juste et durable en Ukraine. C’est pour cela que la France, avec ses partenaires européens, est pleinement mobilisée sur le plan diplomatique, d’abord pour trouver les conditions d’un cessez-le-feu, mais surtout pour faire en sorte que ce cessez-le-feu ne soit pas qu’une simple parenthèse que la Russie utiliserait pour se réarmer et réattaquer, comme cela s’est vu dans le passé – je pense notamment aux mémorandums de Budapest, dans les années 1990, ou aux deux accords de Minsk signés au début de la guerre, respectivement en 2014 et en 2015."
+  },
+  {
+   "orateur": "M. Pierre Cazeneuve",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "La mention des garanties de sécurité que doivent apporter la France et l’Union européenne me semble en effet fondamentale. D’ailleurs, au moment où nous examinons cette proposition de résolution européenne et sans que nous l’ayons fait exprès, ce sujet est devenu infiniment d’actualité, notamment parce que les États-Unis, ces derniers jours et ces dernières semaines, ont appelé l’Europe à jouer ce rôle dans la résolution du conflit et dans la construction de la paix.Compte tenu du désengagement des États-Unis, dont l’annonce a été retentissante dans l’ensemble du monde, on voit bien que c’est à la France et à l’Europe de prendre le relais pour apporter à l’Ukraine des garanties de sécurité, afin d’assurer une paix durable. Voilà ce dont nous parlons : comment la France et l’Union européenne peuvent-elles agir pour assurer une paix durable en Ukraine ? Voter cet amendement reviendrait à acter le désengagement total de la France et de l’Europe en la matière, et donc, évidemment, notre affaiblissement."
+  },
+  {
+   "orateur": "M. Marc de Fleurian",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Combien d’avions capables d’interopérer ? Combien de F-35 capables de décoller ? Vos garanties n’existent pas ! Comme je le disais tout à l’heure de manière un peu abrupte et percutante, l’Union européenne, ça n’existe pas ! Quant aux garanties de sécurité de cette Union européenne impuissante, puisque c’est ce que vous entendez par « occidentales », elles existent encore moins. (Applaudissements sur les bancs des groupes RN et UDR.)"
+  },
+  {
+   "orateur": "M. Aurélien Saintoul",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "M. Cazeneuve vient de nous dire quelque chose d’assez stupéfiant. Il s’agirait désormais, pour l’Europe et pour la France, de prendre le relais des États-Unis pour garantir un accord auquel ni l’une ni l’autre ne sont appelées à être parties. C’est extraordinaire ! Nous aurions vocation à être la voiture-balai de Donald Trump. Celui-ci braque littéralement M. Zelensky, il obtient de vive force un accord qui rançonne les Ukrainiens, et voilà que nous devrions assurer son service après-vente ! Les troupes américaines n’étant pas en mesure d’apporter des garanties pour l’application de cet accord, ce sont des troupes françaises et européennes qui s’en chargeraient.Mais enfin, respectez-vous ! Respectez notre pays ! Vous ne pouvez pas dire, assumant des décisions prises dans notre dos, que nous serons les garants d’un accord que nous n’avons même pas négocié ! (Applaudissements sur les bancs du groupe LFI-NFP.) Nous n’avons même pas été invités à la table des négociations. Un peu de sérieux, enfin !"
+  },
+  {
+   "orateur": "M. Sébastien Chenu",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Madame la présidente, sur le fondement de l’article 70, alinéa 4, du règlement, je vous demande de prendre les sanctions qui s’imposent contre un député qui a recours à la violence en séance publique. (Applaudissements sur les bancs des groupes RN et UDR. – Exclamations sur les bancs des groupes EPR et HOR.) Cormier-Bouligeon s’est déplacé et a menacé, y compris physiquement, un de nos collègues. Je demande que le bureau de l’Assemblée soit saisi."
+  },
+  {
+   "orateur": "M. Frédéric Valletoux",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "Si le bureau est saisi, je me tiens à sa disposition pour répéter les mots, que je ne prononcerai pas tout haut, employés par un député à l’encontre de notre collègue Cormier-Bouligeon. Je viendrai témoigner de ce que j’ai entendu de ma place. Effectivement, la provocation vient de là. (L’orateur désigne les bancs du groupe RN. – Applaudissements sur les bancs du groupe HOR, dont certains députés se lèvent, ainsi que sur plusieurs bancs des groupes EPR et Dem.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole vous revient, monsieur Petit."
+  },
+  {
+   "orateur": "M. Frédéric Petit",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Monsieur Saintoul, comme cela arrive souvent, ici ou sur les plateaux de télévision, vous confondez beaucoup de choses. On parle de garantir une paix, non pas de garantir un accord sur des métaux rares – un braquage, comme vous dites – ou sur quoi que ce soit d’autre, ni même un cessez-le-feu ! La paix, nous n’y sommes pas encore : un accord de paix, c’est compliqué à élaborer – on parle d’ailleurs d’« architecture de paix ».S’agissant des garanties de sécurité, il y a une chose que l’Europe peut faire dès aujourd’hui et qu’elle fait déjà là où j’habite : la protection du ciel. Garantir la fin du pilonnage des civils au-delà du front, l’Europe sait le faire et peut le faire immédiatement ; c’est une garantie que l’on peut étendre."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix les amendements identiques nos 34 et 63."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

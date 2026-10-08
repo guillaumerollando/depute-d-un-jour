@@ -1,0 +1,13 @@
+{
+  "uid": "VTANR5L17V2707",
+  "consigne": "etape3_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "L'amendement nomme le chapitre unique de la proposition de loi, pas le texte lui-même : le titre et le résumé parlent de l'intitulé « du texte ».",
+    "L'objet de la proposition (interdire au juge d'appliquer une peine d'inéligibilité avant la fin des recours) peut être dit plus précisément d'après le débat et l'exposé."
+  ],
+  "corrections": {
+    "titre": "Nommer le chapitre du texte sur l'inéligibilité « Création d'une justice de classe »",
+    "ce_que_ca_change": "L'amendement donne un nom au chapitre unique de la proposition de loi, qui vise à empêcher qu'une peine d'inéligibilité s'applique avant la fin des recours en justice. Il ne change aucune règle de droit : seul l'intitulé du chapitre est concerné."
+  }
+}

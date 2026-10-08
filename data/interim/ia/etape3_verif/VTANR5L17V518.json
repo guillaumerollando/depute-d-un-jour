@@ -1,0 +1,11 @@
+{
+ "uid": "VTANR5L17V518",
+ "consigne": "etape3_verification v2",
+ "verdict": "corrige",
+ "problemes": [
+  "Chiffres non conformes au texte définitif (article 3) : la baisse des recettes fiscales est de 25,2 milliards d'euros (et non 24,3) et le déficit à financer de 162,4 milliards d'euros (et non 161,2)."
+ ],
+ "corrections": {
+  "ce_que_ca_change": "Le texte corrige le budget 2024 en cours d'année : il réduit d'environ 25,2 milliards d'euros la prévision de recettes fiscales, ouvre 11,5 milliards d'euros de crédits supplémentaires et en annule 6,5 milliards. Le déficit de l'État à financer en 2024 est évalué à 162,4 milliards d'euros."
+ }
+}

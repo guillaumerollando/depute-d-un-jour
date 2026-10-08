@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V218",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Marine Le Pen",
+      "citation": "Nous considérons, quant à nous, que c’est rendre leur dignité aux Français que de lancer un signal clair : si vous venez chez nous, il faut respecter les Français et la loi française !",
+      "justification": "Le groupe défend l'article et s'oppose à sa suppression."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Ludovic Mendes",
+      "citation": "Si nous soutenons l’amendement de suppression de notre collègue Charles Sitzenstuhl, c’est parce que l’article est inconstitutionnel et inconventionnel : vous ne respectez même pas les mineurs présents dans notre pays.",
+      "justification": "Le groupe soutient la suppression en invoquant l'atteinte aux droits des mineurs et le contenu de l'article, qu'il distingue de l'objectif qu'il dit partager."
+    },
+    "LFI": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Élisa Martin",
+      "citation": "Vous n’aimez pas la France, parce que vous remettez en cause l’individualisation des peines et le respect du contradictoire.",
+      "justification": "Le groupe s'oppose au contenu de l'article et soutient sa suppression."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Paul Christophle",
+      "citation": "La réalité, c’est que votre proposition de loi est inefficace.",
+      "justification": "Le groupe soutient la suppression en jugeant le texte inefficace."
+    },
+    "DR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Fabien Di Filippo",
+      "citation": "Le texte est sans doute imparfait et son sort devant les plus hautes instances juridictionnelles incertain, mais nous devons envoyer un message à nos concitoyens comme à ceux qui entendent rejoindre la France",
+      "justification": "Le groupe soutient l'objectif du texte et s'oppose à la suppression de l'article."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Benjamin Lucas-Lundy",
+      "citation": "Je rejoins les arguments invoqués par les collègues pour supprimer l’article, afin que nous en finissions avec ce texte immonde.",
+      "justification": "Le groupe s'oppose au texte et soutient la suppression de l'article."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Paul Molac",
+      "citation": "Il vise à supprimer ce texte dont on a déjà dit qu’il était inconstitutionnel, disproportionné, inutile et qu’il ratera en plus son objectif.",
+      "justification": "Le groupe soutient la suppression en jugeant le texte disproportionné et inutile."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Soumya Bourouaha",
+      "citation": "Vous êtes toujours en train de stigmatiser les étrangers. C’est insupportable !",
+      "justification": "Le groupe s'oppose au texte et soutient la suppression de l'article."
+    },
+    "UDR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime que par une interjection chiffrée qui ne permet pas de trancher."
+    }
+  }
+}

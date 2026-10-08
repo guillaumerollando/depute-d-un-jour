@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V2880",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Roger Chudeau",
+      "citation": "Elle est toutefois un premier pas vers une prise de conscience et une réaction contre l’emprise de l’islamo-gauchisme sur nos universités. Nous voterons donc en faveur de son adoption.",
+      "justification": "Le groupe vote pour en qualifiant le texte de premier pas."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Céline Calvez",
+      "citation": "Il protège mieux, il structure mieux, il évalue mieux.",
+      "justification": "Le groupe vote pour en soutenant les dispositifs du texte."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Marie Mesmeur",
+      "citation": "Et voilà que vous présentez un texte d’inspiration trumpiste, qui fait l’unanimité contre lui dans la communauté universitaire…",
+      "justification": "Le groupe vote contre en s’opposant au contenu du texte."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Romain Eskenazi",
+      "citation": "Nous voterons donc pour cette proposition de loi visant à lutter non seulement contre l’antisémitisme mais aussi contre le racisme et toutes les formes de haine dans les universités",
+      "justification": "Le groupe vote pour en soutenant la lutte contre l’antisémitisme et le racisme à l’université."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Alexandre Portier",
+      "citation": "le texte que nous votons aujourd’hui apporte des réponses concrètes et attendues pour lutter contre l’antisémitisme à l’université.",
+      "justification": "Le groupe vote pour en soutenant les mesures du texte."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Géraldine Bannier",
+      "citation": "Vous aurez compris que le groupe Les Démocrates salue le texte, en faveur duquel il votera.",
+      "justification": "Le groupe vote pour en soutenant les dispositifs du texte."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Pierre Henriet",
+      "citation": "Le groupe Horizons & indépendants, fidèle à ses valeurs et à son engagement sur le sujet, votera bien sûr en faveur du texte parce que l’université doit rester un sanctuaire où nul ne doit craindre pour sa sécurité ou sa dignité en raison de ses origines, de sa foi ou de ses convictions",
+      "justification": "Le groupe vote pour en soutenant la protection des étudiants."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Joël Bruneau",
+      "citation": "La proposition de loi est un outil utile pour ces établissements et nous la soutiendrons.",
+      "justification": "Le groupe vote pour en jugeant le texte utile."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Nicolas Sansu",
+      "citation": "Chers collègues, la lutte contre l’antisémitisme, défi majeur de notre temps, mérite bien mieux qu’une proposition de loi dont les principales dispositions risquent de porter atteinte au droit et à la liberté de manifestation des étudiants.",
+      "justification": "Le groupe vote contre en invoquant le risque d’atteinte à la liberté de manifestation, raison qui porte sur le contenu."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Olivier Fayssat",
+      "citation": "Elle propose un texte juste, ciblé mais ferme, qui viendra en appui de notre loi fondamentale.",
+      "justification": "Le groupe vote pour en soutenant le contenu du texte."
+    }
+  }
+}

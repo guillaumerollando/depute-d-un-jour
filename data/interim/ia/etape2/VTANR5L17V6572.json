@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V6572",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Les interventions du groupe portent sur des amendements et n'énoncent pas la raison de son vote sur l'ensemble."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Michel Lauzzana (EPR)",
+      "citation": "Le groupe Ensemble pour la République votera en faveur de cette proposition de loi. Elle aborde un problème complexe, qui nous touche particulièrement : celui des cancers pédiatriques et des maladies rares affectant les enfants.",
+      "justification": "Le groupe déclare voter le texte pour obtenir des avancées sur les cancers pédiatriques, tout en préférant un dispositif incitatif."
+    },
+    "LFI": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Anaïs Belouassa-Cherifi",
+      "citation": "Il est donc urgent d’agir et, surtout, de rattraper notre retard en matière de financement de la recherche sur les maladies rares et les cancers infantiles.",
+      "justification": "Le groupe soutient le financement de la recherche pédiatrique et propose un taux de contribution plus élevé."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Jérôme End",
+      "citation": "le groupe de la Droite républicaine soutient la démarche engagée par cette proposition de loi, en particulier son article 1er.",
+      "justification": "Le groupe déclare soutenir le texte, tout en regrettant le mode de financement retenu."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Benoît Biteau (EcoS)",
+      "citation": "Le groupe Écologiste et social votera en faveur de ce texte, dont le contenu devrait aider à apporter des réponses aux familles qui vivent l’insupportable au début de la vie de leurs enfants.",
+      "justification": "Le groupe déclare voter le texte en raison de son contenu."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Nicolas Turquois",
+      "citation": "Le désert thérapeutique pédiatrique est réel et documenté. Il appelle donc une réponse publique ambitieuse.",
+      "justification": "Le groupe salue l'objectif du texte tout en exprimant des interrogations sur son financement."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Nathalie Colin-Oesterlé",
+      "citation": "Notre groupe ne s’opposera pas au texte, par respect pour l’intention de ses auteurs et pour la sensibilité du sujet, mais aussi parce qu’il serait injuste de balayer d’un revers de main une initiative qui cherche à accélérer la recherche et l’innovation thérapeutique en faveur des enfants.",
+      "justification": "Le groupe déclare partager le constat du texte et ne pas s'y opposer, tout en critiquant la taxe qui le finance."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Audrey Abadie-Amiel",
+      "citation": "Le texte vient utilement compléter le droit en finançant de façon proportionnée l’innovation thérapeutique à destination des enfants. C’est pourquoi le groupe LIOT lui sera favorable.",
+      "justification": "Le groupe déclare soutenir le texte et juge son financement proportionné."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Karine Lebon",
+      "citation": "La proposition de loi que nous examinons comble cet angle mort.",
+      "justification": "Le groupe déclare voter le texte et approuve son mécanisme de financement."
+    }
+  }
+}

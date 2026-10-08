@@ -1,0 +1,12 @@
+{
+ "uid": "VTANR5L17V6124",
+ "consigne": "etape3_verification v2",
+ "verdict": "corrige",
+ "problemes": [
+  "L'amende pour l'organisation est de 30 000 € dans le texte adopté, pas 5 000 €.",
+  "Le texte prévoit la confiscation du matériel saisi (sauf décision motivée du juge), pas seulement sa saisie ; l'exclusion vise aussi les espaces de repos et les camions de restauration."
+ ],
+ "corrections": {
+  "ce_que_ca_change": "Aider à organiser une rave-party sans déclaration ou malgré une interdiction du préfet serait puni de six mois de prison et 30 000 € d'amende, avec confiscation du matériel. Les participants risqueraient une amende. Seraient visés les rassemblements d'au moins 250 personnes ; les intervenants de réduction des risques ne seraient pas concernés."
+ }
+}

@@ -1,0 +1,444 @@
+{
+ "uid": "VTANR5L17V267",
+ "titre": "l'amendement n° 2358 de M. Coquerel après l'article 13 du projet de loi de finances pour 2025 (première lecture).",
+ "type": "amendement",
+ "date": "2024-11-06",
+ "dossier": "DLR5L17N50198",
+ "dossier_titre": "Projet de loi de finances pour 2025",
+ "sort": "adopté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "contre",
+  "LFI": "pour",
+  "SOC": "pour",
+  "DR": "contre",
+  "ECOS": "pour",
+  "DEM": "contre",
+  "HOR": "contre",
+  "LIOT": "contre",
+  "GDR": "pour",
+  "UDR": "contre"
+ },
+ "voix": {
+  "RN": {
+   "pour": 58,
+   "contre": 0,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 1,
+   "contre": 26,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 54,
+   "contre": 0,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 24,
+   "contre": 0,
+   "abstention": 1
+  },
+  "DR": {
+   "pour": 0,
+   "contre": 8,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 24,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 7,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 1,
+   "contre": 9,
+   "abstention": 1
+  },
+  "LIOT": {
+   "pour": 1,
+   "contre": 5,
+   "abstention": 1
+  },
+  "GDR": {
+   "pour": 7,
+   "contre": 0,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 0,
+   "contre": 3,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901B0324P1D1N002358",
+  "dossier": "DLR5L17N50198",
+  "texte": "PRJLANR5L17B0324",
+  "division": "Article 13",
+  "auteur": "M. Coquerel,  Mme Abomangoli, M. Alexandre, M. Amard, Mme Amiot, Mme Amrani, M. Arenas, M. Arnault, Mme Belouassa-Cherifi, M. Bernalicis, M. Bex, M. Bilongo, M. Bompard, M. Boumertit, M. Boyard, M. Cadalen, M. Caron, M. Carrière, Mme Cathala, M. Cernon, Mme Chikirou, M. Clouet, M. Coulomme, M. Delogu, M. Diouara, Mme Dufour, Mme Erodi, Mme Feld, M. Fernandes, Mme Ferrer, M. Gaillard, Mme Guetté, M. Guiraud, Mme Hamdane, Mme Hignet, M. Kerbrat, M. Lachaud, M. Lahmar, M. Laisney, M. Le Coq, M. Le Gall, Mme Leboucher, M. Legavre, Mme Legrain, Mme Lejeune, Mme Lepvraud, M. Léaument, Mme Élisa Martin, M. Maudet, Mme Maximi, Mme Mesmeur, Mme Manon Meunier, M. Nilor, Mme Nosbé, Mme Obono, Mme Oziol, Mme Panot, M. Pilato, M. Piquemal, M. Portes, M. Prud'homme, M. Ratenon, M. Saint-Martin, M. Saintoul, Mme Soudais, Mme Stambach-Terrenoir, M. Taché, Mme Taurinya, M. Tavel, Mme Trouvé et M. Vannier",
+  "auteur_groupe": "LFI",
+  "auteur_type": "Député",
+  "dispositif": "L’article 209 du code général des impôts est complété par un XI ainsi rédigé : « XI. – Toute personne morale ayant une activité en France est imposable à hauteur du ratio de son chiffre d’affaires réalisé sur le territoire national ramené à son chiffre d’affaires mondial, le calcul de ces chiffres d’affaires national et mondial incluant également le chiffre d’affaires des entités juridiques dont elle détient plus de 50 % des actions, parts, droits financiers ou droits de vote. Cette imposition garantit que le taux d’imposition de la part des bénéfices mondiaux imposée en France est égal à 25 %. « 1. Le calcul de l’assiette d’imposition est corrigé en fonction de la comparaison entre les deux ratios suivants : « a) Le ratio du chiffre d’affaires réalisé en France par rapport au chiffre d’affaires mondial, le calcul de ces chiffres d’affaires national et mondial incluant également le chiffre d’affaires des entités juridiques dont elle détient plus de 50 % des actions, parts, droits financiers ou droits de vote ; « b) Le ratio du bénéfice réalisé en France par rapport au bénéfice mondial, le calcul de ces bénéfices national et mondial incluant également le bénéfice des entités juridiques dont elle détient plus de 50 % des actions, parts, droits financiers ou droits de vote. « Si le ratio calculé au a s’avère inférieur, avec un écart d’au moins 0,05, au ratio calculé au b, l’administration fiscale corrige le montant des bénéfices déclarés par la personne morale en France, de façon à ce que le ratio calculé au même b devienne égal au ratio calculé au a. « 2. Pour la détermination de l’impôt dû sur l’assiette corrigée en application du 1, l’administration fiscale : « a) Calcule l’écart en pourcentage entre le montant total des impôts sur les bénéfices acquittés à l’échelle mondiale et le montant total qui résulterait d’une taxation à 25 % de l’ensemble des bénéfices à l’échelle mondiale ; « b) Applique un coefficient de majoration à l’impôt dû en France égal au pourcentage calculé au a. « 3. Les dispositions du 1 ne sont pas applicables si la différence entre les ratios mentionnés aux a et b du 1 résulte de transactions qui ne peuvent être regardées comme constitutives d’un montage artificiel dont le but serait de contourner la législation fiscale française. »",
+  "expose": "Cet amendement des députés LFI-NFP vise à taxer les multinationales à hauteur de leur bénéfice réellement réalisé en France, comme le proposent l'association Attac et l'économiste Gabriel Zucman. Pour la France, le coût de l’évasion fiscale est estimé entre 80 et 100 milliards d'euros par an. Autant d'argent qui manque à nos services publics, à notre solidarité nationale, et à la bifurcation écologique. La lutte contre chaque mécanisme d’évitement de l’impôt, ici l’évasion fiscale massive, constitue donc non seulement un défi financier de premier plan, mais aussi un enjeu de cohésion sociale et d’égalité devant la loi. Alors que les gouvernements précédents ont décidé d’inventer de toute pièce des montants « records » pour justifier leur inaction, la comparaison a démontré qu’il n’en était rien. Les sommes recouvrées en 2023, de 15,1 milliards d’euros, sont bien en deçà des 21,2 milliards d’euros de 2015. À aucun moment les gouvernements précédents n’ont véritablement choisi de combattre l’évasion fiscale pour adresser ce problème de manière systémique. L'inefficacité de l'action de l'État témoigne d'une complaisance à l'égard des « délinquants en cols blancs », qui nuit largement à la légitimité du système fiscal français et pose un problème de consentement à l’impôt pour la majorité des contribuables. L’utilisation de prix de transfert tronqués et non contrôlés permet une sous-déclaration fiscale des entreprises multinationales en France. Ce transfert artificiel des bénéfices dans les paradis fiscaux occasionne à elle seule chaque année un manque à gagner de 36 milliards d'euros pour la France, d'après une étude du Centre d'études prospectives et d'informations internationales (CEPII). De son côté, Gabriel Zucman avance le chiffre de 40 % des profits des multinationales qui seraient délocalisés dans les paradis fiscaux. Pour y mettre un terme, nous pouvons engager des initiatives unilatérales comme un impôt universel sur les sociétés transnationales qui échappent au Fisc, afin que les entreprises paient l'impôt sur les sociétés correspondant à leur activité en France, quelle que soit la localisation de leur siège. Pour ce faire, l'administration fiscale calculera la différence entre l'impôt que devrait une entreprise si tous ses bénéfices mondiaux avaient été taxés à 25%, et l'impôt effectivement payé par l'entreprise à la France. La différence s'appelle le « déficit fiscal ». La France récupérera la part de ce « déficit fiscal » qui lui revient : ainsi, si l'entreprise effectue 10 % de ses ventes en France, la France appliquera le taux d’impôt sur les sociétés sur 10 % des bénéfices, que ceux-ci soient artificiellement localisés en Irlande, au Luxembourg ou aux Seychelles. Cette mesure ainsi décrite reviendra donc à taxer les multinationales à hauteur de leur bénéfice réellement réalisé en France, permettra de restaurer nos comptes publics, la confiance de nos citoyens dans notre système fiscal, et surtout nos services publics, mis à mal par des années de néolibéralisme."
+ },
+ "seance": "RUANR5L17S2025IDS28624",
+ "compte_rendu": "CRSANR5L17S2025O1N037",
+ "interventions": [
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La séance est suspendue."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(La séance, suspendue à dix-sept heures quinze, est reprise à dix-sept heures vingt-cinq, sous la présidence de Mme Naïma Moutchou.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La séance est reprise. L’ordre du jour appelle la suite de la discussion de la première partie du projet de loi de finances pour 2025 (nos 324, 468). Le samedi 26 octobre, l’Assemblée a poursuivi la discussion des articles du projet de loi, s’arrêtant à l’amendement no 2358 portant article additionnel après l’article 13.La parole est à M. Charles de Courson, rapporteur général de la commission des finances, de l’économie générale et du contrôle budgétaire."
+  },
+  {
+   "orateur": "M. Charles de Courson",
+   "qualite": "rapporteur général de la commission des finances, de l’économie générale et du contrôle budgétaire",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Avant d’aborder l’examen des derniers amendements à la première partie et à l’issue de nombreux débats en commission relatifs aux différentes missions, je voudrais faire le point au sujet des conséquences de nos décisions et votes lors de l’examen du projet de loi de finances (PLF).Tout d’abord, en séance publique, lors de la discussion de la première partie relative aux recettes, nous avons examiné 1 178 amendements, sur un total de plus de 2 500, et adopté 201 d’entre eux.J’ai procédé à un premier chiffrage des mesures votées, qu’elles conduisent à une hausse ou à une baisse des recettes – je précise qu’il s’agit le plus souvent d’ordres de grandeur, du fait du manque de données ou des difficultés à évaluer les conséquences de certaines mesures. Le détail de ce chiffrage vous a été transmis la semaine dernière.Les amendements adoptés se traduisent par des recettes supplémentaires d’environ 30 milliards d’euros. Sur ce total, 23 milliards résulteraient toutefois de dispositions susceptibles de s’avérer contraires soit au droit européen, soit à la jurisprudence du Conseil constitutionnel, ou de ne pouvoir s’appliquer en l’état compte tenu de la rédaction retenue. On aboutirait donc à un gain net de l’ordre de 7 milliards.Quant aux pertes de recettes résultant des mesures adoptées, elles atteignent 20 milliards d’euros, dont 2,85 résulteraient de dispositifs également susceptibles d’être jugés contraires à la jurisprudence du Conseil constitutionnel ou au droit européen. Les pertes nettes encourues s’élèveraient donc à environ 17 milliards.Il résulterait ainsi de nos travaux une perte de recettes nette de 10 milliards.En outre, nous examinons depuis une semaine en commission la seconde partie du PLF, qui a trait aux dépenses de l’État. En commission, nous avons adopté 569 amendements – contre 286 l’année dernière – sur plus de 2 500 en discussion.Pour ce qui est du chiffrage des mesures votées, l’article 47 de la Lolf, la loi organique relative aux lois de finances, impose de compenser les ouvertures de crédits sur un programme par une annulation de crédits à due concurrence sur d’autres programmes de la même mission. Toutefois, si le montant total des crédits dévolus à une mission ne peut augmenter après notre vote, l’intention des auteurs des amendements est le plus souvent dépensière, comme le souligne la formule d’usage invitant le Gouvernement à « lever le gage », c’est-à-dire à compenser la réduction de crédits sur le programme minoré. Je me suis donc livré à un calcul pour vous donner une idée des dépenses supplémentaires que nous encourrions du fait de nos votes, si le Gouvernement compensait les minorations prévues par l’ensemble des amendements adoptés. Ces dépenses s’élèvent à ce jour à 44,3 milliards d’euros en autorisations d’engagement et 44,2 milliards en crédits de paiement. Je rappelle que 352 milliards sont inscrits au PLF pour 2025. Les dépenses prévues s’accroîtraient donc d’environ 13 %.À titre d’exemples, je mentionnerai les 15,5 milliards d’euros de transferts votés pour la mission Écologie, développement et mobilité durables, les 12 milliards pour la mission Cohésion des territoires ou encore les 7,3 milliards pour la mission Enseignement scolaire. Plusieurs programmes ont ainsi été vidés de leurs crédits, comme le programme 345, Service public de l’énergie, le programme 135, Urbanisme, territoires et amélioration de l’habitat, ou le programme 183, Protection maladie.En matière d’économies, nous pouvons noter l’adoption de quatre amendements portant diminution nette de crédits, pour un total de 505 millions d’euros.Enfin, quatre missions ont fait l’objet d’un rejet : Économie, Engagements financiers de l’État, Investir pour la France de 2030 et Régimes sociaux et de retraite.J’espère que ces quelques informations éclaireront les débats qui nous animeront jusqu’à vendredi à minuit."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Mathieu Lefèvre, pour un rappel au règlement."
+  },
+  {
+   "orateur": "M. Mathieu Lefèvre",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Je me fonde sur l’article 98-1 relatif à l’évaluation préalable des amendements.Le rapporteur général a fait circuler parmi les membres de la commission des finances une note très utile. Il serait bon que tous les parlementaires en disposent.Elle révèle une chose simple : nous sommes entrés dans l’ère du n’importe quoi fiscal. (Exclamations sur les bancs du groupe LFI-NFP.) Sur les 30 milliards d’euros de hausses d’impôts que nous avons adoptées, 23 milliards sont soit non conformes au droit européen, soit inconstitutionnelles, quand elles ne posent pas d’autres problèmes juridiques massifs. (Applaudissements sur plusieurs bancs du groupe EPR.)Il est important que chacune et chacun d’entre nous en prenne conscience et s’efforce de travailler d’une manière plus saine et respectueuse du droit."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. le président de la commission des finances, de l’économie générale et du contrôle budgétaire."
+  },
+  {
+   "orateur": "M. Éric Coquerel",
+   "qualite": "président de la commission des finances, de l’économie générale et du contrôle budgétaire",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je suis en tout cas d’accord avec vous sur un point, monsieur Lefèvre : que la note du rapporteur général soit envoyée à tous les députés, ce qui en évitera les caricatures et les simplifications alors qu’elle est extrêmement précise, et beaucoup plus factuelle que l’argumentation que vous venez d’utiliser. (Applaudissements sur quelques bancs du groupe LFI-NFP)."
+  },
+  {
+   "orateur": "M. Philippe Juvin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Très bien !"
+  },
+  {
+   "orateur": "M. Éric Coquerel",
+   "qualite": "président de la commission des finances",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je souhaite faire part aux collègues de la réponse que je vous ai envoyée, monsieur le rapporteur général.Au préalable, j’ai déjà la satisfaction d’être tombé sur une estimation des mesures déjà votées à ce stade de nos débats assez proche de la vôtre, bien que je n’aie pas mobilisé l’ensemble des services de la commission : votre estimation est même supérieure – ce qui est positif en soi – puisque vous évaluez les recettes à 30 milliards, mais sans prendre en compte l’amendement no 2277, évalué à 13 milliards, l’article 11 auquel il se rapporte n’ayant pas été adopté – j’espère qu’il le sera en seconde délibération. Mais même en incluant cet amendement, j’arrive à un chiffrage encore un peu inférieur au vôtre.S’agissant des dépenses, je suis arrivé à 13 milliards et vous à 20 milliards, mais vous expliquez que vous avez annulé les 8 milliards que les recettes inscrites à l’article 11 devaient financer. Je vous ferai juste remarquer qu’en ce cas, il fallait faire de même pour les dépenses initialement prévues au titre du prélèvement européen, puisque l’article 40 du PLF a été, lui aussi, rejeté, et que l’on pourrait alors estimer que la suppression de notre cotisation à l’Union européenne constitue autant de dépenses en moins – ce que je ne souhaite pas forcément, mais ce serait logique. En tout cas, mises à part les incidences liées à l’article 11, nous arrivons globalement à la même estimation.Pour le reste, s’agissant des sommes votées qui seraient invalidées selon vous, je relève que les raisons que vous invoquez ne sont pas toujours les mêmes. Ainsi, pour la moitié d’entre elles, il s’agirait d’un problème légistique et non d’anticonstitutionnalité ou de contradiction avec le droit européen : je pense à l’amendement Zucman, qui rapporterait 13 milliards de nouvelles recettes…"
+  },
+  {
+   "orateur": "M. Mathieu Lefèvre",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Si nous en sommes à voter un amendement à 13 milliards d’euros !"
+  },
+  {
+   "orateur": "M. Éric Coquerel",
+   "qualite": "président de la commission des finances",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Monsieur Lefèvre, adressez-vous aux auteurs de cet amendement. Je rappelle uniquement qu’il n’est ni anticonstitutionnel ni contraire au droit européen."
+  },
+  {
+   "orateur": "M. Mathieu Lefèvre",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Un amendement à 13 milliards est anticonstitutionnel !"
+  },
+  {
+   "orateur": "M. Éric Coquerel",
+   "qualite": "président de la commission des finances",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Et je pense que ses auteurs pourront aisément, avec les conseils que vous leur avez donnés, monsieur le rapporteur général, rectifier ce problème d’écriture lors de la navette parlementaire – problème d’écriture qui n’infirme donc pas, sur le fond, l’effet de cette taxe, soit la moitié des sommes censées être invalidées.La plupart des autres sommes votées seraient, selon vous, contraires à une directive européenne, mais je pense que vos arguments prêtent à discussion. Et vous affirmez que deux amendements sont clairement anticonstitutionnels : un amendement sur la demi-part des veuves – qui, pour le coup, ne provenait pas du côté gauche de l’hémicycle –, et un autre amendement – relativement peu important au regard de son objet – de moins de 1 milliard sur les rachats d’actions.Je conclus en soulignant que je n’arrive pas aux mêmes conclusions que vous s’agissant de la position du Conseil constitutionnel sur nos amendements de recettes, sachant que c’est pour moi la question principale. Contrairement à vous, monsieur le rapporteur général, je ne pense pas que seulement 7 milliards des recettes votées seraient réellement applicables. Mais vous précisez vous-même dans votre note que les 13 milliards que j’ai mentionnés posent un problème légistique, et non un problème de fond. En réalité, nous ne sommes donc pas très éloignés dans nos analyses respectives."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Nous en venons aux amendements portant article additionnel après l’article 13.Sur les amendements nos 2358 et 490, je suis saisie respectivement par le groupe du groupe Rassemblement national et par le groupe de la Gauche démocrate et républicaine de demandes de scrutin public. Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.La parole est à M. Aurélien Le Coq, pour soutenir l’amendement no 2358."
+  },
+  {
+   "orateur": "M. Aurélien Le Coq",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "L’heure est venue qu’enfin, la France se fasse respecter par les multinationales. Un grand nombre d’entre elles ont des activités dans notre pays, y font des bénéfices, s’enrichissent en y vendant énormément et, pourtant, ne s’acquittent pas correctement de l’impôt qui nous est dû. Cet amendement propose donc que les bénéfices réalisés en France soient imposés en France (Applaudissements sur de nombreux bancs du groupe LFI-NFP) et que notre pays cesse de ce fait d’accepter les stratégies d’évitement, d’accepter que les bénéfices des multinationales soient transférés à l’étranger.Il n’est pas normal que les petites entreprises, celles qui, évidemment, n’ont pas la possibilité d’aller domicilier leurs bénéfices de l’autre côté de la frontière, payent les impôts au maximum ! Elles contribuent largement, elles, à tout ce qui permet de faire fonctionner notre pays, que ce soit nos services publics, nos écoles ou nos hôpitaux, quand les grandes entreprises et les multinationales, elles, arrivent à s’esquiver. (« Eh oui ! » sur plusieurs bancs du groupe LFI-NFP.)L’économiste Zucman estime que 40 % des profits des multinationales seraient transférés à l’étranger, soit au minimum 36 milliards d’euros qui manqueraient dans les caisses de l’État chaque année. On en entend certains dire avec une prétendue conviction qu’il faut pourchasser la fraude sociale : eh bien, il s’agirait enfin de se faire respecter, de faire payer ce qui nous est dû et de ne pas verser dans le laxisme fiscal ! (Applaudissements sur de nombreux bancs du groupe LFI-NFP. – Mme Dominique Voynet applaudit également.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis de la commission ?"
+  },
+  {
+   "orateur": "M. Charles de Courson",
+   "qualite": "rapporteur général",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Cet amendement a été adopté en commission, mais je vais vous expliquer pourquoi j’y suis personnellement défavorable. (« Mais non ! » sur les bancs du groupe LFI-NFP.)La première raison, c’est qu’il contrevient à l’ensemble des conventions fiscales conclues par la France, et je rappelle que les traités et accords internationaux régulièrement ratifiés ou approuvés par le Parlement, comme c’est le cas de ces conventions, ont une valeur supérieure à la loi.Deuxième raison : le principe de territorialité de l’impôt sur les sociétés suppose de n’imposer que les bénéfices réalisés en France, les bénéfices réalisés à l’étranger étant imposés par les États où ils sont réalisés. De surcroît, il est tout à fait fréquent que les bénéfices d’un groupe multinational ne soient absolument pas proportionnels aux chiffres d’affaires réalisés pays par pays, car il n’y a pas de lien entre eux.Un exemple très intéressant est celui de TotalEnergies : son président nous a indiqué qu’il y a deux ans, son groupe avait gagné 22 milliards après impôts, et payé un montant important d’impôt sur les sociétés – l’IS –, non pas en France, où il était déficitaire les dix dernières années,…"
+  },
+  {
+   "orateur": "Mme Sophia Chikirou",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Comme par hasard !"
+  },
+  {
+   "orateur": "M. Charles de Courson",
+   "qualite": "rapporteur général",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "…mais dans les pays de production pétrolière, où les taux sont très supérieurs, puisqu’ils vont de 50 % jusqu’à 75 %. Voilà pourquoi, bien que le chiffre d’affaires français du groupe s’élève à environ 20 % des 22 milliards que représente son chiffre d’affaires mondial, il serait impossible de le taxer sur quelque 4,4 milliards."
+  },
+  {
+   "orateur": "Mme Ségolène Amiot",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "C’est du camouflage !"
+  },
+  {
+   "orateur": "M. Charles de Courson",
+   "qualite": "rapporteur général",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "La troisième raison, c’est qu’on ne peut appréhender le phénomène que vous entendez réguler que dans un cadre international. On a d’ailleurs essayé de traiter ce problème depuis des années dans le cadre de l’OCDE, l’Organisation de coopération et de développement économiques, en légiférant à plusieurs reprises pour améliorer la situation. Ainsi, le pilier 2 doit permettre de traiter la question des bénéfices sous-imposés de certaines grandes entreprises à l’étranger, et nous l’avons transposé l’an dernier. Cette transposition n’est pas parfaite, mais le dispositif est opérationnel."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. le président de la commission des finances."
+  },
+  {
+   "orateur": "M. Éric Coquerel",
+   "qualite": "président de la commission des finances",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Pour ma part, je suis favorable à l’amendement. Je pense même que si un seul amendement devait être adopté à la fin de la discussion de la partie recettes, ce devrait être celui-ci (Mme Dominique Voynet applaudit), parce que c’est techniquement le plus sûr, mais aussi le plus vertueux eu égard aux dizaines de milliers d’entreprises qui sont, elles, obligées de payer la totalité de l’impôt qu’elles doivent, alors même que les multinationales peuvent, du fait des prix de transfert et de conseillers en optimisation, transférer une partie importante de leurs bénéfices réalisés en France dans des pays à fiscalité privilégiée. C’est une situation insupportable !Au troisième trimestre 2024, la croissance européenne était en moyenne de 0,4 %, alors qu’elle était de 2 % en Irlande ! Cela est dû uniquement à ces délocalisations de profits. Il est inexplicable que notre pays et nos entreprises paient collectivement à la fois le profit anormal des groupes qui bénéficient de ce système, mais également l’écart de croissance qui profite à des États à fiscalité avantageuse comme l’Irlande. Cette situation pose la question de l’harmonisation fiscale – j’aurai l’occasion d’y revenir une autre fois.La mesure proposée dans cet amendement ne contrevient à aucun accord international, ni européen ni bilatéral, puisqu’elle est unilatérale et que nous sommes libres de décider de ce que doivent payer les entreprises françaises, sachant qu’elles paieront bien sûr les impôts qu’elles doivent dans les pays concernés. Et cette mesure est techniquement irréprochable, parce qu’il ne s’agirait que d’un correctif entre le chiffre d’affaires réalisé en France et le bénéfice déclaré, cette imposition pouvant rapporter, selon Gabriel Zucman, jusqu’à 26 milliards, soit évidemment l’une des mesures fiscales que nous proposons les plus rentables.J’ajoute, s’agissant des piliers élaborés dans le cadre de l’OCDE, que l’adoption d’un taux minimum d’imposition de 15 % ne permet pas de régler la question, puisque l’IS est de 25 % en France. L’autre pilier, vous le savez, monsieur le rapporteur général, est très loin d’aboutir, puisque les États-Unis y sont opposés. Nous renvoyer au pilier 2 pour corriger le problème, c’est donc nous renvoyer aux calendes grecques. Or nous avons besoin de moyens financiers supplémentaires dès maintenant.Il serait juste que les multinationales compensent les bénéfices qu’elles tirent du mécanisme des prix de transfert. Dans le cadre de la mission d’information que j’ai conduite avec Jean-René Cazeneuve, on nous a bien expliqué que ce mécanisme était la principale cause des différentiels de fiscalité entre entreprises, et non leur taille : il s’agit de savoir si l’entreprise peut, oui ou non, disposer de prix de transfert et d’une activité internationale qui lui permet de délocaliser ses profits. Il est temps que cela s’arrête et que nous récupérions au moins une partie des dus. De nombreux amendements sont provisionnés à ce titre et c’est pourquoi j’invite tous les collègues à soutenir celui-ci. (Applaudissements sur de nombreux bancs du groupe LFI-NFP.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. le ministre du budget et des comptes publics, pour donner l’avis du Gouvernement."
+  },
+  {
+   "orateur": "M. Laurent Saint-Martin",
+   "qualite": "ministre du budget et des comptes publics",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Les arguments du rapporteur général sont tous très justes, nul besoin de les répéter. Cet amendement est une bonne illustration de ce qu’il a dit en préambule de la reprise de l’examen des amendements : voilà l’exemple typique d’un amendement à fort rendement apparent, mais à rendement nul en réalité, parce que totalement inopérant et contraire à nos traités et à nos conventions internationales.Il nous reste quelque 1 500 amendements à examiner : la question est de savoir si vous voulez légiférer sur ce qui existe dans la vraie vie ou voter des amendements dont on sait pertinemment qu’en l’état actuel des discussions à l’OCDE et du droit fiscal international, il n’y a strictement aucune chance qu’ils rapportent le moindre euro en matière de produit fiscal. Leur adoption ne ferait qu’alimenter l’image de la France comme épouvantail fiscal pour les grandes entreprises."
+  },
+  {
+   "orateur": "M. Jean-François Coulomme",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "C’est faux !"
+  },
+  {
+   "orateur": "M. Laurent Saint-Martin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Quand bien même l’intention initiale de cet amendement n’est pas absurde – le principe de la territorialité de l’impôt peut tout à fait être repensé –, une telle mesure doit absolument passer par des conventions internationales. Faute de quoi, il n’y a strictement aucune chance d’arriver au but recherché. Et je sais, monsieur le président de la commission des finances, qu’au fond, vous le savez pertinemment.Je prends donc cet amendement comme un amendement d’appel, car il ne peut en être autrement : il n’y a aucune chance que ce qu’il propose puisse être opérationnel ; ce serait contraire aux traités et aux 125 conventions fiscales signées par la France avec d’autres pays.Continuons de travailler de façon multilatérale à l’OCDE, tout en saluant les avancées déjà réalisées. Excusez-moi de vous le dire, mais les piliers 1 et 2, ce n’est pas rien ! Ils constituent des avancées extrêmement puissantes. Je rappelle que Bruno Le Maire lui-même a été à la manœuvre ces dernières années (Exclamations sur plusieurs bancs du groupe LFI-NFP) pour accroître fortement la capacité à aller vers une fiscalité harmonisée entre les pays. Voilà ce qu’il faut saluer. Ce sont des bonnes avancées. Vouloir aller plus loin, oui ; mais le faire seul, au travers d’un amendement qui n’a aucune espèce de vocation opérationnelle…"
+  },
+  {
+   "orateur": "M. Jean-François Coulomme",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Menteur !"
+  },
+  {
+   "orateur": "M. Laurent Saint-Martin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "…pour l’année 2025, bien sûr que non. L’avis est donc défavorable. (Applaudissements sur quelques bancs du groupe EPR.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Chers collègues, il reste plus de 1 400 amendements à examiner d’ici à vendredi soir. À partir de maintenant, je donnerai donc la parole à un orateur pour et à un orateur contre, sauf sur certains sujets.La parole est à M. Daniel Labaronne."
+  },
+  {
+   "orateur": "M. Daniel Labaronne",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Compte tenu de l’activité, des emplois et de la croissance qu’elles créent dans notre pays, je crois que la France doit respecter les multinationales ! (Exclamations et rires sur les bancs du groupe LFI-NFP.) Mes chers collègues, essayons de débattre !"
+  },
+  {
+   "orateur": "M. René Pilato",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Arrêtez de leur faire des cadeaux !"
+  },
+  {
+   "orateur": "M. Daniel Labaronne",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "En mettant de côté son caractère inopérant, imaginons que votre proposition entre en vigueur. Elle aurait trois conséquences principales. La première serait une délocalisation des sièges sociaux, entraînant une perte de recettes fiscales. Loin d’être celui que vous imaginez, le rendement de la mesure serait donc nul.La deuxième conséquence serait une réduction de l’activité des multinationales en France, mais aussi de celle de leurs sous-traitants, lesquels se trouvent pour la plupart dans les territoires ruraux. Je ne suis pas certain que ces entreprises apprécient votre amendement. (Exclamations sur plusieurs bancs du groupe LFI-NFP.)La troisième serait une situation de suradministration fiscale pour essayer de déterminer la part des bénéfices réalisée en France. Le fisc a beaucoup mieux à faire.Votre proposition serait de toute façon inopérante, car contraire au droit européen et aux conventions fiscales signées par la France. (M. David Amiel applaudit.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je rappelle que, pour nous en tenir à ce qui a été décidé en conférence des présidents, les présentations d’amendements et les prises de parole ne doivent pas excéder une minute.La parole est à M. Nicolas Sansu."
+  },
+  {
+   "orateur": "M. Nicolas Sansu",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Je m’exprime sur l’amendement no 2358, mais je défends en même temps l’amendement no 490 de M. Maurel : j’ai donc droit à deux minutes !Il a été dit qu’il fallait que la France respecte les multinationales. Il faut aussi que les multinationales, dont Auchan et Michelin, respectent les Français. (Applaudissements sur les bancs des groupes GDR, LFI-NFP et EcoS.) Les amendements nos 2358 et 490 sont importants car le pilier 2 évoqué plus tôt n’a pas les effets que vous pensez. Ses recettes se montent à 1,5 milliard d’euros, avec beaucoup de trous dans la raquette. Voilà son effet réel sur des multinationales qui ne jouent pas le jeu. La création d’une taxation unitaire, digne de son nom, de leurs bénéfices est donc urgente.L’érosion de la base fiscale à travers les prix de transfert assèche les ressources de l’État, ce qui a des conséquences sur les services publics dans les domaines de l’éducation, de la santé, de la sécurité et de la culture, entre autres. En quoi la pratique des prix de transfert pratique consiste-t-elle ? C’est, par exemple, une grande enseigne de restauration rapide, dont une holding basée au Luxembourg pompe tous les bénéfices réalisés en France en exigeant une rétribution disproportionnée pour l’utilisation de sa marque. Voilà comment les très grandes entreprises internationales échappent à l’impôt dans notre pays !Pour empêcher de telles pratiques, ces amendements, issus des travaux de Gabriel Zucman et de l’OCDE, visent à calculer les bénéfices taxables selon la répartition du chiffre d’affaires entre pays d’activité. Certes, comme l’a indiqué M. le ministre, mettre en œuvre ce dispositif nécessiterait de renégocier des conventions fiscales, mais il faut avancer. Nous devons montrer que nous souhaitons que les choses avancent plus vite. Alors, adoptons cette disposition novatrice et utile pour le pays ! (Applaudissements sur plusieurs bancs des groupes GDR, LFI-NFP et EcoS.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Véronique Louwagie."
+  },
+  {
+   "orateur": "Mme Véronique Louwagie",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Chers collègues, je vous invite à lire une tribune de l’économiste Jean Peyrelevade, parue aujourd’hui dans Les Échos, qui s’intitule « L’impossible surtaxation des ultrariches ». (Exclamations sur les bancs du groupe LFI-NFP.)"
+  },
+  {
+   "orateur": "M. Damien Maudet",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Si c’est Les Échos, alors !"
+  },
+  {
+   "orateur": "Mme Véronique Louwagie",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Vous refusez de voir qu’il existe une concurrence mondiale ! Me fiant à cette tribune, je vais citer des inquiétudes émises par Gabriel Zucman lui-même à la page 30 de son rapport. Il indique qu’il y a un risque de mobilité accrue des ultrariches surtaxés vers des lieux d’accueil plus favorables à leurs intérêts et il se demande comment ces milliardaires réagiraient si le taux de taxation de leur patrimoine augmentait brutalement. Vous refusez de voir qu’il existe une mobilité internationale, qu’il existe une concurrence. Vous n’aimez pas les riches ! (Applaudissements sur quelques bancs du groupe LFI-NFP.)"
+  },
+  {
+   "orateur": "M. Antoine Léaument",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "C’est vrai !"
+  },
+  {
+   "orateur": "Mme Véronique Louwagie",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Vous voulez les pousser hors de France. Vous refusez de voir la mobilité des entreprises. Avec tous les dispositifs que vous proposez, vous allez les effrayer et encourager leur départ vers l’étranger."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Jean-Philippe Tanguy."
+  },
+  {
+   "orateur": "M. Jean-Philippe Tanguy",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Nous soutenons l’amendement du président Coquerel. J’invite à un peu d’humilité ceux qui nous dirigent depuis trop longtemps. Quand les espoirs placés dans la contribution sur les rentes inframarginales ont été massacrés par la réalité, on doit être un peu modeste et prudent. Quand plusieurs taxes ont été annulées par le Conseil constitutionnel – pendant le mandat de François Hollande, mais avec à peu près la même technocratie au pouvoir –, avec un coût parfois supérieur à 5 milliards d’euros, on doit être un peu modeste et prudent sur les capacités techniques que l’on prête aux uns ou aux autres.Par ailleurs, le Parlement a encore le droit d’exprimer une volonté politique. Oui, certains dispositifs techniques peuvent être imparfaits, mais ils expriment une volonté politique ! Il est temps que les parlements des démocraties affirment que, s’ils décident de l’impôt des plus modestes et des très petites, petites et moyennes entreprises (TPE et PME), ils doivent pouvoir aussi décider souverainement de l’impôt des multinationales. C’est une évidence, ces dernières cherchent à duper et à tromper les États et elles utilisent tous les ressorts juridiques possibles pour ne jamais payer ce qu’elles doivent alors qu’elles sont de grandes consommatrices des infrastructures et des services publics, voire des pilleuses de biens publics. Si on refuse que les TPE et PME soient pillées, il faut que chacun paie sa juste part – ni plus, ni moins. (Applaudissements sur les bancs du groupe RN.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Jean-Paul Mattei."
+  },
+  {
+   "orateur": "M. Jean-Paul Mattei",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Dans la conclusion des propos de notre collègue Sansu, on voyait bien la limite de l’application de cet amendement. La France a signé des conventions internationales qui parlent d’« établissements stables », c’est-à-dire d’entités installées dans un pays étranger où elles payent leurs impôts. Vient ensuite le principe de non-double imposition : si vous payez un impôt dans un pays, vous ne devez pas le payer à nouveau dans un autre.On peut se faire plaisir avec des amendements qui donnent l’impression de faire bouger les lignes, mais pour arriver juridiquement à quelque chose, la réflexion doit être menée au moins au niveau européen. L’attractivité de l’Irlande a été évoquée, mais c’est un régime fragile, car basé sur des recettes fiscales venant de grandes entreprises qui peuvent se délocaliser.Nous ne sommes pas seuls sur la planète, nous faisons partie d’un concert international. Nous devons travailler à améliorer les choses, mais sans faire croire à nos concitoyens que nous pouvons agir seuls, car c’est impossible."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Philippe Brun."
+  },
+  {
+   "orateur": "M. Philippe Brun",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Il faut voir cet amendement avant tout comme un amendement d’appel. (« Ah ! » sur les bancs du groupe EPR.) Ni ses auteurs ni ceux qui s’apprêtent à le voter ne pensent qu’il va rapporter immédiatement 25 milliards puisque, à ce stade, il est contraire aux conventions fiscales bilatérales que la France a signées et auxquelles elle a consenti.L’adopter permettrait d’envoyer un signal au Gouvernement et aux sénateurs dans le cadre de la navette, et de rappeler qu’il est inacceptable qu’existent des mécanismes permettant aux multinationales une telle évasion fiscale. Cet amendement est complémentaire de la disposition, déjà adoptée, visant à encadrer les effets du régime mère-fille des sociétés et l’évasion fiscale que ce dernier tend à créer. Selon moi, cette disposition est conforme au droit européen et satisfait déjà en partie l’amendement en débat.Les yeux ouverts sur la réalité de sa portée, les socialistes voteront donc en faveur de cet amendement, en souhaitant que, lors de la navette parlementaire et avec le Gouvernement, nous travaillions à des mécanismes efficaces de lutte contre l’évasion fiscale."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 2358."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

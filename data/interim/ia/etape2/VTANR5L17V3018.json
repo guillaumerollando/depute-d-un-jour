@@ -1,0 +1,48 @@
+{
+  "uid": "VTANR5L17V3018",
+  "consigne": "etape2_ambiguite v2",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Gisèle Lelouis",
+      "citation": "comme lors des précédentes lectures, le groupe Rassemblement national soutiendra l’adoption de ce texte.",
+      "justification": "Le groupe déclare soutenir le texte, qu'il présente comme une avancée démocratique."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Sylvain Maillard",
+      "citation": "J’invite chacune et chacun d’entre vous à voter en faveur de notre proposition de loi, pour que chaque voix compte",
+      "justification": "Le groupe appelle à voter le texte, qu'il présente comme rendant le scrutin plus démocratique."
+    },
+    "LFI": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "L'orateur du groupe évoque la situation institutionnelle générale sans se prononcer sur le texte."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Léa Balage El Mariky",
+      "citation": "cette réforme du mode de scrutin n’est ni faite ni à faire",
+      "justification": "Le groupe déclare s'opposer à la réforme et à ses conséquences."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Éric Martineau",
+      "citation": "Nous soutiendrons donc une nouvelle fois la proposition de loi.",
+      "justification": "Le groupe déclare soutenir la réforme au nom d'une représentation plus fidèle des électeurs."
+    },
+    "HOR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Jean Moulliere",
+      "citation": "En voulant simplifier et rapprocher le scrutin du droit commun, on obtient en réalité une complexification.",
+      "justification": "Le groupe soutient le principe d'égalité des voix mais vote contre en raison du contenu du texte, notamment la prime majoritaire et l'absence de répartition des compétences."
+    }
+  }
+}

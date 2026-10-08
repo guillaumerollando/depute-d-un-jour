@@ -1,0 +1,10 @@
+# Données brutes de l'Assemblée : à retélécharger avec pipeline/telecharger.py
+data/raw/
+# Régénéré par pipeline/etape0_scrutins.py (33 Mo)
+data/interim/scrutins.json
+__pycache__/
+.venv/
+node_modules/
+app/dist/
+app/dev-dist/
+.claude/

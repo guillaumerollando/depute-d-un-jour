@@ -1,0 +1,12 @@
+{
+ "uid": "VTANR5L17V840",
+ "consigne": "etape3_verification v2",
+ "verdict": "corrige",
+ "problemes": [
+  "Le rapport sur les inégalités créées par les concours (article 2 ter) a été supprimé dans le texte adopté : la carte décrit une mesure qui n'existe pas dans la version votée.",
+  "La carte omet que la prolongation s'applique aux concours ouverts depuis le 1er août 2024 et que le bilan prévu par le Gouvernement est repoussé à 2028."
+ ],
+ "corrections": {
+  "ce_que_ca_change": "L'expérimentation lancée en 2021, qui réserve des places à des concours spéciaux pour des étudiants de milieux modestes passés par une classe préparatoire « talents », est prolongée jusqu'au 31 août 2028, dès les concours ouverts depuis le 1er août 2024. Elle est étendue aux écoles formant des militaires, et le bilan que le Gouvernement doit en faire est repoussé à mars 2028."
+ }
+}

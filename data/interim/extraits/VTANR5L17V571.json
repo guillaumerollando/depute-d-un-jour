@@ -1,0 +1,140 @@
+{
+ "uid": "VTANR5L17V571",
+ "titre": "l'amendement n° 220 de Mme Youssouffa à l'article 21 du projet de loi d'urgence pour Mayotte (première lecture).",
+ "type": "amendement",
+ "date": "2025-01-21",
+ "dossier": "DLR5L17N51222",
+ "dossier_titre": "Projet de loi d'urgence pour Mayotte",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "contre",
+  "LFI": "contre",
+  "SOC": "contre",
+  "DR": "contre",
+  "DEM": "contre",
+  "HOR": "contre",
+  "UDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 78,
+   "contre": 1,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 0,
+   "contre": 20,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 33,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 1,
+   "contre": 22,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 0,
+   "contre": 5,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 1,
+   "abstention": 9
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 11,
+   "abstention": 1
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 5,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 2,
+   "contre": 2,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 0,
+   "contre": 1,
+   "abstention": 1
+  },
+  "UDR": {
+   "pour": 6,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC0775P0D1N000220",
+  "dossier": "DLR5L17N51222",
+  "texte": "PRJLANR5L17BTC0775",
+  "division": "Article 21",
+  "auteur": "Mme Youssouffa",
+  "auteur_groupe": "LIOT",
+  "auteur_type": "Député",
+  "dispositif": "Compléter la première phrase de l’alinéa 1 par les mots : « lorsque ces démarches ont été régulièrement effectuées au titre de la période venant à expiration ».",
+  "expose": "Cet amendement précise que la prolongation des droits accordés avant le 14 décembre n'est automatique que si les dossiers étaient en règle et complet avant le 14 décembre. Il s'agit de s'assurer que les bénéficiaires remplissaient toutes les conditions avant le 14 décembre, à défaut de pouvoir contrôler les pièces après cette date. Ainsi, les fraudeurs et les personnes qui n'ont pas fourni toutes les pièces avant le 14 décembre seront exclus de la prolongation automatique des droits."
+ },
+ "seance": "RUANR5L17S2025IDS28942",
+ "compte_rendu": "CRSANR5L17S2025O1N076",
+ "interventions": [
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme la rapporteure, pour soutenir les amendements nos 220, 218 et 217, qui peuvent faire l’objet d’une présentation groupée."
+  },
+  {
+   "orateur": "Mme Estelle Youssouffa",
+   "qualite": "rapporteure",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "L’amendement no 220 précise que la prolongation des droits accordés avant le 14 décembre n’est automatique que si les dossiers étaient en règle. L’amendement no 218 vise également à introduire une clause antifraude – il n’est pas question d’ouvrir la porte à des abus. Enfin, l’amendement no 217 est rédactionnel."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis du gouvernement sur ces trois amendements ?"
+  },
+  {
+   "orateur": "M. Manuel Valls",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "De mon point de vue, les amendements nos 220 et 218 sont satisfaits ; j’émets un avis de sagesse sur l’amendement no 217."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Matthias Tavel."
+  },
+  {
+   "orateur": "M. Matthias Tavel",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Je souhaitais répondre à M. le ministre d’État à propos de l’amendement no 68 : la recevabilité en séance dépend de la présidente de l’Assemblée et non de la présidente de la commission. Ce n’est donc pas la présidente Trouvé elle-même qui a jugé son amendement recevable."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Merci pour cette précision, monsieur Tavel.Je mets aux voix l’amendement no 220."
+  }
+ ]
+}

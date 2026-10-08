@@ -1,0 +1,62 @@
+{
+  "uid": "VTANR5L17V617",
+  "consigne": "etape2_ambiguite v1",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Les propos du groupe dans l'extrait portent sur un amendement et non sur l'ensemble du texte."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Paul Midy",
+      "citation": "La proposition de loi offre une solution concrète contribuant à la transition agroécologique des exploitations et à l’usage raisonné des produits phytopharmaceutiques.",
+      "justification": "Le groupe déclare soutenir l'épandage par drone dans les cas prévus par le texte."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Manon Meunier",
+      "citation": "Ils et elles méritent mieux que des drones permettant de rivaliser avec les normes sociales moins-disantes de l’international.",
+      "justification": "Le groupe déclare s'opposer au recours aux drones dans l'agriculture tel que prévu."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Virginie Duby-Muller",
+      "citation": "Le groupe Droite républicaine votera avec conviction en faveur de ce texte, véritable loi de progrès et d’équilibre qui offre à notre agriculture les moyens d’affronter les défis de demain.",
+      "justification": "Le groupe déclare soutenir le texte."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Delphine Batho",
+      "citation": "N’ajoutons pas à cette dystopie le survol de nos campagnes par des drones ! Le groupe Écologiste et social votera bien sûr contre ce texte !",
+      "justification": "Le groupe déclare s'opposer à l'épandage de pesticides par drone."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Hubert Ott",
+      "citation": "Loin de représenter une régression écologique, ce texte apporte une réponse sécurisée et maîtrisée à des problématiques agricoles et humaines bien identifiées.",
+      "justification": "Le groupe déclare soutenir le texte."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    }
+  }
+}

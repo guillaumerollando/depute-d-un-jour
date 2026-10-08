@@ -1,0 +1,83 @@
+{
+  "uid": "VTANR5L17V289",
+  "consigne": "etape2_ambiguite v1",
+  "groupes": {
+    "RN": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "LFI": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. François Piquemal",
+      "citation": "La France insoumise, consciente de la nécessité de permettre à ceux vivant dans les zones touristiques de se loger dignement, votera pour la proposition de loi.",
+      "justification": "Le groupe déclare soutenir l'objet du texte et vote pour."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Laurent Lhardit",
+      "citation": "les membres du groupe Socialistes et apparentés voteront cette proposition de loi avec enthousiasme, car c’est une mesure de justice qui améliorera les conditions d’existence de millions de nos concitoyens, mais conscients qu’il nous faudra aller plus loin.",
+      "justification": "Le groupe déclare soutenir le contenu du texte et vote pour."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Vincent Rolland",
+      "citation": "Nous nous réjouissons d’avoir évité un rabotage qui aurait été dévastateur pour nos territoires et, dans ces conditions, nous voterons pour ce texte.",
+      "justification": "Le groupe déclare soutenir la version du texte issue du compromis et vote pour."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Damien Girard",
+      "citation": "ce texte donnera à l’État et aux maires des moyens concrets d’agir face à l’explosion des meublés de tourisme ; le groupe Écologiste et social le votera.",
+      "justification": "Le groupe déclare soutenir le contenu du texte et vote pour."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Olivier Falorni",
+      "citation": "Pour toutes ces raisons, le groupe Les Démocrates soutiendra ce très bon texte transpartisan.",
+      "justification": "Le groupe déclare soutenir le contenu du texte et vote pour."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Christophe Plassard",
+      "citation": "Même si le logement, qui souffre tant en ce moment, doit encore être soutenu, le groupe Horizons & indépendants votera en faveur de la présente proposition de loi transpartisane.",
+      "justification": "Le groupe déclare soutenir le contenu du texte et vote pour."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Paul Molac",
+      "citation": "Cette proposition de loi est bienvenue, le groupe Libertés, indépendants, outre-mer et territoires la soutiendra.",
+      "justification": "Le groupe déclare soutenir le contenu du texte et vote pour."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Stéphane Peu",
+      "citation": "Nous saluons ce texte, qui constitue une avancée importante – y compris sur le volet fiscal – dans la régulation d’un phénomène qui participe à l’ubérisation de l’économie",
+      "justification": "Le groupe déclare soutenir le contenu du texte et vote pour."
+    },
+    "UDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Alexandre Allegret-Pilot",
+      "citation": "Ce n’est pas par la contrainte que nous y parviendrons, mais par la seule rentabilité : les lois de la gravité économique sont implacables.",
+      "justification": "Le groupe déclare s'opposer à l'approche contraignante du texte et vote contre."
+    }
+  }
+}

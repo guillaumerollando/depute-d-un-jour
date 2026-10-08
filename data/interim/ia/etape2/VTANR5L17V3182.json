@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V3182",
+  "consigne": "etape2_ambiguite v1",
+  "groupes": {
+    "RN": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Vincent Caure",
+      "citation": "Nous voterons pour ce texte tel qu’il est issu de la commission mixte paritaire. Fidèle à l’esprit et à la méthode nés en 1988 et renouvelés en 1998, il nous permettra de construire l’avenir au cours des prochains mois.",
+      "justification": "Le groupe déclare soutenir le report prévu par le texte et vote pour."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Bastien Lachaud",
+      "citation": "Il est encore temps de renoncer à cette folie, à ce nouveau passage en force, à ce nouvel acte de la longue histoire coloniale en Kanaky Nouvelle-Calédonie.",
+      "justification": "Le groupe déclare s'opposer au report prévu par le texte et vote contre."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Arthur Delaporte",
+      "citation": "Un tel report, qui n’est pas un acte anodin, n’est jamais satisfaisant. Toutefois, l’organisation d’un scrutin en moins d’un mois serait aussi un pari risqué.",
+      "justification": "Le groupe déclare soutenir le report en vue d'un accord consensuel et vote pour."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Patrick Hetzel",
+      "citation": "Ce texte n’est pas le fruit d’un calcul politique ; c’est un choix de responsabilité nationale.",
+      "justification": "Le groupe déclare soutenir le report prévu par le texte et vote pour."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Sabrina Sebaihi",
+      "citation": "le fond du texte est toujours le même : reporter encore les élections provinciales, prolonger encore des mandats sans légitimité et repousser indéfiniment le droit des Kanaks à décider de leur avenir.",
+      "justification": "Le groupe déclare s'opposer au report prévu par le texte et vote contre."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Éric Martineau",
+      "citation": "Pour le groupe Les Démocrates, le report des élections n’est pas un recul de la démocratie : il en est au contraire la condition.",
+      "justification": "Le groupe déclare soutenir le report prévu par le texte et vote pour."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Jean Moulliere",
+      "citation": "Outre le fait qu’elles honorent la République tout entière, les avancées significatives de ces négociations justifient un nouveau report des élections.",
+      "justification": "Le groupe déclare soutenir le report prévu par le texte et vote pour."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    }
+  }
+}

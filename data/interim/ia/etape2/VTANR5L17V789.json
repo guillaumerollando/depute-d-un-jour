@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V789",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Robert Le Bourgeois",
+      "citation": "Nous soutiendrons donc ce texte qui répond à des questions réelles mais secondaires.",
+      "justification": "Le groupe vote pour un texte dont il salue des dispositions techniques et l'assouplissement de la séparation vente-conseil."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Stéphane Travert",
+      "citation": "Mon groupe est favorable à l’adoption de cette proposition de loi de bon sens, utile à nos agriculteurs, utile à la ruralité, utile au pays.",
+      "justification": "Le groupe vote pour en jugeant le texte utile aux agriculteurs."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Murielle Lepvraud",
+      "citation": "Pire encore, dans son article 1er, elle remet en cause la séparation entre vente et conseil en matière de pesticides",
+      "justification": "Le groupe vote contre en s'opposant à la remise en cause de la séparation entre vente et conseil sur les pesticides."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Dominique Potier",
+      "citation": "Pour le groupe Socialistes, il n’y a pas d’ambiguïté : nous sommes favorables à leur réintégration.",
+      "justification": "Le groupe vote pour en se déclarant favorable à la réintégration des responsables de coopératives dans les bureaux des chambres."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. David Taupiac",
+      "citation": "Nous sommes donc favorables à cette proposition de loi nécessaire et utile au bon déroulement des élections à venir.",
+      "justification": "Le groupe vote pour en jugeant le texte utile au déroulement des élections."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Sophie Ricourt Vaginay",
+      "citation": "Le groupe UDR a voté pour cette proposition de loi, qui répond à des besoins immédiats",
+      "justification": "Le groupe vote pour en estimant que le texte répond à des besoins immédiats."
+    }
+  }
+}

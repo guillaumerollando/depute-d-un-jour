@@ -1,0 +1,108 @@
+{
+ "uid": "VTANR5L17V7984",
+ "titre": "l'amendement n° 32 de M. Amirshahi au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
+ "type": "amendement",
+ "date": "2026-07-07",
+ "dossier": "DLR5L17N51037",
+ "dossier_titre": "Reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "contre",
+  "EPR": "contre",
+  "LFI": "pour",
+  "SOC": "pour",
+  "DR": "contre",
+  "ECOS": "pour",
+  "DEM": "contre",
+  "HOR": "contre",
+  "LIOT": "contre",
+  "GDR": "pour",
+  "UDR": "contre"
+ },
+ "voix": {
+  "RN": {
+   "pour": 0,
+   "contre": 94,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 0,
+   "contre": 39,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 48,
+   "contre": 3,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 27,
+   "contre": 4,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 0,
+   "contre": 35,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 21,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 21,
+   "abstention": 1
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 19,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 0,
+   "contre": 6,
+   "abstention": 1
+  },
+  "GDR": {
+   "pour": 9,
+   "contre": 0,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 0,
+   "contre": 9,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901B0691P0D1N000032",
+  "dossier": "DLR5L17N51037",
+  "texte": "PIONANR5L17B0691",
+  "division": "visant à reconnaître une présomption de légitime défense pour les forces de l’ordre, dans l’exercice de leurs fonctions,",
+  "auteur": "M. Amirshahi et M. Tavernier",
+  "auteur_groupe": "ECOS",
+  "auteur_type": "Député",
+  "dispositif": "Rédiger ainsi le titre : « visant à favoriser une augmentation des atteintes mortelles liées à l’usage des armes »",
+  "expose": "Cet amendement du groupe Écologiste et Social vise à dénoncer la logique de la présente proposition de loi qui tend à favoriser l'usage des armes létales par les forces de l’ordre au détriment des principes de l’État de droit. En instaurant une présomption, le texte affaiblit le contrôle juridictionnel de l’usage de la force et porte atteinte au principe selon lequel toute atteinte à la vie et à l’intégrité physique doit faire l’objet d’une appréciation stricte, absolument nécessaire et strictement proportionnée. Une telle loi serait susceptible d’accroître le recours à la force létale et le nombre de personnes tuées sans démontrer qu’elle améliorerait la protection effective des forces de l’ordre. Le groupe Écologiste et Social rappelle que la sécurité des agents comme celle de la population repose sur un encadrement de l’usage de la force qui soit conforme aux exigences constitutionnelles et conventionnelles."
+ },
+ "seance": "RUANR5L17S2026IDS30827",
+ "compte_rendu": "CRSANR5L17S2026E1N005",
+ "interventions": [
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 32."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

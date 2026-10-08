@@ -1,0 +1,12 @@
+{
+ "uid": "VTANR5L17V7027",
+ "consigne": "etape3_verification v2",
+ "verdict": "corrige",
+ "problemes": [
+  "Erreur de fidélité : le texte adopté supprime la condition de montant des travaux (20 % du prix d'achat) au lieu de la poser.",
+  "La condition énergétique est précisée (deux classes pour les logements F ou G, une sinon)."
+ ],
+ "corrections": {
+  "ce_que_ca_change": "Un avantage fiscal pour les propriétaires qui louent un logement comme résidence principale serait ouvert aux logements rénovés sans condition de montant de travaux, s'ils gagnent deux classes d'étiquette énergétique (une seule si l'étiquette n'est pas F ou G), et aux locaux transformés en logements. Les copropriétés pourraient plus facilement faire garantir leurs emprunts collectifs pour travaux."
+ }
+}

@@ -1,0 +1,204 @@
+{
+ "uid": "VTANR5L17V5365",
+ "titre": "l'amendement n° 6 de M. Tryzna à l'article premier de la proposition de loi pour protéger l'eau potable (première lecture).",
+ "type": "amendement",
+ "date": "2026-02-12",
+ "dossier": "DLR5L17N53425",
+ "dossier_titre": "Protéger l'eau potable",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "contre",
+  "EPR": "pour",
+  "LFI": "contre",
+  "SOC": "contre",
+  "DR": "pour",
+  "ECOS": "contre",
+  "DEM": "pour",
+  "HOR": "pour",
+  "UDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 5,
+   "contre": 59,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 18,
+   "contre": 2,
+   "abstention": 1
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 34,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 0,
+   "contre": 23,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 12,
+   "contre": 0,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 38,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 4,
+   "contre": 0,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 10,
+   "contre": 0,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 1,
+   "contre": 0,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 0,
+   "contre": 0,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 4,
+   "contre": 0,
+   "abstention": 2
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC2427P0D1N000006",
+  "dossier": "DLR5L17N53425",
+  "texte": "PIONANR5L17BTC2427",
+  "division": "Article PREMIER",
+  "auteur": "M. Tryzna,  M. Thiériot, Mme de Maistre, Mme Minard, Mme Corneloup, M. Duparay, M. Brigand, M. Ray, M. Lepers et M. Ceccoli",
+  "auteur_groupe": "DR",
+  "auteur_type": "Député",
+  "dispositif": "Supprimer l'alinéa 10.",
+  "expose": "En supprimant toute référence à la contribution à la gestion et à la préservation de la ressource en eau, ces alinéas participent à une clarification trompeuse des compétences, qui masque en réalité un renforcement des obligations implicites pesant sur les collectivités. Cette modification s’inscrit dans une logique de recentralisation et de rigidification du cadre juridique, sans concertation suffisante avec les acteurs concernés. Il est donc proposé de les supprimer."
+ },
+ "seance": "RUANR5L17S2026IDS30263",
+ "compte_rendu": "CRSANR5L17S2026O1N148",
+ "interventions": [
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Josiane Corneloup, pour soutenir l’amendement no 6."
+  },
+  {
+   "orateur": "Mme Josiane Corneloup",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "La directive européenne de 2020 relative à la qualité des eaux destinées à la consommation humaine impose aux personnes responsables de la production ou de la distribution de l’eau (PRPDE) l’application de plans de gestion de la sécurité sanitaire des eaux (PGSSE), afin de maîtriser les risques pesant sur l’ensemble de la chaîne de production et de distribution. L’élaboration de ces plans deviendra obligatoire en juillet 2027 s’agissant des captages et en janvier 2029 s’agissant de la production et de la distribution. Ces plans devront faire l’objet d’une révision au moins tous les six ans.L’alinéa 10 supprime toute référence à la contribution « à la gestion et à la préservation de la ressource en eau ». Il participe d’une clarification trompeuse des compétences, qui masque un renforcement des obligations implicites s’imposant aux collectivités. Cette modification s’inscrit dans une logique de recentralisation et de rigidification du cadre juridique, alors qu’il conviendrait plutôt de privilégier la concertation de tous les acteurs concernés.Nous proposons donc de supprimer cet alinéa."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis de la commission ?"
+  },
+  {
+   "orateur": "M. Jean-Claude Raux",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Défavorable."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis du gouvernement ?"
+  },
+  {
+   "orateur": "M. Mathieu Lefèvre",
+   "qualite": "ministre délégué",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Favorable."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Philippe Vigier."
+  },
+  {
+   "orateur": "M. Philippe Vigier",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Je soutiens naturellement cet amendement, pour une raison simple : vous ne ferez rien sans les collectivités territoriales. On nous dit partout qu’il faut décentraliser, qu’il y a trop de strates, que tout vient de Paris, que les décisions sont prises sans concertation.Sur le terrain, les acteurs locaux nous interpellent partout au sujet de la qualité de l’eau et des pollutions – industrielles, agricoles ou de toute autre nature. Faisons donc attention ! Les élections municipales auront lieu dans quelques semaines. On sait très bien qu’on ne pourrait plus apporter aucune réponse efficace aux préoccupations quotidiennes de nos concitoyens sans les collectivités locales. Et l’on voudrait à présent les déresponsabiliser ? Le chemin qu’il faut emprunter va dans le sens inverse."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Pierre Cazeneuve."
+  },
+  {
+   "orateur": "M. Pierre Cazeneuve",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Je suis défavorable à l’amendement. J’ai besoin de clarté : nous avons adopté des amendements visant à supprimer les alinéas 5 et 6, qui tendaient à insérer un nouvel alinéa à l’article L. 2224-7-5 du code général des collectivités territoriales. Par cohérence, il fallait supprimer l’alinéa 7, qui lui-même tend à supprimer l’alinéa auquel le nouvel alinéa devait se substituer. Il en résulte un texte parfaitement imbitable ! (Exclamations et sourires sur divers bancs.)"
+  },
+  {
+   "orateur": "M. Guillaume Kasbarian",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Il a raison !"
+  },
+  {
+   "orateur": "M. Pierre Cazeneuve",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Je trouve cela dommageable.Le groupe Rassemblement national semble adopter une attitude irresponsable vis-à-vis des textes qui nous sont soumis, ou peut-être ne sait-il pas ce qu’il vote, puisque ses suffrages sont contradictoires avec les positions qu’expriment ses membres !"
+  },
+  {
+   "orateur": "M. Laurent Jacobelli",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Intervention inutile ! Ça ne sert à rien !"
+  },
+  {
+   "orateur": "M. Pierre Cazeneuve",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Il serait bon que M. le rapporteur fasse le point sur les dispositions qui demeurent dans le texte. En effet, dans son état actuel, il est incohérent. Cela est dû à la bêtise du Rassemblement national, qui vote un peu au hasard, sans trop savoir pourquoi. Quelqu’un a dû dire « Contre ! » et les autres l’auront suivi ! (Protestations sur les bancs du groupe RN.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 6."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

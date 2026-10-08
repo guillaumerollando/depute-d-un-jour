@@ -1,0 +1,107 @@
+{
+ "uid": "VTANR5L17V2473",
+ "titre": "l'amendement n° 587 de M. Benbrahim à l'article 3 (supprimé) de la proposition de loi portant programmation nationale énergie et climat pour les années 2025 à 2035 (première lecture).",
+ "type": "amendement",
+ "date": "2025-06-18",
+ "dossier": "DLR5L16N49849",
+ "dossier_titre": "Programmation nationale et simplification normative dans le secteur économique de l’énergie",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "contre",
+  "EPR": "contre",
+  "LFI": "contre",
+  "SOC": "pour",
+  "DR": "contre",
+  "ECOS": "contre",
+  "DEM": "contre",
+  "HOR": "contre",
+  "LIOT": "contre",
+  "UDR": "contre"
+ },
+ "voix": {
+  "RN": {
+   "pour": 0,
+   "contre": 85,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 0,
+   "contre": 31,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 41,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 26,
+   "contre": 1,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 0,
+   "contre": 13,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 19,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 11,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 9,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 0,
+   "contre": 4,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 0,
+   "contre": 1,
+   "abstention": 1
+  },
+  "UDR": {
+   "pour": 0,
+   "contre": 6,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC1522P0D1N000587",
+  "dossier": "DLR5L16N49849",
+  "texte": "PIONANR5L17BTC1522",
+  "division": "Article 3",
+  "auteur": "M. Benbrahim,  M. Roussel, M. Baptiste, M. Barusseau, Mme Battistel, M. Potier, Mme Bellay, Mme Allemand, M. Aviragnet, M. Baumel, M. Bouloux, M. Philippe Brun, M. Califer, Mme Capdevielle, M. Christophle, M. Courbon, M. David, M. Delaporte, M. Delautrette, Mme Diop, Mme Dombre Coste, M. Echaniz, M. Eskenazi, M. Faure, M. Fégné, M. Garot, Mme Godard, M. Gokel, Mme Got, M. Emmanuel Grégoire, M. Guedj, M. Hablot, Mme Hadizadeh, Mme Herouin-Léautey, Mme Céline Hervieu, M. Hollande, Mme Karamanli, Mme Keloua Hachi, M. Leseul, M. Lhardit, Mme Mercier, M. Naillet, M. Oberti, Mme Pantel, M. Pena, Mme Pic, Mme Pirès Beaune, M. Pribetich, M. Proença, Mme Rossi, Mme Rouaux, M. Aurélien Rousseau, Mme Runel, Mme Récalde, M. Saint-Pasteur, Mme Santiago, M. Saulignac, M. Simion, M. Sother, Mme Thiébault-Martinez, Mme Thomin, M. Vallaud, M. Vicot, M. William et les membres du groupe Socialistes et apparentés",
+  "auteur_groupe": "SOC",
+  "auteur_type": "Député",
+  "dispositif": "Rétablir cet article dans la rédaction suivante : « Après le 5° du I de l’article L. 100‑4 du code de l’énergie, sont insérés des 5° bis à 5° quinquies ainsi rédigés : « 5° bis De prolonger la durée d’exploitation des réacteurs électronucléaires du parc existant jusqu’à soixante années, sous réserve des contraintes techniques et opérationnelles, des décisions de l’Autorité de sûreté nucléaire et de radioprotection et de la protection des intérêts mentionnés au premier alinéa de l’article L. 593‑1 du code de l’environnement afin de maintenir en fonctionnement toutes les installations de production d’électricité d’origine nucléaire et une capacité installée de production de 63 gigawatts à l’horizon 2035 ; « 5° ter De maintenir en fonctionnement toutes les installations nécessaires à la mise en œuvre du retraitement et de la valorisation des combustibles usés, sous réserve de la protection des intérêts mentionnés au premier alinéa du même article L. 593‑1, en faisant du retraitement et du recyclage des combustibles usés leur principal mode de gestion, en pérennisant, renouvelant et complétant les usines de retraitement-recyclage au-delà de 2040 et en définissant des modalités d’organisation et de gestion adaptées ; « 5° quater D’engager la construction de huit nouveaux réacteurs électronucléaires de grande puissance d’ici 2035, dont six dès 2026, pour une capacité de production installée de 13 gigawatts à l’horizon 2050 ; « 5° quinquies De renforcer l’effort de recherche et d’innovation sur l’énergie nucléaire, notamment sur la fermeture du cycle du combustible, sur les réacteurs à fusion thermonucléaire et le couplage entre la production d’énergie nucléaire et celle d’hydrogène bas carbone ; »",
+  "expose": "Le présent amendement des députés Socialistes et apparentés vise à poser notre vision de la place de la production électronucléaire dans notre mix électrique pour les 25 prochaines années. Celle-ci est le résultat des travaux menés depuis 18 mois par notre groupe sur la question du mix énergétique et présentés dans le cadre de notre stratégie énergétique pour la France le 4 juin dernier : https ://lessocialistes.fr/wp-content/uploads/2025/06/Dossier-e %CC %81nergie_VDef.pdf Dans le monde qui a émergé de la pandémie de Covid-19 et de la guerre en Ukraine, nous avons pris conscience tardivement de la fragilité de nos économies et de l’enjeu stratégique fondamental que revêt notre autonomie énergétique, tant en matière de capacité d’approvisionnement que de prix. Un enjeu pour le pouvoir d’achat des ménages comme pour la compétitivité de nos économies et, en particulier, de nos industries. Face à la guerre froide économique engagée par la Russie, la Chine et désormais les États-Unis, l’Europe et, en son sein, la France, doivent urgemment se libérer de nos importations fossiles et ainsi de ces concurrents qui sont aussi nos fournisseurs. Ce réveil représente une chance pour la transition écologique, tant il fait coïncider pour la première fois objectifs climatiques et économiques autour de l’enjeu de la décarbonation rapide de notre mix énergétique. Les énergies renouvelables constituent la réponse la plus adéquate à ces enjeux de décarbonation en étant moins coûteuses que les infrastructures nucléaires nouvelles, plus rapidement et aisément déployables, en assurant une indépendance énergétique en matière de combustibles et en ayant une très faible empreinte carbone. Cependant, de par leur caractère intermittent (à l’exception des énergies hydrauliques), elle ne sont pas aussi pilotables et agiles que le nucléaire historique. Dès lors, l’atteinte d’un mix intégralement composé d’énergies renouvelables nécessite à la fois un déploiement important de ces énergies mais aussi une diversification de ces dernières ainsi que des technologies de stockage d’énergie et de pilotage du réseau permettant de neutraliser les effets de la variabilité de la production. Dix ans après l’accord de Paris de 2015 sur le climat, la France demeure largement en retard sur ces objectifs. En 2023, la France était le seul État membre à ne pas avoir respecté les objectifs assignés par la Commission européenne en matière de développement des énergies renouvelables. Et si la France est historiquement un pays faiblement émetteur du fait de son important parc électronucléaire, en ayant trop souvent mobilisé cet argument comme excuse, ce retard n’est pas sans conséquence sur les choix énergétiques qui s’imposent aujourd’hui à nous. En effet pour ce qui est de notre mix électrique, plus de 65 % de l’électricité produite en 2024 l’a été à partir de nos centrales nucléaires. Cependant, 32 des 57 réacteurs constituant ce parc dépasseront ou auront dépassé les 40 années d’exploitation commerciale en 2025, soit la durée maximale d’exploitation initialement prévue. Outre la question de leur nécessaire prolongation au-delà de cette durée de vie, déjà largement engagée pour la plupart d’entre eux, se pose la question de leur éventuel remplacement. Alors qu’EDF estime pouvoir prolonger leur durée d’exploitation jusqu’à 60 années, ce qui fait l’objet d’une procédure d’évaluation en lien avec l’ASNR, d’importantes incertitudes existent au-delà. De plus, les difficultés rencontrées sur le parc historique ces dernières années, avec le problème de corrosion sous contrainte par exemple, laisse planer un risque que soient découvertes des défaillances critiques sur un ou plusieurs réacteurs d’une même génération qui pourraient remettre en cause la poursuite d’exploitation avant même cette échéance. Dès lors, la question fondamentale est de savoir si à l’horizon 2040, où devrait débuter la sortie d’exploitation de ces 32 réacteurs, les énergies renouvelables auront été suffisamment développées pour prendre le relai du parc historique et si les technologies de pilotage du réseau et de stockage seront suffisamment matures pour assurer à tout moment, notre sécurité d’approvisionnement sur un réseau électrique très majoritairement constitué de renouvelables. Le constat regrettable que nous faisons aujourd’hui est que le retard pris dans le développement des énergies renouvelables depuis dix ans et l’insuffisante maturité des technologies précitées ne permettent pas de nous en assurer. Dès lors, le lancement d’un nouveau programme électronucléaire de transition apparaît nécessaire afin de prévenir la survenue de « l’effet falaise » que constitue le calendrier de sortie du nucléaire historique et de maintenir un socle de capacités de production pilotable et robuste suffisant pour assurer la sécurité d’approvisionnement et la stabilité du réseau. Le calibrage de ce nouveau programme électronucléaire doit impérativement être crédible et pertinent et ne pas relever d’une approche mystique du génie atomique. Il doit être crédible au regard des capacités industrielles, humaines et financières d’EDF. En effet, comme le rapport Folz en avait fait la démonstration, la politique du stop and go en matière nucléaire depuis 15 ans a considérablement affaibli la filière et entraîné une perte de compétences et de savoirs-faire dont la reconstitution sera longue. EDF aborde ce défi en étant en outre financièrement affaiblie par une dette importante (54,3 milliards d’euros fin 2023), dans un contexte de taux d’intérêts élevés et avec d’importants investissements à consentir sur le parc existant. Or, en février 2025, la Cour des comptes estimait à 79,9 milliards d’euros le coût de réalisation des trois premières paires d’EPR 2 déjà annoncées par le Président de la République. Il doit être pertinent sur le prix afin que notre mix électrique soit celui qui permette d’offrir le prix le plus bas à nos concitoyens et le prix le plus compétitif à nos entreprises. Or, le prix du mégawattheure produit par un EPR 2 (125 € sur la base d’un seuil minimal de rentabilité de 4 %) est près de 50 % supérieur en moyenne à celui produit par les sources renouvelables et le double de celui du nucléaire historique (60,70 €), largement amorti. Dès lors, le format pertinent pour un nouveau programme est le plus petit nombre de nouveaux réacteurs qui permette d’apporter les avantages du nucléaire à notre mix (stabilité, prévisibilité, pilotabilité), en laissant les renouvelables former le gros du prix final avec le nucléaire historique plus récent. Cette sobriété relative revêt également un enjeu en matière d’anticipation de la production puis de l’entreposage et du stockage de déchets radioactifs. Ce faisant, il nous apparaît que la cible de 8 nouveaux réacteurs électronucléaires soit 13,2 gigawatts de capacités nouvelles, correspondant pour l’essentiel au scenario que RTE avait désigné comme « N1 », est celle qui correspond le mieux à ce cahier des charges. S’agissant des petits réacteurs (small modular reactors ou SMR), cette technologie n’est pas réellement nouvelle puisqu’elle équipe depuis plus de 40 ans nos sous-marins et porte-avions à propulsion nucléaire avec les réacteurs à eau pressurisée K48, K15 et demain K22. Cependant, le rôle et les conditions d’exploitation en matière de sûreté et de sécurité de ces réacteurs militaires sont manifestement évidentes. Or, il n’existe aujourd’hui aucune doctrine d’emploi pour de tels réacteurs. S’agit-il de renforcer les capacités de production du réseau au travers de chaudières de moindre puissance mais aussi plus rapides et moins coûteuses à construire a priori, sur des centrales nucléaires existantes ? Ou s’agit-il de sources d’énergie permettant d’alimenter d’importantes plateformes industrielles électro-intensives (acier, pétrochimie et demain hydrogène bas-carbone). Dans le second cas, le plus probable, les enjeux de sûreté et de sécurité nucléaires propres à une installation nucléaire de base apparaissent difficiles à réconcilier avec la structuration des plateformes industrielles existantes. Les technologies retenues (eau pressurisée, sels fondus, métal liquide, etc.) supposeront par ailleurs des standards différents. En toute hypothèse, tout est à inventer avant de poser la question du nombre de SMR à produire. Nous excluons donc toute cible quantifiée s’agissant du développement des SMR dont la pertinence économique et industrielle doit encore être démontrée et le cadre d’emploi précisé. De manière plus générale, nous soutenons la poursuite de la recherche fondamentale et expérimentale en matière de nucléaire civil et, en particulier, sur la fusion nucléaire, mais ne souhaitons pas privilégier une technologie particulière dans la loi. Seul le produit de la recherche doit permettre de nous orienter vers la solution la plus pertinente. Ce faisant, le présent amendement pose donc comme objectifs pour notre politique nucléaire : – le maintien de nos capacités actuelles jusqu’en 2035 par la prolongation à 60 années de la durée d’exploitation du parc historique ; – le lancement d’un nouveau programme électronucléaire de 8 réacteurs d’ici 2035 dont six d’ici 2026 ; – le maintien des installations de valorisation et de traitement du combustible nucléaire au-delà de 2040, dans la rédaction issue du Sénat ; – le renforcement de la recherche et de l’innovation dans le domaine nucléaire mais en déliant les mains des industriels et acteurs de la recherche dans les choix technologiques."
+ },
+ "seance": "RUANR5L17S2025IDS29567",
+ "compte_rendu": "CRSANR5L17S2025O1N246",
+ "interventions": [
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 587."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

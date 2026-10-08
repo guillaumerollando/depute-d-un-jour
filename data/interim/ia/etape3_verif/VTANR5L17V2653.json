@@ -1,0 +1,10 @@
+{
+  "uid": "VTANR5L17V2653",
+  "consigne": "etape3_verification v2",
+  "verdict": "rejete",
+  "problemes": [
+    "Texte rejeté : la version votée est celle de la commission modifiée en séance, or le débat montre des changements majeurs absents de la source (moratoire sur les énergies renouvelables, rétablissement de l'article 3 sur le nucléaire, sortie du marché européen de l'énergie, exclusion du solaire et de l'éolien des énergies « décarbonées »).",
+    "Le chiffre de 58 % d'énergie décarbonée et sa définition ne peuvent donc pas être garantis pour la version votée, et la portée du moratoire n'est pas établie : le contenu voté ne peut pas être établi sur l'essentiel."
+  ],
+  "corrections": {}
+}

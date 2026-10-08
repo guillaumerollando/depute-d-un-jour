@@ -1,0 +1,55 @@
+{
+  "uid": "VTANR5L17V3056",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Guillaume Kasbarian",
+      "citation": "Fidèles à notre esprit constructif, nous voterons pour cette proposition de loi qui contient des mesures de bon sens, utiles à nos territoires.",
+      "justification": "Le groupe vote pour en soutenant les mesures du texte."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Claire Lejeune",
+      "citation": "La proposition de loi supprime également le caractère suspensif des recours gracieux et empêche quiconque n’ayant pas participé à l’enquête publique d’ester en justice à l’encontre du projet. Nous vous alertons : c’est une atteinte grave et inconsidérée au droit de recours.",
+      "justification": "Le groupe vote contre en s’opposant à des dispositions du texte."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Pierre Pribetich",
+      "citation": "La proposition de loi comporte des éléments d’un compromis équilibré – c’est dans l’air du temps, du moins peut-on l’espérer – offrant aux élus locaux des outils nouveaux et des procédures actualisées, afin qu’ils puissent accélérer la réalisation de projets et en réduire le coût.",
+      "justification": "Le groupe vote pour en soutenant les outils offerts aux élus locaux."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Josiane Corneloup",
+      "citation": "Le présent texte constitue un premier pas dans la bonne direction.",
+      "justification": "Le groupe vote pour en soutenant l’orientation du texte."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Julie Ozenne",
+      "citation": "Pour toutes ces raisons, nous ne pouvons soutenir ce texte qui, sous couvert de simplifier ou de répondre à l’urgence des besoins en logement, affaiblit les outils de protection de l’environnement, recule sur les droits démocratiques des citoyens, fragilise les plus vulnérables.",
+      "justification": "Le groupe vote contre en invoquant les effets du texte sur l’environnement et le droit de recours."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Mickaël Cosson",
+      "citation": "Mes chers collègues, cette proposition de loi constitue une réponse concrète, technique et nécessaire que nous devons aux Français et à nos territoires",
+      "justification": "Le groupe vote pour en soutenant le contenu du texte."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Thomas Lam",
+      "citation": "En simplifiant les procédures, en apportant de la clarté et de la sécurité juridique, cette proposition de loi leur permettra de mieux répondre aux attentes de nos concitoyens",
+      "justification": "Le groupe vote pour en soutenant la simplification des procédures."
+    }
+  }
+}

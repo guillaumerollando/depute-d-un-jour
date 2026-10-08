@@ -1,0 +1,77 @@
+{
+  "uid": "VTANR5L17V2460",
+  "consigne": "etape2_ambiguite v2",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "B",
+      "orateur": "Mme Alexandra Masson",
+      "citation": "je suis convaincue que la France doit délivrer un message clair : il faut protéger la mer et les océans plutôt que valider une pratique qui institutionnalise l’enfouissement sous-marin de nos déchets atmosphériques.",
+      "citation_raison": "En clair, sans la ratification de l’amendement de l’article 6 du protocole de Londres, la France risque de voir ses industries se relocaliser ailleurs en Europe, faute d’avoir les moyens de se décarboner en France.",
+      "justification": "Le groupe déclare s'opposer à l'enfouissement sous-marin du CO2 mais vote pour afin d'éviter la perte de compétitivité des industries françaises."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s’exprime pas dans l’extrait."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s’exprime pas dans l’extrait."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Michel Herbillon",
+      "citation": "Douze pays ont ratifié l’amendement de 2009, pays que la France souhaite rejoindre pour renforcer sa position dans la lutte contre le réchauffement climatique : c’est pourquoi le groupe Droite républicaine votera pour ce projet de loi.",
+      "justification": "Le groupe présente la ratification comme utile aux objectifs climatiques et industriels et vote pour."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Sabrina Sebaihi",
+      "citation": "Ce texte est un permis de polluer grandeur nature.",
+      "justification": "Le groupe s'oppose au stockage sous-marin du CO2 qu'il juge contraire à la réduction des émissions à la source et vote contre."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Maud Petit",
+      "citation": "Nous souhaitons l’adoption de ce projet de loi et voterons en ce sens. Son rejet aurait de lourdes conséquences sur la stratégie nationale bas-carbone.",
+      "justification": "Le groupe invoque les objectifs climatiques et la filière de captage et vote pour."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Xavier Lacombe",
+      "citation": "C’est pourquoi, en toute responsabilité et en toute lucidité, le groupe Horizons & indépendants appelle à son adoption.",
+      "justification": "Le groupe présente la ratification comme indispensable au traitement des émissions incompressibles et vote pour."
+    },
+    "LIOT": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Michel Castellani",
+      "citation": "Des scientifiques de haut niveau ont souligné l’impact fortement négatif que ne manqueront pas d’avoir ces stockages sur les équilibres physico-chimiques et biologiques.",
+      "justification": "Le groupe invoque les risques pour les écosystèmes marins et annonce un vote majoritairement contre."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Édouard Bénard",
+      "citation": "Nous ne pouvons souscrire à cette approche qui sert d’alibi aux industriels pour continuer à émettre massivement du CO2 plutôt que d’investir dans la décarbonation de leur outil de production.",
+      "justification": "Le groupe juge que l'export de CO2 sert d'alibi aux industriels émetteurs et vote contre."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s’exprime pas dans l’extrait."
+    }
+  }
+}

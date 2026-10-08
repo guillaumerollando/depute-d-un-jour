@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V5102",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "L'intervention du groupe ne permet pas d'établir qu'elle porte sur cet amendement."
+    },
+    "EPR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "L'intervention du groupe porte sur l'attitude d'un autre groupe et non sur le contenu de l'amendement."
+    },
+    "LFI": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Raphaël Arnault",
+      "citation": "alors que siègent ici des gens d’un parti dont des membres ont fourni des armes au terroriste de l’Hyper Cacher",
+      "justification": "Le groupe reprend l'argument de l'amendement sur les liens de l'extrême droite avec le terrorisme."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Les interventions du groupe portent sur un autre amendement et sur un rappel au règlement."
+    },
+    "DR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Les interventions du groupe portent sur d'autres amendements."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Les interventions du groupe portent sur le terme d'islamophobie et non sur l'amendement."
+    },
+    "DEM": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "L'intervention du groupe porte sur la proposition de résolution et non sur l'amendement."
+    },
+    "HOR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "L'intervention du groupe porte sur la proposition de résolution et non sur l'amendement."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Les interventions du groupe portent sur la proposition de résolution et sur un rappel au règlement, non sur l'amendement."
+    },
+    "UDR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "L'intervention du groupe porte sur la proposition de résolution et non sur l'amendement."
+    }
+  }
+}

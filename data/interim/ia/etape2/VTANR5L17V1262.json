@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V1262",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Sylvie Josserand",
+      "citation": "Nous voterons bien évidemment pour la proposition de loi. Je pense qu’elle envoie un bon signal",
+      "justification": "Le groupe soutient le texte sur l'exécution des peines."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "L'orateur du groupe annonce une abstention majoritaire en raison de réserves, ce qui ne permet pas d'expliquer la position pour du groupe."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Jean-François Coulomme",
+      "citation": "L’incarcération courte est criminogène ; elle est pire que l’incarcération de moyenne ou longue durée.",
+      "justification": "Le groupe s'oppose au recours aux courtes peines de prison prévu par le texte."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Hervé Saulignac (SOC)",
+      "citation": "Eh bien, ce texte n’est qu’incertitude et illusion de rigueur. Il constitue un recul et une dégradation de notre politique pénale.",
+      "justification": "Le groupe s'oppose au contenu du texte, qu'il présente comme un recul de la politique pénale."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Nicolas Ray",
+      "citation": "La proposition de loi marque une étape nécessaire",
+      "justification": "Le groupe soutient le texte et souhaite aller plus loin dans la même direction."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Léa Balage El Mariky",
+      "citation": "seul l’emprisonnement trouve grâce à vos yeux, un emprisonnement inhumain, indigne, qui ne favorise pas la réinsertion et ne permettra pas de lutter contre la récidive.",
+      "justification": "Le groupe s'oppose à la place donnée à l'emprisonnement par le texte."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Anne Bergantz",
+      "citation": "Il s’agit d’une réponse parmi d’autres. C’est pourquoi le groupe Les Démocrates votera le texte.",
+      "justification": "Le groupe soutient la possibilité de courtes peines de prison prévue par le texte."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Anne Le Hénanff (HOR)",
+      "citation": "Ce texte constitue un nécessaire premier pas pour rendre de la liberté aux magistrats et garantir l’effectivité des peines prononcées.",
+      "justification": "Le groupe soutient le texte."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Elsa Faucillon (GDR)",
+      "citation": "il est terrible de constater, monsieur le rapporteur, que votre texte renoue non avec la logique du tout-répressif, mais avec celle du tout-carcéral, dont ces mêmes pays tendent à sortir.",
+      "justification": "Le groupe s'oppose à l'orientation carcérale du texte."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Éric Ciotti (UDR)",
+      "citation": "Le groupe UDR votera en faveur de cette proposition de loi, comme il soutiendra celle rétablissant les peines planchers. Ces deux textes vont dans le sens d’une meilleure application et d’une meilleure effectivité des peines.",
+      "justification": "Le groupe soutient le texte."
+    }
+  }
+}

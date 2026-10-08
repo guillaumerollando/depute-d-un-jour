@@ -1,0 +1,651 @@
+{
+ "uid": "VTANR5L17V2130",
+ "titre": "l’amendement n° 2587 du Gouvernement et les amendements identiques suivants à l’article 15 (examen prioritaire) du projet de loi de simplification de la vie économique (première lecture).",
+ "type": "amendement",
+ "date": "2025-05-27",
+ "dossier": "DLR5L16N49868",
+ "dossier_titre": "Projet de loi de simplification de la vie économique",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "contre",
+  "LFI": "pour",
+  "SOC": "pour",
+  "DR": "contre",
+  "ECOS": "pour",
+  "DEM": "pour",
+  "HOR": "contre",
+  "UDR": "contre"
+ },
+ "voix": {
+  "RN": {
+   "pour": 0,
+   "contre": 88,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 9,
+   "contre": 6,
+   "abstention": 5
+  },
+  "LFI": {
+   "pour": 33,
+   "contre": 0,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 17,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 0,
+   "contre": 14,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 24,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 3,
+   "contre": 0,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 1,
+   "contre": 6,
+   "abstention": 2
+  },
+  "LIOT": {
+   "pour": 1,
+   "contre": 2,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 1,
+   "contre": 0,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 0,
+   "contre": 5,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC1191P0D1N002587",
+  "dossier": "DLR5L16N49868",
+  "texte": "PRJLANR5L17BTC1191",
+  "division": "Article 15",
+  "auteur": "le Gouvernement",
+  "auteur_groupe": null,
+  "auteur_type": "Gouvernement",
+  "dispositif": "Supprimer les alinéas 39 à 42.",
+  "expose": "La commission spéciale, chargée d’examiner le projet de loi de simplification de la vie économique, a adopté, à la fin de l’article 15, une disposition fixant les conditions d’appréciation du rapport de compatibilité des objectifs de réduction de l’artificialisation entre deux échelles de documents de planification ou d’urbanisme. Afin d’assurer la cohérence d’ensemble de l’édifice législatif autour de la réforme dite du « Zéro Artificialisation Nette » (ZAN), le gouvernement demande à ce que les mesures participant à cet édifice soient toutes examinées dans le cadre de la proposition de loi « Trajectoire de réduction de l’artificialisation concertée avec les élus locaux ». Si des évolutions du ZAN sont aujourd’hui nécessaires et font consensus, elles ne peuvent se multiplier dans les textes car cela amènerait une inévitable complexité supplémentaire pour les collectivités en charge de les appliquer, voire même à des incohérences dans les mesures à appliquer. Pour ces raisons, il est donc proposé de supprimer la disposition de marge de 30% de ce projet de loi. Tel est l’objet de cet amendement."
+ },
+ "seance": "RUANR5L17S2025IDS29460",
+ "compte_rendu": "CRSANR5L17S2025O1N218",
+ "interventions": [
+  {
+   "orateur": "M. Ian Boucard",
+   "qualite": "président de la commission spéciale",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je ne suis évidemment pas favorable à ces amendements qui tendent à supprimer un amendement que j’ai fait adopter en commission spéciale."
+  },
+  {
+   "orateur": "M. Vincent Descoeur",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "C’est bien !"
+  },
+  {
+   "orateur": "M. Ian Boucard",
+   "qualite": "président de la commission spéciale",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "On peut certes attendre la proposition de loi Trace ; mais cela fait longtemps déjà que certains, ici, l’attendent. On ne sait pas de quoi l’avenir sera fait – sur ces bancs ou ailleurs : mieux vaut régler aujourd’hui ce qui peut l’être aujourd’hui."
+  },
+  {
+   "orateur": "M. Jean-Yves Bony",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Bien sûr !"
+  },
+  {
+   "orateur": "M. Ian Boucard",
+   "qualite": "président de la commission spéciale",
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Il existe bien des positions différentes sur le ZAN. Nous sommes un certain nombre à penser qu’il doit être supprimé. D’autres pensent qu’il doit être aménagé. La considérable liste des amendements, issus de presque tous les groupes, qui demandent un aménagement de ce dispositif devrait nous inciter à en débattre dès aujourd’hui.Je proposerai ainsi, au nom du groupe Droite républicaine, la suppression du ZAN…"
+  },
+  {
+   "orateur": "M. Xavier Breton",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "C’est bien !"
+  },
+  {
+   "orateur": "M. Ian Boucard",
+   "qualite": "président de la commission spéciale",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "…et M. Renault en fera de même pour le groupe Rassemblement national. Des amendements, comme celui de M. Roseren, proposent un aménagement pour les filières sylvicoles ; Mme Brulebois propose un aménagement pour les créations d’emplois ; Mme Bonnivard, pour les PINM ; Mme Brulebois, encore, M. Michoux et notre groupe Droite républicaine pour les ICPE – les installations classées pour la protection de l’environnement ; M. Rodwell, pour la création d’une réserve nationale ; M. Roseren, à nouveau, pour les Step – les stations de transfert d’énergie par pompage ; Mme Duby-Muller, M. Sitzenstuhl et M. Michoux pour les transports massifiés.À l’exception des écologistes et des Insoumis, des députés de tous les groupes proposent donc d’aménager le ZAN. Cela prouve bien qu’il y a là un petit sujet."
+  },
+  {
+   "orateur": "M. Vincent Descoeur",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Un gros sujet !"
+  },
+  {
+   "orateur": "M. Ian Boucard",
+   "qualite": "président de la commission spéciale",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Comme pour les ZFE, nous aurons à en débattre encore. Quand on a créé quelque chose qui ne s’avère pas pleinement opérant – ou pas du tout opérant – on peut le modifier et l’aménager. C’est ce que nous serons nombreux à proposer, dans quelques instants, par nos amendements à l’article 15 – et pour que nous puissions le faire, il faut absolument rejeter l’amendement no 2587 du gouvernement et les amendements identiques."
+  },
+  {
+   "orateur": "M. Thibault Bazin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Tout à fait ! On passe au vote !"
+  },
+  {
+   "orateur": "Mme Brigitte Barèges",
+   "qualite": null,
+   "groupe": "UDR",
+   "president_de_seance": false,
+   "texte": "Très bien !"
+  },
+  {
+   "orateur": "M. Ian Boucard",
+   "qualite": "président de la commission spéciale",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Si nous les adoptons, nous ne pourrons pas débattre du ZAN. Comme en commission spéciale, ouvrons ce débat important, attendu pas seulement dans les territoires ruraux. Contrairement à ce que disait la présidente Le Feur, aucun élu local du Territoire de Belfort n’est venu me dire : « Le ZAN c’est super, il faut absolument le garder ! » (Sourires sur les bancs du groupe RN.) Ou alors, pour l’instant, ceux qui pensent ainsi se cachent – peut-être se manifesteront-ils à la suite de ce débat ! Mais ils ont été nombreux à me demander, en revanche, quand nous comptions mettre fin à ce dispositif.Rejetons ces amendements, afin que le débat ait lieu. (Applaudissements sur les bancs du groupe DR et sur quelques bancs du groupe RN.)"
+  },
+  {
+   "orateur": "M. Thibault Bazin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Pas d’obstruction !"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Matthias Tavel, pour un rappel au règlement."
+  },
+  {
+   "orateur": "M. Matthias Tavel",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Il faut effectivement débattre du ZAN."
+  },
+  {
+   "orateur": "Des députés du groupe RN",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Sur le fondement de quel article, le rappel au règlement ?"
+  },
+  {
+   "orateur": "M. Matthias Tavel",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Sur celui de l’article 100 de notre règlement – si vous voulez bien arrêter de crier. S’il faut débattre du ZAN, donc, tout le monde convient que ce n’est pas son principe qu’il faut remettre en cause mais qu’il faut discuter de ses modalités d’application et des dispositifs fiscaux qui l’appuient. (Huées sur les bancs des groupes RN et DR.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Venez-en à votre rappel au règlement."
+  },
+  {
+   "orateur": "M. Matthias Tavel",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "L’adoption de ces amendements identiques, déposés par cinq groupes, aurait pour conséquence de faire tomber tous les amendements restant à l’article 15."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "C’est exact."
+  },
+  {
+   "orateur": "M. Matthias Tavel",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Il serait donc opportun, le cas échéant, que chaque groupe puisse, dès à présent, s’exprimer sur ce sujet. (Vives protestations sur les bancs du groupe RN.) Arrêtez de bordéliser, chers collègues !"
+  },
+  {
+   "orateur": "M. Philippe Gosselin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Je vous ai rarement vu aussi démocrate !"
+  },
+  {
+   "orateur": "M. Pierre Meurin",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Qu’on en reste à deux pour et deux contre !"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Gérard Leseul."
+  },
+  {
+   "orateur": "M. Gérard Leseul",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Je demande une suspension de séance."
+  },
+  {
+   "orateur": "M. Thibault Bazin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Une suspension de trois ans ! (Sourires.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Elle est de droit. La séance est suspendue."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(La séance, suspendue à vingt-trois heures quarante, est reprise à vingt-trois heures quarante-cinq.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La séance est reprise. J’ai beaucoup d’inscrits, mais je m’arrêterai à deux prises de parole contre les amendements, et deux pour."
+  },
+  {
+   "orateur": "M. Matthias Tavel",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Il faut au moins que les auteurs des amendements puissent s’exprimer !"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Matthias Renault."
+  },
+  {
+   "orateur": "M. Matthias Renault",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "On voit bien que la gauche a peur du vote sur les amendements relatifs au ZAN."
+  },
+  {
+   "orateur": "M. Matthias Tavel",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Non, pas du tout !"
+  },
+  {
+   "orateur": "M. Philippe Gosselin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Nous, on est prêt !"
+  },
+  {
+   "orateur": "M. Matthias Renault",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Nous voterons contre ces amendements identiques pour une raison simple, rappelée par le rapporteur : s’ils sont adoptés, nous ne pourrons pas voter pour la suppression du ZAN !"
+  },
+  {
+   "orateur": "M. Philippe Gosselin",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Eh oui !"
+  },
+  {
+   "orateur": "M. Matthias Renault",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Je m’adresse donc au groupe de la Droite républicaine, et peut-être aussi à une partie des groupes du centre qui souhaiteraient une discussion franche sur le sujet."
+  },
+  {
+   "orateur": "M. Ian Boucard",
+   "qualite": "président de la commission spéciale",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "J’ai été clair !"
+  },
+  {
+   "orateur": "M. Matthias Renault",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Si vous votez ces amendements, il n’y aura plus de débat. (Applaudissements sur plusieurs bancs du groupe RN.)"
+  },
+  {
+   "orateur": "M. Philippe Gosselin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Pas d’injonction ! On est grand !"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Brigitte Barèges."
+  },
+  {
+   "orateur": "Mme Brigitte Barèges",
+   "qualite": null,
+   "groupe": "UDR",
+   "president_de_seance": false,
+   "texte": "Le groupe UDR votera contre l’ensemble de ces amendements, car nous ne comptons pas attendre l’adoption de la proposition de loi Trace pour supprimer le ZAN. (Applaudissements sur les bancs des groupes UDR et RN.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Claire Lejeune."
+  },
+  {
+   "orateur": "M. Matthias Tavel",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Laissez au moins les auteurs des amendements s’exprimer !"
+  },
+  {
+   "orateur": "Mme Claire Lejeune",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Ces dernières minutes, nous avons entendu beaucoup de bruit venant des bancs de la droite de l’hémicycle."
+  },
+  {
+   "orateur": "M. Thibault Bazin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Non, il y avait une suspension de séance, vous n’avez rien entendu ! (Sourires.)"
+  },
+  {
+   "orateur": "Mme Claire Lejeune",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Je vous invite, chers collègues, à prendre le micro et défendre vos positions au lieu de réagir sans cohérence aux prises de position de vos collègues."
+  },
+  {
+   "orateur": "Un député du groupe RN",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "On veut voter !"
+  },
+  {
+   "orateur": "M. Philippe Gosselin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Les positions sont claires et nettes, elles ont été brillamment exprimées par M. Boucard !"
+  },
+  {
+   "orateur": "Mme Claire Lejeune",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Un député de la majorité a présenté le ZAN et parlé du bilan de la majorité. Mais, si vous en êtes si fiers, où êtes-vous pour le défendre ? Regardez : vos bancs sont vides, vous devez compter sur une béquille pour faire passer cette proposition de loi (L’oratrice désigne de la main les bancs du groupe RN). Voilà la réalité ! (Vives exclamations sur les bancs des groupes DR, RN et UDR.)"
+  },
+  {
+   "orateur": "Plusieurs députés des groupes RN, DR et UDR",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Et vous ?"
+  },
+  {
+   "orateur": "M. Philippe Gosselin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Passons au vote, on verra qui est majoritaire !"
+  },
+  {
+   "orateur": "Mme Claire Lejeune",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Le modèle de développement et d’aménagement du territoire de la France date de l’après-seconde guerre mondiale. Il repose sur l’urbanisation. C’est également le moment où nous avons opéré une transition, d’une société essentiellement paysanne vers une agriculture industrialisée. Ce modèle est à bout de souffle, les scientifiques le confirment."
+  },
+  {
+   "orateur": "M. Guillaume Kasbarian",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Vous me donnez envie de voter contre !"
+  },
+  {
+   "orateur": "Mme Claire Lejeune",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Le ZAN apportait une réponse, peut-être imparfaite et critiquable sur certains points, mais une réponse tout de même. Nous ne pouvons plus continuer à foncer droit dans le mur en accélérant sans cesse l’artificialisation des sols. (Exclamations sur les bancs du groupe RN. – M. Jean-Luc Bourgeaux s’exclame également.)Rappelons que cette artificialisation crée des risques supplémentaires d’inondations."
+  },
+  {
+   "orateur": "M. Jean Terlier",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Vous vous répétez, là…"
+  },
+  {
+   "orateur": "Mme Claire Lejeune",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Chers collègues, vous le vivez dans vos circonscriptions – moi-même, je l’ai vécu en Essonne !"
+  },
+  {
+   "orateur": "M. Thierry Tesson",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "On sait !"
+  },
+  {
+   "orateur": "Mme Claire Lejeune",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Vous ne pouvez pas, en toute cohérence, vous plaindre des inondations que subissent vos concitoyens et, en même temps, voter pour démanteler les dispositions relatives au ZAN. C’est totalement incohérent ! (Vives protestations sur les bancs des groupes DR, RN et UDR.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Un peu de calme. Nous arrivons à la fin de cette discussion, ce n’est pas la peine de hurler.La parole est à M. Peio Dufau."
+  },
+  {
+   "orateur": "M. Peio Dufau",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "On parle de ZAN, mais beaucoup d’entre vous ne l’ont jamais pratiqué. Pour ma part, j’ai eu la chance d’être adjoint à l’urbanisme, et je peux vous dire que l’application de la loi demande du travail. Il faut s’investir, trouver des alternatives.Vous vous présentez comme les grands défenseurs de l’agriculture."
+  },
+  {
+   "orateur": "Plusieurs députés des groupes RN et DR",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Oui !"
+  },
+  {
+   "orateur": "M. Peio Dufau",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Mme Le Feur, présidente de la commission du développement durable et de l’aménagement du territoire l’a rappelé, nous sommes tous des défenseurs de l’agriculture."
+  },
+  {
+   "orateur": "Plusieurs députés du groupe RN",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Non !"
+  },
+  {
+   "orateur": "M. Peio Dufau",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Or que s’est-il passé au cours des dernières décennies ? L’étalement urbain a consommé des centaines de milliers d’hectares de terres agricoles."
+  },
+  {
+   "orateur": "Mme Marie Pochon",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Eh oui !"
+  },
+  {
+   "orateur": "M. Peio Dufau",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "L’objectif ZAN vise précisément à préserver celles que nous avons réussi à sauver pour les agriculteurs. (Applaudissements sur plusieurs bancs du groupe SOC et sur les bancs du groupe EcoS.)Si vous voulez tuer ce dispositif, libre à vous !"
+  },
+  {
+   "orateur": "Plusieurs députés des groupes RN et UDR",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Oui !"
+  },
+  {
+   "orateur": "M. Peio Dufau",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Mais vous devrez ensuite l’expliquer aux agriculteurs. (Protestations sur les bancs des groupes RN et UDR.)"
+  },
+  {
+   "orateur": "Mme Brigitte Barèges",
+   "qualite": null,
+   "groupe": "UDR",
+   "president_de_seance": false,
+   "texte": "Pas de problème !"
+  },
+  {
+   "orateur": "M. Peio Dufau",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Il est toujours plus facile de s’étendre pour loger les gens ou développer l’économie, sans chercher de solutions. Notre modèle économique, ce sont des boîtes à chaussures, avec des zones industrielles qui s’étalent, et des bâtiments en rez-de-chaussée les uns à côté des autres !"
+  },
+  {
+   "orateur": "M. Pierre Meurin",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "C’est bon, on a compris !"
+  },
+  {
+   "orateur": "M. Peio Dufau",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Personne n’a réfléchi à un modèle où l’on empilerait un peu plus !"
+  },
+  {
+   "orateur": "M. Pierre Cordier",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Il est l’heure !"
+  },
+  {
+   "orateur": "M. Pierre Meurin",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "C’est bon, enfin ! (Plusieurs députés des groupes RN et UDR balaient d’un revers de main les propos de l’orateur.)"
+  },
+  {
+   "orateur": "M. Peio Dufau",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Votre approche est plus simple, certes. Mais la réalité, c’est que vous êtes en train de tuer l’agriculture, de détruire l’outil de travail des agriculteurs ! (Applaudissements sur les bancs des groupes SOC, LFI-NFP et EcoS.) Et les néonicotinoïdes n’y changeront rien ! (Exclamations sur les bancs des groupes RN et UDR.)Voilà la triste réalité ! Vous tenez de beaux discours, mais quand il s’agit d’appliquer des mesures indispensables, vous ne faites rien ! (Vives protestations sur les bancs des groupes RN et UDR.)"
+  },
+  {
+   "orateur": "Plusieurs députés du groupe RN",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "C’est bon, là ! Ça suffit !"
+  },
+  {
+   "orateur": "Mme Marie Pochon",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "On se calme !"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix les amendements identiques nos 2587, 543, 876 rectifié, 1046, 1725 et 2190."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

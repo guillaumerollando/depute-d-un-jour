@@ -1,0 +1,69 @@
+{
+  "uid": "VTANR5L17V6184",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": "M. Pierre Meurin",
+      "citation": null,
+      "justification": "L'orateur s'exprime sur l'amendement relatif aux ZFE et non sur l'ensemble du texte."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": "M. Sylvain Carrière",
+      "citation": null,
+      "justification": "L'orateur s'exprime sur l'amendement relatif aux ZFE et non sur l'ensemble du texte."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": "M. Gérard Leseul",
+      "citation": null,
+      "justification": "L'orateur s'exprime sur l'amendement relatif aux ZFE et non sur l'ensemble du texte."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Ian Boucard",
+      "citation": "Nous le voterons en conscience, parce qu’il améliore la situation de manière concrète, assume lucidement ses limites, constitue une étape utile",
+      "justification": "Le groupe soutient les mesures de simplification du texte."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Lisa Belluco",
+      "citation": "Votre projet, en effet, se révèle simple : moins de règles, moins de droits, moins de vivant. Sauvez vos avancées environnementales, rejetez ce texte !",
+      "justification": "Le groupe s'oppose aux reculs environnementaux et sociaux qu'il attribue au texte."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Louise Morel",
+      "citation": "Le cœur de ce projet de loi consiste en des mesures utiles, attendues par nos entreprises",
+      "justification": "Le groupe soutient le contenu principal du texte tout en contestant les dispositions sur les ZFE."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Thomas Lam",
+      "citation": "Ce texte comporte plus de cinquante mesures de simplification qui répondent à une attente réelle de nos entrepreneurs et de nos concitoyens.",
+      "justification": "Le groupe soutient les mesures de simplification du texte."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    }
+  }
+}

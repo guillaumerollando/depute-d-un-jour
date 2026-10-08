@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V851",
+  "consigne": "etape3_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "« polluants chimiques très durables » : la persistance des PFAS ne figure pas dans les sources fournies."
+  ],
+  "corrections": {
+    "ce_que_ca_change": "L'article supprimé oblige les agences régionales de santé à publier leur programme d'analyse des PFAS, une famille de substances chimiques, dans l'eau du robinet et en bouteille, avec un bilan régional chaque année. Le ministre de la santé publie aussi un bilan national annuel."
+  }
+}

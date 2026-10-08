@@ -1,0 +1,11 @@
+{
+ "uid": "VTANR5L17V8042",
+ "consigne": "etape3_verification v2",
+ "verdict": "corrige",
+ "problemes": [
+  "« Des analyses génétiques sans consentement seraient permises pour identifier une personne » est trop large : le texte vise l'analyse de traces d'ADN laissées par une personne inconnue, dans les enquêtes sur des crimes, pour identifier l'auteur, un complice ou la victime."
+ ],
+ "corrections": {
+  "ce_que_ca_change": "Les victimes de violences conjugales, ou d'un parent sur un enfant de moins de 15 ans, seraient informées dès la plainte de leur droit à un avocat payé par l'aide juridictionnelle (aide publique aux frais de justice). Une affaire non jugeable dans un délai raisonnable pourrait passer à une autre cour d'assises. Dans les enquêtes pour crime, l'ADN d'un inconnu pourrait être analysé."
+ }
+}

@@ -1,0 +1,13 @@
+{
+  "uid": "VTANR5L17V2709",
+  "consigne": "etape3_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "Le titre « justifier de leur droit au séjour » exagère l'article : celui-ci impose seulement de fournir « tout élément » permettant à l'officier d'état civil d'apprécier leur situation au regard du séjour, sans exiger de prouver un droit au séjour.",
+    "Le résumé parle de « tout document » alors que l'article dit « tout élément »."
+  ],
+  "corrections": {
+    "titre": "Supprimer l'obligation pour les époux étrangers d'informer la mairie sur leur séjour",
+    "ce_que_ca_change": "L'article supprimé impose aux futurs époux de nationalité étrangère de fournir à l'officier d'état civil (le maire ou son représentant, qui célèbre le mariage) tout élément lui permettant d'apprécier leur situation au regard du droit de résider en France. Voter pour revient à retirer cette obligation du texte."
+  }
+}

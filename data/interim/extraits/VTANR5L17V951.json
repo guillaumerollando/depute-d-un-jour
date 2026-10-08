@@ -1,0 +1,358 @@
+{
+ "uid": "VTANR5L17V951",
+ "titre": "l'amendement n° 10 de Mme Rouaux après l'article premier de la proposition de loi visant à lutter contre la disparition des terres agricoles et renforcer la régulation des prix du foncier agricole (première lecture).",
+ "type": "amendement",
+ "date": "2025-03-11",
+ "dossier": "DLR5L17N51312",
+ "dossier_titre": "Lutter contre la disparition des terres agricoles et renforcer la régulation des prix du foncier agricole",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "contre",
+  "EPR": "contre",
+  "LFI": "pour",
+  "SOC": "pour",
+  "DR": "contre",
+  "ECOS": "pour",
+  "DEM": "pour",
+  "HOR": "contre",
+  "UDR": "contre"
+ },
+ "voix": {
+  "RN": {
+   "pour": 0,
+   "contre": 64,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 3,
+   "contre": 17,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 27,
+   "contre": 0,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 35,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 0,
+   "contre": 10,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 14,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 12,
+   "contre": 0,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 12,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 6,
+   "contre": 2,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 1,
+   "contre": 0,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 0,
+   "contre": 7,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC1027P0D1N000010",
+  "dossier": "DLR5L17N51312",
+  "texte": "PIONANR5L17BTC1027",
+  "division": "Article PREMIER",
+  "auteur": "Mme Rouaux,  M. Potier, Mme Allemand, M. Aviragnet, M. Baptiste, M. Barusseau, Mme Battistel, M. Baumel, Mme Bellay, M. Benbrahim, M. Bouloux, M. Philippe Brun, M. Califer, Mme Capdevielle, M. Christophle, M. Courbon, M. David, M. Delaporte, M. Delautrette, Mme Diop, Mme Dombre Coste, M. Dufau, M. Eskenazi, M. Faure, M. Fégné, M. Garot, Mme Godard, M. Gokel, Mme Got, M. Emmanuel Grégoire, M. Guedj, M. Hablot, Mme Hadizadeh, Mme Herouin-Léautey, Mme Céline Hervieu, M. Hollande, Mme Jourdan, Mme Karamanli, Mme Keloua Hachi, M. Leseul, M. Lhardit, Mme Mercier, M. Naillet, M. Oberti, Mme Pantel, M. Pena, Mme Pic, Mme Pirès Beaune, M. Pribetich, M. Proença, Mme Rossi, M. Aurélien Rousseau, M. Roussel, Mme Runel, Mme Récalde, M. Saint-Pasteur, Mme Santiago, M. Saulignac, M. Simion, M. Sother, Mme Thiébault-Martinez, Mme Thomin, M. Vallaud, M. Vicot, M. William et les membres du groupe Socialistes et apparentés",
+  "auteur_groupe": "SOC",
+  "auteur_type": "Député",
+  "dispositif": "Le II de l’article L. 141‑1‑1 du code rural et de la pêche maritime est complété par une phrase ainsi rédigée : « Elle peut également, dans le même délai, sauf pour les opérations exemptées en application de l’article L. 143‑4, demander au tribunal judiciaire d’annuler une cession de droits démembrés si les informations transmises conformément au présent I sont incomplètes ou présentent un faisceau d’indices de nature à considérer que cette cession aurait pour principal motif de faire échec à son droit de préemption. »",
+  "expose": "Cet amendement du groupe Socialistes et apparentés vise à rendre possible l'annulation d'une cession de droits démembrés si les informations transmises concernant cette vente sont incomplètes ou présentent un faisceau d’indices de nature à considérer que cette cession aurait pour principal motif de faire échec à son droit de préemption."
+ },
+ "seance": "RUANR5L17S2025IDS29160",
+ "compte_rendu": "CRSANR5L17S2025O1N126",
+ "interventions": [
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Claudia Rouaux, pour soutenir l’amendement no 10 portant article additionnel après l’article 1er, qui fait l’objet de deux sous-amendements."
+  },
+  {
+   "orateur": "Mme Claudia Rouaux",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "En 2022, le marché des biens démembrés a atteint un niveau record, en surface comme en valeur. Les Safer ne disposent malheureusement pas du temps et des leviers suffisants pour prouver le caractère frauduleux du recours à ce montage juridique.L’amendement adopté en commission permettra à la Safer de s’appuyer sur des informations supplémentaires relatives aux opérations en démembrement de propriété du foncier agricole, notamment grâce au renforcement des obligations déclaratives du cédant et du cessionnaire.En commission, nous avions déposé un amendement visant à allonger la durée de l’usufruit restant à courir, ce qui aurait permis une préemption de la Safer pendant neuf ans, car le délai actuel, fixé à deux ans, est beaucoup trop court. Jugé irrecevable car son adoption aurait créé une charge publique, cet amendement aurait pu être repris et déposé par le gouvernement. Je constate que celui-ci ne l’a pas fait ; c’était pourtant un des leviers très attendus par les Safer.L’amendement no 10 vise à rendre possible l’annulation d’une cession de droits démembrés si les informations transmises concernant cette vente sont incomplètes ou présentent un faisceau d’indices de nature à considérer que cette cession aurait pour principal motif de faire échec au droit de préemption de la Safer."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je suis saisi de deux sous-amendements identiques, nos 29 et 39. La parole est à M. André Chassaigne, pour soutenir le sous-amendement no 29."
+  },
+  {
+   "orateur": "M. André Chassaigne",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Je veux d’abord m’excuser auprès de mes collègues socialistes : je me suis permis de faire ce qui est peut-être un crime de lèse-majesté en sous-amendant l’amendement que vous avez présenté, et je découvre que vous avez à votre tour repris mon sous-amendement."
+  },
+  {
+   "orateur": "M. Inaki Echaniz",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Parce qu’il est excellent !"
+  },
+  {
+   "orateur": "M. André Chassaigne",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Je ne pensais pas que nous avions pour habitude de fonctionner ainsi entre nous."
+  },
+  {
+   "orateur": "M. Philippe Gosselin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "C’est la politique du coucou !"
+  },
+  {
+   "orateur": "M. André Chassaigne",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Si j’ai présenté ce sous-amendement, c’est tout simplement que je considérais que votre amendement n’était pas parfait. Sans le lire intégralement, soulignons que, pour faire appel au juge, encore faut-il le faire à partir d’une estimation et sans donner le résultat de l’appel avant que le juge ait pu s’exprimer. La rédaction de l’amendement manquait un peu de précision, car il faut tenir compte non seulement des situations dans lesquelles les informations sont incomplètes, mais aussi de celles dans lesquelles elles sont insuffisantes.Enfin, j’ai précisé qu’il fallait surtout s’attaquer au contournement qui fait passer pour une cession en nue-propriété ce qui en fait est une cession en pleine propriété déguisée. C’est pour cette raison que j’ai sous-amendé votre excellent amendement – que je voterai bien évidemment (Sourires sur les bancs des groupes SOC et Dem), en ayant préalablement laissé le soin à votre camarade de confirmer le bien-fondé du sous-amendement que j’ai présenté."
+  },
+  {
+   "orateur": "M. Christophe Blanchet",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Bravo !"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Inaki Echaniz, pour soutenir le sous-amendement no 39."
+  },
+  {
+   "orateur": "M. Inaki Echaniz",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Je tiens à rassurer M. Chassaigne et à faire amende honorable. Effectivement, son sous-amendement était très bon et c’est pourquoi nous avons déposé un sous-amendement identique – nous regrettons de ne pas en avoir eu l’idée avant.Je fais partie des députés qui veulent travailler de manière transpartisane, notamment en me tournant vers ceux qui siègent à ma gauche. (Exclamations sur les bancs du groupe UDR.) C’est donc dans un mouvement unitaire que j’ai déposé ce très bon sous-amendement que j’appelle à voter."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis de la commission ?"
+  },
+  {
+   "orateur": "M. Peio Dufau",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je l’ai dit, le sujet du démembrement est revenu dans toutes les auditions. Trouver des solutions est donc indispensable. Je suis évidemment favorable à l’amendement et aux sous-amendements."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis du gouvernement ?"
+  },
+  {
+   "orateur": "Mme Annie Genevard",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "J’analyserai conjointement l’amendement de Mme Rouaux et les sous-amendements de MM. Chassaigne et Echaniz. Monsieur Chassaigne, j’ai bien compris qu’il y a une question rédactionnelle, mais cela ne change rien à l’argumentaire sur le fond. En réalité, une Safer peut déjà décider par elle-même de porter un contentieux devant le tribunal judiciaire ; cela fait partie de ses attributions. Le tribunal aura alors à juger s’il y a intention frauduleuse de détourner une procédure.Je ne suis pas défavorable au principe de ce qui est proposé mais je vous demande de retirer l’amendement, sans quoi j’émettrai un avis défavorable, car l’amendement et les sous-amendements sont satisfaits par le droit existant."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Dominique Potier."
+  },
+  {
+   "orateur": "M. Dominique Potier",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Il y a en fait trois voies pour contourner les lois du foncier telles qu’elles ont été établies par François Tanguy-Prigent, Edgard Pisani et d’autres durant l’après-guerre. La première voie passe par le phénomène sociétaire, c’est-à-dire la concentration des sociétés agricoles, que nous avons commencé de combattre timidement et de façon lacunaire par la loi Sempastous. La deuxième réside dans le travail à façon, massif dans certains domaines, qui entraîne une concentration par l’usage. La troisième consiste dans le démembrement de propriétés, qui connaît un grand succès depuis qu’il y a un début de contrôle du phénomène sociétaire.Par le passé, le groupe Socialistes avait déjà déposé, en vain, plusieurs propositions de loi intégrant une disposition basée sur le principe de l’amendement que vient de défendre Claudia Rouaux. Quand nous avons défendu, dans le cadre de la LOA, un amendement d’une inspiration similaire, vous l’avez soutenu, madame la ministre, parce que vous êtes sensible à ces sujets du fait de l’expérience de la régulation du foncier dans le département du Doubs, qui est exemplaire – et contre toute attente, il a été adopté. C’est donc un vieux combat des députés socialistes, que Claudia Rouaux a réactivé avec une proposition de loi et dont nous avons réintégré le contenu sous la forme d’un amendement.Madame la ministre, nous ne pouvons pas entendre votre argument selon lequel, par le régime des contentieux, les Safer peuvent déjà intervenir sur ce type de marché. En effet, le démembrement de propriété dépossède précisément les Safer de leur capacité à intervenir.En 2014, dans le cadre de la loi Le Foll, nous avions introduit un délai de deux ans, par la voie d’un amendement que j’avais déposé. Ces deux ans sont mis à profit pour transférer la propriété. L’usage est perpétué, parfois par l’ancien exploitant sous la forme d’une société d’exploitation, puis les terres sont reprises sans qu’il y ait aucun contrôle par les pouvoirs publics ou par la profession agricole. C’est ce que nous entendons dénoncer. Il faut absolument adopter l’amendement. Nous sommes déçus que vous ne vous soyez pas engagée, au nom du gouvernement, à allonger la durée de deux ans à cinq, six ou neuf ans – pourquoi pas ? Le démembrement de propriété est un sport national, un accaparement des terres qui nie la régulation du foncier et empêche le renouvellement des générations. Vous savez que 10 millions d’hectares seront mis en mouvement dans les dix ans qui viennent. S’ils contribuent à l’agrandissement des fermes, cela entraînera une ruine sociale, écologique et économique. C’est un sujet majeur, c’est pourquoi il faut adopter l’amendement no 10."
+  },
+  {
+   "orateur": "M. Guillaume Garot",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Bravo !"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Claudia Rouaux."
+  },
+  {
+   "orateur": "Mme Claudia Rouaux",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Je veux rappeler que j’ai d’abord présenté cette disposition dans une proposition de loi dans laquelle nous avions intégré l’inversion de la charge de la preuve. En effet, étant donné les moyens humains dont dispose la Safer, deux ans ne suffisent pas pour mener à leur terme des procédures judiciaires. En Bretagne, en tout cas, nous faisons le constat qu’il y a une explosion des ventes en démembrement de propriété. Pour lutter contre ce phénomène, il est possible soit de rallonger la période de cession pendant laquelle les terres restent en usufruit, afin de permettre à la Safer de mener à leur terme des procédures judiciaires, soit de prévoir, lorsque la cession ne s’est pas faite d’une manière totalement transparente, que celle-ci tombe de fait – c’est ce que nous vous proposons à travers l’amendement no 10."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Hervé de Lépinau."
+  },
+  {
+   "orateur": "M. Hervé de Lépinau",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Ce que nous voyons ici est l’archétype de l’amendement de gauche. Le droit de propriété vous est insupportable et toutes les règles qui en découlent, entre autres le démembrement du droit de propriété, constituent pour vous une présomption de fraude."
+  },
+  {
+   "orateur": "Mme Dieynaba Diop",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Arrêtez la caricature !"
+  },
+  {
+   "orateur": "M. Hervé de Lépinau",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "En réalité, il faut toujours chercher le diable dans les détails. Si on arrive à un démembrement, c’est que la loi est trop contraignante à l’égard du propriétaire pour œuvrer normalement dans la transmission. Réfléchissez donc plutôt sur les causes du démembrement au lieu de stigmatiser…"
+  },
+  {
+   "orateur": "Mme Claudia Rouaux",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "C’est une demande des Safer !"
+  },
+  {
+   "orateur": "M. Hervé de Lépinau",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "On les connaît, les Safer ! En règle générale, elles agissent comme des agents immobiliers ; et alors qu’il devrait y avoir une obligation de conseil, il est fréquent que celle-ci n’existe pas. Je ne pense donc pas qu’il soit nécessaire d’aller dans votre sens car, comme l’a rappelé Mme la ministre, s’il y a une fraude caractérisée, il est toujours possible de faire annuler le démembrement en justice. (Applaudissements sur les bancs des groupes RN et UDR.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme la ministre."
+  },
+  {
+   "orateur": "Mme Annie Genevard",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Monsieur Potier, je reviens à votre argument sur les parts sociales : on le sait, c’est une façon de contourner la loi – je l’ai observé dans le Doubs. Nous devons sans doute lutter contre ce dispositif, mais il faut réfléchir au bon moyen de le faire. Or l’amendement no 10 n’est pas ce bon moyen, car il ne traite pas le sujet des parts sociales, dont l’utilisation comme instrument de contournement constitue un problème. La loi Sempastous visait à y répondre, mais elle n’y répond pas en totalité."
+  },
+  {
+   "orateur": "M. Dominique Potier",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "D’accord !"
+  },
+  {
+   "orateur": "Mme Annie Genevard",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je crois vraiment que si nous devions avoir une loi foncière d’ampleur, il faudrait y réfléchir, en respectant le droit constitutionnel de propriété – c’est bien la Constitution qui nous le prescrit. Je rejoins votre propos sur ce point, monsieur de Lépinau, mais mon analyse du rôle des Safer diffère entièrement de la vôtre. Comme l’ont démontré différents orateurs, si la terre agricole était jusqu’à présent moins chère en France que dans d’autres pays, c’est grâce à l’instauration de cet outil de régulation qu’est la Safer."
+  },
+  {
+   "orateur": "Mme Danielle Brulebois",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Exactement !"
+  },
+  {
+   "orateur": "Mme Annie Genevard",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Pour imparfait que soit cet instrument, il est profondément utile, comme le montre le prix du foncier agricole. Corrigeons-en les effets pervers, respectons évidemment le droit de propriété, puisqu’il s’agit d’un droit constitutionnel, mais cela ne change rien au fait que notre priorité, qui doit être clairement affichée, reste d’installer de nouveaux agriculteurs. Voilà quel est notre objectif.Vous parlez de démembrement. L’agrandissement des structures a ses limites, parce qu’il contrevient à un modèle d’agriculture familiale et parce que l’organisation sociétaire, quand elle n’est pas maîtrisée, pose des problèmes. Ainsi la mésentente entre associés est-elle une réalité sociale dans les exploitations. La proposition de loi amorce donc une évolution vers un objectif que je partage. Mais nous devons faire preuve d’une grande prudence dans le choix des outils retenus afin de ne pas risquer l’inconstitutionnalité, qui balaierait tout."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix les sous-amendements identiques nos 29 et 39."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Le vote à main levée n’ayant pas été concluant, il est procédé à un scrutin public.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Voici le résultat du scrutin : Nombre de votants 217 Nombre de suffrages exprimés 216 Majorité absolue 109 Pour l’adoption 97 Contre 119"
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Les sous-amendements identiques nos 29 et 39 ne sont pas adoptés.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 10."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

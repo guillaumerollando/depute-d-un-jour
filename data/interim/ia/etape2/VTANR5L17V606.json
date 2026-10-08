@@ -1,0 +1,55 @@
+{
+  "uid": "VTANR5L17V606",
+  "consigne": "etape2_ambiguite v1",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Bruno Clavet",
+      "citation": "Le groupe Rassemblement national votera en faveur de cette proposition de loi visant à étendre à tous les étudiants le bénéfice du repas à 1 euro.",
+      "justification": "Le groupe déclare soutenir l'extension du repas à 1 euro à tous les étudiants."
+    },
+    "LFI": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Christophe Bex",
+      "citation": "Quel plus beau message pouvons-nous envoyer que de lui offrir la possibilité d’étudier sans se ruiner en nourriture ?",
+      "justification": "Le groupe déclare soutenir l'accès des étudiants au repas à 1 euro."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Emmanuel Grégoire",
+      "citation": "Il y a des trous dans la raquette, des trappes à précarité qui concernent précisément les non-boursiers",
+      "justification": "Le groupe déclare vouloir couvrir les étudiants non boursiers en difficulté."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Alexis Corbière",
+      "citation": "Je le répète : je suis favorable à des services publics qui ne coûtent pas plus ou moins cher selon votre rémunération.",
+      "justification": "Le groupe déclare soutenir un tarif unique de 1 euro pour tous les étudiants."
+    },
+    "HOR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Béatrice Piron",
+      "citation": "Pour toutes ces raisons, le groupe Horizons & indépendants considère que la proposition de loi, bien qu’animée de louables intentions, manque de réalisme. Elle risque de fragiliser notre système tout en accentuant les inégalités.",
+      "justification": "Le groupe déclare que la généralisation fragiliserait le système et accentuerait les inégalités."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Salvatore Castiglione",
+      "citation": "Dans un tel contexte, le groupe LIOT a toujours défendu le maintien du tarif du restaurant universitaire à 1 euro pour tous et non pour les seuls boursiers.",
+      "justification": "Le groupe déclare soutenir le repas à 1 euro pour tous les étudiants."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Soumya Bourouaha",
+      "citation": "Bien évidemment, nous voterons pour la proposition de loi et nous vous félicitons, madame la rapporteure !",
+      "justification": "Le groupe déclare soutenir la proposition de loi."
+    }
+  }
+}

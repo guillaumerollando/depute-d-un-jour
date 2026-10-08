@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V5107",
+  "consigne": "etape2_ambiguite v1",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Kévin Mauvieux",
+      "citation": "Heureusement, nous sommes là pour agir, nous sommes là pour soutenir ce texte.",
+      "justification": "Le groupe déclare soutenir le texte, qu'il présente comme issu de son programme."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Marie Lebec",
+      "citation": "Nous partageons pleinement l’objectif de simplification de l’État et le constat dressé dans ce texte.",
+      "justification": "Le groupe déclare partager l'objectif du texte et le voter, avec des réserves sur la méthode."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Arnaud Saint-Martin",
+      "citation": "Bien évidemment, nous voterons contre ce texte, parce qu’il procède d’une vision nihiliste et sclérosée de l’action publique.",
+      "justification": "Le groupe déclare s'opposer à la conception de l'action publique portée par le texte."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Gérard Leseul (SOC)",
+      "citation": "doivent nous conduire non pas à suspendre de manière aveugle et démagogique toute création d’une nouvelle instance administrative, non pas à décréter le moratoire que vous proposez",
+      "justification": "Le groupe déclare s'opposer au moratoire proposé et privilégier l'évaluation des agences."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Anne-Laure Blin",
+      "citation": "la présente résolution soumise à votre approbation est un acte de salubrité administrative, un acte fort pour stopper net la frénésie de suradministration toujours très inventive.",
+      "justification": "Le groupe défend la résolution pour réduire le nombre d'instances administratives."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Eva Sas",
+      "citation": "Les politiques publiques menées par les agences et opérateurs sont utiles à notre pays, utiles à la transition écologique, utiles à notre cohésion sociale. Nous voterons donc contre cette proposition de résolution.",
+      "justification": "Le groupe déclare voter contre en raison de l'utilité qu'il attribue aux agences."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Sophie Mette",
+      "citation": "le groupe Modem votera en faveur de la proposition de résolution, mais avec l’exigence qu’elle ne reste pas un message politique sans lendemain.",
+      "justification": "Le groupe déclare soutenir la rationalisation des agences et voter la résolution."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Thomas Lam",
+      "citation": "C’est dans cet esprit de continuité et de responsabilité que le groupe Horizons & indépendants votera en faveur de la proposition de résolution.",
+      "justification": "Le groupe déclare soutenir la suspension des créations de structures dans la continuité des rationalisations engagées."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Édouard Bénard",
+      "citation": "Vous cherchez ni plus ni moins à supprimer les questions mêmes que soulèvent ces agences.",
+      "justification": "Le groupe déclare s'opposer au texte, dont il estime qu'il favorisera l'externalisation des politiques publiques."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Matthieu Bloch",
+      "citation": "Nous soutiendrons donc cette proposition de résolution, parce qu’elle va dans la bonne direction, mais nous le ferons sans naïveté et sans complaisance.",
+      "justification": "Le groupe déclare soutenir la résolution, qu'il juge aller dans la bonne direction."
+    }
+  }
+}

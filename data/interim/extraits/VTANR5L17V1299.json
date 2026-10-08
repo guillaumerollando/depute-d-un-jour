@@ -1,0 +1,107 @@
+{
+ "uid": "VTANR5L17V1299",
+ "titre": "l'amendement n° 2 de M. Fabrice Brun et les amendements identiques suivants à l'article 2 de la proposition de loi organique visant à harmoniser le mode de scrutin aux élections municipales afin de garantir la vitalité démocratique, la cohésion municipale et la parité (première lecture).",
+ "type": "amendement",
+ "date": "2025-04-07",
+ "dossier": "DLR5L17N50579",
+ "dossier_titre": "Proposition de loi organique visant à harmoniser le mode de scrutin aux élections municipales afin de garantir la vitalité démocratique, la cohésion municipale et la parité",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "contre",
+  "LFI": "contre",
+  "SOC": "contre",
+  "DR": "pour",
+  "ECOS": "contre",
+  "DEM": "contre",
+  "HOR": "pour",
+  "GDR": "contre",
+  "UDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 73,
+   "contre": 0,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 3,
+   "contre": 43,
+   "abstention": 1
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 38,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 0,
+   "contre": 27,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 22,
+   "contre": 1,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 15,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 26,
+   "abstention": 2
+  },
+  "HOR": {
+   "pour": 8,
+   "contre": 0,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 2,
+   "contre": 2,
+   "abstention": 1
+  },
+  "GDR": {
+   "pour": 0,
+   "contre": 4,
+   "abstention": 1
+  },
+  "UDR": {
+   "pour": 9,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC1246P0D1N000002",
+  "dossier": "DLR5L17N50579",
+  "texte": "PIONANR5L17BTC1246",
+  "division": "Article 2",
+  "auteur": "M. Fabrice Brun,  M. Bazin, Mme Bonnivard, M. Brigand, M. Cordier, Mme Corneloup, M. Le Fur, M. Portier et M. Nury",
+  "auteur_groupe": "DR",
+  "auteur_type": "Député",
+  "dispositif": "À la fin, substituer aux mots : « premier renouvellement général des conseils municipaux suivant sa promulgation » les mots : « 1 er janvier 2032 ».",
+  "expose": "Cet amendement modifie la disposition adoptée au Sénat, qui vise à prévoir l’entrée en vigueur de la proposition de loi organique à compter du prochain renouvellement général des conseils municipaux, par alignement avec l’entrée en vigueur de la proposition de loi. Le présent texte propose l'élargissement du scrutin de liste aux communes de moins de 1 000 habitants, afin de favoriser la parité au sein des communes. Si on peut être unanimes sur la finalité des dispositions défendues à travers cette proposition de loi, l’instauration de cette méthode de scrutin pour ces petites communes risque d’aggraver la situation en limitant le nombre de candidats, faute de pouvoir constituer une liste. A un an des élections municipales, rien ne justifie une telle réforme qui pourrait déstabiliser les communes et engendrer des complications là où il n’en existait pas. Dans le contexte actuel, encore plus à une date si rapprochée du scrutin, il ne semble pas possible adopter des telles dispositions alors que le recrutement d’élus dans les communes de moins de 1 000 habitants constituait déjà en soit une difficulté. Cet amendement vise donc à repousser l’entrée en vigueur de la présente proposition de loi organique au 1er janvier 2032, permettant aux communes de pouvoir s’organiser dans ce changement de mode de scrutin."
+ },
+ "seance": "RUANR5L17S2025IDS29297",
+ "compte_rendu": "CRSANR5L17S2025O1N162",
+ "interventions": [
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix les amendements identiques nos 2, 4, 5, 7, 10, 12, 13 et 17."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

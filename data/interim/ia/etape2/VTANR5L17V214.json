@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V214",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Laure Lavalette",
+      "citation": "Les femmes françaises ont 1,7 enfant en moyenne, alors qu’elles désirent en avoir 2,5 : laissez-les donc libre d’avoir le nombre d’enfants dont elles ont envie !",
+      "justification": "Le groupe défend le soutien à la natalité visé par l'article."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe s'exprime sur son amendement relatif à l'immigration de travail sans se prononcer sur l'article."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Antoine Léaument",
+      "citation": "Au lieu de vous concentrer sur l’utérus des femmes, il faudrait faire en sorte d’améliorer la vie des travailleurs !",
+      "justification": "Le groupe s'oppose au financement des retraites par la natalité prévu par l'article."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Sandrine Runel",
+      "citation": "Les femmes ne sont pas la variable d’ajustement du financement des retraites.",
+      "justification": "Le groupe s'oppose au financement des retraites par la natalité prévu par l'article."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Fabien Di Filippo",
+      "citation": "Politique nataliste, natalité, maternité : ce ne sont pas des gros mots !",
+      "justification": "Le groupe défend une politique nataliste en lien avec le financement des retraites."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Clémentine Autain",
+      "citation": "Votre projet est sexiste ; il oblige les femmes à s’enfermer dans la maternité.",
+      "justification": "Le groupe s'oppose à l'approche nataliste du texte."
+    },
+    "DEM": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    }
+  }
+}

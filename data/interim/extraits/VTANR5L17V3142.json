@@ -1,0 +1,101 @@
+{
+ "uid": "VTANR5L17V3142",
+ "titre": "l'amendement n° 1334 de M. Castellani à l'article 4 (examen prioritaire) du projet de loi de finances pour 2026 (première lecture).",
+ "type": "amendement",
+ "date": "2025-10-27",
+ "dossier": "DLR5L17N52428",
+ "dossier_titre": "Projet de loi de finances pour 2026",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "contre",
+  "EPR": "contre",
+  "LFI": "pour",
+  "SOC": "pour",
+  "DR": "contre",
+  "ECOS": "pour",
+  "DEM": "contre",
+  "HOR": "contre",
+  "LIOT": "pour",
+  "GDR": "pour",
+  "UDR": "contre"
+ },
+ "voix": {
+  "RN": {
+   "pour": 0,
+   "contre": 93,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 0,
+   "contre": 47,
+   "abstention": 1
+  },
+  "LFI": {
+   "pour": 56,
+   "contre": 0,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 56,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 0,
+   "contre": 25,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 33,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 20,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 18,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 8,
+   "contre": 1,
+   "abstention": 1
+  },
+  "GDR": {
+   "pour": 9,
+   "contre": 0,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 0,
+   "contre": 7,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901B1906P1D1N001334",
+  "dossier": "DLR5L17N52428",
+  "texte": "PRJLANR5L17B1906",
+  "division": "ARTICLE 4",
+  "auteur": "M. Castellani,  M. Bataille, M. de Courson, M. Bruneau, M. Castiglione, M. Colombani, Mme de Pélichy, M. Favennec-Bécot, M. Habib, M. Huwart, M. Lenormand, M. Mathiasin, M. Molac, M. Naegelen, Mme Sanquer, M. Serva, M. Taupiac, M. Viry, M. Warsmann et Mme Youssouffa",
+  "auteur_groupe": "LIOT",
+  "auteur_type": "Député",
+  "dispositif": "I. – Supprimer l'alinéa 5. II. – En conséquence, supprimer l'alinéa 8.",
+  "expose": "Le groupe LIOT soutient la prorogation de la contribution exceptionnelle sur les bénéfices des grandes entreprises en 2026. Conscient des efforts budgétaires à mener, le présent amendement supprime l’abaissement des taux prévus par l’article."
+ },
+ "seance": "RUANR5L17S2026IDS29866",
+ "compte_rendu": "CRSANR5L17S2026O1N015",
+ "interventions": [
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 1334."
+  }
+ ]
+}
