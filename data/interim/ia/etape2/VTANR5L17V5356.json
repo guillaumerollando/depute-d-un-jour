@@ -1,0 +1,48 @@
+{
+  "uid": "VTANR5L17V5356",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Vincent Caure",
+      "citation": "Le texte comporte selon nous des dispositions trop détaillées. Nous proposons de les supprimer et de renvoyer leur détermination à un décret.",
+      "justification": "Le groupe défend le renvoi des modalités de protection à un décret."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime que par des interjections et un rappel au règlement sans rapport explicite avec le contenu de l'amendement."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Pouria Amirshahi",
+      "citation": "Votre amendement viderait notre texte de sa substance, puisqu’il renverrait à l’exécutif des choix qui relèvent du législateur.",
+      "justification": "Le groupe s'oppose à l'amendement parce qu'il renverrait au pouvoir réglementaire des choix qu'il estime relever de la loi."
+    },
+    "HOR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    }
+  }
+}

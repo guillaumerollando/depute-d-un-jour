@@ -1,0 +1,11 @@
+{
+ "uid": "VTANR5L17V2272",
+ "consigne": "etape3_verification v2",
+ "verdict": "corrige",
+ "problemes": [
+  "Le texte adopté ajoute en séance un financement (article 2, II) : l'intéressement et la participation sont soumis aux cotisations au-delà de deux smic par an et des taux réduits du forfait social sont supprimés ; la carte ne mentionne que la compensation par la taxe sur le tabac."
+ ],
+ "corrections": {
+  "ce_que_ca_change": "Les familles avec un seul enfant à charge recevraient les allocations familiales, aujourd'hui versées à partir du deuxième enfant. Pour financer la mesure, l'intéressement et la participation versés aux salariés seraient soumis aux cotisations sociales au-delà de deux smic par an, et des taux réduits d'une contribution payée par les employeurs sur ces sommes seraient supprimés."
+ }
+}

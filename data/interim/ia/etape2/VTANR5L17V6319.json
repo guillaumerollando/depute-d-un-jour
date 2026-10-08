@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V6319",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe critique le texte comme insuffisant et annonce un vote en conscience sans énoncer la raison de son vote pour."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Daniel Labaronne",
+      "citation": "Il s’agit d’un texte équilibré, consolidé juridiquement et surtout pleinement opérationnel.",
+      "justification": "Le groupe déclare voter le texte qu'il présente comme efficace contre la fraude organisée."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Louis Boyard",
+      "citation": "l’Assemblée nationale discutait des moyens les plus tordus pour s’en prendre à des gens qui vivent avec 400 à 600 euros par mois",
+      "justification": "Le groupe s'oppose au texte qu'il présente comme dirigé contre les allocataires."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Sandrine Runel",
+      "citation": "il demeure impuissant face à la fraude fiscale et même dangereux pour les libertés fondamentales.",
+      "justification": "Le groupe déclare voter contre en raison de la place donnée au contrôle des allocataires et de mesures qu'il juge contraires aux libertés."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Thibault Bazin",
+      "citation": "Tous ces articles vont dans le bon sens, celui d’une lutte plus efficace contre les fraudes sociales et fiscales.",
+      "justification": "Le groupe déclare soutenir le texte qu'il juge utile à la lutte contre les fraudes."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Christine Arrighi",
+      "citation": "Ce texte dit de compromis ne cible pas les fraudeurs ; il cible les plus modestes.",
+      "justification": "Le groupe déclare voter contre en raison des mesures de contrôle et de suspension visant les allocataires."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Cyrille Isaac-Sibille",
+      "citation": "L’Assemblée nationale et le Sénat sont parvenus à un équilibre qui protège la solidarité nationale contre ceux qui la détournent et s’organisent pour exploiter ses failles au détriment de ceux qui en bénéficient légitimement.",
+      "justification": "Le groupe déclare voter le texte qu'il juge équilibré dans la lutte contre les fraudes."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Antoine Valentin",
+      "citation": "Ce texte tente d’y remédier en décloisonnant les bases de données, renforçant les sanctions, étendant les pouvoirs de contrôle ; mais il n’arrive qu’après neuf ans de macronisme et va trop timidement dans le bon sens.",
+      "justification": "Le groupe déclare voter le texte qu'il juge nécessaire, tout en le jugeant insuffisant."
+    }
+  }
+}

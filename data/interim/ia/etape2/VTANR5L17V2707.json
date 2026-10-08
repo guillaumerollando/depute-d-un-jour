@@ -1,0 +1,62 @@
+{
+  "uid": "VTANR5L17V2707",
+  "consigne": "etape2_ambiguite v2",
+  "groupes": {
+    "RN": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Les interventions du groupe portent sur un incident de séance et ne se prononcent ni sur l'amendement ni sur le texte."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Prisca Thevenot",
+      "citation": "Nous voterons cet amendement de réécriture",
+      "justification": "Le groupe déclare voter l'amendement pour qualifier le texte et vote pour."
+    },
+    "LFI": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Gabrielle Cathala",
+      "citation": "Je voterai cet amendement. Nous l’avons dit lors de la discussion générale, il s’agit d’une disposition d’exception, pensée pour ne s’appliquer qu’à Mme Le Pen.",
+      "justification": "Le groupe qualifie le texte de disposition d'exception et vote pour l'amendement."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Boris Vallaud",
+      "citation": "Cette loi à laquelle nous nous opposerons, donnons-lui un nom, puisque vous feignez l’ignorer : c’est la loi Le Pen.",
+      "justification": "Le groupe s'oppose au texte et propose de le nommer, et vote pour l'amendement qui le qualifie."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Emmanuel Duplessy",
+      "citation": "Nous souhaitons dénoncer l’instauration d’une justice de classe.",
+      "justification": "Le groupe, auteur de l'amendement, qualifie le texte de justice de classe et vote pour."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Philippe Vigier",
+      "citation": "Nous croyons à l’universalité du droit, nous refusons les régimes d’exception, nous respectons l’autorité judiciaire et l’État de droit.",
+      "justification": "Le groupe refuse un régime d'exécution différencié pour les élus et vote pour l'amendement qui le dénonce."
+    },
+    "HOR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe s'exprime sur le texte mais ne dit rien de l'amendement ni de la raison de son vote sur celui-ci."
+    },
+    "UDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Charles Alloncle",
+      "citation": "je vous invite à voter pour ce texte parce qu’il protège le droit à l’éligibilité, garantit le droit au recours et préserve la présomption d’innocence.",
+      "justification": "Le groupe défend le texte comme protecteur du droit à l'éligibilité et vote contre l'amendement qui le qualifie de justice de classe."
+    }
+  }
+}

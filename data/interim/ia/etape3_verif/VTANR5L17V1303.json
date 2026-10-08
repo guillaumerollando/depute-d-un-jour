@@ -1,0 +1,12 @@
+{
+  "uid": "VTANR5L17V1303",
+  "consigne": "etape3_verification v2",
+  "verdict": "corrige",
+  "problemes": [
+    "La carte omet la parité femmes-hommes des listes, objet central du texte (intitulé officiel « … et la parité », renvoi de l'article L. 255-2 aux règles de candidature des communes de 1 000 habitants et plus, débat sur le « scrutin de liste paritaire »)."
+  ],
+  "corrections": {
+    "titre": "Élire sur des listes paritaires les conseils des communes de moins de 1 000 habitants",
+    "ce_que_ca_change": "Dans les communes de moins de 1 000 habitants, les conseillers municipaux seraient élus sur des listes respectant la parité femmes-hommes, comme ailleurs, sans pouvoir rayer ou ajouter des noms sur le bulletin. Une liste pourrait compter jusqu'à deux candidats de moins que le nombre de sièges. Les adjoints au maire seraient élus selon les mêmes règles dans toutes les communes."
+  }
+}

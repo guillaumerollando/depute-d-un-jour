@@ -1,0 +1,265 @@
+{
+ "uid": "VTANR5L17V1262",
+ "titre": "l'ensemble de la proposition de loi visant à faire exécuter les peines d’emprisonnement ferme (première lecture).",
+ "type": "ensemble",
+ "date": "2025-04-03",
+ "dossier": "DLR5L17N50631",
+ "dossier_titre": "Faire exécuter les peines d'emprisonnement ferme",
+ "sort": "adopté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "pour",
+  "LFI": "contre",
+  "SOC": "contre",
+  "DR": "pour",
+  "ECOS": "contre",
+  "DEM": "pour",
+  "HOR": "pour",
+  "GDR": "contre",
+  "UDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 14,
+   "contre": 0,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 4,
+   "contre": 1,
+   "abstention": 2
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 22,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 0,
+   "contre": 8,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 4,
+   "contre": 0,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 7,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 6,
+   "contre": 0,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 29,
+   "contre": 0,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 2,
+   "contre": 0,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 0,
+   "contre": 3,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 4,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": null,
+ "seance": "RUANR5L17S2025IDS29265",
+ "compte_rendu": "CRSANR5L17S2025O1N160",
+ "interventions": [
+  {
+   "orateur": "Mme Naïma Moutchou",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "Les magistrats déplorent avec nous la surpopulation carcérale, ils sont parfaitement au fait de la situation. La vraie difficulté n’est pas la décision prise par le juge d’incarcérer : il y a à peu près autant de détenus aujourd’hui qu’il y a quelques années. Le problème est qu’il y a moins de places en moyenne en France que dans les autres pays. Voilà pourquoi nous ne sommes pas favorables à la régulation carcérale, mais plutôt à la construction de places de prison supplémentaires pour être au moins à la hauteur de nos voisins européens.Nous souhaitons travailler sur la question fondamentale des conditions de dignité de détention. L’objectif du texte est ainsi d’incarcérer beaucoup moins longtemps et beaucoup plus vite pour vider les prisons – d’autres pays l’ont fait et ont obtenu des résultats. En France, depuis des années, le problème est non l’explosion du nombre de détenus, mais le fait qu’on incarcère beaucoup plus longtemps et très tardivement. Voilà ce qui a causé en grande partie la surpopulation carcérale."
+  },
+  {
+   "orateur": "M. Loïc Kervran",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Cet amendement vise à rétablir l’article 3, supprimé par la commission, mais dans une rédaction légèrement différente. Dans sa version initiale, l’article abrogeait purement et simplement l’article 464-2 du code de procédure pénale. Après discussion avec des magistrats et des députés du groupe Ensemble pour la République, je propose de l’adapter aux dispositions prévues par les articles 1er et 2 précédemment adoptés.L’amendement rehausse d’un à deux ans d’emprisonnement ferme le seuil à partir duquel l’aménagement est envisagé. Par ailleurs, il supprime l’interdiction de décerner un mandat de dépôt différé pour les peines d’emprisonnement inférieures à six mois. L’objectif est de renforcer le caractère moins désocialisant des très courtes peines en permettant au juge de disposer à l’audience d’un autre outil que le simple mandat de dépôt. Ce dernier, en empêchant la personne condamnée de se préparer correctement faute de temps, peut grandement perturber sa vie personnelle."
+  },
+  {
+   "orateur": "M. Laurent Mazaury",
+   "qualite": null,
+   "groupe": "LIOT",
+   "president_de_seance": false,
+   "texte": "Je reviens sur le débat d’ordre général où s’opposent, d’un côté, ceux qui cherchent à vider les prisons grâce à un système d’écrêtage et, de l’autre, ceux qui insistent sur l’origine des détenus. Je considère, pour ma part, que nous avons surtout besoin de 20 000 places de prison supplémentaires : il faut donc les créer, en construisant des prisons et en nous donnant un calendrier."
+  },
+  {
+   "orateur": "M. Laurent Mazaury",
+   "qualite": null,
+   "groupe": "LIOT",
+   "president_de_seance": false,
+   "texte": "…il y a des matelas par terre dans toutes les cellules ! Plutôt que de modifier la loi, nous devons construire davantage de places de prison. Il en va de même pour les centres éducatifs fermés (CEF), dont on ne parle jamais. Est-il normal qu’en banlieue parisienne, nous comptions en moyenne un CEF de douze places pour trois départements ?"
+  },
+  {
+   "orateur": "M. Hervé Saulignac",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Nous sommes en train de renverser l’idée, qui prévaut depuis plusieurs années, selon laquelle sanctionner ne sert à rien si nous sommes incapables de prévenir la récidive. En l’occurrence, vous faites de la sanction la priorité tandis que l’accompagnement, la réinsertion et la prévention de la récidive pourraient devenir secondaires. C’est très grave ! Notre collègue du groupe Écologiste et social a raison d’insister sur ce point. Nous voterons son amendement avec conviction."
+  },
+  {
+   "orateur": "M. Loïc Kervran",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Douze mois est un délai trop court pour mener une évaluation, en particulier lorsqu’elle porte sur la récidive. Cependant, je suis d’accord pour dire que cette proposition de loi doit s’accompagner de l’étude de ses effets, notamment sur la surpopulation carcérale, comme le ministre l’a rappelé. C’est pourquoi je vous propose de porter le délai de remise du rapport à vingt-quatre mois afin de pouvoir mesurer correctement l’effet du texte sur les deux enjeux que sont la récidive et la surpopulation carcérale."
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Monsieur Coulomme, nous ne sommes pas en désaccord s’agissant des solutions alternatives à la prison : le placement à domicile, sous bracelet électronique, constitue une peine intéressante ; il en va de même du placement à l’extérieur, qui a prouvé son efficacité pour certains profils de détenus, même si l’on y a encore peu recours. Tous les placements – y compris sous surveillance électronique – et les modes de détention doivent être envisagés pour remédier à la surpopulation carcérale, qui concerne 20 000 personnes en France, dont 4 000 dorment sur un matelas.Cependant, dans les Bouches-du-Rhône, il faut compter entre six et neuf mois d’attente – parfois un an – pour poser un bracelet électronique. Il ne s’agit donc pas de choisir une solution en particulier pour remplacer la détention classique, mais d’augmenter, indépendamment de nos préférences idéologiques, les possibilités dont le juge d’application des peines et l’administration pénitentiaire peuvent disposer.S’ajoute à cela une seconde interrogation : doit-on différencier les lieux de détention en fonction de la personnalité des détenus ou en fonction de leur condamnation ?Pour le dire vite, le monde carcéral se divise aujourd’hui en deux. D’une part, les personnes en détention provisoire ou condamnées à moins de deux ans de prison sont incarcérées en maisons d’arrêt. Celles-ci présentent des taux d’occupation moyens de 130 % à 140 % – parfois 180 %, 200 % ou 230 % dans certains territoires ultramarins… (M. Jean-François Coulomme et Mme Elsa Faucillon s’exclament.) Ces taux plus élevés peuvent effectivement concerner quelques grands établissements en Île-de-France, mais, en moyenne, les taux d’occupation y sont de 130 % à 140 %.D’autre part, les prisons pour peine – maisons centrales et centres de détention –, qui accueillent les autres détenus, connaissent des taux d’occupation inférieurs à 100 %. (M. Jean-François Coulomme et Mme Elsa Faucillon s’exclament de nouveau.) Le centre pénitentiaire de Vendin-le-Vieil est occupé à 70 % ; celui de Condé-sur-Sarthe à 65 %.Quant aux centres de semi-liberté, qui disposent de 1 600 places, leur taux d’occupation moyen se situe autour de 60 %, même s’il dépasse les 100 % en Île-de-France, notamment du fait des tensions sur le marché du travail et des difficultés d’accès aux transports en commun.Quoi qu’il en soit, la question fondamentale qui se pose et que soulève la proposition de loi très intéressante défendue par M. Kervran est la suivante : doit-on différencier les lieux de détention selon la personnalité des détenus ? Ma réponse est résolument positive, à rebours de ce qu’ont fait l’administration pénitentiaire et mes prédécesseurs depuis soixante ans, voire plus d’un siècle. Nous avons pris l’habitude de distinguer les détenus selon le statut qu’ils ont devant la justice : détention provisoire, condamnation à une peine inférieure à deux ans, condamnation à une peine supérieure à deux ans. Je souhaite au contraire, et je crois que ma position est partagée par M. Kervran et une partie de cette assemblée, distinguer les détenus selon leur dangerosité pour la société et la probabilité de leur réinsertion.C’est ce que nous avons fait dans le cadre de la proposition de loi visant à sortir la France du piège du narcotrafic, adoptée à une large majorité par l’Assemblée nationale – je salue le vote favorable du groupe socialiste et l’abstention du groupe écologiste. Nous y différencions les détenus selon leur dangerosité, les plus dangereux étant placés dans des prisons de haute sécurité, avec un régime carcéral particulier. Les Britanniques catégorisent ainsi les détenus en trois catégories : les détenus dangereux sont classés dans la catégorie A ; les détenus de catégories B sont incarcérés dans des établissements différents ; enfin, les détenus de catégorie C sont envoyés dans de petites prisons.Je vais lancer un plan pour construire, dans le cadre d’un premier appel d’offres, plusieurs petites prisons à taille humaine, qui compteront 2 000 à 2 500 places au total et n’auront ni mirador ni barbelé. J’espère que nous pourrons en disposer d’ici la fin du quinquennat ou de l’année 2027. Ce seront des lieux de détention, surveillés, mais qui n’auront rien à voir avec les maisons d’arrêt que nous connaissons."
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Oui, en effet, il s’inscrit dans ce plan lancé par mes prédécesseurs.Monsieur Hetzel, ce n’est pas mon habitude de critiquer les fonctionnaires placés sous mon autorité, mais je comprends votre interrogation. Toutefois, le terme de procrastination que vous avez employé me semble un peu dur à l’égard de fonctionnaires soumis à de nombreuses contraintes. L’Apij rencontre plusieurs difficultés. Premièrement, les terrains ne sont pas toujours libérés par les élus ou par les administrations concernées. Deuxièmement, dans le contexte de tension budgétaire qui est le nôtre – alimenté par la guerre en Ukraine, l’inflation et la motion de censure qui a fait tomber le gouvernement de Michel Barnier –, Bercy, qui siège au conseil d’administration de l’Apij, a joué son rôle et limité les investissements. (M. Paul Christophe s’exclame.)Je ne crois pas, monsieur Paul Christophe, m’être beaucoup exprimé sur ce texte. Une proposition de loi aussi intéressante mérite que je réponde à certaines questions. C’est mon rôle en tant que ministre ; je prends ce texte au sérieux !Je reviens à la question de M. Hetzel, que je comprends : en France, nous mettons sept ans pour construire une prison classique, pour un coût moyen de 300 millions d’euros. Là réside le problème : le cahier des charges est trop compliqué car nous cherchons à construire les mêmes maisons d’arrêt partout. Je souhaite inverser cette logique et aider l’Apij à livrer les places de prison promises par le président de la République et par le Parlement – ce qui n’empêche pas une certaine mise en tension de l’Agence par le ministre."
+  },
+  {
+   "orateur": "Mme Anne Le Hénanff (HOR)",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "Tout au long de cet après-midi, nous avons eu le temps d’évoquer la politique pénale française menée depuis une dizaine d’années. Marquée par la volonté de limiter le recours à l’incarcération pour les courtes peines, elle n’a pas porté ses fruits. Non seulement, comme cela vient d’être dit, les conditions de détention ne sont pas à la hauteur de notre pays, mais les mesures alternatives n’ont fait baisser ni le taux de récidive ni celui de réitération.Avec cette politique pénale, la liberté des magistrats a été restreinte ; avec cette politique pénale, certaines victimes ont développé un sentiment d’incompréhension, voire d’injustice ; avec cette politique pénale, nos concitoyens perçoivent trop souvent la justice comme inefficace. La certitude de la peine – ou, pour reprendre l’expression de Cesare Beccaria, son « infaillibilité » – a été remise en cause.Voilà le constat honnête et lucide dressé par la proposition de loi de notre collègue Loïc Kervran. Ce texte constitue un nécessaire premier pas pour rendre de la liberté aux magistrats et garantir l’effectivité des peines prononcées. Le groupe Horizons & indépendants votera évidemment en sa faveur, avec conviction. (Applaudissements sur les bancs du groupe HOR.)"
+  },
+  {
+   "orateur": "Mme Elsa Faucillon (GDR)",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Je veux d’abord redire que, pour nous, le texte témoigne d’une forme de déni du contexte actuel de surpopulation carcérale dans les maisons d’arrêt, ces établissements où seraient effectuées les courtes peines qu’il entend multiplier. Ce contexte nuit aux possibilités de réinsertion comme aux personnels pénitentiaires, ainsi que plusieurs de nos collègues l’ont dit.Chaque fois que je visite une maison d’arrêt, les agents, et plus particulièrement les surveillants, me disent qu’ils veulent pouvoir faire leur travail. Or celui-ci ne consiste pas seulement à fermer ou à ouvrir des portes. Ils veulent pouvoir travailler avec les détenus pour leur faire accepter leur peine et tisser avec eux un lien humain, très important pour la préparation de la sortie et pour la réinsertion.Alors que nombre de pays cherchent à mettre en adéquation valeurs démocratiques et conditions de détention, il est terrible de constater, monsieur le rapporteur, que votre texte renoue non avec la logique du tout-répressif, mais avec celle du tout-carcéral, dont ces mêmes pays tendent à sortir. Vous avez beau dire que vos mesures ne feraient que peu augmenter le nombre de détenus sur une année, vous omettez de souligner qu’elles entraîneraient de nombreuses entrées en détention supplémentaires. Les agents pénitentiaires nous alertent aussi sur ce turnover incessant, notamment le vendredi soir après les comparutions immédiates. Devoir en permanence gérer des primo-arrivants est destructeur pour leurs conditions de travail.Un aménagement de peine n’est pas uniquement une faveur faite à celui ou à celle qui se comporte bien en prison. C’est un levier pour mieux sanctionner, pour mieux accompagner un détenu et, au bout du compte, pour mieux prévenir la récidive, à condition qu’il soit pensé et individualisé, à condition aussi qu’il tienne compte des besoins et des risques. Le recours à cette mesure nécessite des agents de probation et d’insertion, mais aussi un changement de culture et de logique, y compris de la part des magistrats.Un tel changement passe par l’affirmation d’un courage politique que les milieux judiciaire et pénitentiaire appellent de leurs vœux. Les professionnels ne peuvent prendre seuls la responsabilité de prononcer plus d’aménagements de peine. Ils ont besoin d’être soutenus par le législateur et par les politiques face à la pression qu’ils subissent, dont on a vu au cours des derniers jours le tournant dramatique qu’elle peut prendre. Cette pression concourt à l’aggravation des sanctions, parce que tous les magistrats redoutent de se voir accusés dans les médias d’avoir décidé à tort un aménagement de peine. (Applaudissements sur quelques bancs du groupe EcoS.)"
+  },
+  {
+   "orateur": "Mme Elsa Faucillon",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Nous avons besoin non seulement de sortir de la logique du tout-carcéral, mais aussi de crédibiliser les solutions alternatives à la prison, de les renforcer. Pour un détenu, une courte peine est souvent synonyme d’oisiveté. Elle est trop brève pour qu’il puisse suivre une formation, intégrer un parcours de soins ou parfaire la recherche d’un travail. Elle ne permet pas la construction d’un projet de sortie cohérent.La solution passe évidemment par l’augmentation des effectifs de probation et d’insertion. Ce serait un vrai projet politique, loin de l’obsession carcérale dont témoigne votre niche, qui, en plus de ce texte sur les courtes peines, en comporte un sur les peines planchers, que nous examinerons peut-être ce soir."
+  },
+  {
+   "orateur": "M. Éric Ciotti (UDR)",
+   "qualite": null,
+   "groupe": "UDR",
+   "president_de_seance": false,
+   "texte": "Le groupe UDR votera en faveur de cette proposition de loi, comme il soutiendra celle rétablissant les peines planchers. Ces deux textes vont dans le sens d’une meilleure application et d’une meilleure effectivité des peines. Il convient de leur redonner un sens dissuasif et d’en finir avec la quasi-automaticité des aménagements de peine issue, au fil des années, de loi Taubira, de la loi Belloubet et de la loi pénitentiaire de 2009, dont je reconnais qu’elle fut une erreur de notre part.Il y a une immense hypocrisie derrière les aménagements de peine. Il s’est agi d’une forme de régulation de la population carcérale soumettant les sanctions à des contingences matérielles. Nous manquons cruellement de places de prison et, au lieu d’en créer, au lieu de construire les établissements plus légers et adaptés au profil de certains délinquants dont M. le garde des sceaux a parlé, nous avons voulu réguler la population carcérale par des subterfuges. Ce fut une erreur tragique, qui a déconstruit la peine et favorisé la récidive.La proposition de loi participe de l’indispensable correction qu’il convient d’appliquer. Monsieur le garde des sceaux, avec une détermination forte, au moins en paroles, dont nous verrons si elle se traduit dans les actes, vous vous êtes saisi, depuis votre nomination, de la question pénitentiaire – une première depuis de nombreuses années. Cette orientation très pertinente sera utile si vous arrivez au bout de vos projets.J’avais rédigé en 2011 – j’étais député –, à la demande du président Sarkozy, un rapport pour renforcer l’efficacité de l’exécution des peines. On comptait alors 58 000 places de prison pour 65 000 détenus. La loi du 27 mars 2012 de programmation relative à l’exécution des peines, qui fut la conséquence de mon rapport, prévoyait 80 000 places de prison en 2017. Nous sommes en 2025 et il y en a à peine 62 000. Cette déficience correspond aux quinquennats de Hollande et de Macron, durant lesquels il n’y eut aucune volonté de construction.Vous semblez, monsieur le ministre, vous engager dans une autre direction. Si tel est le cas, nous vous soutiendrons. Oui, il faut redonner un sens dissuasif à la peine. Oui, il faut qu’une condamnation ait un sens. Non, il ne faut pas que nous retombions dans une accumulation de condamnations jamais suivies d’effets. Oui, les condamnations à de courtes peines de prison peuvent être utiles et vertueuses. (Applaudissements sur les bancs des groupes UDR et RN.)"
+  },
+  {
+   "orateur": "Mme Sylvie Josserand",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Et savez-vous qui a signé la préface de l’édition du livre de Beccaria qu’on trouve dans toutes les bonnes librairies ? C’est Robert Badinter !Nous voterons bien évidemment pour la proposition de loi. Je pense qu’elle envoie un bon signal – quoiqu’il eût fallu examiner la situation de manière plus globale. Nous avançons à petits pas – mais nous avançons. Je remercie les collègues qui ont contribué au débat. Nous avons procédé à des auditions très fructueuses.La Conférence nationale des procureurs de la République, qui représente donc des magistrats, a déclaré à notre commission que les aménagements de peine n’avaient jamais prouvé leur utilité et qu’ils ne sont en aucun cas un outil contre la récidive."
+  },
+  {
+   "orateur": "Mme Sylvie Josserand",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Vous voulez m’empêcher de parler mais je terminerai ce que j’ai à dire.Il existe un effet de seuil. Comme les magistrats savent qu’ils ne peuvent pas prononcer une peine d’emprisonnement inférieure à un mois, pour être sûrs que le prévenu ira en détention, ils le condamnent à deux mois d’emprisonnement. Du coup, les prisons se remplissent – alors que, normalement, ces personnes auraient dû être condamnées à un mois de prison. L’argument consistant à dire que les prisons se rempliront à cause de ce texte est totalement erroné.Nous voterons en faveur de la proposition de loi. (Applaudissements sur les bancs des groupes RN et UDR.)"
+  },
+  {
+   "orateur": "M. Pierre Cazeneuve (EPR)",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Je serai bref pour ne pas préempter le temps imparti à nos collègues. Je remercie le garde des sceaux, qui a été présent à nos côtés durant toute la journée, ainsi que le rapporteur, pour cette proposition de loi qui a soulevé un débat extrêmement intéressant.Des questions restent néanmoins en suspens. Je réitère les réserves que j’avais exposées et je regrette que nous ne soyons pas parvenus à une rédaction qui permette de ne pas inverser le mouvement d’aménagement de la peine – j’en assume bien évidemment en partie la responsabilité.Pour cette raison, la majorité du groupe Ensemble pour la République s’abstiendra – mais certains voteront pour. Je remercie l’ensemble des collègues pour ce riche débat, qui, je l’espère, annonce une belle soirée. (Applaudissements sur plusieurs bancs du groupe HOR.)"
+  },
+  {
+   "orateur": "M. Jean-François Coulomme (LFI-NFP)",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Cette niche du groupe Horizons répond à une vision de la justice exclusivement répressive. Pourtant, aucune étude ni recherche sur le milieu carcéral n’ont démontré que la sévérité et la prison étaient des moyens efficaces de régulation des comportements déviants (Mme Marie Mesmeur applaudit) ; à l’inverse, tout le monde – professionnels, associations, observateurs – sait que l’emprisonnement favorise la récidive."
+  },
+  {
+   "orateur": "M. Jean-François Coulomme",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "L’incarcération courte est criminogène ; elle est pire que l’incarcération de moyenne ou longue durée. La prison est un univers qui reste très défavorable à la réinsertion, du fait du manque de moyens et de la faiblesse des dispositifs sociaux. L’emprisonnement augmente les risques de récidive parce qu’il multiplie les facteurs de délinquance recensés. Les difficultés d’insertion socioprofessionnelle sont accrues par un séjour en prison.On en revient là à la question des effets des peines courtes sur des personnes qui, alors qu’elles étaient bien insérées dans la société, ont pu à un moment dévier, avoir un moment de faiblesse. Ce que vous leur promettez, ce sont la perte de leur emploi et un accès plus difficile à un nouvel emploi du fait du trou dans leur curriculum vitæ, l’interruption du versement des minima sociaux et la perte de leur logement. Ne le niez pas : je connais, dans ma ville de Chambéry, une personne dont le logement social a été remis en question parce qu’elle s’était rendue coupable d’un petit délit. À La France insoumise, nous proposons de dépasser l’horizon carcéral et d’apporter une réponse pénale tournée vers la réinsertion et la réparation.Vous n’avez pas parlé non plus de la justice restaurative (Applaudissements sur plusieurs bancs du groupe LFI-NFP), qui permet de faire prendre conscience à leurs auteurs de la gravité des délits qu’ils ont commis, en les confrontant à des victimes – pas nécessairement les victimes de l’acte qu’ils ont commis, mais des personnes capables de témoigner de la souffrance qu’elles ont ressenti face aux actes commis à leur détriment. Cette question aurait pu faire à elle seule l’objet d’une proposition de loi.Nous voulons supprimer le référentiel carcéral pour de nombreux délits, en privilégiant une peine de probation en milieu ouvert. Nous vous avons parlé de ces milieux ouverts. Les détenus qui purgent de longues peines, plutôt que d’être reversés dans le monde libre directement depuis la prison, sans sas de décompression, passent par de tels centres – il y en a quelques-uns en France, essentiellement des fermes. Cela permet aux détenus de se réapproprier leur utilité sociale et collective. Eh bien, il n’en a pas été du tout question dans cette proposition de loi d’opinion. C’est bien dommage.Il faudrait ensuite réguler l’incarcération, de manière à garantir un taux d’occupation inférieur à 100 %. Certains pays européens le font déjà, avec de très bons résultats. Cela non plus, vous ne l’avez pas mis en avant.Nous avons parlé du taux de surpopulation carcérale. M. le ministre a insisté sur le fait qu’on observait dans les territoires ultramarins des taux dépassant 200 %. Or il suffit de googliser pour voir qu’à Chambéry, on a atteint il y a quelques semaines un taux de presque 240 %. Je ne sais pas si vous vous représentez ce que cela signifie : des cellules de 9 à 10 mètres carrés dans lesquelles vivent quatre détenus, avec deux matelas au sol. Quelle honte ! (Applaudissements sur les bancs du groupe LFI-NFP.) Cette situation a été dénoncée par la Cour européenne des droits de l’homme – celle que certains ici veulent saisir pour se plaindre. Ils feraient mieux d’écouter les discours que la Cour dispense au sujet des conditions de détention en France ! (Mêmes mouvements.)Nous voterons contre cette proposition de loi scélérate. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+  },
+  {
+   "orateur": "M. Hervé Saulignac (SOC)",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Je n’abuserai pas de ce temps supplémentaire, monsieur le président. (« Bravo ! » sur les bancs du groupe HOR.)Pour commencer, permettez-moi de rendre hommage aux agents de l’administration pénitentiaire, dont on a trop peu parlé aujourd’hui et qui font un travail difficile, méconnu et insuffisamment valorisé. (Applaudissements sur les bancs des groupes SOC, EcoS et GDR.) Je pense aussi au personnel des Spip, dont on a très peu parlé ; ils attendaient un autre débat que celui-ci, un débat qui aurait porté plutôt sur les moyens, qui leur font défaut. (Mêmes mouvements.)Je voudrais aussi, monsieur le ministre de la justice, saluer les forces de police et de gendarmerie. Vous avez laissé entendre tout à l’heure que j’avais tenu des propos désobligeants à leur endroit. C’était loin d’être le cas – je vous invite à le vérifier. Les forces de police et de gendarmerie sont très attentives à la question de l’exécution des peines ; elles savent que ces peines peuvent être aménagées et que cet aménagement a des vertus.À l’issue de ce débat, une évidence apparaît. Il y a, d’un côté, ceux qui pensent qu’il faut punir, et seulement punir, qui jugent que la prison est une punition utile et qui ont la réinsertion honteuse ; et, de l’autre côté, ceux qui, comme nous, estiment qu’une sanction sans réinsertion est vouée à l’échec.Si vous cherchez une raison de ne pas voter ce texte, je vous invite à relire ce que le ministre de la justice a déclaré au moment de sa présentation. Il a salué l’esprit de la proposition de loi et affirmé qu’il faudrait un jour réussir à faire exécuter de courtes peines de prison ; surtout, il a décrit une situation carcérale « extrêmement tendue », sous-entendant que, quand il n’y avait pas de place, on ne pouvait pas accueillir de nouveaux condamnés dans les prisons. Il a évoqué des établissements inadaptés, souligné la nécessité d’en créer de nouveaux, noté que les personnels n’étaient pas en nombre suffisant pour accompagner et réinsérer les condamnés. Il a laissé entendre que l’efficacité des courtes peines d’emprisonnement n’était pas avérée – en se fondant notamment sur l’exemple des Pays-Bas. Il a même ajouté que « les courtes peines, lorsqu’elles sont mal organisées, peuvent désocialiser encore plus les prévenus ». Ce texte, à l’évidence, n’organise pas les courtes peines ; il se contente de les prévoir, sans les encadrer.Vous aviez surtout indiqué, monsieur le ministre, avoir « engagé un travail de réflexion sur une refondation – peut-être même une révolution – du droit de l’exécution des peines ». En effet, vous savez sans doute mieux que quiconque qu’une question comme celle de la récidive ne peut être réglée au débotté, à la faveur d’une petite PPL – pardonnez-moi cette expression, monsieur le rapporteur – et qu’il nous faut « une réforme d’ensemble, cohérente et équilibrée ». C’est ce que vous avez affirmé, et je suis parfaitement d’accord avec vous.Je terminerai en reprenant la formule de Cesare Beccaria, que vous avez cité : ce n’est pas la rigueur de la peine qui compte, mais sa certitude. Eh bien, ce texte n’est qu’incertitude et illusion de rigueur. Il constitue un recul et une dégradation de notre politique pénale.Le ministre s’en remet à notre sagesse ; la sagesse nous invite à ne surtout pas voter ce texte ! (Applaudissements sur les bancs du groupe SOC et sur plusieurs bancs des groupes LFI-NFP, EcoS et GDR.)"
+  },
+  {
+   "orateur": "M. Nicolas Ray",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Il s’agit en outre d’un texte équilibré, bien éloigné des caricatures qui en ont été faites sur certains bancs, puisqu’il prévoit également des aménagements de peine, en fonction de critères précis et moyennant une motivation spécifique de la part du juge.Le groupe de la Droite républicaine tient à rappeler que la prison n’est pas la cause de la récidive. Bien au contraire, la récidive vient de l’absence de sanction ferme, de l’impunité et du laxisme, de sorte que la peine d’incarcération doit rester au cœur de notre système pénal, du moins quand elle est justifiée.Nous regrettons que nos amendements visant à exclure les récidivistes du bénéfice des aménagements de peine n’aient pas été adoptés. Il n’est pas acceptable, à nos yeux, de leur octroyer de nouveaux sursis.Se pose finalement la question de l’applicabilité de cette proposition de loi, eu égard à ce que certains appellent la surpopulation carcérale. Je parlerai plutôt de sous-capacité carcérale, puisque nous souffrons d’un manque criant de places de prison, en raison du retard du programme immobilier, sur lequel mon groupe alerte depuis des années. Les promesses du président de la République ne seront pas tenues en 2027, c’est une déception pour les Français."
+  },
+  {
+   "orateur": "M. Nicolas Ray",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "La proposition de loi marque une étape nécessaire, mais il faudra la compléter, l’amplifier et poursuivre dans cette direction afin de renforcer les sanctions pénales, de rendre à la peine son sens dissuasif, de restaurer l’autorité dans notre pays, de sanctionner dès la première infraction et, tout simplement, de protéger les Français. (Applaudissements sur plusieurs bancs du groupe HOR.)"
+  },
+  {
+   "orateur": "Mme Léa Balage El Mariky (EcoS)",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Je voudrais revenir sur des propos particulièrement graves entendus au cours de notre débat, à commencer par l’idée qu’aménager une peine reviendrait à ne pas la faire exécuter. C’est un contresens et même une fausse information – encore une – propagée sur certains bancs, notamment ceux du Rassemblement national,…"
+  },
+  {
+   "orateur": "Mme Léa Balage El Mariky",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "…par des députés qui critiquent les peines, même aménagées, quand elles s’appliquent à des proches, voire à des complices.Un deuxième élément est excessivement grave : comme si un élan sadique vous emportait, seul l’emprisonnement trouve grâce à vos yeux, un emprisonnement inhumain, indigne, qui ne favorise pas la réinsertion et ne permettra pas de lutter contre la récidive. En vérité, vous n’avez que faire de la sécurité collective des Françaises et des Français.Voilà pour l’ambiance générale et les fausses informations qui ont circulé au cours de la discussion !Cette proposition de loi arrive à la fois trop tôt et trop tard. Elle nous a permis de mener un débat intéressant sur les aménagements de peine et sur la liberté des juges. Vous semblez leur en octroyer davantage, mais en réalité vous mettez un coup de pression supplémentaire aux magistrats, dont les décisions de ne pas incarcérer font déjà l’objet de commentaires incessants dans les médias où l’on ne jure que par la prison, comme s’il s’agissait de la seule condamnation valable pour réhabiliter les personnes, ce qui n’est pas le cas. Elle arrive donc trop tôt, mais peut-être aussi trop tard. En effet, il aurait fallu que nous discutions aussi du respect que nous devons à celles et ceux qui rendent la justice et aux décisions qu’ils prononcent en notre nom, en vertu des lois que nous avons adoptées ici.Pour toutes ces raisons, le groupe Écologiste et social votera contre la proposition de loi. (Applaudissements sur les bancs du groupe EcoS et sur plusieurs bancs des groupes LFI-NFP et SOC.)"
+  },
+  {
+   "orateur": "Mme Léa Balage El Mariky",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Nous n’avons jamais dit ça !"
+  },
+  {
+   "orateur": "Mme Anne Bergantz",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Il promeut au contraire l’individualisation des peines.L’un des dispositifs phares de la proposition de loi est la possibilité des courtes peines de prison. Je rappelle que cette mesure ne vise pas tous les condamnés et qu’elle n’est pas obligatoire. Il s’agit d’une réponse parmi d’autres. C’est pourquoi le groupe Les Démocrates votera le texte. (Applaudissements sur les bancs des groupes Dem et HOR.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’ensemble de la proposition de loi."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

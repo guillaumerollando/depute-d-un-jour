@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V5296",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Alexis Jolly",
+      "citation": "Ce texte n’oppose pas sport et environnement. Il vise à les concilier intelligemment en s’appuyant sur l’existant et sur l’expérience du terrain.",
+      "justification": "Le groupe déclare voter le texte en soutien aux Jeux et à l'économie de la montagne."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Graziella Melchior",
+      "citation": "Les Jeux d’hiver 2030, qui se tiendront dans les Alpes françaises du 1er au 17 février 2030 et du 1er au 10 mars pour les Jeux paralympiques, sont une chance et une grande fierté pour notre pays.",
+      "justification": "Le groupe déclare voter le texte en considérant les Jeux comme une chance pour le pays."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Sandrine Nosbé",
+      "citation": "La commission mixte paritaire, dans laquelle le gouvernement a plus de poids que dans l’hémicycle, n’a fait que confirmer davantage la logique écocidaire et antisociale du projet de loi.",
+      "justification": "Le groupe s'oppose au texte en raison de ses dispositions environnementales, sociales et de surveillance."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Jean-Claude Raux",
+      "citation": "le groupe Écologiste et social votera contre ce texte, contre ces jeux décidés de façon peu démocratique, qui ne seront ni écologiques, ni populaires.",
+      "justification": "Le groupe déclare voter contre le texte en raison des dérogations environnementales, sociales et démocratiques et de son coût."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Géraldine Bannier",
+      "citation": "Cela devrait nous amener tout schuss à valider ce texte dont l’objet est de permettre aux prochaines olympiades de se dérouler en temps et en heure.",
+      "justification": "Le groupe déclare voter le texte pour permettre la tenue des Jeux."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Agnès Firmin Le Bodo",
+      "citation": "Ce texte est le socle sans lequel les Jeux d’hiver des Alpes françaises ne pourraient se tenir dans les conditions que notre pays doit à sa réputation, à ses athlètes et à ses territoires.",
+      "justification": "Le groupe déclare voter le texte qu'il juge nécessaire à la tenue des Jeux."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Joël Bruneau",
+      "citation": "N’en déplaise à certains, c’est une belle occasion pour notre pays que d’organiser ces jeux : une occasion sportive avant tout, mais aussi touristique et économique.",
+      "justification": "Le groupe déclare voter le texte en considérant l'organisation des Jeux comme une occasion pour le pays."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Antoine Valentin",
+      "citation": "Ainsi notre ligne est-elle claire : oui aux Jeux olympiques et paralympiques d’hiver 2030, oui à des infrastructures utiles, durables et pensées pour l’après-Jeux",
+      "justification": "Le groupe déclare voter le texte qu'il juge nécessaire, tout en exprimant des réserves sur certaines dérogations."
+    }
+  }
+}

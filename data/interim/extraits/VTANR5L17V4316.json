@@ -1,0 +1,105 @@
+{
+ "uid": "VTANR5L17V4316",
+ "titre": "l'amendement n° 230 de Mme Mansouri à l'article premier de la proposition de loi visant à la nationalisation d'ArcelorMittal France afin de préserver la souveraineté industrielle de la France (première lecture).",
+ "type": "amendement",
+ "date": "2025-11-27",
+ "dossier": "DLR5L17N52977",
+ "dossier_titre": "Nationalisation d'ArcelorMittal France",
+ "sort": "rejeté",
+ "positions": {
+  "EPR": "contre",
+  "LFI": "contre",
+  "SOC": "contre",
+  "DR": "pour",
+  "ECOS": "contre",
+  "DEM": "contre",
+  "HOR": "contre",
+  "GDR": "contre"
+ },
+ "voix": {
+  "RN": {
+   "pour": 1,
+   "contre": 0,
+   "abstention": 56
+  },
+  "EPR": {
+   "pour": 0,
+   "contre": 16,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 65,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 0,
+   "contre": 18,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 4,
+   "contre": 1,
+   "abstention": 1
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 16,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 6,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 8,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 0,
+   "contre": 0,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 0,
+   "contre": 8,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 3,
+   "contre": 0,
+   "abstention": 3
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC2123P0D1N000230",
+  "dossier": "DLR5L17N52977",
+  "texte": "PIONANR5L17BTC2123",
+  "division": "Article PREMIER",
+  "auteur": "Mme Mansouri",
+  "auteur_groupe": "UDR",
+  "auteur_type": "Député",
+  "dispositif": "À la fin de l’alinéa 1, substituer aux mots : « est nationalisée » les mots : « fait l’objet d’un contrôle renforcé de l’État à hauteur de 20 % de son capital, par la conclusion d’un accord conditionnant toute aide publique au respect d’objectifs de maintien de l’emploi et d’investissement en France ».",
+  "expose": "Le présent amendement propose de remplacer la nationalisation intégrale d’ArcelorMittal par un dispositif plus proportionné, consistant en une prise de participation publique limitée à 20 % du capital. Cette solution permet de renforcer l’influence de l’État sur les orientations stratégiques de l’entreprise sans recourir à une nationalisation coûteuse et lourde de conséquences. La conclusion d’un accord conditionnant l’octroi de toute aide publique à des objectifs précis de maintien de l’emploi et d’investissement en France garantit, de manière ciblée et efficace, la protection des intérêts industriels nationaux. Cet amendement offrent ainsi une alternative équilibrée, responsable et adaptée aux enjeux de souveraineté industrielle."
+ },
+ "seance": "RUANR5L17S2026IDS29978",
+ "compte_rendu": "CRSANR5L17S2026O1N073",
+ "interventions": [
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 230."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

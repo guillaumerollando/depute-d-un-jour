@@ -1,0 +1,76 @@
+{
+ "uid": "VTANR5L17V468",
+ "consigne": "etape2_ambiguite v2",
+ "groupes": {
+  "RN": {
+   "position": "contre",
+   "categorie": "C",
+   "orateur": null,
+   "citation": null,
+   "justification": "Les propos du groupe dans l'extrait ne portent pas sur la raison de son vote."
+  },
+  "EPR": {
+   "position": "pour",
+   "categorie": "A",
+   "orateur": "M. Jean-René Cazeneuve",
+   "citation": "Elle est doublement irrecevable, parce qu’elle réduirait le nombre de cotisants, entraînant une diminution des ressources publiques, d’une part, et parce qu’elle augmenterait le nombre de retraités, ce qui aggraverait la charge publique, d’autre part.",
+   "justification": "Le groupe soutient la suppression en invoquant les effets de la proposition sur les ressources et charges publiques."
+  },
+  "LFI": {
+   "position": "contre",
+   "categorie": "A",
+   "orateur": "M. Jean-Hugues Ratenon",
+   "citation": "Ce texte vise pourtant à en finir avec la souffrance au travail, à allonger la vie des gens, à redonner espoir et dignité à toutes celles et tous ceux qui veulent partir à la retraite dans de meilleures conditions.",
+   "justification": "Le groupe défend le contenu de l'article que l'amendement supprime."
+  },
+  "SOC": {
+   "position": "contre",
+   "categorie": "A",
+   "orateur": "M. Arthur Delaporte",
+   "citation": "L’article 1er n’est pas le monstre financier que vous vous plaisez à décrire.",
+   "justification": "Le groupe défend l'article 1er et conteste l'argument de son coût."
+  },
+  "DR": {
+   "position": "pour",
+   "categorie": "C",
+   "orateur": null,
+   "citation": null,
+   "justification": "Les propos du groupe dans l'extrait ne portent pas sur la raison de son vote."
+  },
+  "ECOS": {
+   "position": "contre",
+   "categorie": "A",
+   "orateur": "M. Hendrik Davi",
+   "citation": "Troisième mensonge : l’abrogation ne serait pas finançable. C’est faux, nous l’avons montré",
+   "justification": "Le groupe défend l'abrogation et soutient qu'elle est finançable."
+  },
+  "DEM": {
+   "position": "pour",
+   "categorie": "A",
+   "orateur": "M. Philippe Vigier",
+   "citation": "Le groupe Les Démocrates souhaite consolider le système par répartition. Or votre texte conduirait à le fracturer.",
+   "justification": "Le groupe soutient la suppression parce qu'il juge que le texte fragiliserait le système par répartition."
+  },
+  "HOR": {
+   "position": "pour",
+   "categorie": "A",
+   "orateur": "M. Sylvain Berrios",
+   "citation": "Nous sommes favorables à la suppression de ce texte, qui constitue une aberration à la fois démographique et économique.",
+   "justification": "Le groupe soutient la suppression pour des raisons démographiques et économiques."
+  },
+  "GDR": {
+   "position": "contre",
+   "categorie": "A",
+   "orateur": "M. Yannick Monnet",
+   "citation": "Comme nous démontrons qu’on peut travailler moins à condition d’augmenter les recettes, la peur vous conduit à l’absurde, jusqu’à pratiquer l’obstruction.",
+   "justification": "Le groupe défend la possibilité de travailler moins en augmentant les recettes, contre la suppression."
+  },
+  "UDR": {
+   "position": "pour",
+   "categorie": "C",
+   "orateur": null,
+   "citation": null,
+   "justification": "Le groupe ne s'exprime pas dans l'extrait."
+  }
+ }
+}

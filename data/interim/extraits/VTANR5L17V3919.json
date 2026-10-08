@@ -1,0 +1,164 @@
+{
+ "uid": "VTANR5L17V3919",
+ "titre": "l'amendement n° 86 de M. Le Coq à l'article 5 et Etat B du projet de loi de finances de fin de gestion pour 2025 (première lecture).",
+ "type": "amendement",
+ "date": "2025-11-18",
+ "dossier": "DLR5L17N53135",
+ "dossier_titre": "Projet de loi de finances de fin de gestion pour 2025",
+ "sort": "adopté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "contre",
+  "LFI": "pour",
+  "SOC": "pour",
+  "DR": "contre",
+  "ECOS": "pour",
+  "DEM": "contre",
+  "HOR": "contre",
+  "LIOT": "contre",
+  "GDR": "pour",
+  "UDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 76,
+   "contre": 0,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 0,
+   "contre": 47,
+   "abstention": 1
+  },
+  "LFI": {
+   "pour": 43,
+   "contre": 0,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 33,
+   "contre": 0,
+   "abstention": 1
+  },
+  "DR": {
+   "pour": 0,
+   "contre": 18,
+   "abstention": 1
+  },
+  "ECOS": {
+   "pour": 18,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 14,
+   "abstention": 3
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 14,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 1,
+   "contre": 5,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 3,
+   "contre": 0,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 8,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901B2068P0D1N000086",
+  "dossier": "DLR5L17N53135",
+  "texte": "PRJLANR5L17B2068",
+  "division": "ETAT B",
+  "auteur": "M. Le Coq,  Mme Abomangoli, M. Alexandre, M. Amard, Mme Amiot, Mme Amrani, M. Arenas, M. Arnault, Mme Belouassa-Cherifi, M. Bernalicis, M. Bex, M. Bilongo, M. Bompard, M. Boumertit, M. Boyard, M. Cadalen, M. Caron, M. Carrière, Mme Cathala, M. Cernon, Mme Chikirou, M. Clouet, M. Coquerel, M. Coulomme, M. Delogu, M. Diouara, Mme Dufour, Mme Erodi, Mme Feld, M. Fernandes, Mme Ferrer, M. Gaillard, Mme Guetté, M. Guiraud, Mme Hamdane, Mme Hignet, M. Kerbrat, M. Lachaud, M. Lahmar, M. Laisney, M. Le Gall, Mme Leboucher, M. Legavre, Mme Legrain, Mme Lejeune, Mme Lepvraud, M. Léaument, Mme Élisa Martin, M. Maudet, Mme Maximi, Mme Mesmeur, Mme Manon Meunier, M. Nilor, Mme Nosbé, Mme Obono, Mme Oziol, Mme Panot, M. Pilato, M. Piquemal, M. Portes, M. Prud'homme, M. Ratenon, M. Saint-Martin, M. Saintoul, Mme Soudais, Mme Stambach-Terrenoir, M. Aurélien Taché, Mme Taurinya, M. Tavel, Mme Trouvé et M. Vannier",
+  "auteur_groupe": "LFI",
+  "auteur_type": "Député",
+  "dispositif": null,
+  "expose": "Par cet amendement, le groupe LFI demande la suppression des annulations de crédits de la mission Outre-mer. Alors que nos compatriotes des Antilles se sont mobilisés contre la vie chère et que la Kanaky-Nouvelle-Calédonie a connu des révoltes historiques contre la politique coloniale d’Emmanuel Macron, la suppression de 50 millions de la mission Outre-mer est une honte et un manquement au devoir de solidarité de la République. Doit-on rappeler que le taux de pauvreté atteint 77 % à Mayotte, 53 % en Guyane et près de 36 % à la Réunion ? Le chômage y est deux fois plus important que dans l’hexagone, touchant plus de 14 % de la population active. Nous nous opposons à ce mépris, de la part du Gouvernement, envers nos compatriotes des collectivités d’outre-mer. Ces crédits pourraient a minima être redéployés pour atténuer la crise de la vie chère dans ces territoires. Dans le détail, nous demandons la suppression des annulations de crédits de : – 18 816 702 € en AE prévue pour le programme Emploi outre-mer de la mission Outre-mer. – 31 239 120 € en AE prévue pour le programme Conditions de vie outre-mer de la mission Outre-mer."
+ },
+ "seance": "RUANR5L17S2026IDS29932",
+ "compte_rendu": "CRSANR5L17S2026O1N058",
+ "interventions": [
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "L’amendement no 86 de M. Aurélien Le Coq est défendu.Quel est l’avis de la commission ?"
+  },
+  {
+   "orateur": "M. Philippe Juvin",
+   "qualite": "rapporteur général",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Défavorable."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis du gouvernement ?"
+  },
+  {
+   "orateur": "Mme Amélie de Montchalin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Défavorable."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Jiovanny William."
+  },
+  {
+   "orateur": "M. Jiovanny William",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Madame la ministre, monsieur le rapporteur général, des explications sont ici nécessaires. Vous connaissez les difficultés conjoncturelles et structurelles des territoires ultramarins, liées à des normes et à des règlements qui empêchent l’initiative. Pourtant, votre cadeau de Noël consiste dans l’annulation de 50 millions d’euros de la mission Outre-mer.Chers collègues, pour certains d’entre vous, vous connaissez les territoires ultramarins ; vous êtes venus chez nous ; vous connaissez aussi nos difficultés. C’est pourquoi, quelle que soit votre place dans cet hémicycle, je vous demande de voter en faveur de cet amendement qui supprime les annulations de crédits de la mission Outre-mer. (Applaudissements sur les bancs du groupe SOC.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme la ministre."
+  },
+  {
+   "orateur": "Mme Amélie de Montchalin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Vous avez raison de nous arrêter dans notre lancée, ce qui va me permettre de clarifier les choses. Dans ce projet de loi de fin de gestion, il y a deux mouvements concernant les crédits de la mission Outre-mer. D’une part, les dispositions instaurées par la loi du 27 mai 2009 pour le développement économique des outre-mer (Lodeom) ont été, en 2025, moins coûteuses que prévu, d’où l’annulation de 50 millions. D’autre part, nous ouvrons 49 millions pour le programme Conditions de vie outre-mer, notamment pour Mayotte, La Réunion et la Nouvelle-Calédonie, du fait des crises.C’est le principe du projet de loi de fin de gestion. Le dispositif Lodeom a coûté un peu moins cher que prévu du fait de la dynamique économique et d’embauches à des salaires supérieurs au plafond de rémunération pris en compte pour bénéficier des exonérations. Nous ajustons le budget, mais nous ne faisons pas d’économies sèches sur les enjeux ultramarins, car nous connaissons les difficultés de ces territoires, notamment de ceux touchés par les crises. Ces crédits sont donc réaffectés. Voilà l’explication que je voulais vous donner sur un sujet qui méritait évidemment une clarification."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 86."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

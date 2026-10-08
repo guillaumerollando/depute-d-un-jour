@@ -1,0 +1,69 @@
+{
+  "uid": "VTANR5L17V853",
+  "consigne": "etape2_ambiguite v2",
+  "groupes": {
+    "RN": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe indique voter contre les amendements de suppression pour pouvoir débattre, sans exprimer de position sur le fond de l'impôt."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Daniel Labaronne",
+      "citation": "Il me semble que le taux progressif sur les revenus du capital est déjà très élevé, conduisant à des taux effectifs très importants.",
+      "justification": "Le groupe estime que la fiscalité du capital est déjà élevée."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Gabrielle Cathala",
+      "citation": "Alors vive l’imposition des plus fortunés, principal outil pour redistribuer les richesses et financer nos services publics !",
+      "justification": "Le groupe déclare soutenir l'imposition des plus fortunés que la suppression écarterait."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Mickaël Bouloux",
+      "citation": "Cette proposition de loi répond à une urgence sociale et économique. Nous soutiendrons la version défendue par Mme la rapporteure.",
+      "justification": "Le groupe déclare soutenir la proposition de loi dont l'amendement supprime l'article unique."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Fabien Di Filippo",
+      "citation": "S’il faut supprimer l’article unique instaurant un nouvel impôt sur le patrimoine, c’est parce que, parmi les pays de l’OCDE, la France détient déjà le record des prélèvements obligatoires.",
+      "justification": "Le groupe demande la suppression en invoquant le niveau des prélèvements obligatoires."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Clémentine Autain",
+      "citation": "Oui, il faut investir dans le bien commun et, pour y parvenir, il faut de la justice fiscale.",
+      "justification": "Le groupe déclare soutenir la justice fiscale portée par le texte."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Jean-Paul Mattei",
+      "citation": "Votre idée est intéressante mais le dispositif ne fonctionne pas. Si un tel texte était adopté, il provoquerait des effets pervers.",
+      "justification": "Le groupe s'oppose au dispositif en raison des effets qu'il lui attribue sur les entreprises."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Nicolas Sansu",
+      "citation": "le groupe de la Gauche démocrate et républicaine soutient pleinement cette initiative et votera le texte sans aucune réserve.",
+      "justification": "Le groupe déclare soutenir le texte dont l'amendement supprime l'article unique."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Olivier Fayssat",
+      "citation": "Nous ne voterons pas cette folie fiscale",
+      "justification": "Le groupe déclare s'opposer à l'impôt proposé."
+    }
+  }
+}

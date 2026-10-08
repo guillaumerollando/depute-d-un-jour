@@ -1,0 +1,13 @@
+{
+  "uid": "VTANR5L17V5363",
+  "consigne": "etape3_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "Le titre parle d'« eau potable » alors que les alinéas 6 et 7 visent la planification de la gestion de la « ressource en eau » en général.",
+    "Le résumé dit que la planification tient compte des projets locaux et des schémas ; le texte dit qu'elle tient compte des projets de territoire, eux-mêmes élaborés dans le respect des schémas existants."
+  ],
+  "corrections": {
+    "titre": "Supprimer l'obligation de planifier la gestion et la préservation de la ressource en eau",
+    "ce_que_ca_change": "Les passages supprimés prévoient que la gestion et la préservation de la ressource en eau fassent l'objet d'une planification. Celle-ci doit tenir compte des projets locaux de gestion de l'eau, eux-mêmes élaborés dans le respect des schémas d'aménagement de l'eau qui existent déjà au niveau des bassins et des territoires."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "uid": "VTANR5L17V3055",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Théo Bernhardt",
+      "citation": "Ce texte sur l’emploi des seniors, nous le voterons parce qu’il est issu du dialogue social, parce qu’il apporte des solutions concrètes, et parce qu’il agit pour l’employabilité et l’activité des séniors, l’une des propositions du RN pour financer notre système de retraites.",
+      "justification": "Le groupe vote pour en soutenant les mesures en faveur de l’emploi des seniors."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Joséphine Missoffe",
+      "citation": "Le groupe Ensemble pour la République votera en faveur de ce texte qui incarne notre conception du progrès, celle du dialogue, de la responsabilité et du respect du travail",
+      "justification": "Le groupe vote pour en soutenant le contenu du texte."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe s’exprime sur le budget et la censure, pas sur le texte voté."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Océane Godard",
+      "citation": "Dans une période où le paritarisme est souvent malmené, nous saluons les partenaires sociaux, qui sont parvenus à un accord équilibré et responsable.",
+      "justification": "Le groupe vote pour en soutenant l’accord transposé."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s’exprime pas dans l’extrait."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Louise Morel",
+      "citation": "C’est un texte d’équilibre, de confiance et de responsabilité, fruit d’un dialogue social vivant et d’une volonté sincère de compromis.",
+      "justification": "Le groupe vote pour en soutenant le contenu du texte."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Paul Christophe",
+      "citation": "C’est à la fois un progrès social et une avancée pour notre économie ; nous nous en félicitons.",
+      "justification": "Le groupe vote pour en soutenant les mesures du texte."
+    }
+  }
+}

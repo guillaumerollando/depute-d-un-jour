@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V5103",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "L'intervention du groupe ne permet pas d'établir qu'elle porte sur cet amendement."
+    },
+    "EPR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "L'intervention du groupe porte sur l'attitude d'un autre groupe et non sur le contenu de l'amendement."
+    },
+    "LFI": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Les interventions du groupe ne portent pas sur la commission d'enquête visée par l'amendement."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Les interventions du groupe portent sur un autre amendement et sur un rappel au règlement."
+    },
+    "DR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Xavier Breton",
+      "citation": "Une commission d’enquête, c’est un rapport ; je vous invite donc à le lire et à y répondre.",
+      "justification": "Le groupe défend le rapport de la commission d'enquête que l'amendement qualifie d'échec."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "L'intervention du groupe porte sur la proposition de résolution et non sur la commission d'enquête visée par l'amendement."
+    },
+    "DEM": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "L'intervention du groupe porte sur la proposition de résolution et non sur l'amendement."
+    },
+    "HOR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "L'intervention du groupe porte sur la proposition de résolution et non sur l'amendement."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Les interventions du groupe portent sur la proposition de résolution et sur un rappel au règlement, non sur l'amendement."
+    },
+    "UDR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "L'intervention du groupe porte sur la proposition de résolution et non sur l'amendement."
+    }
+  }
+}

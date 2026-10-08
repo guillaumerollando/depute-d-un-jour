@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V7408",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "L'intervention du groupe porte sur d'autres sujets et ne permet pas de trancher sur le texte."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Thibault Bazin",
+      "citation": "Ces mesures ne régleront pas à elles seules la crise du logement, mais elles constituent des avancées utiles et attendues.",
+      "justification": "Le groupe vote pour en qualifiant les mesures d'avancées utiles."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Danielle Simonnet",
+      "citation": "Généraliser la précarisation de l’accès au logement avec le risque de perdre son logement dès que l’on change de poste, ça suffit ! Le groupe Écologiste et social votera contre ce texte.",
+      "justification": "Le groupe vote contre en estimant que le texte précarise le logement des agents publics."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Mickaël Cosson",
+      "citation": "cette proposition de loi est une avancée pragmatique, attendue et efficace.",
+      "justification": "Le groupe vote pour en qualifiant le texte d'avancée."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Béatrice Piron",
+      "citation": "Le groupe Horizons & indépendants votera avec conviction les conclusions de la commission mixte paritaire, car ce texte répond à un problème que vivent au quotidien celles et ceux qui font vivre la République",
+      "justification": "Le groupe vote pour en estimant que le texte répond aux difficultés de logement des agents publics."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Antoine Valentin",
+      "citation": "La clause de fonction prévue par l’article 1er constitue ainsi une mesure de bon sens, longtemps attendue",
+      "justification": "Le groupe vote pour en saluant plusieurs dispositions du texte, malgré des réserves sur d'autres."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Stéphane Peu",
+      "citation": "Cette mesure reste pour nous la plus régressive d’un texte qui porte un mauvais coup à la vocation universelle du logement HLM.",
+      "justification": "Le groupe vote contre en jugeant le texte contraire à la vocation universelle du logement social."
+    }
+  }
+}

@@ -1,0 +1,192 @@
+{
+ "uid": "VTANR5L17V8431",
+ "titre": "l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
+ "type": "ensemble",
+ "date": "2026-07-21",
+ "dossier": "DLR5L17N53187",
+ "dossier_titre": "Protéger les mineurs des risques auxquels les expose l’utilisation des réseaux sociaux",
+ "sort": "adopté",
+ "positions": {
+  "EPR": "pour",
+  "LFI": "contre",
+  "SOC": "pour",
+  "DR": "pour",
+  "DEM": "pour",
+  "HOR": "pour",
+  "LIOT": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 0,
+   "contre": 2,
+   "abstention": 14
+  },
+  "EPR": {
+   "pour": 83,
+   "contre": 0,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 63,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 30,
+   "contre": 0,
+   "abstention": 28
+  },
+  "DR": {
+   "pour": 40,
+   "contre": 0,
+   "abstention": 3
+  },
+  "ECOS": {
+   "pour": 19,
+   "contre": 7,
+   "abstention": 7
+  },
+  "DEM": {
+   "pour": 32,
+   "contre": 1,
+   "abstention": 2
+  },
+  "HOR": {
+   "pour": 33,
+   "contre": 0,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 22,
+   "contre": 0,
+   "abstention": 1
+  },
+  "UDR": {
+   "pour": 8,
+   "contre": 5,
+   "abstention": 4
+  },
+  "GDR": {
+   "pour": 6,
+   "contre": 3,
+   "abstention": 5
+  }
+ },
+ "amendement": null,
+ "seance": "RUANR5L17S2026IDS30880",
+ "compte_rendu": "CRSANR5L17S2026E1N023",
+ "interventions": [
+  {
+   "orateur": "Mme Laure Lavalette",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Le groupe Rassemblement national accorde une grande importance à la liberté d’expression et à la liberté d’opinion sur les réseaux sociaux, principes cardinaux de notre démocratie. La défense de ces libertés doit s’articuler avec la protection de notre jeunesse, que la fréquentation d’internet, et surtout celle des réseaux sociaux, expose à de multiples dangers. Cyberharcèlement et manipulation, contenus violents ou pornographiques, troubles du sommeil et perte de concentration, dégradation de l’estime de soi et de la santé mentale : les effets des réseaux sociaux sur les plus jeunes, désormais largement documentés, sont ravageurs.Les chiffres illustrent l’ampleur du phénomène : 67 % des élèves de primaire fréquentent déjà les réseaux sociaux ; chez leurs aînés, l’absence de compte ouvert sur l’un de ces réseaux est devenue l’exception puisqu’elle ne concerne que 7 % des collégiens et 4 % des lycéens – dont mes enfants, hélas, ne font pas partie !Cette dynamique n’est pas nouvelle. Les questions que l’on pose aujourd’hui auraient dû être soulevées il y a cinq, voire dix ans. Les parents, les éducateurs et les responsables politiques que nous sommes se doivent de réagir. En politique, ce qu’il y a souvent de plus difficile à apprécier et à comprendre, c’est ce qui se passe sous nos yeux, disait Tocqueville. Pendant que nous hésitions, les algorithmes se perfectionnaient. Pendant que nous débattions, les plateformes captaient l’attention d’enfants toujours plus jeunes. Pendant que les pouvoirs publics tardaient à intervenir, des habitudes et des dépendances s’installaient durablement.Bien que sur tous les bancs, on s’accorde – je l’espère – sur cet impératif, une inquiétude demeure à l’issue de la commission mixte paritaire. En effet, les modalités d’application de l’interdiction qu’il est question d’instaurer, notamment la vérification de l’âge, imposent à tous les utilisateurs de se soumettre à une vérification d’identité. Comment garantir la protection des données personnelles et le bon traitement des enjeux de sécurité nationale et individuelle qu’impose cet état de fait ? Comment garantir la liberté d’opinion et d’expression et assurer à nos concitoyens que ces moyens ne seront pas utilisés à des fins de surveillance ? Ces questions sont légitimes. Y répondre impose malheureusement que nous débattions des modalités techniques d’application du texte, dont ce dernier ne dit rien.J’entends également ceux qui remarquent que le texte ne prévoit aucune implication des parents, pourtant premiers responsables et éducateurs. Notre devoir de législateur est de protéger les mineurs et le devoir des parents est de contrôler l’usage que font leurs enfants des réseaux sociaux.Nous partageons l’objectif d’interdire l’accès aux réseaux sociaux aux mineurs de 15 ans. Nous soutenons aussi l’interdiction des téléphones portables dans les lycées – proposition d’ailleurs formulée il y a plusieurs mois par Marine Le Pen et Jordan Bardella. Si votre texte, madame la ministre, traite du pourquoi, il ne dit rien du comment, et représente dans son état actuel une atteinte potentielle aux libertés publiques, auxquelles nous sommes farouchement attachés. Dans la mesure où il n’est pas équilibré, nous vous invitons, madame la ministre, à le retirer de l’ordre du jour et à revoir votre copie, sans quoi nous refuserons de le voter et nous nous abstiendrons. (Sourires sur les bancs du groupe LFI-NFP.)"
+  },
+  {
+   "orateur": "Mme Anne Genetet",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Ce texte constitue une avancée majeure : nous sommes le premier pays européen à interdire les réseaux sociaux aux moins de 15 ans. Je forme le vœu que beaucoup d’autres pays européens empruntent à leur tour le chemin que nous traçons ainsi. Nous ne pouvons plus laisser croire que le numérique relève uniquement de la responsabilité individuelle des familles. Ce n’est pas vrai : lorsque des entreprises parmi les plus puissantes au monde conçoivent des outils pour capter l’attention de nos enfants, quand leur modèle économique repose sur le temps qu’ils passent devant un écran, alors la puissance publique a le devoir d’intervenir. C’est exactement ce que nous faisons."
+  },
+  {
+   "orateur": "Mme Anne Genetet",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Cette mesure n’est pas contre la technologie, mais pour l’attention, pour la concentration, pour les échanges entre les élèves, pour des salles de classe où l’on regarde son professeur plutôt que son écran, où l’on débat plutôt que de scroller, où l’on apprend à penser plutôt qu’à buller.Rien de tout cela ne serait arrivé sans une volonté politique. Je remercie tous ceux qui ont rendu ce texte possible : notre collègue rapporteure Laure Miller, dont la détermination et le travail remarquable ont permis cet aboutissement, Gabriel Attal, notre président de groupe, qui, lorsqu’il était premier ministre, érigeait déjà la protection des enfants en priorité politique, bien avant que le sujet ne devienne consensuel, et le président de la République, qui a très tôt assumé cette ambition. Je veux dire aussi ma gratitude à tous les collègues qui, au-delà de leurs sensibilités politiques, ont accepté de regarder les faits, qu’il s’agisse des études scientifiques ou des témoignages douloureux des familles que nous avons entendues, de la souffrance de trop nombreux enfants, des drames qu’ils ont subis.Bien sûr, ce texte ne réglera pas tout. Il faudra veiller à son application et continuer à agir au niveau européen et à accompagner les parents. Mais aujourd’hui, nous faisons ce que la République doit toujours faire : protéger les plus faibles avant qu’il ne soit trop tard. Nous devons refuser qu’un enfant soit une cible commerciale ou, pire encore, une donnée de consommation. Chaque enfant est un trésor, une promesse, un avenir. Notre assemblée lui dit une chose très simple, qui nous honore toutes et tous : ta liberté vaut plus que leurs algorithmes. (Applaudissements sur plusieurs bancs du groupe EPR.)"
+  },
+  {
+   "orateur": "M. Arnaud Saint-Martin",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "…et maximisé la pénétration du numérique dans tous les plis de l’existence humaine !Sous l’empire Macron, la jeunesse a aussi été sacrifiée. Le fiasco du service national universel (SNU) en fut le symbole, aussi ridicule que coûteux, comme tant d’autres politiques publiques désastreuses. L’horizon est tellement peu réjouissant aujourd’hui. À peine autorisés à interagir sur les réseaux sociaux numériques à 15 ans, les ados devront participer l’année suivante à la journée dite de mobilisation, à l’issue de laquelle l’armée pourra vérifier leur bonne disposition à s’engager. (M. Emmanuel Mandon s’exclame.) Ce dont vous rêvez, c’est une jeunesse docile, une armée de soldats augmentés.Nous ne méconnaissons pas les effets potentiellement dévastateurs de la vie numérique, pourrie par les marchands d’algorithmes toxiques dévoreurs d’attention. Mais, qu’on le veuille ou non, les relations sociales sont désormais encastrées dans le numérique. Ses jeunes usagers contourneront l’interdiction, quoi qu’il arrive, et non sans risque, puisque les espaces numériques insécures où s’aventurer ne manquent pas.En plus de réguler les plateformes de manière offensive, il faut donc investir dans l’éducation aux médias, à l’information, à la culture numérique et à la prévention des risques et menaces dès le plus jeune âge."
+  },
+  {
+   "orateur": "M. Arnaud Saint-Martin",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "L’enjeu est d’accompagner les sociabilités tous azimuts, de diversifier les sources d’épanouissement et de construction de soi, dans et hors des usages du numérique. Il faut aussi encourager, par la gratuité, l’accès aux loisirs, aux médiathèques, à la culture et aux sports populaires, et investir sérieusement dans la santé mentale, secteur en piteux état car victime de coupes budgétaires brutales."
+  },
+  {
+   "orateur": "M. Arthur Delaporte",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Marie, Clovis, Maëlle, Morgane, Virginie, Samira, Mehdi : je revois les visages de ces enfants victimes des réseaux sociaux que j’ai entendus avec Laure Miller et des collègues membres de la commission d’enquête sur les effets psychologiques de TikTok sur les mineurs, que j’ai eu l’honneur de présider. Ces vies brisées me font penser à Saturne, le dieu du temps, qui dévorait ses propres enfants. TikTok, Snapchat, Meta, X : voilà les ogres des temps modernes, insatiables, guidés par le profit. Ils ont happé ce qu’il y avait de plus précieux dans nos sociétés : la jeunesse et le temps. Ils font du sordide un business soutenu par un modèle économique fondé sur la captation d’attention. La nocivité des plateformes fait consensus. Elles constituent un « océan de trash », pour reprendre l’expression de la rapporteure Miller, entre contenus dangereux, addictions, perte de sommeil, mal-être, cyberharcèlement et incitation à l’automutilation ou au suicide.Le texte soumis à nos suffrages constitue-t-il une réponse adéquate ? Tout d’abord, il ne doit pas être l’arbre qui cache la forêt, nous empêchant de voir plus loin la nécessité de réguler le numérique et l’algorithme. Dans ce texte, on s’attaque d’abord à la protection des utilisateurs, et ce sont les mêmes qu’on pénalise. Naviguons-nous à vue, comme le disait hier la rapporteure, dans le huis clos de la CMP ? Si tel était le cas, nous ne pourrions pas suivre, tant les conséquences seraient importantes.Nous partageons l’ambition de limiter l’accès aux réseaux sociaux, car cette direction est la meilleure pour protéger les mineurs. Toutefois, à l’échelle européenne comme à l’échelle nationale, les socialistes privilégient une vision équilibrée, comme celle du groupe d’experts européens qui a remis son rapport la semaine dernière. Leur approche graduelle prévoit une interdiction stricte aux moins de 13 ans, avant une ouverture limitée à certains réseaux sociaux, sécurisés et au fonctionnement protégé, jusqu’à un âge restant à déterminer. Cette règle, proportionnée, partagée à l’échelle continentale et régulatrice des fonctionnalités nocives des réseaux sociaux, devrait entrer en vigueur dans un an environ – le plus tôt sera le mieux."
+  },
+  {
+   "orateur": "M. Arthur Delaporte",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Ce chemin d’équilibre est par exemple celui que cherche l’Espagne.L’enjeu est d’abord de protéger des fonctionnalités dangereuses en inscrivant sur une liste blanche les réseaux sociaux plus protecteurs, autorisés par exemple pour les 13-15 ans lorsqu’ils remplissent certaines conditions en matière de contenu, de conception de services, de prévention des usages addictifs ou de protection de la vie privée. C’était d’ailleurs l’esprit qu’avait adopté le Sénat, dans une approche proportionnée. Je regrette que le texte issu de la CMP revienne sur ce qui me paraissait être un point d’équilibre et prévoie une interdiction sèche et généralisée des réseaux sociaux pour les moins de 15 ans qui ne laisse aucun espace pour un modèle alternatif et protecteur que nous avons toujours soutenu.Vous me direz qu’il reste Wikipédia. Certes, mais vous avez fait le choix de couper aux plus jeunes l’accès aux réseaux sociaux, même ceux qui pourraient être protecteurs, et nous connaissons tous la force de la tentation de l’ailleurs à l’adolescence.La principale réserve qui conduit mon groupe à privilégier l’abstention est le doute sur l’applicabilité de la mesure que nous votons. Nous naviguons à vue car nous ne savons pas si les effets des contournements, qui ne manqueront pas d’arriver – en Australie, deux tiers des mineurs concernés par l’interdiction continuent d’avoir un compte –, contrebalanceront les bénéfices attendus de l’interdiction.On peut aussi s’inquiéter du flou qui prédomine encore sur le périmètre d’application du texte et sur les acteurs qui y seront intégrés. Quid, par exemple, des jeux vidéo en ligne qui présentent des fonctionnalités de réseaux sociaux ? Quid de WhatsApp, qui est en partie considéré par la Commission européenne comme une plateforme de réseau social et qui devrait donc être concerné par la vérification d’âge ?Quid des modalités de contrôle de l’âge, déjà évoquées, qui poussent légitimement à s’interroger car elles restent largement imprécises et ne sont pas stabilisées, un mois à peine avant la date prévue pour l’entrée en vigueur du texte ? Quelles garanties formelles de sécurité pouvez-vous donner à nos concitoyennes et à nos concitoyens sur ce point, alors que des failles existent et qu’il a fallu à peine deux minutes pour craquer l’application de vérification d’âge de la Commission européenne ? Ces questions de protection des libertés fondamentales restent en suspens. Tout semble donc un peu précipité, le risque étant de mal faire, quitte à provoquer par la suite déception et défiance. C’est une des raisons pour lesquelles nous saisirons le Conseil constitutionnel, même si nous partageons l’esprit du message envoyé par le texte. (Applaudissements sur les bancs du groupe SOC. – Mme Lisa Belluco applaudit également.)"
+  },
+  {
+   "orateur": "M. Lionel Duparay",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Je tiens tout d’abord à saluer le travail de notre collègue rapporteure, Laure Miller, qui a défendu ce texte dans le prolongement de la commission d’enquête sur les effets psychologiques de TikTok sur les mineurs.Les réseaux sociaux sont un formidable lieu d’expression démocratique et de production d’idées. Ils rassemblent une très grande diversité d’opinions non soumises au filtre des médias traditionnels. Ils informent, créent des connexions et permettent de témoigner de la réalité de la vie. Nous-mêmes, parlementaires, les employons pour faire valoir nos travaux et partager nos combats. Pour un citoyen qui dispose d’un esprit critique, d’une capacité de recul, ces plateformes peuvent être une ressource précieuse où trouver de l’information et forger son analyse.Pour un enfant en construction, au contraire, les réseaux sociaux sont une source d’isolement, d’éloignement du réel et d’altération des relations sociales. Ils ralentissent le développement intellectuel et fragilisent la santé mentale. Ils favorisent les pratiques addictives et prolongent le harcèlement en dehors du temps scolaire. Ce ne sont pas là des affirmations gratuites, mais ce que le consensus scientifique décrit chaque jour plus précisément. Les chiffres qui attestent des dégâts provoqués sur la jeunesse par l’usage des réseaux sociaux commandent une réponse forte, à la hauteur de l’impact délétère de ces derniers sur les adolescents.Nous sommes tous d’accord sur le fait que le vote d’aujourd’hui est surtout un symbole fort. Par la voix des élus que nous sommes, la loi autorise ou interdit et, dans ce dernier cas, elle doit être appliquée. Les parents et l’ensemble des éducateurs deviennent alors légitimes pour faire appliquer cet interdit, pour le bien des enfants. Bien sûr, se borner à proclamer l’interdiction est insuffisant et il est entendu qu’elle doit être adossée à un système de régulation qui ne sacrifie pas la protection des libertés individuelles sur l’autel de l’efficacité – ou l’inverse.Voilà pourquoi, alors que beaucoup de voix s’élèvent pour dénoncer d’avance l’inefficacité de la future loi, il nous incombe de veiller à ce qu’elle ne demeure pas une déclaration d’intention et à ce que des mesures techniques soient instaurées au niveau européen."
+  },
+  {
+   "orateur": "M. Lionel Duparay",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "C’est là notre différence avec certains collègues : nous ne baissons pas les bras, nous ne nous résignons pas au motif que tout serait trop compliqué à mettre en œuvre. Au contraire, nous nous battons pour que la promesse faite aux parents – la protection de leurs enfants – se concrétise. Certes, toute mesure technique est contournable, d’une manière ou d’une autre. Toutefois, si le défaitisme nous étreignait sur tous les sujets, nous ne ferions plus grand-chose. Il est de notre devoir d’essayer, résolument mais sans naïveté, car chaque enfant empêché de se rendre sur les réseaux est un enfant protégé des dangers qu’ils contiennent.Si un contrôle d’identité devait être mis en place, les données recueillies devront être strictement protégées, dans un cadre souverain, et les citoyens devront pouvoir continuer à s’exprimer librement, sans risque aucun de censure, de fichage, de flicage, de bâillon, de création d’un délit d’opinion. Seule doit être renforcée la défense des intérêts fondamentaux de notre jeunesse vulnérable.Je souhaite aussi dire un mot de l’interdiction du téléphone portable dans les collèges et les lycées. Il est désormais établi que les écrans affaiblissent la capacité de concentration et d’apprentissage. Interdire les smartphones dans les collèges et les lycées n’est pas une mesure déconnectée de la réalité. Elle n’est pas prise contre les élèves, mais pour eux. Il s’agit de les protéger, de leur offrir un peu de répit et de leur permettre de se dédier pleinement à leurs études. Pour protéger la jeunesse contre le principal fléau de notre époque, le groupe Droite républicaine votera en faveur de la proposition de loi. (Applaudissements sur les bancs du groupe DR ainsi que sur ceux des commissions.)"
+  },
+  {
+   "orateur": "Mme Lisa Belluco",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Comme vous le savez, de nombreux pays s’interrogent sur la fixation d’un âge minimum pour accéder aux réseaux sociaux. Notre Parlement a choisi l’âge de 15 ans et le groupe Écologiste et social soutiendra majoritairement cette mesure.La question à laquelle nous essayons de répondre avec ce texte est la suivante : quelle place faut-il laisser aux réseaux sociaux et, plus largement, aux différents usages du numérique dans la vie de nos enfants ? Le large espace qu’ils y occupent est questionné par de nombreux parents, enseignants et élus. Les réseaux sociaux accaparent notre temps et celui des jeunes, accentuant la sédentarité et réduisant celui consacré aux apprentissages, aux vraies relations sociales et au sommeil, mais aussi celui passé dehors, au contact de la nature.Au-delà de ces considérations sanitaires, il faut rappeler que les réseaux sociaux sont des plateformes conçues par des entreprises privées, basées sur des algorithmes conçus par et pour des intérêts privés. Derrière leur apparence de forum ouvert, où l’expression de chacun serait libre et accessible à tous, résident en réalité des logiques capitalistiques répondant à la seule boussole du profit, ainsi que vous l’avez parfaitement établi, madame la rapporteure, dans le rapport de la commission d’enquête sur les effets psychologiques de TikTok sur les mineurs. Vous avez mis en avant les nombreux effets délétères que produisent les logiques marchandes de la captation généralisée de notre attention et de celle des jeunes : dépressions, addictions, tentatives de suicide, troubles du comportement alimentaire, dérives masculinistes, etc.Derrière ces plateformes, des algorithmes guident nos choix et nos interprétations en jouant excessivement sur nos émotions, éteignant ainsi toute réflexion. Dans ce cadre imposé, quelle place a la libre décision ? Comment garantir l’intégrité cognitive des enfants qui y passent plusieurs heures par jour ? Ces algorithmes deviennent, avant les parents, l’école et les pairs, les premiers acteurs de l’intermédiation des jeunes avec le monde. Nous acceptons ainsi que la construction de leur rapport au monde et aux autres soit déléguée à des entreprises américaines et chinoises.Face à cela, quelle singularité cognitive conservons-nous ? Avec les calculs qui renforcent les biais et les moyennes, le recours massif aux plateformes numériques, qui n’a fait l’objet d’aucun débat démocratique, tend à homogénéiser nos goûts ainsi que nos pensées et à marchandiser plus encore notre attention. L’avenir que nous voulons est-il un monde où nous penserions et consommerions tous comme des Américains ? Le capitalisme numérique a transformé notre temps libre en marchandise. Ce temps, que la lutte a arraché aux mains du patronat il y a quelques décennies, voilà que nous le livrons aux grands patrons de la Silicon Valley, dont l’idéologie réactionnaire est maintenant pleinement assumée et dont la défiance envers les modèles démocratiques européens est édifiante. Un sursaut est nécessaire pour garantir la libre construction de la pensée.Au-delà de ce texte, nous devons nous demander comment notre nation peut garantir la protection de notre attention, protéger la liberté intérieure des citoyens et construire sa souveraineté cognitive. La proposition de loi tente de protéger les plus jeunes de cette prédation cognitive organisée et systématique. Parce que l’interdiction prévue est une demande des parents et peut servir d’aide éducative, je voterai en faveur du texte, avec une partie des membres de mon groupe.Il ne constitue pas pour autant une politique de la jeunesse. Il n’est qu’un premier pas. Si vous voulez vraiment protéger les enfants des écrans, sortez ces derniers des écoles, ne promouvez pas les jeux vidéo et l’e-sport dans les pratiques de l’éducation nationale et laissez aux familles la possibilité d’échanger avec les équipes pédagogiques sans espace numérique de travail. Pour créer une vraie politique de la jeunesse, remettez les enfants au centre des décisions, redonnez des moyens à l’école de la République plutôt que la détruire, accompagnez le périscolaire et toutes les structures qui offrent aux enfants et aux jeunes la possibilité de faire des choses ensemble. Les enfants ont besoin d’espaces où se retrouver en dehors de leur famille, loin de la surveillance de leurs parents. Ne laissez donc pas mourir le secteur associatif et donnez une vraie place à la parole des enfants, en toutes circonstances. Bref, agissez !Pour vraiment protéger les enfants des réseaux sociaux, il faudra aller plus loin. Vous devez demander fermement à la Commission européenne d’appliquer les lignes directrices du DSA."
+  },
+  {
+   "orateur": "Mme Lisa Belluco",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Il faut sanctionner l’utilisation des dark patterns, des modèles addictifs. Il faut développer la prévention et réguler les contenus. Nous savons tous que si l’interdiction des réseaux sociaux va constituer un soulagement et une aide pour les parents, des enfants sauront la contourner. Il faut donc que les utilisateurs de tous âges soient protégés. Enfin, mon groupe demande des garanties sur le maintien de l’anonymat en ligne malgré la vérification de l’âge. Pouvez-vous nous les apporter, madame la ministre ?Enfin, parce que je suis écologiste, je ne peux m’empêcher de rappeler qu’une société entièrement basée sur le numérique est une société vulnérable qui vit d’une prédation inédite des ressources. Nos usages numériques ne sont possibles que parce que des entreprises pillent les sous-sols des pays du Sud, attisant au passage les conflits locaux et détruisant les ressources naturelles nécessaires à la subsistance des populations. (Applaudissements sur plusieurs bancs du groupe EcoS.) Nous fermons les yeux sur ces crimes qui relèvent pourtant d’une forme de néocolonialisme. Ne serait-ce que parce que son application réduira un tout petit peu les usages du numérique, ce texte est le bienvenu. (Applaudissements sur les bancs du groupe EcoS. – Mme la rapporteure applaudit également.)"
+  },
+  {
+   "orateur": "M. Laurent Croizier",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "« Notre société doit être davantage consciente de l’importance de l’enfance, de la place à lui réserver dans la vie de tous les jours, mais aussi dans les projets à long terme. » Ces mots sont ceux de Simone Veil, alors ministre des affaires sociales, de la santé et de la ville. Ils résonnent avec une force toute particulière aujourd’hui dans cet hémicycle.L’enfance est le temps de la construction, de la découverte de soi, des autres et du monde. C’est l’âge de l’apprentissage, de l’émerveillement et d’une imagination sans limites. C’est aussi l’âge de la fragilité et de l’innocence.Chaque enfant porte en lui l’avenir de notre société. Protéger chacun d’eux, c’est la promesse d’un avenir meilleur pour chacun de nous.Pourtant, nous acceptons que les enfants passent en moyenne quatre heures par jour devant un écran : quatre heures quotidiennes durant lesquelles ils consultent des contenus récréatifs et au cours desquelles ils sont inévitablement confrontés à des contenus violents, addictifs ou anxiogènes.Nous connaissons désormais les conséquences de cette surexposition : elle fragilise la santé mentale, nuit à la santé physique, appauvrit les relations sociales et éteint peu à peu l’imaginaire. Si nous voulons préserver nos enfants de cette brutalité et leur permettre de consacrer pleinement leur temps à apprendre, à grandir et à se construire, il est urgent d’assainir l’environnement numérique et de renforcer résolument la prévention des violences qui s’y déploient.À l’heure où la santé mentale des plus jeunes se dégrade, où l’intelligence artificielle bouleverse nos usages, où les contenus violents comme les fausses informations se diffusent à une vitesse inédite, une question s’impose : quelle société voulons-nous construire ? Cette proposition de loi apporte une première réponse. Parce qu’il nous faut avancer, parce qu’elle va dans le bon sens et parce qu’il est urgent de protéger nos enfants, le groupe Démocrate votera en faveur de ce texte.Si la majorité est fixée à 18 ans en France, c’est précisément parce que le législateur reconnaît qu’avant cet âge, les jeunes demeurent vulnérables et qu’en tant que mineurs, ils relèvent de la responsabilité de leurs parents. À 15 ans, les dangers du numérique ne disparaissent pas. À 15 ans, un adolescent n’est pas pleinement autonome. À 15 ans, un adolescent n’est pas réellement indépendant. Nous devons donc veiller à ce que ce seuil ne crée ni l’illusion d’une majorité numérique ni celle d’une capacité de discernement qui serait pleinement acquise.Les enfants sont les premières victimes des dérives et des violences qui traversent l’espace numérique. L’essentiel de la réponse ne saurait reposer sur eux. Le groupe Démocrate entend promouvoir une triple responsabilité : celle des parents, d’abord, qui doivent éduquer, exercer leur autorité et assumer pleinement leur rôle, et qu’il est nécessaire d’informer et d’accompagner ; celle des géants du numérique, qui ne peuvent plus se soustraire à leur devoir, notamment celui de fournir des outils de contrôle réellement efficaces ; et celle des plateformes, qui doivent répondre des contenus qu’elles diffusent et mettre enfin en œuvre une modération exigeante, à la hauteur des enjeux.Cette proposition de loi rappelle une évidence : nous avons le devoir d’agir pour préserver l’environnement dans lequel nos enfants grandissent. Mes chers collègues, ne restons pas spectateurs ! Sensibiliser aux usages du numérique est un enjeu de civilisation."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Laurent Marcangeli."
+  },
+  {
+   "orateur": "M. Laurent Marcangeli",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "Il y a trois ans, je montais à cette tribune pour défendre une idée simple : un enfant de moins de 15 ans n’a rien à faire sur un réseau social. Cette idée est devenue la loi du 7 juillet 2023. La majorité numérique, c’était elle qui l’instaurait, et le Parlement l’avait adoptée à la quasi-unanimité. Je revois encore cet hémicycle, ce jour-là, convaincu d’avoir agi et bien agi.Nous savons tous ce que cette loi est devenue. Rien : pas un décret d’application, pas une vérification d’âge, pas un compte fermé. Je crois pouvoir le dire : au sein de nos hémicycles, nous avions eu raison trop tôt et nous étions trop seuls. Qu’une loi nationale parvienne à s’imposer, sans le concours de l’Union européenne, à des plateformes mondialisées, qui pèsent davantage que plusieurs États réunis, voilà qui était impossible.Après ce triste constat, pourquoi adopter ce texte aujourd’hui ? Parce qu’autour de nous, tout a changé, venant conforter l’idée que notre vote d’il y a trois ans allait dans le bon sens.La société d’abord. En trois ans, les pédopsychiatres, les enseignants, les parents ont alerté, les études se sont accumulées et plus personne ne doute de ce que ces applications font au sommeil, à l’attention, à l’image de soi de nos adolescents, et singulièrement à celle de nos adolescentes. Notre commission d’enquête sur les effets psychologiques de TikTok sur les mineurs a dressé un bilan accablant. Ce constat n’appartient plus à un camp. Il n’est pas dans cet hémicycle un seul collègue – tel est mon sentiment sincère après avoir entendu les autres orateurs – qui pense que TikTok à 11 ans est une chance.Le monde a changé, lui aussi. L’Australie a franchi le pas, d’autres démocraties s’y préparent et l’Europe bouge enfin : la Commission a reconnu aux États le droit de fixer un âge minimum, elle expérimente une application de vérification de l’âge et un texte européen est annoncé. Je connais votre combat, madame la ministre, pour faire avancer ce sujet au niveau européen. Je veux également saluer le travail des rapporteures de la CMP, Laure Miller et Catherine Morin-Desailly, car l’accord trouvé lundi consacre le choix de la clarté en retenant une règle que chaque famille peut comprendre et s’approprier : avant 15 ans, pas de réseaux sociaux. Une règle, la même pour tous, s’appliquera dès le 1er septembre – ou dans quatre mois pour les comptes déjà ouverts. Et, parce que la protection doit être encore plus forte dans nos établissements scolaires, les téléphones seront désormais interdits de l’école au lycée.Mes chers collègues, je voudrais enfin m’arrêter sur ce que nous faisons exactement en votant ce texte. Nous fixons un âge minimum, comme la République sait le faire depuis longtemps. Elle a fixé un âge minimum pour conduire, pour acheter de l’alcool et du tabac, pour entrer dans un casino, pour travailler, pour se marier, pour consentir. Elle l’a fait parce qu’elle sait une chose que nous devrions nous répéter plus souvent : la liberté d’un enfant n’est pas menacée par la règle, elle est menacée par ceux qui ont intérêt à ce qu’il n’y en ait aucune.Aujourd’hui, un enfant est protégé à proportion de la vigilance de ses parents, du temps dont ils disposent, de ce qu’ils savent de ces applications, de sorte que les enfants les plus exposés sont ceux dont les familles sont les moins armées. Grâce à cette loi, les parents, les enseignants, les éducateurs auront désormais la République à leurs côtés.Et puis il y a ceux qui voteront contre. J’avoue ne pas comprendre. Voilà des collègues qui dénoncent chaque semaine la puissance des multinationales, l’emprise du capitalisme numérique, l’exploitation de nos données et de notre attention. Ils ont, sur ce diagnostic, bien des raisons d’être entendus. Pourtant, lorsque vient enfin le moment de voter une proposition de loi qui oppose à ces entreprises une interdiction ferme, ils ne sont plus là. Cette posture est pour moi incompréhensible.Mes chers collègues, nous avons, sans le savoir, laissé entrer dans la chambre de nos enfants les machines les plus efficaces jamais conçues pour retenir un être humain devant un écran. Il aura fallu quinze ans pour le comprendre, trois ans pour en tirer les conséquences dans la loi, et il en faudra peut-être davantage pour les imposer tout à fait. C’est long, mais c’est le temps des démocraties.Le groupe Horizons & indépendants votera donc ce texte avec fierté, avec la conviction que nous ouvrons un chemin dont nous ne voyons pas encore le terme, mais au bout duquel nous aurons reconquis le bien le plus précieux que ces plateformes nous dérobent chaque jour : notre attention, c’est-à-dire notre liberté de choisir à quoi et à qui nous consacrons le temps si court de nos existences. (Applaudissements sur les bancs des groupes HOR, EPR, DR et Dem ainsi que sur ceux des commissions.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La discussion générale est close. Je mets aux voix l’ensemble de la proposition de loi, compte tenu du texte de la commission mixte paritaire."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V2957",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Hervé de Lépinau",
+      "citation": "Le groupe Rassemblement national a fait le choix de soutenir activement les agriculteurs – eux qui nourrissent notre pays, entretiennent son territoire, défendent notre souveraineté alimentaire.",
+      "justification": "Le groupe vote pour en soutenant les mesures en faveur des agriculteurs."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Jean-Luc Fugit",
+      "citation": "La présente proposition de loi vient compléter cet ensemble, en apportant de nouvelles réponses pour aider les agriculteurs à exercer leur métier dans des conditions dignes et durables.",
+      "justification": "Le groupe vote pour en soutenant les mesures du texte."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Mathilde Hignet",
+      "citation": "Voter pour ce texte ou s’abstenir, c’est cautionner un modèle qui empoisonne les terres, la biodiversité, les agriculteurs, les citoyens et nos enfants.",
+      "justification": "Le groupe vote contre en invoquant les effets du texte sur la santé et l’environnement."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Dominique Potier",
+      "citation": "Nous sommes contre la proposition de loi Duplomb, mais nous sommes disponibles pour les combats qu’il faudra livrer au nom de la justice économique, afin que soit préservé l’avenir de nos espaces ruraux et de nos paysans.",
+      "justification": "Le groupe vote contre en s’opposant au contenu du texte."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Guillaume Lepers",
+      "citation": "Ce texte a cependant le mérite de mettre fin à la logique punitive qui a prévalu jusqu’à présent : c’est un changement de logiciel bienvenu.",
+      "justification": "Le groupe vote pour en soutenant l’orientation du texte."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Delphine Batho",
+      "citation": "L’empoisonnement alimentaire inscrit dans ce texte touchera tous les Français sans distinction politique – de gauche, de droite, du centre, peu importe.",
+      "justification": "Le groupe vote contre en invoquant les effets du texte sur la santé."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Henri Alfandari",
+      "citation": "Dans sa version issue de la commission mixte paritaire, ce texte est parvenu à un équilibre.",
+      "justification": "Le groupe vote pour en jugeant le texte équilibré."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s’exprime pas dans l’extrait."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s’exprime pas dans l’extrait."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Vincent Trébuchet",
+      "citation": "Le groupe UDR votera le texte parce que, grâce à l’engagement commun du RN et de l’UDR, il échappe au pire et parce qu’il contient des signaux de rupture importants – je pense notamment à la reconnaissance de l’eau comme ressource stratégique et à l’assouplissement des contraintes réglementaires.",
+      "justification": "Le groupe vote pour en soutenant plusieurs mesures du texte."
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "uid": "VTANR5L17V2217",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Philippe Schreck (RN)",
+      "citation": "C’est tout l’intérêt du délit autonome que nous avons créé. Contrairement à ce qui a été dit, ce délit n’est ni sémantique ni symbolique.",
+      "justification": "Le groupe soutient la création du délit autonome d'homicide routier."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Emmanuelle Hoffman (EPR)",
+      "citation": "La création d’un délit autonome d’homicide routier n’est pas un symbole, c’est un acte de responsabilité.",
+      "justification": "Le groupe soutient la création du délit d'homicide routier."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "B",
+      "orateur": "Mme Élisa Martin (LFI-NFP)",
+      "citation": "Selon le président d’une association qui milite contre les violences routières, la proposition de loi ne va pas assez loin. Il a raison, de notre point de vue.",
+      "citation_raison": "Il veut dire par là que l’on ne prend pas de mesures concrètes pour lutter contre la violence routière",
+      "justification": "Le groupe déclare que le texte ne va pas assez loin et vote contre en raison de l'absence de mesures concrètes contre la violence routière."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Hervé Saulignac (SOC)",
+      "citation": "Il n’en demeure pas moins que ce texte corrige une incompréhension.",
+      "justification": "Le groupe soutient la nouvelle qualification pénale créée par le texte."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Émilie Bonnivard (DR)",
+      "citation": "Le groupe Droite républicaine votera sans réserve et avec conviction en faveur de cette proposition de loi portant création de l’infraction spécifique d’homicide routier.",
+      "justification": "Le groupe soutient la création de l'infraction d'homicide routier."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe s'exprime sur un amendement relatif à l'examen médical sans se prononcer sur l'ensemble du texte."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Anne Bergantz (Dem)",
+      "citation": "Toutes ces infractions doivent être caractérisées pour ce qu’elles sont dans le cadre d’un accident mortel : un homicide routier.",
+      "justification": "Le groupe soutient la qualification d'homicide routier."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Béatrice Piron (HOR)",
+      "citation": "En créant un délit d’homicide routier et, plus généralement, en luttant contre la violence routière, ce texte vise à répondre à une tragédie qui affecte trop de familles chaque année.",
+      "justification": "Le groupe soutient l'objectif et le contenu du texte."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Jean-Pierre Bataille (LIOT)",
+      "citation": "Un signal fort est aujourd’hui envoyé aux usagers de la route, notamment aux plus imprudents. Demain, la justice semblera plus juste pour les familles des victimes.",
+      "justification": "Le groupe soutient le texte."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Brigitte Barèges",
+      "citation": "Le groupe UDR votera résolument en faveur de cette proposition de loi visant à créer l’infraction d’homicide routier et à renforcer la lutte contre la violence sur nos routes.",
+      "justification": "Le groupe soutient le texte."
+    }
+  }
+}

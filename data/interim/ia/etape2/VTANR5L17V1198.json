@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V1198",
+  "consigne": "etape2_ambiguite v2",
+  "groupes": {
+    "RN": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "EPR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "LFI": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Sarah Legrain",
+      "citation": "Je regrette donc qu’après l’avis consultatif du Conseil d’État, cette dimension de la vulnérabilité n’apparaisse plus explicitement dans le texte.",
+      "justification": "Le groupe défend l'ajout de la vulnérabilité dans la définition et vote pour l'amendement."
+    },
+    "DR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "L'oratrice du groupe soutient l'idée de l'amendement mais n'énonce pas de raison au vote contre du groupe."
+    },
+    "DEM": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "HOR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "LIOT": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "UDR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    }
+  }
+}

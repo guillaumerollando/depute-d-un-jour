@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V2975",
+  "consigne": "etape2_ambiguite v1",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime dans l'extrait que par une interjection qui ne permet pas de trancher."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Aurélien Taché",
+      "citation": "Alors que les Mahorais se battent depuis des décennies pour devenir des Français à part entière et le rester, ce texte constitue un recul sans précédent dans le processus inachevé qui devait mener à leur intégration complète dans la République.",
+      "justification": "Le groupe déclare s'opposer au contenu du texte et vote contre."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Ian Boucard",
+      "citation": "Le projet de loi pour la refondation de Mayotte est une réponse attendue, ambitieuse et nécessaire.",
+      "justification": "Le groupe déclare soutenir le contenu du texte et vote pour."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Maud Petit",
+      "citation": "Mes chers collègues, Mayotte a choisi la République. Ce choix engage, en retour, la République. Le groupe Les Démocrates votera en faveur du projet de loi.",
+      "justification": "Le groupe déclare soutenir le projet de loi, avec des réserves sur certains points, et vote pour."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Agnès Firmin Le Bodo",
+      "citation": "Convaincu que ce texte comporte des mesures utiles et traduit un engagement sans faille de l’État, le groupe Horizons & indépendants votera en faveur du projet de loi de programmation pour la refondation de Mayotte",
+      "justification": "Le groupe déclare soutenir le contenu du texte et vote pour."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Estelle Youssouffa",
+      "citation": "Le groupe LIOT votera ce compromis, malgré ses limites, car il apporte des avancées indispensables pour Mayotte.",
+      "justification": "Le groupe déclare soutenir les avancées du texte, malgré des réserves, et vote pour."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Émeline K/Bidi",
+      "citation": "Colère, enfin, de voir que le cœur du texte consistait en une série de mesures dérogatoires ou d’exception en matière d’immigration.",
+      "justification": "Le groupe déclare s'opposer aux mesures du texte en matière d'immigration et juger ses avancées sociales insuffisantes, et vote contre."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Sophie Ricourt Vaginay",
+      "citation": "Le groupe UDR votera ces textes, par pragmatisme, par loyauté républicaine, mais surtout par exigence.",
+      "justification": "Le groupe déclare soutenir les engagements du texte en demandant leur application, et vote pour."
+    }
+  }
+}

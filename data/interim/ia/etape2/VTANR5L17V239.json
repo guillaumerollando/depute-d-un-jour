@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V239",
+  "consigne": "etape2_ambiguite v2",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Matthias Renault",
+      "citation": "Eh bien nous allons les voter : nous aurons ainsi eu un vote symbolique sur la réforme des retraites – mais qui n’aura aucune conséquence concrète.",
+      "justification": "Le groupe annonce voter les amendements comme un vote symbolique sur la réforme des retraites, sans déclarer s'opposer à leur principe."
+    },
+    "EPR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Pierre Cazeneuve",
+      "citation": "Monsieur Guedj, je crois que nous partageons beaucoup de choses, mais nous avons deux visions très différentes des choses : vous, vous souhaitez travailler moins pour gagner moins ; nous, nous voulons travailler plus",
+      "justification": "Le groupe déclare une vision opposée à celle des auteurs sur la durée du travail et vote contre."
+    },
+    "LFI": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Manuel Bompard",
+      "citation": "Alors oui, nous allons abroger cette réforme des retraites !",
+      "justification": "Le groupe défend l'abrogation de la réforme des retraites et vote pour."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Jérôme Guedj",
+      "citation": "voici la dernière occasion dont pourra se saisir la représentation nationale pour affirmer son opposition à la réforme des retraites, telle qu’elle a été votée l’année dernière.",
+      "justification": "Le groupe, auteur de l'amendement, déclare son opposition à la réforme des retraites et vote pour."
+    },
+    "DR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Fabien Di Filippo",
+      "citation": "vous pouvez détruire complètement la relation des Français au travail, mais tout ce que vous leur promettez, c’est la misère.",
+      "justification": "Le groupe invoque la situation démographique et le niveau futur des pensions et vote contre."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Sabrina Sebaihi",
+      "citation": "C’est sûr que cette réforme ne va pas !",
+      "justification": "Le groupe exprime son rejet de la réforme des retraites et vote pour son abrogation."
+    },
+    "DEM": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Nicolas Turquois",
+      "citation": "Il faut prendre des décisions courageuses au sujet de nos retraites et de nos finances publiques. Nous sommes nombreux ici à dénoncer ces amendements de complaisance tout à fait populistes.",
+      "justification": "Le groupe invoque l'état des finances des régimes de retraite et vote contre."
+    },
+    "HOR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s’exprime pas dans l’extrait."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s’exprime pas dans l’extrait."
+    },
+    "UDR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s’exprime pas dans l’extrait."
+    }
+  }
+}

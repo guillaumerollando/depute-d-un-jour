@@ -1,0 +1,230 @@
+{
+ "uid": "VTANR5L17V710",
+ "titre": "l'article unique de la proposition de loi visant à renforcer les conditions d'accès à la nationalité française à Mayotte (première lecture).",
+ "type": "article",
+ "date": "2025-02-06",
+ "dossier": "DLR5L17N51039",
+ "dossier_titre": "Renforcer les conditions d'accès à la nationalité française à Mayotte",
+ "sort": "adopté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "pour",
+  "LFI": "contre",
+  "SOC": "contre",
+  "DR": "pour",
+  "ECOS": "contre",
+  "HOR": "pour",
+  "LIOT": "pour",
+  "GDR": "contre",
+  "UDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 100,
+   "contre": 0,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 21,
+   "contre": 3,
+   "abstention": 2
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 41,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 0,
+   "contre": 37,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 35,
+   "contre": 0,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 14,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 5,
+   "contre": 4,
+   "abstention": 8
+  },
+  "HOR": {
+   "pour": 10,
+   "contre": 0,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 3,
+   "contre": 0,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 0,
+   "contre": 3,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 5,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": null,
+ "seance": "RUANR5L17S2025IDS28965",
+ "compte_rendu": "CRSANR5L17S2025O1N094",
+ "interventions": [
+  {
+   "orateur": "Mme Dominique Voynet",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "La première concerne les statistiques de reconduite à la frontière : ce matin, on nous a dit que le nombre de reconduites à la frontière avait augmenté entre 2020 et 2023. L’oratrice en a déduit que la politique de reconduite était totalement inefficace, tout comme le plan de développement France-Comores, qui coûtait beaucoup trop cher.Je ne comprends pas le lien entre ces chiffres et les arguments avancés. Si le nombre de reconduites à la frontière a augmenté au cours de cette période, c’est d’abord parce que, désormais, on va chercher les gens autour des pharmacies, à la porte des centres de santé ou autour des écoles – c’est ce qui permet de faire du chiffre !D’autre part, M. le ministre de la justice nous a dit que le bureau des étrangers de la préfecture est à nouveau ouvert depuis quelques jours."
+  },
+  {
+   "orateur": "Mme Estelle Youssouffa",
+   "qualite": null,
+   "groupe": "LIOT",
+   "president_de_seance": false,
+   "texte": "Ces deux amendements visent à lutter contre la fraude documentaire, extrêmement répandue à Mayotte. Les documents fournis pour la régularisation ou l’obtention de la nationalité doivent être vérifiés et conformes. Par l’amendement no 71, nous proposons donc que l’on puisse exiger la présentation d’un passeport biométrique en cours de validité, comportant une photographie qui permette l’identification du titulaire, pour obtenir un titre de séjour ou bénéficier du droit d’asile.Par l’amendement no 72, qui est de repli, nous proposons que l’officier d’état civil à qui l’on présente des justificatifs pour attester de la résidence régulière des deux parents sur l’acte de naissance d’un étranger puisse exiger la présentation d’un passeport valide et comportant une photographie qui garantisse l’identification du titulaire. L’objectif est d’éviter que de faux parents n’obtiennent des papiers. La présentation d’un passeport biométrique, ou du moins valide, nous semble une exigence minimale."
+  },
+  {
+   "orateur": "M. Philippe Gosselin",
+   "qualite": "rapporteur de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Il est défavorable. Votre proposition vise à ajouter des pièces à la liste de celles qui sont fixées réglementairement, ce qui complexifie la procédure et risque d’exclure certains demandeurs. Ces dispositions pourraient amoindrir la qualité juridique du texte et aller à l’encontre de sa constitutionnalité.À titre personnel, je m’en remets à la sagesse de l’Assemblée."
+  },
+  {
+   "orateur": "M. Sacha Houlié",
+   "qualite": null,
+   "groupe": "NI",
+   "president_de_seance": false,
+   "texte": "Un mot sur la tenue des débats : peut-être n’y aurait-il pas eu cette confusion si nous n’avions pas voté à marche forcée, au lance-pierres, les amendements précédemment en discussion commune, ce qui n’a pas rendu la procédure très lisible. (Applaudissements sur les bancs des groupes LFI-NFP et SOC.)"
+  },
+  {
+   "orateur": "M. Sacha Houlié",
+   "qualite": null,
+   "groupe": "NI",
+   "president_de_seance": false,
+   "texte": "Si vous voulez. J’en reviens à l’amendement. Monsieur le rapporteur, votre volonté de porter à trois ans le délai de résidence régulière montre la fragilité du dispositif que vous proposez – vous êtes sûr de la constitutionnalité du délai d’un an mais pas de celui de trois ans. (Applaudissements sur quelques bancs du groupe SOC.)Par ailleurs, depuis le début de la discussion, vous n’avez pas répondu à plusieurs questions. Les dispositifs que vous préconisez permettront-ils de réduire les passages ? Non. Votre texte permettra-t-il de réduire le nombre des naissances d’étrangers en situation irrégulière à Mayotte ? Non. Y a-t-il d’autres façons de lutter contre l’immigration irrégulière ? Oui, nous l’avons dit. (Mme Colette Capdevielle applaudit.) Ces manières de procéder sont-elles reconnues par les Mahorais eux-mêmes quand il s’agit de lutter contre les ingérences pratiquées par le régime des Comores ? Oui – et vous n’avez pas répondu non plus en ce qui concerne les dispositifs que vous entendez appliquer en la matière.Au-delà même de ce qui a été promis pour le logement et les services publics, envisagez-vous de donner des moyens aux intercepteurs et de renforcer la coordination des services chargés de lutter contre l’immigration irrégulière ? Ici encore vous n’avez pas répondu.Dès lors, toute la discussion est amputée depuis son commencement. C’est donc une bonne chose que se soit produite cette adoption accidentelle : cela nous permet de revenir sur des questions auxquelles, je le répète, depuis ce matin, vous ne répondez pas. (MM. Jacques Oberti et Arnaud Simion applaudissent.)"
+  },
+  {
+   "orateur": "M. Philippe Gosselin",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Monsieur le président Houlié, il s’agit, selon vos propres termes, d’un vote accidentel, ce qui n’arrive pas pour la première fois. Vous êtes par ailleurs trop fin juriste pour ignorer la jurisprudence du Conseil constitutionnel sur le principe de proportionnalité. Or, selon cette jurisprudence, le délai d’un an est constitutionnel, ce qui ne serait pas le cas d’un délai de trois ans. (M. Sacha Houlié fait un signe de dénégation.) Voilà pourquoi nous allons permettre à ceux qui se sont trompés, y compris trois députés du groupe Écologiste et social,…"
+  },
+  {
+   "orateur": "Mme Colette Capdevielle",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "…le carnet de santé des enfants, les photographies, tout, peut-être même l’analyse de leur ADN, leurs empreintes digitales, allez savoir tout ce que vous allez demander. Vous rendez-vous compte du message que vous envoyez au pays ?Je vous demande donc de voter contre ces amendements. (Mme Dieynaba Diop applaudit.)"
+  },
+  {
+   "orateur": "M. Philippe Gosselin",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "En commission, comme en séance ce matin, une difficulté a été soulevée concernant les familles monoparentales. Comme nous sommes très légalistes, nous ne voulons prendre aucun risque d’inconstitutionnalité et, parce que j’espère bien que le présent texte sera voté et qu’il entrera rapidement en vigueur, il faut prévoir la situation des familles monoparentales."
+  },
+  {
+   "orateur": "Mme Colette Capdevielle",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Par le sous-amendement no 327, nous proposons d’insérer, à l’alinéa 3, après le mot « établie », le mot « dûment ». Il s’agit d’une précision rédactionnelle. Le sous-amendement no 320 tend à substituer aux mots « d’un seul parent », les mots « de la mère ou du père ».L’amendement de M. Gosselin démontre à lui seul à quel point le texte initial n’était pas recevable sur le plan constitutionnel : les pauvres enfants devaient justifier le fait d’avoir deux parents, ce qui mettait de côté les familles monoparentales. Par cet amendement bienvenu, M. Gosselin reconnaît lui-même la difficulté posée par la rédaction de sa proposition de loi. J’espère du reste qu’au cours de la discussion, nous éviterons les débats que nous avons eus en commission sur les mères célibataires."
+  },
+  {
+   "orateur": "Mme Perrine Goulet",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Il se fonde sur l’article 100, relatif à la bonne tenue de nos débats. Le vote sur l’article unique semble impossible si la deuxième délibération n’a pas eu lieu, d’autant plus qu’elle changerait complètement le sens de l’article. (Applaudissements sur les bancs du groupe LFI-NFP. – M. Gérard Leseul applaudit également.)"
+  },
+  {
+   "orateur": "Mme Perrine Goulet",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Non, l’adoption de l’amendement no 88 qui porte à trois ans le délai de résidence régulière exigé des parents pour accorder la nationalité française à l’enfant nous empêche de voter l’article. On ne délibérera pas à nouveau sur un article qu’on aura rejeté.Il serait plus intelligent de d’abord rediscuter de l’amendement no 88, puis de voter l’article unique qui, en l’état, n’obtiendra que des votes défavorables ! (Applaudissements sur les bancs des groupes Dem, LFI-NFP, SOC et EcoS.)"
+  },
+  {
+   "orateur": "M. Ugo Bernalicis",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Il se fonde sur l’article 100 et les articles concernant la seconde délibération. Il ne s’agira pas simplement de procéder immédiatement à un nouveau vote sur l’article unique. Il faudra aussi remettre en discussion les amendements qui, puisque nous rejetterons l’amendement no 88, ne seront plus tombés. (Applaudissements sur quelques bancs du groupe LFI-NFP.)Procédons à une seconde délibération, mais à la seule condition qu’on discutera de tous les amendements, sinon il s’agira d’un grand n’importe quoi et la sincérité de nos débats serait entachée du début à la fin, d’autant plus que nous avons déjà fait n’importe quoi au sujet des passeports et des cartes d’identité et que nous avons refusé d’examiner des sous-amendements tout à fait recevables. Cela commence à faire beaucoup."
+  },
+  {
+   "orateur": "Mme Cyrielle Chatelain",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Il se fonde sur l’article 100 du règlement et porte sur le bon déroulement de nos débats. Le ministre s’est engagé à demander une seconde délibération sur un amendement qui nous semble crucial pour le vote de l’article unique. Il nous semble qu’il ne peut pas se rétracter ainsi !Pour trouver la meilleure manière de débattre, et pour que notre discussion soit la plus intelligible et la plus intelligente possible, je demande une suspension de séance. (Applaudissements sur plusieurs bancs des groupes EcoS, LFI-NFP et SOC.)"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "L’adoption de l’amendement no 88, auquel certains étaient défavorables par principe ou par souci de constitutionnalité, et qui allonge d’un à trois ans le délai de résidence régulière demandée aux deux parents, a créé une confusion qui m’empêche de demander une deuxième délibération.En revanche, je m’engage à déposer un amendement lors de la lecture au Sénat, si aucun amendement en ce sens n’est déposé avant, pour abaisser le délai de résidence régulière à un an. Ainsi, lorsque le texte reviendra en lecture à l’Assemblée, puisqu’il n’y aura pas d’adoption conforme, les députés pourront s’exprimer sur le texte tel qu’il avait été pensé par M. le rapporteur.Les députés, qui ne sont pas obligés de me croire sur parole,…"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je regrette d’avoir à le faire, mais en application de l’article 44, alinéa 2, de la Constitution, j’annonce que le gouvernement s’opposera à l’examen de tout amendement qui n’aurait pas été antérieurement soumis à la commission. Par conséquent, tous les sous-amendements restant en discussion tombent."
+  },
+  {
+   "orateur": "M. Emeric Salmon",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Il se fonde sur l’article 61, alinéa 2 de notre règlement. Je constate que les élus socialistes ont disparu de l’hémicycle, mais le règlement précise bien qu’une fois assurée la présence de la moitié du groupe ayant demandé la vérification du quorum, il faut compter les députés présents dans l’enceinte du palais. Or les députés socialistes sont juste à côté ! Ils sont là, oui, ils sont bien là ! Honte à eux ! (Les députés des groupes RN et UDR se lèvent et applaudissent. – Applaudissements sur les bancs du groupe DR et sur quelques bancs du groupe HOR.)"
+  },
+  {
+   "orateur": "M. Ugo Bernalicis",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "L’article 44 de la Constitution porte sur l’examen d’amendements et pas de sous-amendements, voilà pourquoi le ministre a sollicité votre confirmation.En adoptant une lecture extensive de cet article, vous empêchez l’examen de sous-amendements qui, par définition, peuvent être déposés à tout moment."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(La séance, suspendue à seize heures dix, est reprise à seize heures vingt-cinq.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La séance est reprise. Avant la suspension de séance, le vote sur l’article unique a été reporté, en application de l’article 61, alinéa 4, du règlement. Je mets aux voix l’article unique. (Protestations sur les bancs du groupe LFI-NFP. – Tumulte.) Ce n’est pas en braillant que vous me ferez changer d’avis !"
+  },
+  {
+   "orateur": "M. Nicolas Forissier",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Quelle comédie !"
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

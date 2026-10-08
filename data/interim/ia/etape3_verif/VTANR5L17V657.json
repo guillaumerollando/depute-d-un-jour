@@ -1,0 +1,15 @@
+{
+ "uid": "VTANR5L17V657",
+ "consigne": "etape3_verification v2",
+ "verdict": "corrige",
+ "problemes": [
+  "Le texte adopté en séance contient des mesures majeures absentes de la carte : création d'un délit de « contrôle coercitif » dans le couple (jusqu'à 10 ans de prison et 1 000 000 € d'amende), peine de 30 ans pour le viol commis sur plusieurs victimes, viol avec préméditation ajouté aux circonstances aggravantes, prolongation exceptionnelle de la garde à vue.",
+  "Le rapport demandé au Gouvernement porte sur la lutte contre l'inceste ; la carte le présente comme un rapport sur la formation des policiers et magistrats, ce qui n'en est qu'un volet.",
+  "Le contexte omet qu'il s'agit d'une première lecture."
+ ],
+ "corrections": {
+  "titre": "Adopter la loi créant le délit de contrôle coercitif et alourdissant les peines pour viol",
+  "ce_que_ca_change": "Imposer à son conjoint ou ex-conjoint, par des propos ou gestes répétés, un état de peur ou de contrainte (« contrôle coercitif ») deviendrait un délit puni jusqu'à 10 ans de prison. Le viol commis sur plusieurs victimes serait puni de 30 ans. Le délai pour poursuivre un viol serait prolongé si l'auteur agresse ensuite sexuellement une autre victime, majeure ou mineure.",
+  "contexte": "Vote sur l'ensemble de la proposition de loi visant à renforcer la lutte contre les violences sexuelles et sexistes, en première lecture, le 28 janvier 2025."
+ }
+}

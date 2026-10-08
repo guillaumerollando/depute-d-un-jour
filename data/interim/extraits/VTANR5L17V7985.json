@@ -1,0 +1,108 @@
+{
+ "uid": "VTANR5L17V7985",
+ "titre": "l'amendement n° 37 de Mme Hadizadeh au titre de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
+ "type": "amendement",
+ "date": "2026-07-07",
+ "dossier": "DLR5L17N51037",
+ "dossier_titre": "Reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "contre",
+  "EPR": "contre",
+  "LFI": "pour",
+  "SOC": "pour",
+  "DR": "contre",
+  "ECOS": "pour",
+  "DEM": "contre",
+  "HOR": "contre",
+  "LIOT": "contre",
+  "UDR": "contre",
+  "GDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 0,
+   "contre": 94,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 0,
+   "contre": 41,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 50,
+   "contre": 1,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 35,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 0,
+   "contre": 35,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 22,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 23,
+   "abstention": 1
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 19,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 1,
+   "contre": 7,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 0,
+   "contre": 9,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 9,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901B0691P0D1N000037",
+  "dossier": "DLR5L17N51037",
+  "texte": "PIONANR5L17B0691",
+  "division": "visant à reconnaître une présomption de légitime défense pour les forces de l’ordre, dans l’exercice de leurs fonctions,",
+  "auteur": "Mme Hadizadeh",
+  "auteur_groupe": "SOC",
+  "auteur_type": "Député",
+  "dispositif": "Rédiger ainsi le titre : « visant à favoriser l’augmentation des violences policières ».",
+  "expose": "Le présent amendement vise à révéler la véritable nature du texte porté par le groupe Droite Républicaine."
+ },
+ "seance": "RUANR5L17S2026IDS30827",
+ "compte_rendu": "CRSANR5L17S2026E1N005",
+ "interventions": [
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 37."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

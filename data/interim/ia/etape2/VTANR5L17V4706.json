@@ -1,0 +1,77 @@
+{
+ "uid": "VTANR5L17V4706",
+ "consigne": "etape2_ambiguite v2",
+ "groupes": {
+  "RN": {
+   "position": "pour",
+   "categorie": "A",
+   "orateur": "M. Yoann Gillet",
+   "citation": "Voter pour ce texte, c’est donner aux maires de Polynésie française les moyens d’agir au quotidien pour leurs concitoyens.",
+   "justification": "Le groupe soutient le texte pour donner aux maires polynésiens des moyens d'agir."
+  },
+  "EPR": {
+   "position": "pour",
+   "categorie": "A",
+   "orateur": "M. Moerani Frébault",
+   "citation": "Ceci est un exemple des difficultés rencontrées par les maires polynésiens pour mettre en œuvre des actions essentielles pour nos populations.",
+   "justification": "Le groupe illustre par des exemples les difficultés des maires que le texte vise à lever."
+  },
+  "LFI": {
+   "position": "contre",
+   "categorie": "A",
+   "orateur": "M. Pierre-Yves Cadalen",
+   "citation": "Nous les respectons : elles doivent se tenir entre eux, en Polynésie, sans qu’il soit fait usage de manœuvres et contournements politiciens qu’il faut dénoncer fermement.",
+   "justification": "Le groupe s'oppose à une modification décidée hors des institutions polynésiennes."
+  },
+  "SOC": {
+   "position": "contre",
+   "categorie": "A",
+   "orateur": "M. Marc Pena",
+   "citation": "le groupe Socialistes et apparentés appelle à ne pas voter ce texte : je vous invite à rejeter cette proposition de loi organique en l’état. Restons fidèles à l’autonomie de nos collectivités",
+   "justification": "Le groupe appelle à rejeter le texte au nom de l'autonomie des collectivités."
+  },
+  "DR": {
+   "position": "pour",
+   "categorie": "A",
+   "orateur": "Mme Josiane Corneloup",
+   "citation": "parce que cette proposition de loi organique est équilibrée, parce qu’elle est utile et qu’elle respecte l’autonomie tout en renforçant l’efficacité de l’action publique locale, le groupe Droite républicaine la votera.",
+   "justification": "Le groupe vote le texte qu'il juge utile et respectueux de l'autonomie."
+  },
+  "ECOS": {
+   "position": "contre",
+   "categorie": "A",
+   "orateur": "M. Steevy Gustave",
+   "citation": "Nous ne pouvons modifier seuls, depuis Paris, les équilibres institutionnels internes à la Polynésie française sans permettre au pays d’exprimer son accord ou son refus.",
+   "justification": "Le groupe s'oppose à une modification des équilibres institutionnels polynésiens sans accord du pays."
+  },
+  "DEM": {
+   "position": "pour",
+   "categorie": "A",
+   "orateur": "M. Éric Martineau",
+   "citation": "Ce texte est pragmatique et équilibré. Pour notre part, nous préférerons toujours l’efficacité du terrain aux blocages idéologiques, aussi le voterons-nous.",
+   "justification": "Le groupe vote le texte qu'il juge pragmatique et équilibré."
+  },
+  "HOR": {
+   "position": "pour",
+   "categorie": "A",
+   "orateur": "M. Jean Moulliere",
+   "citation": "Le groupe Horizon & indépendants soutient cet aménagement d’autant plus adapté qu’il repose sur une logique de subsidiarité",
+   "justification": "Le groupe soutient le texte au nom de la subsidiarité."
+  },
+  "LIOT": {
+   "position": "pour",
+   "categorie": "A",
+   "orateur": "M. Joël Bruneau",
+   "citation": "Ce texte étant soutenu par les maires polynésiens, le groupe LIOT votera pour.",
+   "justification": "Le groupe vote le texte qui supprime l'obligation d'une loi du pays préalable."
+  },
+  "GDR": {
+   "position": "contre",
+   "categorie": "B",
+   "orateur": "Mme Mereana Reid Arbelot (GDR)",
+   "citation": "Je dis oui à l’intervention communale dans les matières relevant de la compétence de la Polynésie française, mais il faut l’organiser, la financer clairement, l’encadrer et la sécuriser juridiquement.",
+   "citation_raison": "Mais c’est en réalité un texte dangereusement bâclé : il est dépourvu de cadre, il ne fournit aucun détail sur le financement requis et, surtout, il ne respecte pas le statut.",
+   "justification": "Le groupe déclare approuver l'intervention communale mais vote contre un texte qu'il juge bâclé et sans cadre juridique ni financier."
+  }
+ }
+}

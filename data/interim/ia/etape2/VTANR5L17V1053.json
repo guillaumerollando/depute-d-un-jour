@@ -1,0 +1,83 @@
+{
+  "uid": "VTANR5L17V1053",
+  "consigne": "etape2_ambiguite v1",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Sébastien Huyghe",
+      "citation": "Le Pnaco étant l’une des pierres angulaires de ce texte, il est indispensable de le doter des leviers qui lui permettront d’envisager tous les angles d’attaque possibles du fonctionnement des réseaux criminels.",
+      "justification": "Le groupe déclare soutenir la création du parquet national et l'élargissement de ses compétences."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Colette Capdevielle",
+      "citation": "nous avons estimé qu’elle permettait, au sein d’un texte lourd et particulièrement répressif, de donner un peu d’espoir.",
+      "justification": "Le groupe déclare soutenir la disposition sur la justice restaurative maintenue dans l'article."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Virginie Duby-Muller",
+      "citation": "Cette centralisation est indispensable pour garantir une réponse rapide et coordonnée, évitant ainsi les inefficacités d’une gestion fragmentée.",
+      "justification": "Le groupe déclare soutenir la centralisation des affaires de criminalité organisée au sein du parquet national."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Jérémie Iordanoff",
+      "citation": "il me semble nécessaire de conserver l’article tel qu’il a été modifié par l’amendement adopté en commission",
+      "justification": "Le groupe déclare souhaiter le maintien de l'article dans sa rédaction issue de la commission."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Émeline K/Bidi",
+      "citation": "Si nous comprenons votre volonté de centraliser par souci d’efficacité, il nous semble néanmoins nécessaire de conserver la compétence des juridictions spécialisées s’agissant des mineurs.",
+      "justification": "Le groupe déclare comprendre l'objectif de centralisation tout en demandant un aménagement pour les mineurs."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Sophie Ricourt Vaginay",
+      "citation": "Ces trafiquants ont parfaitement compris comment exploiter les failles de notre système judiciaire : en recrutant des adolescents, interchangeables et difficilement condamnables, ils ont bâti une florissante économie parallèle, fondée sur l’impunité.",
+      "justification": "Le groupe déclare s'opposer à l'exclusion des mineurs de la compétence du parquet national prévue par l'article."
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "uid": "VTANR5L17V1474",
+  "consigne": "etape2_ambiguite v1",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Jocelyn Dessigny",
+      "citation": "Le dossier coffre verra bel et bien le jour, ne vous en déplaise, et il permettra de protéger les enquêtes spéciales menées par nos policiers.",
+      "justification": "Le groupe soutient le texte en mettant en avant ses mesures."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Stéphane Mazars",
+      "citation": "Cette création envoie un signal fort : oui, nous prenons enfin la mesure du danger et nous dotons la justice de moyens à la hauteur des menaces.",
+      "justification": "Le groupe soutient le texte et la création du parquet national anti-criminalité organisée."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Antoine Léaument",
+      "citation": "Pour cela, ce ne sont pas de mesures de répression qu’il faut prendre, mais des mesures de prévention et de soins pour éviter l’entrée dans la drogue, diminuer la consommation et permettre la sortie de la dépendance.",
+      "justification": "Le groupe s'oppose à l'approche répressive du texte."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Estelle Mercier",
+      "citation": "Ce texte comporte des avancées notables, telles que la création d’un parquet national antistupéfiants pour lutter contre le haut du spectre",
+      "justification": "Le groupe soutient le texte en citant la création du parquet national parmi ses avancées."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Olivier Marleix",
+      "citation": "Les députés du groupe Droite républicaine voteront ce texte avec beaucoup de conviction parce qu’il protège les premières victimes du trafic de drogue dans notre pays, à savoir les jeunes.",
+      "justification": "Le groupe soutient le texte sur le fond."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Sandra Regol",
+      "citation": "afin de pouvoir réorganiser la gestion des enquêtes, de disposer de juridictions spécialisées et de doter nos institutions de maigres outils pour combattre le blanchiment, nous ne nous opposerons pas à ce texte.",
+      "justification": "Le groupe déclare ne pas s'opposer au texte afin de disposer de juridictions spécialisées, tout en exprimant des réserves sur d'autres dispositions."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Anne Bergantz",
+      "citation": "Le nouveau parquet national anti-criminalité organisée rendra notre système judiciaire plus résilient.",
+      "justification": "Le groupe soutient le texte et la création du parquet national."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Agnès Firmin Le Bodo",
+      "citation": "Ces deux propositions de loi vont dans le bon sens.",
+      "justification": "Le groupe soutient les textes sur le fond."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    }
+  }
+}

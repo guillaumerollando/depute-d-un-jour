@@ -1,0 +1,12 @@
+{
+ "uid": "VTANR5L17V617",
+ "consigne": "etape3_verification v2",
+ "verdict": "corrige",
+ "problemes": [
+  "Le texte adopté fixe la pente minimale à 20 %, pas 30 %.",
+  "La distance de 250 mètres des habitations ne figure pas dans le texte adopté."
+ ],
+ "corrections": {
+  "ce_que_ca_change": "L'épandage de pesticides par les airs reste interdit, sauf exceptions. Des drones pourraient pulvériser des produits à faible risque, de biocontrôle ou autorisés en bio sur les parcelles en pente d'au moins 20 %, les bananeraies et certaines vignes. Sur d'autres cultures, des essais de trois ans maximum seraient évalués par l'agence nationale de sécurité sanitaire."
+ }
+}

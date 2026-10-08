@@ -1,0 +1,55 @@
+{
+  "uid": "VTANR5L17V4754",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Laurent Jacobelli",
+      "citation": "Ajoutez-y le renouvellement automatique des titres de séjour de longue durée : les portes et les fenêtres sont grand ouvertes.",
+      "justification": "Le groupe s'oppose à la mesure en raison de ses effets attendus sur l'immigration."
+    },
+    "EPR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Les interventions du groupe portent sur des amendements sans indiquer la raison de son vote sur l'ensemble."
+    },
+    "LFI": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Andrée Taurinya",
+      "citation": "Si nous voulons véritablement rendre automatique le renouvellement des titres de séjour de longue durée, nous devons, au contraire, supprimer ces taxes",
+      "justification": "Le groupe soutient l'objectif du texte et propose d'aller plus loin."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Fatiha Keloua Hachi",
+      "citation": "Il est très inquiétant d’entendre un membre du gouvernement demander la suppression de l’article principal d’une proposition de loi pour ne pas en discuter alors qu’elle a du sens.",
+      "justification": "Le groupe défend le texte, ce qui va dans le sens de son vote pour."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Sandra Regol",
+      "citation": "le groupe Écologiste et social votera ce texte qui apporte une réponse certes minimale à un problème particulièrement important.",
+      "justification": "Le groupe vote le texte qu'il juge minimal mais utile."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Soumya Bourouaha",
+      "citation": "Il s’agit d’une mesure équilibrée, juste, humaine, et surtout indispensable. C’est pourquoi nous soutenons pleinement cette proposition de loi",
+      "justification": "Le groupe déclare soutenir le texte sur le fond."
+    },
+    "UDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Hanane Mansouri",
+      "citation": "Vous proposez plus de titres de séjour, là où les Français veulent moins d’immigration. C’est pourquoi le groupe UDR votera contre.",
+      "justification": "Le groupe déclare s'opposer au contenu du texte."
+    }
+  }
+}

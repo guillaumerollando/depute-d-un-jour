@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V438",
+  "consigne": "etape3_verification v2",
+  "verdict": "rejete",
+  "problemes": [
+    "Texte rejeté : la source est le projet initial du Gouvernement, alors que le débat indique une version largement réécrite en séance ; le contenu voté ne peut pas être établi.",
+    "La carte est en outre inexacte pour la version votée : selon le débat, l'article d'équilibre et le prélèvement au profit de l'Union européenne avaient été rejetés en séance, alors que la carte dit que cette partie fixe l'équilibre et les ressources versées à l'Union européenne.",
+    "Sans mesure identifiable, l'utilisateur ne peut pas savoir ce qu'il approuve en votant « pour »."
+  ],
+  "corrections": {}
+}

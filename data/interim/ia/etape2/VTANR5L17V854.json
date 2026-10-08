@@ -1,0 +1,69 @@
+{
+  "uid": "VTANR5L17V854",
+  "consigne": "etape2_ambiguite v2",
+  "groupes": {
+    "RN": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe indique voter contre les amendements de suppression pour pouvoir débattre, sans exprimer de position sur le fond de l'impôt."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Paul Midy",
+      "citation": "Avec votre impôt idiot, elle devrait emprunter des millions d’euros pour garder le contrôle de son entreprise",
+      "justification": "Le groupe s'oppose à l'impôt en raison de ses effets attendus sur les recettes et les entrepreneurs."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Gabrielle Cathala",
+      "citation": "La loi de M. Hollande était mal écrite, ce qui, malheureusement pour vous, n’est pas le cas de la proposition de Mme Sas.",
+      "justification": "Le groupe défend la proposition de loi dont l'amendement supprime les alinéas."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Mickaël Bouloux",
+      "citation": "Cette proposition de loi répond à une urgence sociale et économique. Nous soutiendrons la version défendue par Mme la rapporteure.",
+      "justification": "Le groupe déclare soutenir la version du texte que l'amendement supprimerait."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Clémentine Autain",
+      "citation": "Oui, il faut investir dans le bien commun et, pour y parvenir, il faut de la justice fiscale.",
+      "justification": "Le groupe déclare soutenir la justice fiscale portée par le texte."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Jean-Paul Mattei",
+      "citation": "Votre idée est intéressante mais le dispositif ne fonctionne pas. Si un tel texte était adopté, il provoquerait des effets pervers.",
+      "justification": "Le groupe s'oppose au dispositif en raison des effets qu'il lui attribue sur les entreprises."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. François Jolivet",
+      "citation": "Taxer lourdement les grandes fortunes n’est pas faire preuve de justice fiscale ;",
+      "justification": "Le groupe déclare s'opposer à une taxation lourde des grandes fortunes."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Nicolas Sansu",
+      "citation": "le groupe de la Gauche démocrate et républicaine soutient pleinement cette initiative et votera le texte sans aucune réserve.",
+      "justification": "Le groupe déclare soutenir le texte que l'amendement viderait."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Olivier Fayssat",
+      "citation": "Nous ne voterons pas cette folie fiscale",
+      "justification": "Le groupe déclare s'opposer à l'impôt proposé."
+    }
+  }
+}

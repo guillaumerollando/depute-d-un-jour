@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V7260",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Gaëtan Dussausaye (RN)",
+      "citation": "Il était donc évident de commencer à agir en se penchant sur les ruptures conventionnelles.",
+      "justification": "Le groupe vote pour en approuvant une action sur les ruptures conventionnelles."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Christophe Mongardien",
+      "citation": "nous sommes largement favorables au dialogue social et à l’accord qui en a résulté. En conséquence, nous voterons en faveur du projet de loi.",
+      "justification": "Le groupe vote pour en se déclarant favorable à l’accord transposé."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Ségolène Amiot (LFI-NFP)",
+      "citation": "le groupe La France insoumise s’oppose résolument à cette nouvelle réforme.",
+      "justification": "Le groupe vote contre en s’opposant à la réduction des droits prévue par le texte."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Jérôme End (DR)",
+      "citation": "Ce projet de loi apporte une réponse équilibrée, responsable et pragmatique : il respecte le dialogue social, préserve un outil utile aux entreprises comme aux salariés et participe au redressement de nos finances sociales.",
+      "justification": "Le groupe vote pour en approuvant le contenu du texte."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Sophie Taillé-Polian (EcoS)",
+      "citation": "Son unique objectif est de réduire leurs droits, tout simplement et une fois de plus.",
+      "justification": "Le groupe vote contre en s’opposant à la réduction des droits des salariés prévue par le texte."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Nicolas Turquois (Dem)",
+      "citation": "Le groupe Les Démocrates votera pour ce texte, parce qu’il est le fruit du dialogue social, qu’il est économiquement nécessaire et qu’il faut assumer de mener des réformes utiles même si elles sont difficiles.",
+      "justification": "Le groupe vote pour en jugeant le texte nécessaire et issu du dialogue social."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Nathalie Colin-Oesterlé (HOR)",
+      "citation": "Nous partageons pleinement l’ambition de ce texte d’assurer la soutenabilité financière du régime d’assurance chômage, l’équité entre les assurés et l’efficacité en matière de retour à l’emploi.",
+      "justification": "Le groupe vote pour en déclarant partager les objectifs du texte."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Jean-Pierre Bataille (LIOT)",
+      "citation": "Parce qu’il recherche un juste équilibre entre responsabilité budgétaire, incitation au retour à l’emploi et respect du dialogue social, le groupe LIOT votera très largement en faveur de ce texte.",
+      "justification": "Le groupe vote pour en approuvant l’équilibre du texte."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Yannick Monnet",
+      "citation": "Ce texte est une aberration sociale et économique bâtie contre le monde du travail dans son ensemble !",
+      "justification": "Le groupe vote contre en s’opposant au contenu du texte."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Olivier Fayssat (UDR)",
+      "citation": "C’est pourquoi nous soutenons ce projet de loi qui maintient l’ouverture des droits, mais limite la durée d’indemnisation pour les ruptures conventionnelles, dans la continuité d’une logique assurantielle.",
+      "justification": "Le groupe vote pour en approuvant le contenu du texte."
+    }
+  }
+}

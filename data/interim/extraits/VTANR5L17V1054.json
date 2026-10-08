@@ -1,0 +1,655 @@
+{
+ "uid": "VTANR5L17V1054",
+ "titre": "l'amendement n° 9 de Mme Capdevielle et les amendements identiques suivants de suppression de l'article 23 quinquies (examen prioritaire) de la proposition de loi visant à sortir la France du piège du narcotrafic (première lecture).",
+ "type": "amendement",
+ "date": "2025-03-19",
+ "dossier": "DLR5L17N50169",
+ "dossier_titre": "Proposition de loi visant à sortir la France du piège du narcotrafic",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "contre",
+  "EPR": "contre",
+  "LFI": "pour",
+  "SOC": "pour",
+  "DR": "contre",
+  "ECOS": "pour",
+  "DEM": "contre",
+  "HOR": "contre",
+  "LIOT": "contre",
+  "GDR": "pour",
+  "UDR": "contre"
+ },
+ "voix": {
+  "RN": {
+   "pour": 0,
+   "contre": 68,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 0,
+   "contre": 41,
+   "abstention": 1
+  },
+  "LFI": {
+   "pour": 31,
+   "contre": 0,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 37,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 0,
+   "contre": 20,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 18,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 14,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 11,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 0,
+   "contre": 6,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 3,
+   "contre": 0,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 0,
+   "contre": 9,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC1043P0D1N000009",
+  "dossier": "DLR5L17N50169",
+  "texte": "PIONANR5L17BTC1043",
+  "division": "Article 23 quinquies",
+  "auteur": "Mme Capdevielle,  M. Vicot, M. Saulignac, Mme Mercier, M. Christophle, Mme Allemand, Mme Karamanli, M. Pena, Mme Thiébault-Martinez, M. William, M. Benbrahim, M. Courbon, M. Delaporte, Mme Godard, M. Lhardit, M. Bouloux, M. Aviragnet, M. Baptiste, M. Barusseau, Mme Battistel, M. Baumel, Mme Bellay, M. Philippe Brun, M. Califer, M. David, M. Delautrette, Mme Diop, Mme Dombre Coste, M. Dufau, M. Echaniz, M. Eskenazi, M. Faure, M. Fégné, M. Garot, M. Gokel, Mme Got, M. Emmanuel Grégoire, M. Guedj, M. Hablot, Mme Hadizadeh, Mme Herouin-Léautey, Mme Céline Hervieu, M. Hollande, Mme Jourdan, Mme Keloua Hachi, M. Leseul, M. Naillet, M. Oberti, Mme Pantel, Mme Pic, Mme Pirès Beaune, M. Potier, M. Pribetich, M. Proença, Mme Rossi, Mme Rouaux, M. Aurélien Rousseau, M. Roussel, Mme Runel, Mme Récalde, M. Saint-Pasteur, Mme Santiago, M. Simion, M. Sother, Mme Thomin, M. Vallaud et les membres du groupe Socialistes et apparentés",
+  "auteur_groupe": "SOC",
+  "auteur_type": "Député",
+  "dispositif": "Supprimer cet article.",
+  "expose": "Cet amendement du Groupe Socialistes et apparentés vise à supprimer l'article créant des quartiers de lutte contre la criminalité organisée. Un tel dispositif ressemble étrangement aux quartiers haute sécurité supprimé par Robert Badinter par le décret du 26 février 1982. Celui qui fut Garde des sceaux de 1981 à 1986 estimait ces \"QHS\" inefficaces et inhumains : \"ils n'assuraient pas, en fait, la sécurité mais pouvaient détruire lentement celui qui y était incarcéré.\" L'idée de recréer ces quartiers dans les prisons est le symptôme inquiétant d'une époque où la posture politique prime sur la recherche d'efficacité; symptôme d'une baisse de niveau du côté de la chancellerie. L'efficacité tient évidemment dans ce que l'on appelle le \"sens de la peine\". A quoi bon en effet enfermer si les personnes concernée ne ressortent pas meilleures, prêtes à se réinsérer. A cet égard, l'accès à l'éducation, à la formation professionnelle, au travail durant la détention, tout cela peut offrir des perspectives de réinsertion. A l'inverse, le placement des détenus dans ces nouveaux QHS aura pour effet de laisser \"entre eux\" des personnes issues de la criminalité organisée, sans autre horizon donc que cette criminalité organisée. Au-delà encore, les modalités proposées (fouilles systématiques, suppression de l'accès aux unités familiales) ainsi que la durée délirante de 4 années, apparaissent manifestement contraire à la convention européenne des droits de l'Homme qui proscrit les traitements inhumains et dégradants."
+ },
+ "seance": "RUANR5L17S2025IDS29209",
+ "compte_rendu": "CRSANR5L17S2025O1N135",
+ "interventions": [
+  {
+   "orateur": "M. Florent Boudié",
+   "qualite": "président de la commission des lois",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Elle a d’ailleurs adopté l’article 23 quinquies mais supprimé certaines dispositions dont nous débattrons de nouveau – je serai moi-même défavorable à certaines d’entre elles, comme celles prévues par l’article 8 ter. (MM. Éric Bothorel et Jean-René Cazeneuve applaudissent.)J’aimerais rétablir la vérité sur deux points très précis. Madame Cathala, vous avez dit que le Conseil d’État avait considéré que les fouilles, telles qu’elles sont prévues par l’article, étaient contraires à la Convention européenne de sauvegarde des droits de l’homme.Or ce que dit le Conseil d’État – j’ai l’avis entre les mains, je pourrai vous le transmettre –, c’est que, si ces fouilles devaient constituer une pratique routinière, sans aucune restriction, alors elles seraient contraires à l’article 3 de la CEDH. Or ce n’est pas le cas."
+  },
+  {
+   "orateur": "M. Ugo Bernalicis",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "C’est déjà le cas !"
+  },
+  {
+   "orateur": "M. Florent Boudié",
+   "qualite": "président de la commission des lois",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je vous invite à relire le paragraphe 16 de l’avis du Conseil d’État du 13 mars – rédigé après que nous en avons discuté avec la section de l’intérieur. Il y est bien indiqué que les fouilles intégrales systématiques sont conformes à la Convention européenne des droits de l’homme dès lors qu’elles visent des personnes qui ne sont pas « restées sous la surveillance constante d’un personnel de l’administration pénitentiaire ».La différence avec les quartiers de haute sécurité des années 1970 et 1980 est colossale : à l’époque, la fouille était systématique, corporelle et intégrale dès la sortie de la cellule."
+  },
+  {
+   "orateur": "Mme Elsa Faucillon",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Waouh ! Quarante ans pour en arriver là !"
+  },
+  {
+   "orateur": "M. Florent Boudié",
+   "qualite": "président de la commission des lois",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Par conséquent, n’établissez pas une comparaison qui n’a pas lieu d’être – comme en témoigne d’ailleurs votre réaction à l’instant.Je le redis : après la décision prise par Robert Badinter de supprimer les quartiers de haute sécurité, c’est le dispositif de l’isolement que l’on a instauré. Or ce dispositif est bien plus dur que celui des quartiers de lutte contre la criminalité organisée dont l’article prévoit la création.Nous avons pris en considération toutes les propositions et recommandations formulées par le Conseil d’État, en toute transparence et sans mensonge. La commission des lois a délibéré. Nous pouvons aujourd’hui délibérer à notre tour en séance publique, sur le fondement des travaux de la commission et de l’avis rendu par le Conseil d’État. Toutes les garanties sont réunies pour que nous puissions décider en toute transparence."
+  },
+  {
+   "orateur": "M. Antoine Léaument",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Et la corruption ?"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. le ministre d’État."
+  },
+  {
+   "orateur": "M. Antoine Léaument",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Ah !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Cet article très important, au sein d’un texte qui est lui-même très important, peut soulever les difficultés que vous avez mises en avant, mais il correspond à la manière dont l’État doit exercer son autorité.D’abord, ne pas adopter le régime que nous proposons, c’est se satisfaire du régime actuel, c’est-à-dire du fait que des détenus soient mis à l’isolement pendant de nombreuses années. Aujourd’hui, le détenu soumis depuis le plus longtemps à ce régime a été placé à l’isolement il y a seize ans !"
+  },
+  {
+   "orateur": "M. Pouria Amirshahi",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Avant d’être jugé !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Seize ans d’isolement ininterrompu, sans jamais croiser personne, sans pouvoir se promener ailleurs que dans une cour de quelques mètres carrés ! Je m’adresse plus particulièrement à M. Houlié qui, lorsqu’il présidait la commission des lois pendant la précédente législature, ne s’est manifestement pas ému de cette situation. Les propos que vous tenez aujourd’hui sont fort éloignés de vos positions passées."
+  },
+  {
+   "orateur": "M. Antoine Léaument",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Il n’y a que les imbéciles qui ne changent pas d’avis !"
+  },
+  {
+   "orateur": "M. Ugo Bernalicis",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Alors que nous… !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Quand on laisse des personnes à l’isolement total pendant seize ans, on ne donne pas de leçon sur les libertés individuelles !J’en viens à présent à l’affaire Amra. Le sourire de M. Amra ne saurait rester impuni ! L’État doit faire respecter son autorité ! (Applaudissements sur les bancs des groupes EPR, DR, Dem et HOR.) Ce sourire ne vous gêne-t-il pas, n’a-t-il pas fait vibrer votre fibre républicaine, ne vous a-t-il pas donné envie de protéger les pères et mères de famille que sont les agents pénitentiaires ? (Mme Elsa Faucillon s’exclame.)Vous évoquez la torture blanche, madame la députée, mais même la CGT pénitentiaire n’est pas d’accord à ce sujet avec le parti communiste – vous devriez vous rapprocher de votre base. (Applaudissements sur les bancs des groupes EPR, DR, Dem et HOR.)"
+  },
+  {
+   "orateur": "M. Ugo Bernalicis",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Lisez donc ses tracts : elle n’est pas d’accord avec la façon dont vous traitez les agents de l’administration pénitentiaire ! Respectez les organisations syndicales !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Quand on voit le sourire de M. Amra et ce qu’il révèle de l’autorité de l’État, on se dit qu’il faut en finir avec la permissivité et la naïveté dont font preuve certains dirigeants politiques. Nous faisons face à des organisations criminelles ultraviolentes, très différentes de celles que nous avons connues par le passé, y compris à l’époque de la French Connection. Aujourd’hui, monsieur Houlié, des gamins de 14 ans font office de tueurs à gages ; ce n’était pas le cas il y a trente ou quarante ans."
+  },
+  {
+   "orateur": "M. Antoine Léaument",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "On a compris !"
+  },
+  {
+   "orateur": "M. Rodrigo Arenas",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Et les apaches, vous en faites quoi ?"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Ces organisations criminelles…"
+  },
+  {
+   "orateur": "M. Rodrigo Arenas",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Quelle honte !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Quelle honte ? Ce qui est honteux, ce sont les organisations criminelles ! Ce qui est honteux, c’est que des avocats, des journalistes, des hommes et des femmes politiques, des agents pénitentiaires, des policiers se font assassiner dans les rues d’Amsterdam et de Liège ! C’est cela qui devrait vous faire réagir ! (Applaudissements sur les bancs des groupes EPR, DR, Dem et HOR.)"
+  },
+  {
+   "orateur": "Mme Émilie Bonnivard",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Eh oui !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Ce qui compte, c’est de faire respecter l’autorité de l’État et de ses agents. Et c’est en coupant le lien des détenus concernés avec l’extérieur que l’on obtient ce respect – je réponds ainsi à M. Iordanoff. En effet, les organisations criminelles continuent de recevoir les ordres que donnent leurs dirigeants depuis leurs cellules – M. le président Marleix l’a évoqué avec beaucoup d’ingénuité et l’on pourrait encore en dire bien des choses.Comment a-t-on procédé en Irlande et en Italie ? On a, précisément, coupé le lien des détenus avec l’extérieur, sans pour autant couper tout lien social. Où avez-vous vu qu’ils ne pourraient se livrer à aucune activité,…"
+  },
+  {
+   "orateur": "M. Ugo Bernalicis",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Ça, c’est ce que prévoit la circulaire que vous venez de prendre ! Et elle concerne tout le monde !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "…qu’ils ne pourraient pas suivre des cours de français ni accéder à la bibliothèque, de recourir à des dispositifs de santé, de passer des communications téléphoniques, de contacter leurs familles ? Ils pourront le faire ! Le Conseil d’État a validé ce régime en recommandant certaines modifications, auxquelles nous procéderons, bien évidemment. Ce qui compte est en tout cas de couper le lien avec l’extérieur, qui permet par exemple à un individu détenu aux Baumettes, à Marseille, de percevoir les loyers de trente-deux appartements à Dubaï ! L’État fait-il donc la preuve de son autorité en lui permettant d’organiser, à partir de sa cellule, son trafic et le blanchiment de ses capitaux ?"
+  },
+  {
+   "orateur": "M. Manuel Bompard",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Les mesures que vous prônez n’y changeront strictement rien !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Les magistrats instructeurs sont la cible de menaces ! Quinze d’entre eux vivent sous protection policière, en raison du courage dont ils ont fait preuve dans l’exercice de leurs fonctions. Lorsque je suis arrivé au ministère de la justice, j’ai constaté que 150 magistrats faisaient l’objet de menaces de mort – et je ne parle même pas des très nombreux chefs de détention et agents pénitentiaires qui sont dans le même cas parce qu’ils font respecter les règles du législateur et de la République !"
+  },
+  {
+   "orateur": "M. Antoine Léaument",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Vous devriez en rajouter, des fonctionnaires pénitentiaires !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Monsieur Houlié, vous demandez pourquoi c’est le ministre de la justice qui devra choisir les détenus concernés par ce nouveau régime de détention mais, au fond, vous le savez très bien, et c’est la raison pour laquelle vous vous rendez malheureusement coupable d’un crime contre l’esprit ! Si c’est le ministre de la justice qui signe, c’est parce qu’il est le chef de l’administration pénitentiaire et que, si de telles décisions étaient prises par un magistrat ou un agent pénitentiaire, ils seraient menacés de mort ! Le chef de l’administration doit prendre ses responsabilités ! (Applaudissements sur les bancs des groupes EPR, DR, Dem et HOR.)"
+  },
+  {
+   "orateur": "M. Ugo Bernalicis",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Il y a un directeur de l’administration pénitentiaire !"
+  },
+  {
+   "orateur": "M. Antoine Léaument",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Arrêtez de dire n’importe quoi !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "En Italie, c’est justement le ministre de la justice qui assume cette responsabilité ! Contrairement à vous, j’entends prendre ma part en assurant aux chefs de détention, au directeur de l’administration pénitentiaire et aux magistrats que j’assume l’application du régime pénitentiaire que je demande aux parlementaires d’approuver ! Voilà où en est notre République, monsieur Houlié : ses agents ont peur de faire leur travail et demandent à demeurer anonymes et à être protégés jusqu’en dehors des parkings des établissements pénitentiaires !"
+  },
+  {
+   "orateur": "Mme Émilie Bonnivard",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Eh oui !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Cessez de sourire, je vous prie, monsieur Houlié ! (Exclamations sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR. – Mme Émilie Bonnivard applaudit.) La responsabilité des parlementaires est d’éviter que ne se produisent d’autres affaires Amra ;…"
+  },
+  {
+   "orateur": "M. Ugo Bernalicis",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Non, c’est la vôtre ! C’est vous qui avez failli dans cette affaire !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "…celle des hommes et des femmes politiques est de réaliser que des commandos sont susceptibles de prendre d’assaut nos prisons, de voir le monde tel qu’il est et non tel qu’il devrait être, comme si c’était celui des Bisounours. (Applaudissements sur les bancs des groupes EPR, DR, Dem et HOR et sur plusieurs bancs des groupes RN et UDR.) La prochaine fois qu’un agent pénitentiaire ou un magistrat sera mis en bière, vous le déplorerez et vous vous lèverez dans cet hémicycle pour respecter une minute de silence, alors même que vous n’aurez pas voté les dispositions, semblables à celles qui s’appliquent en Italie et en Irlande, qui les protègent !"
+  },
+  {
+   "orateur": "Mme Sophie Taillé-Polian",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Ce ne sont pas des arguments !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Si, ce sont des arguments ! En Italie, c’est un gouvernement social-démocrate qui a créé un régime semblable à celui que nous défendons. Faut-il attendre, comme l’Italie, d’avoir à déplorer soixante morts, pour qu’un gouvernement français prenne une telle décision ? Regardez les organisations criminelles telles qu’elles sont !"
+  },
+  {
+   "orateur": "M. Patrick Hetzel",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Très bien !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Le régime proposé concerne en effet entre 600 et 900 personnes dont les chefs de la police judiciaire, le renseignement pénitentiaire et les magistrats établissent eux-mêmes les profils ! (M. Ugo Bernalicis s’exclame.) Ce n’est pas le ministre ni le Parlement qui s’en chargent ! N’ayez pas la naïveté dont nous avons tous fait preuve lorsqu’il s’est agi de lutter contre le terrorisme ! Il a fallu que des actes horribles soient commis pour que le président Hollande et ses ministres de l’intérieur successifs prennent courageusement les dispositions nécessaires. Ne soyez pas du mauvais côté de l’histoire : quand vous exercerez des responsabilités, vous aurez à prendre de telles décisions.De ce point de vue, je réponds à M. Iordanoff qu’il ne s’agit pas de viser soit à obtenir des détenus, par le durcissement de leur régime de détention, qu’ils acceptent de se voir attribuer le statut de repenti afin qu’ils parlent, soit à les couper de l’extérieur, mais bien de chercher à atteindre les deux objectifs à la fois ! Quand un repenti parle, nous démantelons une organisation criminelle active à l’extérieur : c’est le modèle italien, qui a fait ses preuves. La surface financière de ces organisations est immense : M. Amra a proposé 2 millions d’euros aux policiers roumains qui l’avaient interpellé !"
+  },
+  {
+   "orateur": "Mme Émilie Bonnivard",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "C’est surréaliste !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Aujourd’hui, on séquestre le dirigeant d’une entreprise du domaine des cryptomonnaies ; mais demain, ce sont des personnes qui s’occupent de blanchiment qui pourront subir de tels agissements. Nous sommes tous potentiellement concernés ! M. Van Quickenborne, qui fut ministre de la justice du gouvernement belge, a dû demeurer reclus, avec sa famille, pendant trois mois, sans même pouvoir se rendre à son ministère, car il était menacé par des organisations criminelles ! Or, comme vous le savez, la Belgique est à quelques centimètres de la France."
+  },
+  {
+   "orateur": "M. Ugo Bernalicis",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Non, elle est collée à la France, en fait ! (Sourires sur les bancs du groupe LFI-NFP.)"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je ne vois pas ce que La France insoumise trouve de drôle à ce que je dis, ni en quoi il serait opportun de ricaner au milieu des tombes ! (Applaudissements sur les bancs des groupes DR, Dem et HOR.)"
+  },
+  {
+   "orateur": "M. Ugo Bernalicis",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "C’est vous qui êtes ridicule !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Rien de tout cela n’est amusant !"
+  },
+  {
+   "orateur": "M. Michel Herbillon",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Ce sont des naïfs provocateurs !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "C’est la vérité de la criminalité organisée ! Je veux dire à M. Iordanoff que, si des personnes soumises à ce régime de détention vont voir leur juge d’instruction pour balancer leurs relations criminelles, nous aurons fait œuvre utile parce que nous aurons sauvé des vies ! Et que, si ce régime permet à un détenu de discuter par visioconférence avec son juge d’instruction, et d’éviter ainsi une extraction judiciaire qui le conduirait à ne passer que quelques instants dans le bureau du juge pour lui dire qu’il ne veut pas parler, nous aurons sauvé des vies et fait œuvre utile !"
+  },
+  {
+   "orateur": "Mme Émilie Bonnivard",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Exactement !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je souligne que les dispositions que nous proposons sont tout à fait conformes à l’article 3 de la Convention européenne des droits de l’homme. L’Irlande et l’Italie, deux pays européens, appliquent un tel régime depuis de nombreuses années, qui a été validé par les instances européennes. Il arrive que l’on ne puisse pas agir parce que la Constitution et les conventions européennes nous en empêchent. Mais il arrive aussi que nous puissions agir, avec l’accord du Conseil d’État, avec l’accord du Sénat, qui a voté à l’unanimité les textes en discussion – certes alors que l’article créant le régime de détention dont nous débattons n’y avait pas encore été intégré –, dans le respect de la CEDH et de la Constitution, alors que d’autres pays européens l’ont fait. Il n’y a aucune raison de ne pas protéger la République contre les organisations criminelles et, dans un pays normalement constitué, l’ensemble des parlementaires devraient le reconnaître ! (Vifs applaudissements sur les bancs des groupes EPR, DR, Dem et HOR, ainsi que sur quelques bancs du groupe UDR.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Antoine Léaument, pour un rappel au règlement. (Protestations sur plusieurs bancs des groupes RN, DR et UDR.)"
+  },
+  {
+   "orateur": "M. Antoine Léaument",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Ce rappel se fonde sur l’article 24 de la Constitution relatif au contrôle parlementaire de l’action du gouvernement. Monsieur le ministre, vous avez parlé de la protection des agents pénitentiaires, je vous ai posé une question à ce sujet et vous n’y avez pas répondu !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. le garde des sceaux, pour répondre à ce rappel."
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je répondrai bien volontiers à M. Léaument si cela lui permet de continuer de participer à notre discussion. Je lui ai d’ailleurs déjà répondu quand nous nous sommes vus,…"
+  },
+  {
+   "orateur": "M. Antoine Léaument",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Non !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "…sans autre témoin, il est vrai, que son collaborateur et ma collaboratrice."
+  },
+  {
+   "orateur": "M. Antoine Léaument",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Justement, ils pourront témoigner !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Mais, puisque la répétition fixe la notion, je veux bien me répéter, au bénéfice de la représentation nationale !S’agissant des agents pénitentiaires, le texte prévoit leur habilitation par voie réglementaire. On n’imaginerait pas que les agents, les greffiers, les magistrats ou les directeurs de prisons qui s’occuperaient de questions relevant du terrorisme ne soient pas habilités ; pourtant, nous n’habilitons pas ceux qui se trouvent face à des organisations criminelles susceptibles d’exploiter leurs faiblesses. Je pense par exemple au surendettement : un agent pénitentiaire surendetté est soumis à la tentation très aiguë d’accepter de se voir rémunérer 10 000 ou 15 000 euros pour faire entrer un téléphone portable dans un établissement pénitentiaire – ce n’est pas déontologique, mais c’est humain ! Pour les protéger, nous les habiliterons donc et retirerons des prisons où s’appliquera le nouveau régime les agents dont les mensonges ou les faiblesses font obstacle à cette habilitation, afin de les déplacer vers des établissements où sont enfermés des détenus moins dangereux.Deuxième point : les agents pénitentiaires concernés ne passeront jamais plus de six mois dans chaque aile de détention, suivant le modèle italien. Le centre pénitentiaire de Vendin-le-Vieil, par exemple, comporte douze ailes de détention distinctes. Grâce à cette mesure, les prisonniers ne croiseront jamais les agents de manière répétée et ne pourront pas prendre l’habitude de les fréquenter. Par ailleurs, les agents seront toujours en binôme."
+  },
+  {
+   "orateur": "M. Bastien Lachaud",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Avec quels effectifs ?"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Troisièmement, nous anonymiserons le travail des agents pénitentiaires, qui ne l’est pas aujourd’hui. De la même manière, lorsque j’étais ministre de l’intérieur, j’ai mené à bien l’anonymisation des officiers de police judiciaire sous l’autorité du procureur de la République. Ces derniers faisaient en effet l’objet de menaces lorsque leurs noms étaient repérés dans les procès-verbaux. Nous permettrons de même aux agents pénitentiaires de ne pas faire apparaître leurs noms et prénoms dans les procès-verbaux, mais seulement leurs numéros de matricule, afin qu’on ne les identifie pas.Quatrièmement, les 5 millions d’euros que nous avons prévu de consacrer à l’aménagement de Vendin-le-Vieil et de Condé-sur-Sarthe serviront à sécuriser leurs abords immédiats. D’ailleurs, le texte prévoit, à l’article 23 bis, la création d’une infraction consistant, sans motif légitime, à s’introduire ou à tenter de s’introduire sur le domaine matériellement délimité affecté à un établissement pénitentiaire. Aujourd’hui, quiconque s’introduit frauduleusement sur un terrain affecté à l’autorité militaire peut être puni pour ce délit ; mais si, par exemple, je pénètre sur le parking de Vendin-le-Vieil et que j’y stationne, je ne puis être interpellé ou poursuivi pour ce fait."
+  },
+  {
+   "orateur": "M. Ugo Bernalicis",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Oui, dès lors que vous n’aurez rien fait de mal !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Demain, la loi prévoira une infraction qui permettra de le faire."
+  },
+  {
+   "orateur": "M. Nicolas Forissier",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Très bien !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Cinquièmement, je déduis de vos propos que vous réclamez l’installation de caméras de vidéoprotection…"
+  },
+  {
+   "orateur": "M. Antoine Léaument",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Non !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "…– c’est une bonne nouvelle que La France insoumise formule de telles demandes ! Il n’en existe pas aujourd’hui aux abords immédiats des parkings et des points d’accès à l’autoroute à Vendin-le-Vieil. Nous les installerons !"
+  },
+  {
+   "orateur": "M. Patrick Hetzel",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Excellent !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Sixième point : comme nous le faisons s’agissant des policiers et des maires, nous communiquerons à la police et à la gendarmerie l’intégralité des numéros de téléphone fixe et de téléphone portable et des adresses des agents pénitentiaires, afin que, si ces derniers appellent les forces de l’ordre, elles prennent ces appels en priorité en vue d’intervenir.J’ai encore évoqué avec vous, monsieur Léaument,…"
+  },
+  {
+   "orateur": "M. Antoine Léaument",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Non !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "…d’autres dispositions que je ne puis mentionner ici pour d’évidentes raisons de sécurité."
+  },
+  {
+   "orateur": "M. Antoine Léaument",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Ce n’est pas vrai !"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Ne doutez pas que nous nous efforcerons autant que possible de protéger les agents pénitentiaires !"
+  },
+  {
+   "orateur": "M. Antoine Léaument",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Il ment ! (Vives exclamations sur les bancs des groupes DR et HOR.)"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Il est vrai que policiers, gendarmes, douaniers, agents pénitentiaires… (Exclamations sur les bancs du groupe LFI-NFP.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "S’il vous plaît, chers collègues, veuillez écouter le ministre d’État !"
+  },
+  {
+   "orateur": "M. Michel Herbillon",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Il serait bien que la présidente préside !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je me passe de vos commentaires, monsieur le député, vous n’avez pas à remettre en cause la présidence. (Applaudissements sur plusieurs bancs du groupe LFI-NFP.) Chacun a le loisir de s’exprimer sur cet article, qui est important. Le ministre fait une réponse longue aux diverses demandes d’explication et j’attends que tout le monde l’écoute dans le calme. Puis nous passerons au vote.Veuillez poursuivre, monsieur le ministre d’État."
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Il est vrai, disais-je, que policiers, gendarmes, douaniers et agents pénitentiaires font un métier difficile et qu’ils peuvent rencontrer la mort – ils le savent quand ils prennent l’uniforme. Je pense, monsieur Léaument, que c’est une bonne raison pour soutenir ce texte. (Applaudissements sur plusieurs bancs des groupes EPR, Dem et HOR.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix les amendements identiques nos 9, 396, 532, 735 et 755."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ],
+ "compte_rendu_precedent": "CRSANR5L17S2025O1N134"
+}

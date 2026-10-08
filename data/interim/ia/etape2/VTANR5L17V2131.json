@@ -1,0 +1,83 @@
+{
+  "uid": "VTANR5L17V2131",
+  "consigne": "etape2_ambiguite v2",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Matthias Renault",
+      "citation": "Chers collègues du bloc central, la loi « climat et résilience » a été une immense erreur.",
+      "justification": "Le groupe déclare vouloir supprimer le ZAN, qu'il juge être une erreur."
+    },
+    "EPR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Sandrine Le Feur",
+      "citation": "Nous devons protéger nos concitoyens et donc conserver cet objectif zéro artificialisation nette.",
+      "justification": "Le groupe déclare vouloir conserver l'objectif ZAN."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. François Piquemal",
+      "citation": "Nos collègues de la droite et de l’extrême droite veulent supprimer le ZAN pour pouvoir continuer la bétonisation, en cours depuis des décennies en France, qui entraîne notamment la réduction des surfaces agricoles.",
+      "justification": "Le groupe s'oppose à la suppression du ZAN en invoquant la réduction des surfaces agricoles."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Gérard Leseul",
+      "citation": "Bref, ne cherchez pas à tout déréguler, sans quoi vous finirez par tout détricoter et par abîmer la France !",
+      "justification": "Le groupe s'oppose à la suppression du ZAN, jugeant que de nombreuses exemptions existent déjà."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Philippe Gosselin",
+      "citation": "Les maires veulent pouvoir construire, créer des emplois. Votons ces amendements dès aujourd’hui",
+      "justification": "Le groupe soutient la suppression du ZAN en invoquant les difficultés des élus locaux pour construire."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Lisa Belluco",
+      "citation": "Je compte sur vos voix pour rejeter ces amendements tendant à détruire la disposition la plus écologique que vous ayez prise en sept ans.",
+      "justification": "Le groupe appelle à rejeter la suppression du ZAN, qu'il présente comme une disposition écologique."
+    },
+    "DEM": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Marc Fesneau",
+      "citation": "Le groupe Démocrates votera contre ces amendements.",
+      "justification": "Le groupe vote contre en déclarant qu'il faut cesser d'artificialiser les sols."
+    },
+    "HOR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Thierry Benoit",
+      "citation": "Mais la proposition du gouvernement est la bonne : revoir cet objectif avec les élus locaux, en particulier dans le cadre de la proposition de loi Trace. En conséquence, il convient de s’opposer à ces amendements tendant à supprimer le ZAN.",
+      "justification": "Le groupe s'oppose à la suppression du ZAN et privilégie sa révision avec les élus locaux."
+    },
+    "LIOT": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "L'orateur du groupe s'exprime sur un autre sujet, sans se prononcer sur les amendements."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Éric Ciotti",
+      "citation": "Je soutiendrai ces amendements ; ce qu’ils tendent à supprimer, c’est un monstre de technocratie.",
+      "justification": "Le groupe soutient la suppression du ZAN, qu'il juge technocratique."
+    }
+  }
+}

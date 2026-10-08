@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V8280",
+  "consigne": "etape3_verification v2",
+  "verdict": "corrige",
+  "problemes": [
+    "La condition de souffrance « insupportable » ne vaut, d'après l'article L. 1111-12-2, que si la personne a choisi de ne pas recevoir ou d'arrêter un traitement ; sinon la souffrance doit être réfractaire aux traitements. La carte présentait les deux comme alternatives libres."
+  ],
+  "corrections": {
+    "ce_que_ca_change": "Un adulte français ou résidant en France, atteint d'une maladie grave et incurable en phase avancée ou terminale, qui souffre malgré les traitements (ou de façon insupportable s'il les refuse), pourrait demander une substance mortelle, à prendre seul ou, s'il ne le peut pas, donnée par un médecin ou un infirmier. Un médecin décide après avis d'autres soignants. Les soignants peuvent refuser."
+  }
+}

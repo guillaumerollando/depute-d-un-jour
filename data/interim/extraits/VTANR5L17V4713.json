@@ -1,0 +1,149 @@
+{
+ "uid": "VTANR5L17V4713",
+ "titre": "l'amendement n° 12 de Mme Josserand au titre de la proposition de loi visant à assurer le droit de chaque enfant à être assisté d'un avocat dans le cadre d'une mesure d'assistance éducative et de protection de l'enfance (première lecture).",
+ "type": "amendement",
+ "date": "2025-12-11",
+ "dossier": "DLR5L17N52781",
+ "dossier_titre": "Assurer le droit de chaque enfant à disposer d’un avocat dans le cadre d’une mesure d’assistance éducative et de protection de l’enfance",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "contre",
+  "LFI": "contre",
+  "SOC": "contre",
+  "DR": "contre",
+  "ECOS": "contre",
+  "DEM": "contre",
+  "HOR": "contre",
+  "GDR": "contre",
+  "UDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 42,
+   "contre": 0,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 0,
+   "contre": 31,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 51,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 0,
+   "contre": 60,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 0,
+   "contre": 8,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 21,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 11,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 10,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 0,
+   "contre": 2,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 0,
+   "contre": 4,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 5,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC2191P0D1N000012",
+  "dossier": "DLR5L17N52781",
+  "texte": "PIONANR5L17BTC2191",
+  "division": "visant à assurer le droit de chaque enfant à être assisté",
+  "auteur": "Mme Josserand,  M. Allisio, M. Amblard, Mme Auzanot, M. Ballard, Mme Bamana, M. Barthès, M. Baubry, M. Beaurain, M. Bentz, M. Bernhardt, M. Bigot, M. Bilde, M. Blairy, Mme Blanc, M. Boccaletti, Mme Bordes, M. Boulogne, Mme Bouquin, M. Bovet, M. Buisson, M. Casterman, M. Chenu, M. Chudeau, M. Clavet, Mme Colombier, Mme Da Conceicao Carvalho, M. de Fleurian, M. de Lépinau, Mme Delannoy, M. Dessigny, Mme Diaz, Mme Dogor-Such, M. Dragon, M. Dufosset, M. Dussausaye, M. Dutremble, M. Evrard, M. Falcon, M. Florquin, M. Fouquart, M. Frappé, M. Gabarron, Mme Galzy, M. Gery, M. Giletti, M. Gillet, M. Christian Girard, M. Golliot, M. Gonzalez, Mme Florence Goulet, Mme Grangier, Mme Griseti, M. Guibert, M. Guiniot, M. Guitton, Mme Hamelet, M. Houssin, M. Humbert, M. Jacobelli, M. Jenft, M. Jolly, Mme Joncour, Mme Joubert, Mme Laporte, Mme Lavalette, M. Le Bourgeois, Mme Le Pen, Mme Lechanteux, Mme Lechon, Mme Lelouis, Mme Levavasseur, M. Limongi, M. Lioret, Mme Loir, M. Lopez-Liguori, Mme Lorho, M. Lottiaux, M. Loubet, M. David Magnier, Mme Marais-Beuil, M. Marchio, M. Markowsky, M. Patrice Martin, Mme Martinez, Mme Alexandra Masson, M. Bryan Masson, M. Mauvieux, M. Meizonnet, M. Meurin, M. Monnier, M. Muller, Mme Mélin, Mme Ménaché, M. Ménagé, M. Odoul, Mme Parmentier, M. Perez, M. Pfeffer, Mme Pollet, M. Rambaud, Mme Ranc, M. Rancoule, M. Renault, Mme Rimbert, M. Rivière, Mme Robert-Dehault, Mme Roullaud, Mme Roy, Mme Sabatini, M. Sabatou, M. Salmon, M. Schreck, Mme Sicard, M. Emmanuel Taché, M. Jean-Philippe Tanguy, M. Taverne, M. Tesson, M. Tivoli, M. Tonussi, M. Villedieu, M. Vos et M. Weber",
+  "auteur_groupe": "RN",
+  "auteur_type": "Député",
+  "dispositif": "À la fin du titre, supprimer les mots : « et de protection de l’enfance ».",
+  "expose": "Cet amendement vise à supprimer l'expression « et de protection de l’enfance » dans le titre de la proposition de loi, qui juxtapose deux concepts différents l'un à l'autre. La « protection de l’enfance » est définie par le code de l’action sociale et des familles comme un objectif ultime, alors que l'« assistance éducative » est un des moyens de sa mise en œuvre. De plus, l'action des départements pour la protection de l'enfance relève du droit administratif, alors que la procédure d’assistance éducative est une procédure judiciaire mise en œuvre par le juge des enfants, juge judiciaire. En conséquence, la juxtaposition de deux concepts différents ne reflète pas avec précision le contenu de la proposition de loi."
+ },
+ "seance": "RUANR5L17S2026IDS30043",
+ "compte_rendu": "CRSANR5L17S2026O1N090",
+ "interventions": [
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je suis saisie de deux demandes de scrutin public : sur l’amendement n° 12, par le groupe Rassemblement national, et sur l’ensemble de la proposition de loi, par le groupe Socialistes et apparentés. Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale. La parole est à Mme Sylvie Josserand, pour soutenir l’amendement no 12."
+  },
+  {
+   "orateur": "Mme Sylvie Josserand",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "La proposition de loi s’inscrit « dans le cadre d’une mesure d’assistance éducative et de protection de l’enfance ». Or la loi ne connaît que la mesure d’assistance éducative. La protection de l’enfance est un but et l’assistance éducative est une procédure pour atteindre ce but. Le titre associe donc deux concepts qui ne peuvent être mis sur le même plan : le premier est un moyen et le second est le but à atteindre.J’ajoute que l’action des départements pour la protection de l’enfance relève du droit administratif, alors que la procédure d’assistance éducative est une procédure mise en œuvre par un juge judiciaire, le juge des enfants.La juxtaposition de ces deux concepts ne reflète pas avec précision le contenu de la proposition de loi. Nous proposons donc de supprimer l’expression « protection de l’enfance » du titre de la proposition de loi. (Applaudissements sur les bancs des groupes RN et UDR.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis de la commission ?"
+  },
+  {
+   "orateur": "Mme Ayda Hadizadeh",
+   "qualite": "rapporteure",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je suis défavorable à cette modification pour la simple et bonne raison que la protection de l’enfance est une expression qui parle à tous : aux adultes, mais surtout aux enfants. Or nous souhaitons que les enfants puissent s’approprier cette loi et qu’ils sachent que la République, personnifiée par un avocat payé par les contribuables pour les assister dans leurs démarches, est à leurs côtés. (Applaudissements sur quelques bancs des groupes SOC et EcoS.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis du gouvernement ?"
+  },
+  {
+   "orateur": "Mme Stéphanie Rist",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Défavorable."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 12."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

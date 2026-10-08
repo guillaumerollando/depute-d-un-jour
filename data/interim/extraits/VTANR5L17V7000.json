@@ -1,0 +1,108 @@
+{
+ "uid": "VTANR5L17V7000",
+ "titre": "l'amendement n° 27 de M. Nilor à l'article 2 de la proposition de loi portant abrogation du « code noir » (première lecture).",
+ "type": "amendement",
+ "date": "2026-05-28",
+ "dossier": "DLR5L17N52767",
+ "dossier_titre": "Abrogation du Code noir",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "contre",
+  "EPR": "contre",
+  "LFI": "pour",
+  "SOC": "pour",
+  "DR": "contre",
+  "ECOS": "pour",
+  "DEM": "contre",
+  "HOR": "contre",
+  "LIOT": "contre",
+  "UDR": "contre",
+  "GDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 0,
+   "contre": 48,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 0,
+   "contre": 25,
+   "abstention": 1
+  },
+  "LFI": {
+   "pour": 47,
+   "contre": 0,
+   "abstention": 1
+  },
+  "SOC": {
+   "pour": 23,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 0,
+   "contre": 7,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 17,
+   "contre": 1,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 8,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 10,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 1,
+   "contre": 14,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 0,
+   "contre": 4,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 6,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC2810P0D1N000027",
+  "dossier": "DLR5L17N52767",
+  "texte": "PIONANR5L17BTC2810",
+  "division": "Article 2",
+  "auteur": "M. Nilor,  M. Nadeau, M. Ratenon et M. Gaillard",
+  "auteur_groupe": "LFI",
+  "auteur_type": "Député",
+  "dispositif": "Compléter cet article par la phrase suivante : « Il aborde également la question de la justice réparatrice, et formule des propositions afin d’engager le Gouvernement à prendre des mesures collectives de réparations matérielles et financières. »",
+  "expose": "En 1848 au moment de l’abolition, ce ne sont pas les esclaves qui ont été dédommagés mais les propriétaires d’esclaves afin de compenser la perte de leur « patrimoine » humain. Dans le même temps, aucune puissance coloniale européenne, aucun pays d’Amérique ne verse aux anciens esclaves de compensation matérielle sous quelque forme que ce soit. Malgré les demandes répétées de toutes les anciennes colonies, la France ainsi que toutes les anciennes puissances coloniales ont toujours rejeté toutes les demandes de réparations matérielles et financières liées à l’esclavage. La loi du 21 mai 2001 (loi Taubira) a qualifié la traite et l’esclavage de crimes contre l’humanité mais n’a pas pu aborder la question de la réparation financière. Aujourd’hui, lors du 25e anniversaire de cette loi, le Président de la République a évoqué la possibilité de réparations matérielles et symboliques et précise que « la question de la réparation ne doit pas être éludée ». Les réparations incluent la refonte des programmes scolaires, la création de lieux de mémoire comme le prévoit l’article 2 de cette proposition de loi. Mais, pour prendre le Président de la République aux mots et l’exhorter à rompre vraiment avec la position historique de tous les gouvernements successifs opposés à toutes compensations financières, ce rapport doit également formuler des propositions afin d’inciter ce Gouvernement et ceux à venir à prendre des mesures collectives de réparations matérielles et financières."
+ },
+ "seance": "RUANR5L17S2026IDS30616",
+ "compte_rendu": "CRSANR5L17S2026O1N250",
+ "interventions": [
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 27."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

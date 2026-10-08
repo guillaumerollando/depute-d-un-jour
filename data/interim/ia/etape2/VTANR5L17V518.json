@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V518",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Matthias Renault",
+      "citation": "Ensuite, ce texte ouvre des crédits indispensables pour la Nouvelle-Calédonie, dont la situation nécessite une réponse urgente, au-delà des différences partisanes.",
+      "justification": "Le groupe vote le texte pour les crédits qu'il ouvre."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Jean-René Cazeneuve",
+      "citation": "Ce texte est indispensable pour nos policiers, nos gendarmes, nos AESH – accompagnants d’élèves en situation de handicap –, nos viticulteurs et nos compatriotes néo-calédoniens.",
+      "justification": "Le groupe déclare soutenir le texte pour les crédits qu'il contient."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Aurélien Le Coq",
+      "citation": "Si vous votez pour, vous acceptez sciemment un nouveau plan d’austérité d’une rare violence.",
+      "justification": "Le groupe s'oppose au texte qu'il qualifie de plan d'austérité."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Corentin Le Fur",
+      "citation": "il comporte des mesures d’urgence indispensables pour la Nouvelle-Calédonie. Les députés du groupe Droite républicaine le voteront",
+      "justification": "Le groupe vote le texte pour les mesures d'urgence qu'il contient."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe commente la procédure sans indiquer la raison de son vote contre."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Didier Padey",
+      "citation": "il est essentiel car il doit permettre de financer des dépenses urgentes et nécessaires pour aborder avec sérénité la fin de l’année 2024 tout en évitant de creuser davantage le déficit public",
+      "justification": "Le groupe déclare soutenir le texte pour les dépenses qu'il finance."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Félicie Gérard",
+      "citation": "Malgré une situation budgétaire très particulière et fragile, ce texte permet un ajustement réfléchi, notamment sur des sujets régaliens, afin de soutenir la Nouvelle-Calédonie ou les forces de l’ordre qui nous ont protégés lors des JOP.",
+      "justification": "Le groupe déclare soutenir le contenu du texte."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Charles de Courson",
+      "citation": "En premier lieu, celui-ci doit permettre de répondre à des besoins urgents de la fin de gestion 2024.",
+      "justification": "Le groupe vote le texte pour les besoins urgents qu'il couvre."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Emmanuel Maurel",
+      "citation": "Parce que, dans ce projet de loi, il n’y a « rien qui va »",
+      "justification": "Le groupe déclare s'opposer au contenu du texte."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Les propos du groupe sur la politique budgétaire ne permettent pas de déterminer la raison de son vote favorable."
+    }
+  }
+}

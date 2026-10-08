@@ -1,0 +1,286 @@
+{
+ "uid": "VTANR5L17V3260",
+ "titre": "la proposition de résolution visant à dénoncer les accords franco-algériens du 27 décembre 1968 (article 34-1 de la Constitution).",
+ "type": "resolution",
+ "date": "2025-10-30",
+ "dossier": "DLR5L17N52719",
+ "dossier_titre": "Dénoncer les accords franco-algériens du 27 décembre 1968",
+ "sort": "adopté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "contre",
+  "LFI": "contre",
+  "SOC": "contre",
+  "DR": "pour",
+  "ECOS": "contre",
+  "DEM": "contre",
+  "HOR": "pour",
+  "GDR": "contre",
+  "UDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 122,
+   "contre": 0,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 0,
+   "contre": 30,
+   "abstention": 3
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 52,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 0,
+   "contre": 53,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 26,
+   "contre": 0,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 32,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 10,
+   "abstention": 2
+  },
+  "HOR": {
+   "pour": 17,
+   "contre": 0,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 2,
+   "contre": 1,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 0,
+   "contre": 6,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 15,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": null,
+ "seance": "RUANR5L17S2026IDS29854",
+ "compte_rendu": "CRSANR5L17S2026O1N021",
+ "interventions": [
+  {
+   "orateur": "M. Philippe Bonnecarrère",
+   "qualite": null,
+   "groupe": "NI",
+   "president_de_seance": false,
+   "texte": "J’ai comme vous une pensée pour nos deux concitoyens détenus en otage d’État par l’Algérie.Comme de coutume, j’aborderai le sujet en formulant exclusivement des propositions. En matière migratoire, la France est partie prenante de 197 accords, dont 140 sont bilatéraux – par exemple l’accord du Touquet, le traité de Sandhurst ou encore l’accord franco-algérien de 1968. Ces accords portent sur des sujets très variés, puisqu’ils concernent à la fois les visas de court séjour, le codéveloppement ou l’immigration irrégulière. D’où ma première proposition : notre pays doit se doter d’une doctrine d’emploi de ces accords ainsi que d’un cadre de suivi de leur exécution.Deuxième proposition : tous les accords n’ayant pas la même importance, certains doivent être suivis de manière prioritaire – l’accord franco-algérien étant évidemment la priorité numéro un, l’éléphant dans le salon, si vous me permettez cette formule.La troisième proposition porte sur la durée. Celle du traité signé avec l’Algérie est indéterminée. Or nous avons intérêt à intégrer des clauses de revoyure dans nos conventions internationales et à en fixer la durée de validité. La France pourrait élaborer un mémorandum, qui traduirait une telle volonté, afin de donner à la partie algérienne le temps de s’organiser.La quatrième proposition consiste à examiner nos autres moyens d’action. Je pense en premier lieu à la convention générale de sécurité sociale de 1980, mais aussi aux passeports de service, dont les détenteurs sont exemptés de visas – revenir sur cette disposition qui bénéfice à la nomenklatura constitue sans doute notre meilleur levier d’action. Monsieur le ministre, combien de passeports de ce type sont encore valides aujourd’hui, par rapport au 1er janvier 2024 ?Cinquièmement, afin de déterminer si ces accords sont caducs et s’il convient de les révoquer, nous disposons de deux rapports : celui de mes collègues sénateurs Muriel Jourda et Olivier Bitz relatif aux instruments migratoires internationaux ; et bien sûr de celui, remarquable, des députés Charles Rodwell et Mathieu Lefèvre, consacré aux implications juridiques et budgétaires des accords bilatéraux conclus en matière de circulation, de séjour, de santé et d’emploi. Que nous disent-ils ? Que ces accords ne prévoient pas de réciprocité entre l’Algérie et la France. Or un pays a des intérêts. Je ne me prononcerai pas sur la pertinence de révoquer l’accord franco-algérien, mais il est normal d’en débattre, et normal que la France, dans ses relations avec l’Algérie, fasse savoir qu’elle peut envisager ce moyen d’action. Des relations bilatérales de qualité doivent être équilibrées.Sixièmement, il a souvent été dit qu’une révocation des accords nous renverrait à la situation de 1962. Qui peut imaginer que l’Algérie revendique un statut impliquant de renoncer à son indépendance ? Il y a des limites au raisonnement par l’absurde. Cette objection peut donc être écartée.J’en viens enfin à l’impensé du débat. Bien que la proposition de résolution s’adresse aux autorités compétentes, personne n’a indiqué qui avait la compétence de dénoncer ces accords. L’article 52 de la Constitution dispose : « Le président de la République négocie et ratifie les traités. » Par parallélisme des formes, il me semble donc que seul ce dernier pourrait décider de les remettre en cause."
+  },
+  {
+   "orateur": "M. Philippe Bonnecarrère",
+   "qualite": null,
+   "groupe": "NI",
+   "president_de_seance": false,
+   "texte": "Mais il faut lire aussi l’article 53 de la Constitution : « Les traités […] relatifs à l’état des personnes […] ne peuvent être ratifiés ou approuvés qu’en vertu d’une loi. » Autrement dit, si le président de la République a l’initiative des traités, les négocie et a le dernier mot en les ratifiant, le Parlement codécide de leur contenu ; le président a certes la première place, mais le Parlement joue aussi son rôle. Il est donc normal que ce débat ait lieu et que chacun puisse donner son opinion. (Applaudissements sur les bancs du groupe DR. – M. Joël Bruneau applaudit également.)"
+  },
+  {
+   "orateur": "M. Laurent Panifous",
+   "qualite": "ministre délégué chargé des relations avec le Parlement",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je vous prie d’excuser l’absence du ministre de l’Europe et des affaires étrangères ainsi que celle de ses ministres délégués, requis ce matin par d’importants travaux diplomatiques.Alors que nous traversons une phase de fortes tensions bilatérales avec l’Algérie – renforcées par la détention inacceptable de nos compatriotes Boualem Sansal et Christophe Gleizes, tous deux lourdement condamnés au début de l’été et à qui je rends un hommage appuyé –, la question des accords franco-algériens relatifs à la circulation des personnes suscite un débat qu’il faut aborder sans tabou.Du fait d’une histoire partagée, qui a créé des liens complexes et profonds entre nos deux nations, l’Algérie est le premier pays d’immigration en France ; or les pouvoirs publics s’attachent aujourd’hui à mieux contrôler les flux migratoires. Ce débat n’est pas neuf et préexistait aux tensions que nous connaissons depuis la fin 2024. L’objectif – partagé par les deux pays – d’une révision de l’accord de 1968, largement anachronique par rapport à notre droit commun, figurait déjà dans la déclaration d’Alger de 2022, à la suite de la visite du président de la République.La proposition de résolution du Rassemblement national appelle à dénoncer cet accord. Comme l’a souligné le premier ministre le 15 octobre dans sa déclaration de politique générale, l’immigration constitue pour l’Europe un défi majeur. Nous avons à construire une politique migratoire claire, stable et conforme à nos valeurs. La France doit savoir accueillir ; elle doit aussi savoir dire non. L’accord franco-algérien de 1968 est devenu un totem du débat public, que l’on agite dès que l’on veut témoigner d’une position de fermeté sur les questions migratoires ou la relation avec l’Algérie.Son contenu est cependant mal connu. En premier lieu, il ne prévoit rien sur le sujet, difficile, de la réadmission des Algériens en situation irrégulière – encadrée quant à elle par un protocole spécifique datant de 1994. Les difficultés d’éloignement que nous rencontrons ne sont pas propres à l’Algérie, mais il est particulièrement important que la coopération avec cette dernière fonctionne, dans la mesure où les Algériens constituent le premier contingent d’étrangers dans notre pays. Chacun sait que les difficultés en la matière ont été aggravées par la crise bilatérale que nous traversons depuis plusieurs mois. En 2024, nous avions pourtant enregistré une année record en termes de laissez-passer consulaires délivrés dans les délais entre nos deux pays mais aussi en comparaison avec l’ensemble de l’Afrique du Nord. Depuis, le nombre de réadmissions est tombé à zéro.Nous rencontrons des difficultés spécifiques : les autorités algériennes refusent le retour de ressortissants algériens qui disposent pourtant de documents d’identité en règle, en contradiction avec le protocole de 1994 et le droit international. Quant à la délivrance de laissez-passer consulaires, elle s’est réduite, depuis début 2025, à mesure que la crise bilatérale se traduisait, dans le débat national, par des invectives. Nous nous trouvons donc dans une situation critique en matière d’éloignement d’Algériens en situation irrégulière – je pense en particulier aux auteurs de trouble à l’ordre public. La solution ne peut donc consister à lancer des invectives ou à brandir des totems.Dénoncer l’accord de 1968 n’aurait aucun effet sur les réadmissions, puisqu’il ne procure aucune protection particulière aux ressortissants algériens en situation irrégulière. D’où l’urgence, soulignée par le ministre de l’intérieur, de reprendre une coopération effective : elle seule permettra d’inverser la dynamique des réadmissions. L’accord n’encadre en effet que la circulation, l’emploi et le séjour des Algériens en France. Il contient certes, pour ceux qui sont en situation régulière, des leviers – qui ne sont pas équivalents aux dispositions du Ceseda – pour agir sur le plan de la police du séjour. Néanmoins, le Conseil d’État a récemment affirmé qu’il était possible de refuser le renouvellement d’un certificat de résidence de dix ans pour des motifs d’ordre public.Dénoncer l’accord de 1968 serait ensuite sans effet sur les ressortissants algériens déjà présents sur le territoire et qui disposent d’un certificat de résidence. Si l’accord ne s’appliquait pas, les Algériens resteraient soumis aux dispositions de droit commun encadrant l’arrivée et le séjour des étrangers en France, lesquelles sont plus restrictives en matière d’immigration familiale, mais plus souples en matière d’immigration économique."
+  },
+  {
+   "orateur": "M. Laurent Panifous",
+   "qualite": "ministre délégué",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Il est indéniable que cet accord, s’il a été légitime par le passé, lorsqu’il fallait organiser une immigration du travail pour les besoins de l’économie, est désormais anachronique. Il ne correspond plus à nos intérêts en matière migratoire : il facilite l’immigration familiale, qui représente 52 % des titres de séjour délivrés aux Algériens, au détriment de l’accueil de talents estudiantins ou professionnels, qui ne sont pas couverts par l’accord ; il est également moins exigeant en matière de police du séjour.J’y insiste, l’accord n’est pas figé : nous avons déjà, à trois reprises, négocié avec les autorités algériennes des avenants plus exigeants. En 1985, nous avons renforcé les critères d’admission sur le territoire français, en introduisant par exemple des conditions de ressources et en précisant les conditions de délivrance des certificats de résidence. En 1994, nous avons rendu obligatoire la présentation d’un passeport et d’un visa court séjour pour les Algériens souhaitant se rendre en France et nous avons précisé les conditions de péremption des certificats de résidence. En 2001, nous avons explicité les conditions du regroupement familial, y compris les cas dans lesquels il pouvait être refusé.Notre ferme intention et notre intérêt sont de renégocier cet accord, le moment venu, pour obtenir un texte plus proche du droit commun et plus équilibré. Cette renégociation a été prévue par le comité intergouvernemental de haut niveau franco-algérien d’octobre 2022. Le gouvernement s’oppose donc à la résolution déposée par le Rassemblement national. Aux mots qui choquent, sans aucune efficacité, le gouvernement préfère les actes aux résultats tangibles. (Vives exclamations sur les bancs du groupe RN.)"
+  },
+  {
+   "orateur": "M. Laurent Panifous",
+   "qualite": "ministre délégué",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Nous assumons le rapport de force et la fermeté : ils sont plus à même de produire des résultats que les effets de manche. Il est facile de taper du poing sur la table à propos du dossier algérien. Mais nous n’avons rien à gagner d’une aggravation de la crise avec l’Algérie, sinon à voir la question des réadmissions s’enkyster et engendrer un risque sécuritaire dont il est de la responsabilité du gouvernement de protéger les Français. Notre gouvernement a une responsabilité et une seule : faire progresser concrètement les intérêts de la France et des Français. C’est ce que nous faisons ; c’est la voie de la responsabilité et j’en appelle à celle de chacune et de chacun d’entre vous. (Mme Nicole Dubré-Chirat applaudit.)"
+  },
+  {
+   "orateur": "M. Guillaume Bigot",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Le parti d’une dictature qui opprime son peuple ! (Applaudissements sur les bancs du groupe RN, dont plusieurs membres se lèvent, et sur les bancs du groupe UDR. – Vives exclamations sur plusieurs bancs des groupes LFI-NFP, SOC, EcoS et GDR.) Nous ne vous laisserons pas faire, nous ne nous laisserons pas intimider ! Lorsque vous nous traitez de xénophobes et de racistes, regardez dans les yeux deux tiers du corps électoral d’accord avec nous !"
+  },
+  {
+   "orateur": "M. Guillaume Bigot",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "…pour redresser la France, leur pays ! (Applaudissements sur quelques bancs du groupe RN.)En second lieu, l’argument du retour aux accords d’Évian est un épouvantail juridique. Cette politique calamiteuse qui plombe la France depuis plus de quarante ans repose en grande partie sur un chantage à la compétence, qu’il faut dénoncer. Conformément aux articles 59 et 70 de la convention de Vienne de 1969, s’il est vrai que le traité de 1968 ne prévoit pas de sortie, alors il sera aboli et le droit commun reprendra sa fonction.En troisième lieu, je veux répondre aux critiques en irresponsabilité. L’irresponsabilité, alors que les taux d’intérêt et notre dette flambent, c’est de dilapider encore 2 milliards d’euros par an dans un système qui ne fonctionne pas. (Applaudissements sur plusieurs bancs des groupes RN et UDR.) Quant aux informations prétendument indispensables fournies par les services algériens, si M. Nuñez a déclaré que nous en avions besoin, M. Retailleau avait affirmé que, pendant les Jeux olympiques, l’Algérie ne nous fournissait plus aucune information – il faudrait qu’ils se mettent d’accord !"
+  },
+  {
+   "orateur": "Mme Laure Miller",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "En revanche, on ne vous entend pas beaucoup lorsque les droits de l’homme sont attaqués en Russie. (Applaudissements sur quelques bancs du groupe EPR. – Exclamations sur plusieurs bancs du groupe RN. – Mme Michèle Martinez fait signe à l’oratrice de partir.) On ne vous entendait pas non plus lorsque certains de vos collègues posaient en Syrie aux côtés du dictateur sanguinaire Bachar al-Assad. Voilà la position historique du Front national ! (Exclamations sur plusieurs bancs du groupe RN.)"
+  },
+  {
+   "orateur": "Mme Laure Miller",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "C’est facile et confortable, le populisme : on raconte ce que les gens ont envie d’entendre. Mais quand il s’agit de travailler et de proposer des mesures efficaces, il n’y a plus personne ! (Applaudissements sur quelques bancs du groupe EPR. – Exclamations sur plusieurs bancs du groupe RN.) On ne peut s’empêcher de se remémorer l’entre-deux-tours des dernières législatives : vous aviez un beau programme mais, à quelques jours d’une entrée potentielle de Jordan Bardella à Matignon, vous avez commencé à bégayer ! Quand il s’agissait d’expliquer comment nous allions revenir à la retraite à 60 ans, il n’y avait plus personne ! (Exclamations prolongées sur les bancs du groupe RN.) Lorsqu’il s’agissait d’expliquer comment on allait interdire le voile dans l’espace public, il n’y avait plus personne ! Voilà ce qu’est le parti d’extrême droite de notre hémicycle : un parti populiste, qu’il faut combattre."
+  },
+  {
+   "orateur": "M. Bastien Lachaud",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "…sont la chose la mieux partagée à droite. (Mêmes mouvements.) Ce sont toujours les mêmes lubies, les mêmes fantasmes ; vous vous en prenez à l’accord franco-algérien que vous accusez de tous les maux. Encore une occasion pour agiter le spectre de l’immigration de masse et du grand remplacement. C’est immonde et ridicule. Tous les chercheurs sérieux le disent : on est très loin de la submersion.L’accord franco-algérien serait extrêmement favorable ? Foutaise encore, contresens historique, même : l’accord de 1968 a précisément été signé pour encadrer l’immigration algérienne, volonté partagée alors par les gouvernements du général de Gaulle et du président Boumédiène. Favorable, il l’est par certains aspects ; l’histoire commune à nos deux pays le justifie. Mais par d’autres, beaucoup moins : il est défavorable aux étudiants et il n’exonère nullement les ressortissants algériens des règles d’accès au marché du travail et des mesures d’éloignement.Surtout, il y a un fossé entre les dispositions théoriques et la réalité que vivent des dizaines de milliers de gens dans les consulats et les préfectures : dossier impossible à déposer en ligne, rendez-vous impossibles à obtenir, blocages administratifs infinis. (Applaudissements sur plusieurs bancs des groupes LFI-NFP et GDR.) Dans mes permanences parlementaires, je reçois semaine après semaine des familles franco-algériennes déchirées qui ne parviennent même pas à obtenir un visa de court séjour pour un grand-père ou une grand-mère qui voudrait voir ses petits-enfants pendant les vacances. Voilà la réalité ! (Applaudissements sur les bancs du groupe LFI-NFP, sur plusieurs bancs du groupe GDR et sur quelques bancs des groupes SOC et EcoS.)Mais, au fond, vous savez sans doute tout cela, comme vous savez sans doute que votre texte est aussi inconséquent qu’incantatoire. Non seulement le présent texte est un ramassis de foutaises, et vous le savez, mais il est dangereux, et vous le savez tout aussi bien. (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)Pourquoi alors vous obstiner ? Nous ne le savons que trop : habités par une obsession morbide, vous rejouez à l’infini la guerre d’Algérie, vous soufflez sur les braises du passé, vous flattez le vent mauvais de la xénophobie et du racisme, en espérant en tirer un bénéfice électoral inavouable ! (Applaudissements sur les bancs du groupe LFI-NFP et sur plusieurs bancs des groupes SOC et GDR.)Vous n’êtes pas les seuls, dans cette assemblée, à faire un tel calcul : sur les bancs de la minorité présidentielle, d’autres vous disputent la palme et s’apprêtent même, peut-être, à voter avec vous."
+  },
+  {
+   "orateur": "M. Bastien Lachaud",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Honte à vous ! Les conséquences de vos paroles sont graves. Elles alimentent le racisme d’atmosphère et le climat anxiogène qui étouffent notre pays. (Applaudissements sur les bancs du groupe LFI-NFP.) Qui en fait les frais ? Les étrangers, les binationaux ou, plus largement, nos concitoyens issus de l’immigration – ceux qui subissent la violence d’une administration qui restreint et piétine leurs droits, ceux qui subissent la violence d’une stigmatisation permanente et d’une discrimination systémique.« C’est l’État qui se pense lui-même en pensant l’immigration », écrivait le grand sociologue franco-algérien Abdelmalek Sayad. Deux façons de penser l’immigration et la France s’offrent alors à nous. La première est celle d’une France républicaine, fidèle à ses principes universalistes, capable de regarder son passé en face et de s’ouvrir à l’avenir : c’est la nôtre ! (Applaudissements sur les bancs du groupe LFI-NFP et sur quelques bancs du groupe EcoS. – M. Philippe Brun applaudit également.) La seconde est celle d’une France rabougrie, apeurée, confite dans de vieilles rancœurs recuites, hantée par des fantasmes identitaires et effrayée par des lubies racistes : c’est celle que vous défendez avec ce texte, celle que nous refusons. Nous voterons contre ce texte ! (Les députés du groupe LFI-NFP se lèvent pour applaudir. – Applaudissements sur plusieurs bancs du groupe SOC, dont quelques députés se lèvent également, et sur plusieurs bancs du groupe EcoS.)"
+  },
+  {
+   "orateur": "M. Laurent Lhardit",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "…les communautés les unes à côté des autres, dans un respect mutuel, et cette haine qui descend de manière verticale du nord de la France – de Paris et du Parlement où siègent, si nombreux, les députés du groupe Rassemblement national et de son croupion ciottiste. (Applaudissements sur les bancs du groupe SOC et sur quelques bancs du groupe EcoS.)Votre histoire est celle d’un parti qui ne prospère que sur la haine de l’autre. (Mêmes mouvements.) Souvenez-vous, pourtant : quels étaient vos slogans avant les années 1970 – avant qu’ils n’accusent les Arabes et les Algériens de piquer le travail des Français ? Ils étaient inspirés par la haine des Juifs ! (Applaudissements sur les bancs des groupes SOC, LFI-NFP et GDR. – Vives exclamations sur les bancs du groupe RN, dont plusieurs députés montrent les bancs situés à la gauche de l’hémicycle.)"
+  },
+  {
+   "orateur": "M. Laurent Lhardit",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Hier, les Juifs, aujourd’hui les Arabes – demain, à qui le tour ? Vous ne changerez pas : c’est pourquoi aujourd’hui, comme hier et comme demain, vous nous trouverez toujours en travers de votre route ! (Les députés des groupes SOC, EcoS et GDR se lèvent pour applaudir. – Applaudissements sur les bancs du groupe LFI-NFP et sur quelques bancs du groupe EPR.)"
+  },
+  {
+   "orateur": "M. Éric Pauget (DR)",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Le groupe Droite républicaine fera preuve de lucidité et de constance. Nous avons toujours soutenu la dénonciation des accords de 1968 avec l’Algérie. (Exclamations sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR.)Nous soutiendrons et voterons donc cette proposition de résolution, quels qu’en soient les auteurs, car nous sommes constants. (Applaudissements sur les bancs du groupe DR et sur quelques bancs des groupes RN et UDR.)"
+  },
+  {
+   "orateur": "M. Éric Pauget",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Nous dénoncerons les accords de 1968 car nous devons moderniser des accords obsolètes et qui, comme un précédent orateur l’a dit, n’ont pas de limite dans le temps. (M. Laurent Wauquiez applaudit.)Nous dénoncerons les accords de 1968 car nous devons abroger ces accords aux conséquences économiques et sociales disproportionnées pour notre État et pour la France.La France ne peut plus et ne doit plus se faire humilier : elle doit se faire respecter. (Applaudissements sur les bancs du groupe DR.) Voilà l’enjeu de la dénonciation des accords de 1968 ! (Applaudissements sur les bancs du groupe DR et sur plusieurs bancs des groupes RN et UDR. – Exclamations sur les bancs du groupe SOC.)"
+  },
+  {
+   "orateur": "Mme Sabrina Sebaihi",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Vous voulez dénoncer l’accord de 1968 ? Alors chiche ! Revenons à 1962 et aux accords d’Évian, à la libre circulation totale, à la promesse de respect, de mémoire et de réparation ; revenons à ce moment où la France a cessé d’être une puissance coloniale. Vous voulez, pour les Algériens, le même traitement que pour les Australiens, avez-vous dit. Savez-vous seulement que les Australiens sont exemptés de visa pour venir en France – savez-vous que la France n’a jamais colonisé l’Australie ? (Applaudissements sur les bancs des groupes EcoS et LFI-NFP ainsi que sur quelques bancs du groupe SOC. – M. Éric Martineau applaudit également.)Vous n’en êtes cependant pas à une approximation près : l’accord de 1968 est défavorable aux étudiants algériens mais vous ne le dites jamais, tant vous suintez l’algérophobie ! Vous préférez lier immigration et insécurité, alors que c’est bien dans vos rangs que l’on retrouve le plus de délinquants, condamnés pour xénophobie et antisémitisme ! (Applaudissements sur les bancs du groupe EcoS, sur quelques bancs du groupe EPR et sur les bancs des groupes LFI-NFP, SOC et GDR.)Il n’y a pas si longtemps, monsieur Bigot, vous indiquiez vous-même déplorer les origines dégoûtantes du RN, qui ne propose aucun élan, aucune dynamique, aucune grandeur : vous aviez raison ! Car pendant que les Algériens travaillent en France et produisent de la richesse, vous détournez le fruit de leur travail, au Parlement européen, pour plus de 4 millions d’euros : voilà ce qui coûte cher à la France ! (Applaudissements sur les bancs des groupes EcoS, LFI-NFP, SOC et GDR.)"
+  },
+  {
+   "orateur": "Mme Sabrina Sebaihi",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Oui, je suis Française et, oui, je suis Algérienne ! Je suis fière de mon histoire (Applaudissements sur les bancs des groupes EcoS, LFI-NFP, SOC et GDR ainsi que sur quelques bancs des groupe EPR et Dem), qui est celle d’une lignée de résistants, tandis que la vôtre est le produit de la collaboration. Pendant que mon grand-père était au front, pour la France, à combattre le fascisme, Jean-Marie Le Pen aiguisait son couteau pour torturer les Algériens et nouait des alliances avec les Waffen-SS afin de fonder votre parti politique ! (Applaudissements sur les bancs des groupes EcoS et LFI-NFP. – Exclamations sur les bancs du groupe RN.)"
+  },
+  {
+   "orateur": "M. Bruno Fuchs",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Si nous devons largement accélérer le rythme des reconduites à la frontière, votre résolution aura pourtant pour effet de réduire à zéro l’exécution des OQTF – votre leitmotiv, pourtant. Depuis les quelques mois qu’a commencé la crise avec le régime algérien, ce ne sont qu’entre zéro et deux OQTF qui sont exécutées chaque semaine."
+  },
+  {
+   "orateur": "M. Bruno Fuchs",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Ces accords doivent être révisés. Ils ne correspondent plus à la réalité de la situation ni aux intérêts de la France. Ils ont déjà été révisés trois fois et il existe un processus permettant de le faire une quatrième fois. De toute évidence, la responsabilité, l’efficacité et la dynamique positive, pour la France, se trouvent dans la renégociation de ces accords dans les plus brefs délais – c’est ce que nous souhaitons."
+  },
+  {
+   "orateur": "M. Sylvain Berrios",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "…est la conséquence d’une longue histoire entre l’Algérie et la France. Ces accords de 1968 sont le fruit d’une fraternité initiale entre nos deux pays.Le régime algérien est aujourd’hui à l’origine d’une importante crise entre nos pays. Le régime algérien nuit à la France. Le régime algérien nuit à nos ressortissants – il a emprisonné deux d’entre eux. On ne peut pas considérer que, de ce fait, nous devrions continuer à subir ce que l’Algérie nous fait subir. (Applaudissements sur les bancs du groupe HOR. – Mme Caroline Colombier applaudit également.) Ce n’est pas possible – ils ne sont pas une monnaie d’échange. Le régime algérien, en réalité, a créé cette rupture. Chemin faisant, ce sont même les ressortissants algériens en France, en situation régulière, qui en pâtissent quotidiennement.L’Algérie a déjà suspendu l’accord franco-algérien. La France s’obstine à le soutenir et à le faire vivre. Cet accord, initialement bilatéral, est donc devenu unilatéral.L’Algérie n’est plus le partenaire privilégié de la France tout simplement parce qu’elle ne le veut plus. La relation entre la France et l’Algérie est à reconstruire sur de nouvelles bases, saines et équitables : des bases où chacun est respecté, où la France est respectée et où les Algériens de France sont respectés.C’est la raison pour laquelle les députés Horizons & indépendants voteront cette dénonciation des accords franco-algériens. (Applaudissements sur les bancs des groupes RN et UDR. – «Quelle honte ! » sur plusieurs bancs des groupes LFI-NFP, SOC et EcoS.)"
+  },
+  {
+   "orateur": "M. Sylvain Berrios",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "À ceux qui nous expliquent qu’il s’agit d’une dénonciation sèche, je leur rappellerai simplement que ce n’est pas à l’Assemblée nationale d’aller ensuite renégocier, mais au pouvoir exécutif et au gouvernement de le faire. La résolution dénonçant ces accords, que, je l’espère, nous allons voter aujourd’hui, est donc un mandat donné au gouvernement pour qu’il fasse son travail, pour qu’il fasse respecter la France, pour qu’il fasse respecter notre fraternité avec le monde algérien et pour qu’il fasse respecter les Algériens de France. (Applaudissements sur les bancs du groupe HOR et sur plusieurs bancs du groupe RN. – Exclamations sur plusieurs bancs du groupe SOC.)"
+  },
+  {
+   "orateur": "M. Laurent Mazaury (LIOT)",
+   "qualite": null,
+   "groupe": "LIOT",
+   "president_de_seance": false,
+   "texte": "Le groupe LIOT entend réaffirmer son attachement à une approche responsable, équilibrée et rigoureuse des questions migratoires.Nous partageons les préoccupations exprimées sur la maîtrise des flux et sur la nécessaire efficacité des dispositifs de retour, mais nous ne croyons pas qu’une dénonciation unilatérale de l’accord franco-algérien de 1968 constitue une solution praticable. Cet accord, dont les limites sont réelles, mérite d’être révisé et non pas rompu. Le dialogue et la négociation doivent prévaloir sur le geste symbolique et la rupture de principe, car la dénonciation unilatérale n’est ni juridiquement assurée ni diplomatiquement neutre.Au-delà de la forme, il faut aussi en mesurer les effets. Une rupture unilatérale serait interprétée comme un acte hostile par le gouvernement algérien, dans un contexte où la coopération sur les laissez-passer, les retours et la sécurité régionale reste au plus bas, mais demeure malgré tout essentielle. Ce serait prendre le risque d’aggraver les blocages existants, déjà forts, au lieu de les surmonter.Notre groupe n’ignore pas les tentatives qui traversent la relation franco-algérienne. Nous avons d’ailleurs soutenu la résolution exigeant des progrès concrets en matière de droits humains et dénonçant la détention arbitraire de Boualem Sansal et de Christophe Gleizes. Mais justement, la fermeté doit se construire dans un cadre diplomatique très ferme et exigeant. À ce titre, nous réitérons ici avec solennité notre appel à leur libération immédiate et au respect des libertés fondamentales en Algérie. La défense des droits humains doit rester le socle de toute relation bilatérale digne de ce nom.Le problème n’est pas, et n’a jamais été, le peuple algérien avec qui nous avons une histoire passionnelle – histoire passionnelle qui se poursuit, on le voit encore ce matin –, mais avec ses gouvernants.Pour toutes ces raisons, le groupe LIOT votera majoritairement contre cette proposition de résolution mais, fidèles à l’essence de l’existence même de notre groupe, et aussi parce que nous voulons envoyer un message au gouvernement algérien actuel, certains d’entre nous prendront sans doute d’autres voies. (M. Joël Bruneau applaudit.)"
+  },
+  {
+   "orateur": "Mme Elsa Faucillon",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Leurs enfants et petits-enfants travaillent, se marient et vivent dans un pays riche de son métissage, que vous le vouliez ou non. (Mêmes mouvements.)Aujourd’hui, 60 % des Algériens en France ont la double nationalité. C’est un rappel de notre histoire commune et celle-ci n’est pas derrière nous. Elle ne le sera pas car, par exemple, le 17 octobre 1961 à Paris, comme le 8 mai 1945 à Sétif, ne sont toujours pas reconnus comme crimes d’État. (Applaudissements sur les bancs des groupes GDR, LFI-NFP et EcoS ainsi que sur quelques bancs du groupe SOC.) Ce serait pourtant la voie de l’apaisement entre nos deux pays.Tout se passe comme si cet accord était une faveur faite aux Algériens, un pays pris au hasard parmi les autres. Cet accord est pourtant le fruit de notre histoire. Il est le fruit de cent trente-deux ans de colonisation. Il est la résultante du code de l’indigénat. (« Oh ! » sur plusieurs bancs du groupe RN.) Il est une timide réponse à la torture à laquelle a participé Jean-Marie Le Pen. (Applaudissements sur les bancs des groupes GDR, LFI-NFP, SOC et EcoS.) Avec la dénonciation de ces accords, la seule chose que vous obtiendrez, c’est de raviver les plaies de la guerre d’Algérie. Honte à vous ! (Applaudissements sur les bancs des groupes GDR et LFI-NFP ainsi que sur plusieurs bancs du groupe SOC.)Monsieur le rapporteur, ne prenez pas le masque de l’antiracisme. Vous comptez dans vos rangs quelqu’un qui parle de réhabiliter la race pour restaurer la liberté de penser, un autre qui parle des musulmans en disant qu’ils sont plus musulmans que Français, un autre encore qui a tenu une librairie négationniste. Honte à vous ! (Applaudissements sur les bancs des groupes GDR, LFI-NFP, SOC et EcoS.)"
+  },
+  {
+   "orateur": "Mme Elsa Faucillon",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "On ne construit pas un avenir solide et apaisé en falsifiant le passé et le présent. On ne gomme pas la colonisation, la guerre, la mort et les humiliations en agitant les peurs. Ce n’est pas du patriotisme, c’est du négationnisme ! (Les députés des groupes GDR, LFI-NUPES, SOC et EcoS se lèvent pour applaudir.)"
+  },
+  {
+   "orateur": "M. Éric Ciotti (UDR)",
+   "qualite": null,
+   "groupe": "UDR",
+   "president_de_seance": false,
+   "texte": "Notre groupe votera naturellement, avec beaucoup de détermination et une grande responsabilité, cette proposition de résolution déposée par Marine Le Pen et les députés du groupe Rassemblement national. (Applaudissements sur les bancs des groupes UDR et RN.)J’avais personnellement porté deux fois une résolution similaire : en juin 2023, au nom des Républicains, avec notre regretté collègue Olivier Marleix, auquel je veux rendre hommage en cet instant (Applaudissements sur les bancs des groupes RN et UDR), et l’année dernière, lors de la journée d’initiative parlementaire de notre groupe. Je rappellerai à M. Fuchs que le matin même de cette journée, dans un esprit de responsabilité, à la veille du procès de Boualem Sansal, pris en otage par une dictature terrifiante, nous avions décidé, en concertation avec Marine Le Pen, de retirer cette résolution, pour ne pas laisser courir le moindre risque, même si nous n’avions malheureusement aucune illusion sur son sort. (Applaudissements sur les bancs des groupes UDR et RN.) C’est cela, la responsabilité !Le temps est venu aujourd’hui d’en finir avec la soumission et l’humiliation. L’Algérie est dirigée par une caste dictatoriale, qui prend en otage le peuple algérien. (Mêmes mouvements.) Elle détient en otage deux de nos compatriotes, Boualem Sansal et Christophe Gleizes, et notre vote doit être guidé par le sort qu’ils subissent."
+  },
+  {
+   "orateur": "M. Richard Ramos",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Alors retirez cette proposition !"
+  },
+  {
+   "orateur": "M. Éric Ciotti",
+   "qualite": null,
+   "groupe": "UDR",
+   "president_de_seance": false,
+   "texte": "L’Algérie, aujourd’hui, non seulement n’est pas un pays avec lequel nous pouvons coopérer pour notre sécurité, mais elle est un pays qui menace notre sécurité, en refusant de reprendre ses ressortissants les plus dangereux.M. Lhardit a dit que seules 7 % des personnes concernées par une OQTF étaient dangereuses, condamnées, criminelles ou délinquantes. Si nous calculons bien, cela représente 10 000 personnes qui menacent la France au quotidien. Si vous considérez que ce n’est rien, alors nous ne vivons pas dans le même monde ! (Applaudissements sur les bancs des groupes UDR et RN.)La réalité appelle au courage et à la cohérence. Je remercie les Républicains pour leur cohérence, qu’on n’avait pas retrouvée dans certains autres textes. Je remercie également le groupe Horizons pour sa cohérence. (« Honte ! » sur plusieurs bancs du groupe SOC.) Mais que dire de M. Attal, qui réclamait l’abrogation des accords de 1968, et qui, maintenant, se soumet à la pression du Parti socialiste, qui le tient, lui aussi, en otage. (Applaudissements sur les bancs des groupes UDR et RN.)Mes chers collègues du bloc central, ce n’est pas de malhonnêteté intellectuelle, comme le disait Mme Miller, qu’il s’agit. Ce dont vous avez besoin, c’est de courage ! Nous en avons et nous faisons preuve de responsabilité. Ce message doit être adressé à l’Algérie, parce que cet État voyou ne peut continuer à humilier la France. (Vifs applaudissements sur les bancs des groupes UDR et RN.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’ensemble de la proposition de résolution."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

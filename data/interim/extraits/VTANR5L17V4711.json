@@ -1,0 +1,149 @@
+{
+ "uid": "VTANR5L17V4711",
+ "titre": "l'amendement n° 5 de M. Moulliere à l'article 2 de la proposition de loi visant à assurer le droit de chaque enfant à être assisté d'un avocat dans le cadre d'une mesure d'assistance éducative et de protection de l'enfance (première lecture).",
+ "type": "amendement",
+ "date": "2025-12-11",
+ "dossier": "DLR5L17N52781",
+ "dossier_titre": "Assurer le droit de chaque enfant à disposer d’un avocat dans le cadre d’une mesure d’assistance éducative et de protection de l’enfance",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "contre",
+  "EPR": "contre",
+  "LFI": "contre",
+  "SOC": "contre",
+  "DR": "pour",
+  "ECOS": "contre",
+  "DEM": "contre",
+  "HOR": "pour",
+  "GDR": "contre",
+  "UDR": "contre"
+ },
+ "voix": {
+  "RN": {
+   "pour": 0,
+   "contre": 39,
+   "abstention": 1
+  },
+  "EPR": {
+   "pour": 0,
+   "contre": 30,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 50,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 0,
+   "contre": 57,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 7,
+   "contre": 0,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 19,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 1,
+   "contre": 11,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 10,
+   "contre": 0,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 0,
+   "contre": 2,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 0,
+   "contre": 3,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 0,
+   "contre": 5,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC2191P0D1N000005",
+  "dossier": "DLR5L17N52781",
+  "texte": "PIONANR5L17BTC2191",
+  "division": "Article 2",
+  "auteur": "M. Moulliere,  M. Christophe, M. Albertini, Mme Firmin Le Bodo, M. Marcangeli, M. Alfandari, Mme Bellamy, M. Benoit, M. Berrios, M. Blanchard, M. Bouyx, M. Brard, Mme Colin-Oesterlé, M. Criaud, M. Fait, M. Gernigon, Mme Gérard, M. Henriet, M. Jolivet, M. Kervran, M. Lam, M. Lemaire, Mme Lise Magnier, M. Patrier-Leitus, Mme Piron, M. Plassard, M. Portarrieu, Mme Poussier-Winsback, Mme Rauch, M. Roseren, Mme Saint-Paul, M. Thiébaut, M. Valletoux et Mme Violland",
+  "auteur_groupe": "HOR",
+  "auteur_type": "Député",
+  "dispositif": "Compléter cet article par les deux alinéas suivants : « 3° Il est ajouté un alinéa ainsi rédigé : « « Un décret en Conseil d’État précise la répartition des compétences, en matière d’assistance éducative, entre l’administrateur ad hoc et l’avocat. » »",
+  "expose": "Cet amendement vise à attirer l’attention de la rapporteure sur la nécessité de préciser l’articulation des rôles entre l’avocat et l’administrateur ad hoc. Puisque la présente proposition de loi vise à permettre à un enfant d’être représenté par un administrateur ad hoc et par un avocat, elle devra nécessairement préciser l’articulation des rôles entre ces acteurs. De nombreuses questions se posent en effet, notamment en cas de divergence de vue entre ces acteurs. On en mentionnera deux : Qui sera compétent pour trancher en dernier ressort, si l’avocat et l’administrateur ad hoc d’un enfant avaient un désaccord sur la situation de l’enfant, et sur la solution qui serait réellement dans son intérêt ? Qui sera compétent pour décider d’interjeter appel ou non ?"
+ },
+ "seance": "RUANR5L17S2026IDS30043",
+ "compte_rendu": "CRSANR5L17S2026O1N090",
+ "interventions": [
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Jean Moulliere, pour soutenir l’amendement no 5."
+  },
+  {
+   "orateur": "M. Jean Moulliere",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "Je tiens à saluer l’avancée que représente ce texte pour les enfants placés. La République doit protéger tous ses enfants, notamment les plus fragiles. Je remercie la rapporteure, Ayda Hadizadeh, pour ce combat ; le groupe Horizons & indépendants soutient pleinement l’objectif du texte.Cela étant, quelques points restent à éclaircir et c’est pourquoi nous proposons qu’« un décret en Conseil d’État précise la répartition des compétences, en matière d’assistance éducative, entre l’administrateur ad hoc et l’avocat ». Il s’agit notamment de préciser qui trancherait si ces deux personnes avaient un désaccord sur la situation de l’enfant et sur la meilleure solution pour lui, mais aussi auquel des deux il reviendrait de faire appel d’une décision judiciaire."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis de la commission ?"
+  },
+  {
+   "orateur": "Mme Ayda Hadizadeh",
+   "qualite": "rapporteure",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je tiens à remercier mon collègue Jean Moulliere pour le travail que nous avons effectué ensemble. Les auditions et les débats ont permis de mettre en lumière les questions que soulève l’assistance d’un avocat, combinée à la présence éventuelle d’un administrateur ad hoc, mais celle de la répartition de leurs compétences ne se pose pas. L’administrateur ad hoc est là pour effectuer des actes que l’enfant ne peut pas faire alors que l’avocat défend les droits de ce dernier. Un décret est donc inutile. Avis défavorable."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis du gouvernement ?"
+  },
+  {
+   "orateur": "Mme Stéphanie Rist",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Les rôles sont déjà bien définis. Les missions et droits de l’avocat et de l’administrateur ad hoc sont déjà clairement encadrés par le code civil. Ce cadre juridique est suffisamment précis pour garantir leurs actions respectives.Les droits procéduraux – droit d’accès au dossier complet de l’enfant, droit de se faire délivrer des copies des pièces importantes, obligation d’être avisé de la date d’audience et des décisions du juge des enfants – sont garantis à l’identique. Leurs rôles sont distincts : l’avocat a pour mission de défendre le mineur en justice ; celle de l’administrateur est de le représenter légalement et de l’accompagner. En cas de désignation d’un administrateur, le dialogue prime. La stratégie de défense doit être établie par une concertation professionnelle dans l’unique intérêt de l’enfant, qui ne demande pas l’ajout d’un texte réglementaire.Chaque dossier est singulier, car le mineur en danger vit une situation unique et complexe. Pour y faire face, la procédure d’assistance éducative exige de la flexibilité pour pouvoir s’adapter à chaque cas. Le juge des enfants est le maître d’œuvre. Il lui revient donc de moduler l’articulation des rôles en fonction de la situation spécifique de l’enfant. Il ne faut pas lier la souveraineté du juge des enfants par des règles réglementaires trop strictes.Les textes actuels sont suffisamment clairs. Votre amendement étant redondant, j’en demande le retrait ; à défaut, avis défavorable."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 5."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+  "uid": "VTANR5L17V3264",
+  "consigne": "etape2_ambiguite v2",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Marine Le Pen",
+      "citation": "Il serait bon que, par ce texte, nous signalions à l’Union européenne que le peuple français, lui, souhaite cet étiquetage",
+      "justification": "Le groupe soutient l'étiquetage de l'origine prévu par le texte."
+    },
+    "EPR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Charles Sitzenstuhl",
+      "citation": "Il s’agit, à nouveau, de faire en sorte que notre pays reste dans le cadre de la légalité européenne.",
+      "justification": "Le groupe demande que l'article reste subordonné à l'accord de la Commission européenne."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "L'orateur du groupe soutient un amendement et critique un autre groupe sans exposer la raison de son vote sur l'article."
+    },
+    "DEM": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "HOR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    }
+  }
+}

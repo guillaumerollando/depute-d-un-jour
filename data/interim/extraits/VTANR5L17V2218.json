@@ -1,0 +1,596 @@
+{
+ "uid": "VTANR5L17V2218",
+ "titre": "l'amendement n° 2 du Gouvernement à l'article 3 de la proposition de loi portant reconnaissance de la Nation envers les rapatriés d'Indochine et réparation des préjudices subis par ceux-ci et leurs familles du fait de l'indignité de leurs conditions d'accueil et de vie dans certaines structures sur le territoire français (première lecture).",
+ "type": "amendement",
+ "date": "2025-06-03",
+ "dossier": "DLR5L17N51499",
+ "dossier_titre": "Reconnaissance de la Nation envers les rapatriés d’Indochine et réparation des préjudices subis par ceux-ci et leurs familles du fait de l'indignité de leurs conditions d'accueil et de vie dans certaines structures sur le territoire français",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "contre",
+  "EPR": "pour",
+  "LFI": "contre",
+  "SOC": "contre",
+  "ECOS": "contre",
+  "DEM": "pour",
+  "HOR": "pour",
+  "GDR": "contre",
+  "UDR": "contre"
+ },
+ "voix": {
+  "RN": {
+   "pour": 0,
+   "contre": 58,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 24,
+   "contre": 0,
+   "abstention": 1
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 26,
+   "abstention": 1
+  },
+  "SOC": {
+   "pour": 0,
+   "contre": 31,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 0,
+   "contre": 0,
+   "abstention": 9
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 8,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 14,
+   "contre": 0,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 8,
+   "contre": 0,
+   "abstention": 7
+  },
+  "LIOT": {
+   "pour": 0,
+   "contre": 2,
+   "abstention": 1
+  },
+  "GDR": {
+   "pour": 0,
+   "contre": 6,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 0,
+   "contre": 8,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC1474P0D1N000002",
+  "dossier": "DLR5L17N51499",
+  "texte": "PIONANR5L17BTC1474",
+  "division": "Article 3",
+  "auteur": "le Gouvernement",
+  "auteur_groupe": null,
+  "auteur_type": "Gouvernement",
+  "dispositif": "À l’alinéa 1, substituer à la date : « 31 décembre 1975 » la date : « 1 er janvier 1966 ».",
+  "expose": "L’objet du présent amendement est de préciser le périmètre temporel de ce régime spécial de responsabilité de l’Etat, en retenant comme critère la période durant laquelle les personnes concernées ont été contraintes de séjourner dans ces lieux de relégation sociale. Ainsi, l’amendement concentre le droit à réparation au bénéfice des supplétifs indochinois et des rapatriés d'Indochine ainsi qu'à leurs conjoints et enfants, et fixe la période de séjour dans ces structures ouvrant droit à réparation entre le 22 juillet 1954 et le 1er janvier 1966. En effet, si l’accueil des réfugiés indochinois a connu plusieurs phases successives dont certaines ont modifié le rôle et la nature des structures d’hébergement mises en place par les pouvoirs publics, l’année 1966 constitue à ce titre un repère administratif significatif, notamment en raison du changement de tutelle du centre de Sainte-Livrade-sur-Lot, principal site encore ouvert à cette date. La loi de finances pour 1966 inscrit le transfert du centre de Sainte-Livrade du ministère de l’Intérieur au ministère de la Santé publique et de la Population (voir le rapport pour avis du Sénat sur le projet de loi de finances pour 1966 qui l’explicite). Cette évolution est également attestée par Pierre-Jean Simon, qui indique que le centre est « pris en charge au 1er janvier 1966 par les services de la Population (ministère des Affaires sociales) » (Rapatriés d’Indochine, L’Harmattan, 1981, p. 8). Le règlement intérieur n’est plus mis en pratique de manière systématique et la direction du centre doit concentrer ses efforts sur l’accompagnement des personnes. Ce changement de ministère illustre une réorientation progressive du cadre de gestion administrative des structures d’accueil. À partir de 1966, le site de Sainte-Livrade relève des services sociaux, dans le prolongement des recommandations exprimées dès 1963 sur la nécessité d’accompagner les sorties des centres. Cette inflexion est également décrite dans le rapport de l’Inspection générale des affaires sociales (rapport Lacaze, 2006), qui souligne l’évolution des fonctions de l’État dans le suivi des rapatriés."
+ },
+ "seance": "RUANR5L17S2025IDS29500",
+ "compte_rendu": "CRSANR5L17S2025O1N224",
+ "interventions": [
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme la ministre déléguée chargée de la mémoire et des anciens combattants, pour soutenir l’amendement no 2."
+  },
+  {
+   "orateur": "Mme Patricia Mirallès",
+   "qualite": "ministre déléguée chargée de la mémoire et des anciens combattants",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "C’est un amendement de bornage temporel du dispositif, bornage qui ne saurait être purement discrétionnaire. Il doit correspondre à des faits objectifs.Seule doit être prise en compte la période durant laquelle l’État a contraint les personnes à séjourner dans les camps et les a maintenues dans des conditions indignes.Étendre la période de réparation jusqu’en 1975, comme cela a été retenu pour les harkis, n’est juridiquement pas soutenable pour les rapatriés d’Indochine. Cette date correspond à une décision prise en conseil des ministres qui ne concerne que les structures d’accueil des harkis et de leurs familles. Pour les rapatriés d’Indochine, la bascule structurelle s’est opérée dès 1966.Cette date est documentée par des historiens et l’Inspection générale des affaires sociales (Igas). L’année 1966 constitue un repère administratif significatif dans la gestion des structures d’accueil des rapatriés d’Indochine et de leurs proches : l’État passe alors d’une logique de contrainte à une logique d’accompagnement social.Dès 1965, une nouvelle école communale est ouverte dans la commune de Sainte-Livrade-sur-Lot, permettant une meilleure intégration des enfants rapatriés et amorçant ainsi la sortie progressive d’un dispositif de ségrégation scolaire.À partir de 1966, l’installation progressive d’infrastructures collectives – ateliers professionnels, pour fabriquer notamment des chaussures, espaces culturels, sportifs et même cultuels, maison des jeunes – illustre une logique d’insertion sociale et professionnelle.L’arrivée d’équipes médico-sociales, en particulier d’un médecin et d’infirmiers, ainsi que la présence active de la Cimade à partir de 1966, a contribué à transformer l’accompagnement quotidien des rapatriés, passant d’un cadre administratif strict à une approche d’insertion progressive.Formellement, la loi de finances pour 1966 a transféré la gestion des centres d’accueil du ministère de l’intérieur à celui de la santé publique et de la population.Dans un document de synthèse rédigé en 1970, la Cimade souligne que, dès 1966, le camp de Sainte-Livrade-sur-Lot n’est plus un lieu de rétention, mais devient progressivement un lieu d’accueil. Bien sûr, tout était loin d’être parfait, nous ne le nions pas.À partir de 1966, le règlement intérieur du centre n’est plus appliqué de manière systématique, et la direction, désormais rattachée aux services sociaux, concentre ses efforts sur l’accompagnement des personnes, traduisant une logique d’intervention centrée sur le soutien social et éducatif.Cela n’empêche pas les rapatriés de continuer à vivre sur place, parfois jusqu’au début des années 2000 – mais, de la même façon, certains harkis ont choisi de rester dans les structures d’accueil bien au-delà de la borne de 1975.Par cohérence et souci d’équité, il faut garder en tête que l’indemnité versée aux harkis couvre la période 1962-1975.Je le répète, 1975 ne correspond à rien pour les rapatriés d’Indochine. En revanche, 1966 marque le moment où l’État commence à se préoccuper de leur intégration par le biais du ministère des affaires sociales, leur permettant d’envoyer leurs enfants à l’école, d’accéder aux soins, de rentrer et sortir du camp – ce qui n’était pas le cas pour les harkis puisque, jusqu’en 1975, ils étaient privés de leurs droits sociaux et interdits de sortie.C’est pourquoi je vous propose cet amendement qui me semble équitable et s’inscrit dans la suite logique du dispositif que nous avons prévu pour les harkis. (Applaudissements sur les bancs du groupe EPR.)"
+  },
+  {
+   "orateur": "Mme Stéphanie Rist",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Très bien !"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis de la commission ?"
+  },
+  {
+   "orateur": "M. Olivier Faure",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Cet amendement a été repoussé par la commission, qui a choisi la date de 1975 à l’unanimité.Madame la ministre, je comprends vos préoccupations, mais nous parlons d’un seul centre d’hébergement, celui de Sainte-Livrade-sur-Lot. Pour les trois autres camps, la question est réglée et 1966 est effectivement la date à partir de laquelle ces camps changent de destination. À Noyant-d’Allier, par exemple, les habitants ont eu la possibilité d’acheter leur propre logement.En revanche, à Sainte-Livrade-sur-Lot, la punition va durer bien plus longtemps, si j’ose dire, puisque des gens y ont vécu jusqu’en 2014. D’ailleurs, j’avais retenu cette date dans ma proposition initiale. Dans un esprit de compromis et en concertation avec le monde associatif qui soutient cette initiative, nous avons cherché une solution équilibrée, et finalement retenu la date de 1975, choisie pour les harkis.Pourquoi cette date fait-elle sens pour les rapatriés d’Indochine ? D’abord, parce que le changement administratif que vous signalez ne s’est pas accompagné d’une amélioration des conditions de vie, qui sont restées indignes. En outre, l’administration du centre n’a pas changé – la direction du centre est restée en place – et le même règlement s’appliquait toujours puisque l’arrêté Morlot, que beaucoup ici estiment indigne de la République française en ce qu’il interdisait tout signe extérieur de richesse – et nous parlons là d’une machine à laver, d’un téléviseur ou d’une voiture – n’est pas abrogé en 1966, pas plus qu’en 1975, mais seulement en 1979.On aurait donc aussi pu choisir cette dernière date comme repère significatif pour marquer la transition entre deux systèmes. Certaines familles ont vécu dans ce camp pendant soixante ans et vous souhaitez prendre pour référence une période allant de 1956…"
+  },
+  {
+   "orateur": "Mme Patricia Mirallès",
+   "qualite": "ministre déléguée",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Non, 1954."
+  },
+  {
+   "orateur": "M. Olivier Faure",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "…1954 pour ceux qui sont arrivés les premiers, certes, mais on parle d’une période allant de 1956, pour la plupart, à 1966. Ils seront donc indemnisés pour seulement dix ans, alors que certains ont vécu soixante ans dans le camp."
+  },
+  {
+   "orateur": "Mme Patricia Mirallès",
+   "qualite": "ministre déléguée",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Comme les harkis !"
+  },
+  {
+   "orateur": "M. Olivier Faure",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Imaginez ce que cela représente ! Donnez-nous les montants ! C’est une paille au regard de ce qu’ils ont subi, une paille qui ne compense pas la perte de chances pour leurs enfants. Il faut imaginer ce que représente la scolarisation d’enfants dans un ghetto, sans possibilité d’aller vers l’extérieur et avec un accompagnement largement insuffisant.Même le rapport de la Cimade que vous évoquez confirme cette réalité. Le témoignage de la présidente de la Cimade, présente à Sainte-Livrade-sur-Lot en 1966, est clair : à cette date, rien n’avait changé. Les conditions de vie étaient toujours les mêmes, et les conditions d’entrée et de sortie n’avaient pas vraiment évolué.Sur ce point, les témoignages des anciens résidents de Sainte-Livrade-sur-Lot méritent d’être entendus : le véritable assouplissement est intervenu au milieu des années 1970. C’est pourquoi la date de 1975 se justifie pleinement.Enfin, même quand vous ouvrez une porte à des personnes à qui vous avez interdit toute forme d’intégration pendant des décennies, comment voulez-vous qu’elles puissent la franchir ? Comment pourraient-elles quitter le camp, alors qu’elles n’avaient même pas le droit de posséder une voiture pour aller travailler et donc s’intégrer ailleurs ? Elles étaient prisonnières de leur situation.C’est pourquoi, j’y insiste, il me semble juste d’accorder cette indemnisation jusqu’en 1975. Ce n’est pas un cadeau, mais simplement une réparation. (Applaudissements sur les bancs des groupes SOC et GDR.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Stéphanie Galzy."
+  },
+  {
+   "orateur": "Mme Stéphanie Galzy",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Nous avons bien compris que ce gouvernement, qui a ruiné notre pays, cherche à réaliser des économies. L’amendement à l’article 3 en atteste."
+  },
+  {
+   "orateur": "Mme Patricia Mirallès",
+   "qualite": "ministre déléguée",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Franchement !"
+  },
+  {
+   "orateur": "Mme Stéphanie Galzy",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Mais lorsqu’il s’agit de réparer une injustice envers des Français – civils ou militaires – qui ont servi la France et ont été abandonnés par elle, cette recherche d’économie frise l’indécence, d’autant que nous parlons de quelques centaines de personnes.En commission, l’ensemble des groupes s’est accordé sur 1975, par parallélisme avec les dispositions de la loi du 23 février 2022 portant reconnaissance de la nation envers les harkis et les autres personnes rapatriées d’Algérie. Ce choix garantit cohérence et lisibilité.Par cet amendement, le gouvernement effectue un calcul d’arrière-boutique, prenant ainsi le risque d’attiser les incompréhensions au sein du monde des anciens combattants ; nous ne pouvons nous le permettre et les rapatriés d’Indochine méritent mieux. Le groupe Rassemblement national votera évidemment contre cet amendement. (Applaudissements sur les bancs des groupes RN et UDR.)"
+  },
+  {
+   "orateur": "Mme Patricia Mirallès",
+   "qualite": "ministre déléguée",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Eh bien, bravo !"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Thomas Gassilloud."
+  },
+  {
+   "orateur": "M. Thomas Gassilloud",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Je prends la parole pour remercier tous mes collègues – en particulier le rapporteur – pour leur travail, ainsi que les groupes pour leur implication.Je soutiens cet amendement du gouvernement, indispensable pour les rapatriés d’Indochine, afin de les placer dans la même logique que celle appliquée aux harkis. Les dates ouvrant droit à réparation ne doivent pas être arbitraires : la borne de fin de période d’indemnisation doit correspondre au moment où la politique de contrainte est levée.Pour les harkis, ce moment est situé en 1975, à la suite d’une décision prise en conseil des ministres le 8 août 1975. Pour les rapatriés d’Indochine, c’est bien l’année 1966 qui constitue la date charnière.Pourquoi ? Parce que la loi de finances pour 1966 acte le passage d’une politique de contrainte exercée par le ministère de l’intérieur à une politique d’accompagnement social pilotée par le ministère de la santé publique et des populations. À partir de 1966, l’État n’est plus dans une logique de privation de liberté.Le rapporteur a évoqué le camp de Sainte-Livrade-sur-Lot mais, dès 1966, l’État incite ses résidents à en sortir. Une deuxième école communale est même ouverte dans la commune, afin d’accueillir les enfants des rapatriés d’Indochine hors du camp.C’est pourquoi nous devons soutenir l’amendement du gouvernement, et la date de 1966. Comme l’a bien expliqué la ministre, la date de 1975 ne correspond à rien pour les rapatriés d’Indochine. La conserver fragiliserait le dispositif construit pour eux et, en niant le caractère objectif de la borne de 1975, reconnue par le Conseil d’État, cela affaiblirait également les dispositions de la loi portant reconnaissance de la nation envers les harkis. (Applaudissements sur quelques bancs du groupe EPR.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Aurélien Taché."
+  },
+  {
+   "orateur": "M. Aurélien Taché",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Je tiens d’abord à remercier le rapporteur de porter haut et fort la mémoire des rapatriés d’Indochine, alors que le sujet n’a jamais été débattu à l’Assemblée nationale.Mais, chers collègues de la majorité et du gouvernement, même lorsque vous tentez de réparer une injustice fondamentale, vous ne savez que faire preuve d’une avarice révoltante !De qui parle-t-on ? De personnes colonisées, arrivées au fond des cales de paquebots, alors qu’elles avaient défendu la France, et construit une part de leur vie avec des Français et notre pays. Pourtant, une fois arrivées sur le sol hexagonal à Marseille, elles ont été enfermées – internées, pourrions-nous dire – dans des camps.Dès 7 heures du matin, elles devaient saluer le drapeau lors de la cérémonie de lever des couleurs (M. Jean-René Cazeneuve s’exclame), se coucher à 22 heures, ne recevoir aucune visite, ne se déplacer qu’avec autorisation, ne posséder aucun véhicule, aucun réfrigérateur, aucun signe ostentatoire de richesse puisque c’est ainsi que l’on qualifiait à l’époque, pour ce qui les concerne, ces quelques biens matériels.Et, aujourd’hui, vous pinaillez parce que la Cimade était autorisée à passer dans le camp à partir de 1966. Mais, quand la Cimade passe quelque part, c’est que la situation est grave, et que les gens vont très mal ! C’est tout de même dans les centres de rétention et les prisons qu’elle se déplace !De combien de personnes parle-t-on ? De 500 survivants !"
+  },
+  {
+   "orateur": "Mme Patricia Mirallès",
+   "qualite": "ministre déléguée",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Non !"
+  },
+  {
+   "orateur": "M. Aurélien Taché",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Et vous ne voulez même pas indemniser ces quelques centaines de personnes ?"
+  },
+  {
+   "orateur": "M. Olivier Faure",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Beaucoup moins !"
+  },
+  {
+   "orateur": "M. Aurélien Taché",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Dans ce cas, ne faites rien ! (Applaudissements sur les bancs du groupe LFI-NFP. – M. Emmanuel Grégoire applaudit également.)Dans la version initiale de la proposition de loi, le rapporteur avait choisi 2014, car certains rapatriés vivaient encore dans le camp de Sainte-Livrade-sur-Lot à cette date. L’année 1975 représente donc une date raisonnable. C’est pourquoi je vous appelle à la raison, chers collègues de la majorité : ne votez pas cet amendement du gouvernement. (Applaudissements sur les bancs du groupe LFI-NFP et sur plusieurs bancs du groupe SOC.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Frédéric Maillot."
+  },
+  {
+   "orateur": "M. Frédéric Maillot",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Nous avons été visés, nous qui siégeons de ce côté de l’hémicycle, mais je regarde mes camarades communistes et je leur dis : je suis fier de me battre à vos côtés.Je suis député de La Réunion, une ancienne colonie, et tout ce que j’entends à propos des rapatriés de la guerre d’Indochine, je le comprends. Je comprends cette souffrance en tant qu’enfant d’esclaves et d’engagés, qui ont travaillé dur et reçu des coups pour enrichir la France coloniale.Quand j’entends que ces rapatriés sont arrivés dans des conditions indignes, je le comprends – nous aussi, nous sommes arrivés dans des navires négriers. (Applaudissements sur les bancs des groupes GDR, LFI-NFP et SOC.)Mais je voulais vous dire que si je suis l’héritier d’un combat communiste, ce n’est pas de celui de Hô Chi Minh, mais de celui de Paul Vergès, qui était un visionnaire. (Applaudissements sur quelques bancs des groupes GDR et LFI-NFP.) Paul Vergès a toujours combattu la France coloniale, il a toujours combattu Michel Debré. Et puisque nous parlons de reconnaissance, notre collègue Karine Lebon avait déposé un texte visant à la reconnaissance des « enfants de la Creuse » – plus de 2 000 jeunes Réunionnais ont été transférés dans ce département pour le repeupler. (Applaudissements sur les bancs des groupes GDR et LFI-NFP. – M. Emmanuel Grégoire applaudit également.) On leur a fait boire la même eau que les animaux ! Personne n’a accepté de les indemniser, personne, quand le texte a été présenté en commission transpartisane, n’a cru bon de le soutenir. Je comprends votre souffrance parce que c’est un peu la mienne, moi, enfant des colonies. Notre jour de gloire n’est pas près d’arriver. (Applaudissements sur les bancs des groupes GDR, LFI-NFP, SOC et EcoS.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Romain Eskenazi."
+  },
+  {
+   "orateur": "M. Romain Eskenazi",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Je défends la position du rapporteur. Madame la ministre, vous appuyez votre raisonnement sur la décision du Conseil d’État du 26 juillet 2024, qui est très claire : on ne peut pas poursuivre l’indemnisation à partir du moment où la contrainte de l’État ne s’exerce plus. Peut-on considérer que cette contrainte est levée à partir du moment où la tutelle ministérielle change, en l’occurrence lorsqu’on passe du ministère de l’intérieur à un autre ministère ? Peut-on considérer qu’à partir du moment où l’arrêté était toujours en vigueur, interdisant la possession d’un appareil électroménager, d’une voiture, d’une télévision, la contrainte de l’État est levée ? Peut-on considérer qu’à partir du moment où les personnes considérées vivaient toujours dans des baraquements infestés de rats et de cafards, la contrainte de l’État est levée ?La souffrance des femmes et des hommes qui ont vécu dans ces baraquements a duré jusqu’en 2014. Il me semble donc raisonnable de s’aligner sur la date retenue pour les harkis, à savoir 1975."
+  },
+  {
+   "orateur": "Mme Patricia Mirallès",
+   "qualite": "ministre déléguée",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Eh bien, non !"
+  },
+  {
+   "orateur": "M. Romain Eskenazi",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Or, si l’on tient compte des très nombreuses auditions menées par la commission et de l’accord des historiens sur la question, la contrainte de l’État ne s’est desserrée qu’à partir du milieu des années 1970. Aussi l’année choisie initialement paraît-elle parfaitement légitime pour ces 500 personnes qui attendent leur indemnisation. Les députés du groupe Socialistes et apparentés voteront donc contre l’amendement. (Applaudissements sur quelques bancs du groupe SOC.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Geneviève Darrieussecq."
+  },
+  {
+   "orateur": "Mme Geneviève Darrieussecq",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "On a parlé de conditions de vie indignes, or j’ai entendu ce soir beaucoup de propos indignes et j’en suis vraiment navrée, car ce texte ne le mérite pas. Nous voulons dire notre reconnaissance aux personnes qui se sont engagées pour la France, qui sont arrivées ici dans de très mauvaises conditions, et nous voulons réparer cette erreur. C’est ce qui importe et, j’y insiste, les propos indignes n’ont pas leur place ici. J’ai entendu les mots « avarice », « économies »… tout ça n’a pas de sens."
+  },
+  {
+   "orateur": "M. Aurélien Taché",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "C’est vrai !"
+  },
+  {
+   "orateur": "Mme Geneviève Darrieussecq",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Moi qui, en tant que ministre déléguée chargée de la mémoire et des anciens combattants, ai défendu le projet de loi portant reconnaissance de la Nation envers les harkis, je regrette sincèrement de ne pas avoir eu de contacts à l’époque, et pendant cinq ans, avec les associations de rapatriés d’Indochine – des personnes qui sont aujourd’hui les oubliés d’un conflit oublié. Et je le regrette vraiment, car nous aurions pu rédiger un texte charpenté concernant et les harkis et les rapatriés d’Indochine, un texte dispensateur d’équité.Si l’année 1975 est prise en considération, comme le souhaite M. le rapporteur, on aboutira à une rupture de l’équité de traitement et je puis vous assurer que ce sera compliqué à gérer pour le ministère, pour l’ONACVG, pour tous les services concernés.Quand on parle de privation de liberté, je vous assure que les harkis étaient privés de liberté : ils ne pouvaient pas sortir des camps, et cela jusqu’en 1975. (Mme la ministre déléguée opine du chef.)"
+  },
+  {
+   "orateur": "M. Aurélien Taché",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Une honte !"
+  },
+  {
+   "orateur": "Mme Geneviève Darrieussecq",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "C’était une honte, en effet. Or ce n’était pas le cas des rapatriés d’Indochine qui, dès 1966, bénéficiaient d’un régime de liberté beaucoup plus souple. Ce n’est certes pas l’idéal, mais je pense que retenir l’année 1966 rend plus équitable le traitement de deux situations différentes malgré leurs points communs. (Applaudissements sur les bancs des groupes Dem et EPR.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme la ministre déléguée."
+  },
+  {
+   "orateur": "Mme Patricia Mirallès",
+   "qualite": "ministre déléguée",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je vais tâcher d’éclaircir les choses, puisque j’ai entendu Mme Galzy employer l’expression « une paille ». Les harkis ont touché, après l’entrée en vigueur de la loi les concernant, 3 000 euros pour la première année, puis 1 000 euros pour les années suivantes."
+  },
+  {
+   "orateur": "M. Aurélien Taché",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "On ne va pas se lancer dans la concurrence mémorielle !"
+  },
+  {
+   "orateur": "Mme Patricia Mirallès",
+   "qualite": "ministre déléguée",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "La période prise en compte de 1962 à 1975 leur donnait le droit à environ 17 000 euros au total quand ils étaient restés dans le camp du début à la fin."
+  },
+  {
+   "orateur": "M. Aurélien Saintoul",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Il n’y a pas de quoi pavoiser !"
+  },
+  {
+   "orateur": "Mme Patricia Mirallès",
+   "qualite": "ministre déléguée",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "L’État a été condamné par la CEDH il y a quatorze ans, alors que nous n’étions pas dans la majorité, et a alors dû payer aux plaignants ayant vécu dans le camp de Bias, auxquels se sont ajoutés les harkis passés par le camp de Saint-Maurice-l’Ardoise, 4 000 euros par personne par an et pour treize années.Ce que je propose ici est de faire preuve de la même équité, de la même cohérence que pour les harkis. Ainsi, les harkis qui ont vécu dans les camps au-delà de 1990 ont accepté l’année 1975 parce que c’est l’année où l’État se saisit des dossiers."
+  },
+  {
+   "orateur": "Mme Béatrice Bellay",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "On n’est pas au marché !"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "S’il vous plaît, merci d’écouter la ministre."
+  },
+  {
+   "orateur": "Mme Patricia Mirallès",
+   "qualite": "ministre déléguée",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "L’État, à partir de 1966, permet à ces familles d’avoir une maison pour les jeunes, un atelier pour travailler, de garder leurs enfants (Exclamations sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR)…"
+  },
+  {
+   "orateur": "M. Alain David",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "C’est une discussion de marchands de tapis !"
+  },
+  {
+   "orateur": "Mme Béatrice Bellamy",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "Mais retirez-le, votre amendement !"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "S’il vous plaît, on s’écoute."
+  },
+  {
+   "orateur": "Mme Patricia Mirallès",
+   "qualite": "ministre déléguée",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Si l’on retient l’année 1975, c’est vingt ans d’indemnisation. (Mêmes mouvements.) Je suis en train de vous dire que, par rapport aux harkis… (Brouhaha.) Est-ce que je peux m’exprimer ? Si ça ne vous convient pas, vous n’êtes pas obligés de m’écouter, mais laissez-moi finir. (Exclamations sur de nombreux bancs.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "S’il vous plaît, chers collègues."
+  },
+  {
+   "orateur": "Mme Patricia Mirallès",
+   "qualite": "ministre déléguée",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "L’année 1975, je le répète, c’est vingt ans d’indemnisation qui seront distribués aux rapatriés d’Indochine. Eh bien, je vais vous dire : ce soir, les harkis nous regardent."
+  },
+  {
+   "orateur": "Mme Zahia Hamdane",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Oui, ils nous regardent !"
+  },
+  {
+   "orateur": "Mme Patricia Mirallès",
+   "qualite": "ministre déléguée",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Et ils se sont honorés de comprendre que 1975 était une date à laquelle, enfin, on les considérait. Or je considère que l’État, à partir de 1966, a fait ce qu’il devait faire pour les rapatriés d’Indochine. Je ne sais pas en quelle année, à quel âge vous avez eu une télévision, une voiture (Exclamations sur les bancs du groupe LFI-NFP), mais, dans les années 1950, 1960, 1970, peu de gens possédaient ces biens."
+  },
+  {
+   "orateur": "M. Rodrigo Arenas",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Mais arrêtez !"
+  },
+  {
+   "orateur": "Mme Patricia Mirallès",
+   "qualite": "ministre déléguée",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je ne vous dis qu’une chose… (Exclamations sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR.) Vous faites comme vous voulez,…"
+  },
+  {
+   "orateur": "Mme Béatrice Bellay",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Ça rame…"
+  },
+  {
+   "orateur": "Mme Patricia Mirallès",
+   "qualite": "ministre déléguée",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "…vous votez l’amendement ou non,…"
+  },
+  {
+   "orateur": "Mme Béatrice Bellamy",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "Retirez-le, votre amendement !"
+  },
+  {
+   "orateur": "Mme Patricia Mirallès",
+   "qualite": "ministre déléguée",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "…mais moi, je fais preuve de la même cohérence que celle qu’on a montrée pour les harkis : je propose donc que l’année retenue soit 1966, ne serait-ce que pour que le texte tienne d’un point de vue juridique. Et si vous votez pour l’année 1975, je ne lèverai pas le gage. (Brouhaha.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Il est tard et le sujet est grave ; touchant à l’histoire, il est donc passionnel. Aussi, que chacun garde son calme – je vous appelle à un peu de retenue dans vos interpellations. Nous devons pouvoir délibérer dignement, sur le fond, et jusqu’au bout. La parole est à M. le rapporteur."
+  },
+  {
+   "orateur": "M. Olivier Faure",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Madame la ministre, je regrette vos mots. Vous ne pouvez pas prendre l’Assemblée en otage en annonçant que si nous ne vous suivons pas, vous ne lèverez pas le gage. (Applaudissements sur quelques bancs du groupe SOC.)"
+  },
+  {
+   "orateur": "Mme Patricia Mirallès",
+   "qualite": "ministre déléguée",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je ne peux pas ! Je ne lèverai donc pas le gage !"
+  },
+  {
+   "orateur": "M. Olivier Faure",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Puisque vous parlez chiffres, je vais à mon tour vous en donner. Vous faites comme si tous les rapatriés avaient vécu vingt ans au camp de Sainte-Livrade-sur-Lot. Or l’indemnisation est fonction du nombre d’années passées dans le camp :…"
+  },
+  {
+   "orateur": "Mme Patricia Mirallès",
+   "qualite": "ministre déléguée",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Oui, je sais bien !"
+  },
+  {
+   "orateur": "M. Olivier Faure",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "…tout le monde ne bénéficiera pas de vingt années d’indemnisation, très loin de là.Le chef du bureau central des rapatriés de l’ONACVG évaluait en 2021 – et, depuis quatre ans, une part des potentiels bénéficiaires sont probablement décédés –, pour tous les centres d’hébergement confondus, à 250 ou 300 le nombre de bénéficiaires…"
+  },
+  {
+   "orateur": "Mme Patricia Mirallès",
+   "qualite": "ministre déléguée",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Ceux qui avaient besoin de la solidarité !"
+  },
+  {
+   "orateur": "M. Olivier Faure",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "…encore vivants et qui pourraient être concernés par cette indemnisation.Vous venez de rappeler que vous avez été condamnée et vous faites comme si, derrière…"
+  },
+  {
+   "orateur": "Mme Patricia Mirallès",
+   "qualite": "ministre déléguée",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Ce n’est pas moi qui ai été condamnée, c’est l’État !"
+  },
+  {
+   "orateur": "M. Olivier Faure",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Oui, l’État français, bien sûr – je vous tiens en haute estime et je ne pense pas que vous ayez pu être condamnée vous-même. Reste, j’y insiste, que vous faites comme si tous les bénéficiaires avaient perçu l’intégralité de l’indemnité. Pour les harkis, vous avez donné le chiffre de 17 000 euros. La réalité est que le versement moyen a été de 8 856 euros."
+  },
+  {
+   "orateur": "Mme Béatrice Bellay",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Voilà !"
+  },
+  {
+   "orateur": "M. Olivier Faure",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Et c’est tout le problème. Je le répète : vous faites comme si toutes les personnes concernées avaient vécu dans ces camps pendant vingt ans et donc comme si toutes avaient touché l’intégralité de l’indemnisation – ça n’a jamais été le cas. (Applaudissements sur les bancs du groupe SOC.) Ici, vous allez avoir peu de bénéficiaires avec une indemnisation moyenne bien inférieure aux chiffres que vous avancez : il est donc inutile de chercher à nous faire peur.Vous comparez la situation des rapatriés d’Indochine à celle des harkis, mais il ne faut pas raisonner par rapport à d’autres catégories : c’est seulement de la durée de présence dans les camps qu’il faut tenir compte. On devrait remercier ces gens qui ont vécu pendant soixante ans dans des camps et qui acceptent de toucher seulement vingt ans d’indemnisation. (Applaudissements sur plusieurs bancs du groupe SOC.)"
+  },
+  {
+   "orateur": "Mme Patricia Mirallès",
+   "qualite": "ministre déléguée",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je ne peux pas vous laisser dire ça !"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 2."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

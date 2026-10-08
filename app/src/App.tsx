@@ -1,0 +1,106 @@
+import { useEffect, useMemo, useState } from 'react';
+import type { Carte, Donnees, Reponse, Vote } from './types';
+import { carteSuivante } from './score';
+import { Accueil } from './composants/Accueil';
+import { CarteSwipe } from './composants/CarteSwipe';
+import { Resultat } from './composants/Resultat';
+import { Methode } from './composants/Methode';
+
+type Ecran = 'accueil' | 'jeu' | 'resultat' | 'methode';
+const PARTIE = 15;
+const RALLONGE = 10;
+
+async function charger(): Promise<Donnees> {
+  const base = import.meta.env.BASE_URL;
+  const [groupes, cartes, deputes, meta] = await Promise.all(
+    ['groupes', 'cartes', 'deputes', 'meta'].map((n) => fetch(`${base}data/${n}.json`).then((r) => r.json())),
+  );
+  return { groupes, cartes, deputes, meta };
+}
+
+export default function App() {
+  const [donnees, setDonnees] = useState<Donnees | null>(null);
+  const [erreur, setErreur] = useState(false);
+  const [ecran, setEcran] = useState<Ecran>('accueil');
+  const [retour, setRetour] = useState<Ecran>('accueil');
+  const [votes, setVotes] = useState<Vote[]>([]);
+  const [objectif, setObjectif] = useState(PARTIE);
+  const [carte, setCarte] = useState<Carte | null>(null);
+  const [important, setImportant] = useState(false);
+
+  useEffect(() => { charger().then(setDonnees).catch(() => setErreur(true)); }, []);
+  useEffect(() => { window.scrollTo(0, 0); }, [ecran]);
+
+  const total = donnees?.cartes.length ?? 0;
+  const progression = useMemo(() => Math.min(votes.length, objectif), [votes, objectif]);
+
+  if (erreur) return <main className="ecran"><p>Impossible de charger les données. Vérifie ta connexion puis recharge la page.</p></main>;
+  if (!donnees) return <main className="ecran chargement"><p>Chargement des votes…</p></main>;
+
+  const commencer = () => {
+    setVotes([]);
+    setObjectif(PARTIE);
+    setImportant(false);
+    setCarte(carteSuivante(donnees, []));
+    setEcran('jeu');
+  };
+
+  const repondre = (r: Reponse) => {
+    if (!carte) return;
+    const nouveaux = [...votes, { uid: carte.uid, reponse: r, important }];
+    setVotes(nouveaux);
+    setImportant(false);
+    const suivante = nouveaux.length < objectif ? carteSuivante(donnees, nouveaux) : null;
+    if (suivante) setCarte(suivante);
+    else setEcran('resultat');
+  };
+
+  const continuer = () => {
+    setObjectif(votes.length + RALLONGE);
+    setCarte(carteSuivante(donnees, votes));
+    setEcran('jeu');
+  };
+
+  const methode = () => { setRetour(ecran); setEcran('methode'); };
+
+  return (
+    <main>
+      {ecran === 'accueil' && <Accueil donnees={donnees} onCommencer={commencer} onMethode={methode} />}
+
+      {ecran === 'jeu' && carte && (
+        <section className="ecran jeu">
+          <header className="barre-jeu">
+            <button className="lien" onClick={() => setEcran('accueil')} aria-label="Quitter">✕</button>
+            <div className="progression" aria-label={`Vote ${progression + 1} sur ${objectif}`}>
+              <span style={{ width: `${(100 * progression) / objectif}%` }} />
+            </div>
+            <span className="compteur">{progression + 1}/{objectif}</span>
+          </header>
+          <p className="consigne">Tu es député : votes-tu ce texte ?</p>
+          <CarteSwipe
+            key={carte.uid}
+            carte={carte}
+            important={important}
+            onImportant={() => setImportant(!important)}
+            onReponse={repondre}
+          />
+          {votes.length >= 5 && (
+            <button className="lien terminer" onClick={() => setEcran('resultat')}>Voir mon résultat maintenant</button>
+          )}
+        </section>
+      )}
+
+      {ecran === 'resultat' && (
+        <Resultat
+          donnees={donnees}
+          votes={votes}
+          onContinuer={votes.length < total ? continuer : null}
+          onRecommencer={commencer}
+          onMethode={methode}
+        />
+      )}
+
+      {ecran === 'methode' && <Methode donnees={donnees} onRetour={() => setEcran(retour)} />}
+    </main>
+  );
+}

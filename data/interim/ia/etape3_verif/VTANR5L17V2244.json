@@ -1,0 +1,15 @@
+{
+ "uid": "VTANR5L17V2244",
+ "consigne": "etape3_verification v2",
+ "verdict": "corrige",
+ "problemes": [
+  "Le texte adopté le 4 juin 2025 est la version du Sénat adoptée sans modification (texte définitif) : son article unique réserve le vote par correspondance des détenus aux scrutins à circonscription nationale unique et aux référendums ; la carte décrivait à tort la version de la commission (bureau de vote en prison, permission de sortir, rapports), absente du texte voté.",
+  "Le titre vague (« Modifier les règles ») ne dit pas ce que « pour » adopte ; la source tranche l'incertitude, lisibilite passe à ok."
+ ],
+ "corrections": {
+  "titre": "Réserver le vote par courrier des détenus à la présidentielle, européennes et référendums",
+  "ce_que_ca_change": "Les personnes détenues ne pourraient plus voter par correspondance qu'aux élections où toute la France forme une seule circonscription, comme la présidentielle et les européennes, et aux référendums. Ce vote par correspondance ne serait donc plus possible aux élections législatives et locales. La règle s'appliquerait à partir des prochaines élections municipales.",
+  "contexte": "Vote sur l'ensemble de la proposition de loi sur le vote par correspondance des personnes détenues, déjà adoptée par le Sénat, le 4 juin 2025.",
+  "lisibilite": "ok"
+ }
+}

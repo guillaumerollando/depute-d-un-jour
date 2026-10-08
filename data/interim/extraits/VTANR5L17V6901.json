@@ -1,0 +1,254 @@
+{
+ "uid": "VTANR5L17V6901",
+ "titre": "l'amendement n° 1 de Mme Godard et les amendements identiques suivants à l'article unique du projet de loi portant transposition de l'avenant n° 3 du 25 février 2026 au protocole d'accord du 10 novembre 2023 relatif à l'assurance chômage (deuxième lecture).",
+ "type": "amendement",
+ "date": "2026-05-26",
+ "dossier": "DLR5L17N53981",
+ "dossier_titre": "Projet de loi portant transposition de l’avenant n°3 du 25 février 2026 au protocole d’accord du 10 novembre 2023 relatif à l’assurance chômage",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "contre",
+  "EPR": "contre",
+  "LFI": "pour",
+  "SOC": "pour",
+  "DR": "contre",
+  "ECOS": "pour",
+  "DEM": "contre",
+  "HOR": "contre",
+  "LIOT": "contre",
+  "UDR": "contre"
+ },
+ "voix": {
+  "RN": {
+   "pour": 0,
+   "contre": 60,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 0,
+   "contre": 33,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 34,
+   "contre": 1,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 24,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 0,
+   "contre": 21,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 14,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 16,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 17,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 1,
+   "contre": 4,
+   "abstention": 1
+  },
+  "GDR": {
+   "pour": 2,
+   "contre": 0,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 0,
+   "contre": 3,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC2809P0D1N000001",
+  "dossier": "DLR5L17N53981",
+  "texte": "PRJLANR5L17BTC2809",
+  "division": "Article unique",
+  "auteur": "Mme Godard,  Mme Runel, M. Aviragnet, Mme Bellay, M. Califer, Mme Dombre Coste, Mme Froger, M. Guedj, M. Houlié, M. Simion, M. Benbrahim, Mme Allemand, M. Baptiste, M. Barusseau, Mme Battistel, M. Baumel, M. Belhaddad, M. Bouloux, Mme Bregman, M. Philippe Brun, Mme Capdevielle, M. Christophle, M. Courbon, M. David, M. Delaporte, M. Delautrette, Mme Diop, M. Dufau, M. Echaniz, M. Eskenazi, M. Faure, M. Fégné, M. Garot, Mme Got, M. Hablot, Mme Hadizadeh, Mme Herouin-Léautey, Mme Céline Hervieu, M. Hollande, Mme Jourdan, Mme Karamanli, Mme Keloua Hachi, M. Leseul, M. Lhardit, Mme Mercier, M. Naillet, M. Oberti, Mme Pantel, M. Pena, Mme Pic, Mme Pirès Beaune, M. Potier, M. Pribetich, M. Proença, Mme Rossi, Mme Rouaux, M. Aurélien Rousseau, M. Roussel, Mme Récalde, M. Saint-Pasteur, Mme Santiago, M. Saulignac, M. Sother, Mme Thiébault-Martinez, Mme Thomin, M. Vallaud, M. Vicot, M. William et les membres du groupe Socialistes et apparentés",
+  "auteur_groupe": "SOC",
+  "auteur_type": "Député",
+  "dispositif": "Après le mot : « intéressés », insérer les mots : « âgés de moins de 55 ans ».",
+  "expose": "Cet amendement des députés socialistes et apparentés vise à exclure les demandeurs d'emploi âgés de 55 ans et plus et ayant signé une rupture conventionnelle individuelle de la réforme réduisant la durée maximale d’indemnisation au chômage ; et ainsi à protéger cette catégorie de la population active fragile. En l'état, la réforme réduit la durée maximale d’indemnisation des demandeurs d'emploi ayant signé une rupture conventionnelle individuelle (RCI), notamment pour ceux seniors. En effet, la durée de 20,5 mois d’indemnisation serait applicable à compter de 55 ans, ce qui représenterait : Pour les personnes âgées de 55 à 57 ans une baisse de 2 mois ; Pour les personnes de plus de 57 ans âgées une baisse de 6,5 mois. Une telle baisse est forte et inconcevable pour des personnes davantage exposées au risque de se retrouver sans emploi et sans retraite : selon l’Insee (2021), cette situation concerne 20 % des personnes âgées de plus de 55 ans. Pour toutes ces raisons, il est donc proposé de ne rendre ce dispositif applicable qu’aux personnes âgées de moins de 55 ans, afin de garantir à tous les travailleurs seniors une durée d'indemnisation proportionnée, à la hauteur des risques de non-retour à l’emploi. Tel est le sens de cet amendement."
+ },
+ "seance": "RUANR5L17S2026IDS30611",
+ "compte_rendu": "CRSANR5L17S2026O1N246",
+ "interventions": [
+  {
+   "orateur": "Mme Nathalie Colin-Oesterlé",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "Le Medef, la CPME, l’U2P, la CFDT, Force ouvrière et la CFTC ont signé cet accord. Ce sont les organisations qui représentent les salariés et les employeurs de ce pays. Qui, sur ces bancs, prétend mieux savoir qu’elles ce qui est bon pour le marché du travail ?Le profil des bénéficiaires de la rupture conventionnelle confirme la nécessité d’un traitement différencié. Ce sont des salariés en moyenne plus qualifiés, plus anciens dans leur poste, qui bénéficient mécaniquement d’indemnisations plus élevées et de droits plus longs : 77 % d’entre eux disposent d’une durée potentielle de droits de dix-huit mois ou plus, contre 49 % pour l’ensemble des allocataires. Paradoxalement, malgré ce profil favorable, ils restent en moyenne plus longtemps au chômage que les salariés licenciés.Ce paradoxe a un nom que certains refusent d’admettre : l’optimisation des droits. Il a aussi un coût : celui que supporte notre modèle social tout entier.Mais soyons clairs : ce projet de loi ne remet pas en cause la rupture conventionnelle. Personne, sur ces bancs, ne propose de supprimer ce dispositif. Les employeurs et les salariés conservent pleinement la liberté de négocier ce type de séparation. Mais une rupture choisie, consentie librement et en connaissance de cause, ne peut être traitée exactement comme un licenciement subi.C’est une question de justice : justice envers les salariés qui perdent leur emploi sans l’avoir voulu, justice envers les cotisants qui financent le régime, justice envers le principe même de l’assurance chômage, qui est d’abord et avant tout un filet de sécurité.L’accord qui nous est soumis prévoit néanmoins, et c’est essentiel, des mesures protectrices pour les personnes les plus vulnérables sur le marché de l’emploi. Les seniors de 55 ans et plus pourront demander une prolongation de leurs droits pour rejoindre les durées maximales du régime commun, sous réserve de démarches effectives de retour à l’emploi évaluées au douzième mois d’indemnisation, dans le cadre d’un accompagnement personnalisé et intensif. Les résidents des territoires d’outre-mer bénéficieront quant à eux de durées d’indemnisation spécifiques et plus longues, tenant compte des réalités de leurs marchés de l’emploi.Enfin, l’impact attendu est substantiel : jusqu’à 15 000 retours à l’emploi supplémentaires et 800 millions d’euros d’économies annuelles en régime de croisière, soit le double de l’objectif de 400 millions fixé par la lettre de cadrage du ministre.Le groupe Horizons & indépendants soutiendra donc pleinement ce texte. Nous appelons cette assemblée à l’adopter conforme en cette deuxième lecture, afin que l’accord des partenaires sociaux puisse enfin entrer en vigueur et produire ses effets. (M. le président de la commission des affaires sociales applaudit.)"
+  },
+  {
+   "orateur": "M. Stéphane Viry",
+   "qualite": null,
+   "groupe": "LIOT",
+   "president_de_seance": false,
+   "texte": "Avant d’entrer dans le vif du sujet de cet accord national interprofessionnel, je voudrais vous parler d’un principe, un principe vivant que l’on croit parfois galvaudé tant il est repris par les uns, estropié par les autres, mais qui demeure, pour ceux qui en comprennent la force, le socle même de notre République. Ce principe, inscrit à l’article L. 1 du code du travail par la loi Larcher de 2008, c’est le dialogue social."
+  },
+  {
+   "orateur": "M. Stéphane Viry",
+   "qualite": null,
+   "groupe": "LIOT",
+   "president_de_seance": false,
+   "texte": "Pourquoi je vous parle de cela ? Parce que je crois – et je le dis avec la force de la conviction – à cette France qui construit ses lois du travail non pas dans le clair-obscur des directions générales, dans la pénombre secrète du pouvoir, mais autour d’une table, là où se rencontrent dans la lumière de la confrontation loyale ceux qui emploient et ceux qui travaillent.Le dialogue social, mes chers collègues, ce n’est pas de la palabre : c’est du pragmatisme ; c’est de la responsabilité ; c’est accepter que la réalité du terrain compte plus, infiniment plus, que les idéologies partisanes ou les arbitrages budgétaires, car ce sont les conditions de travail de centaines de milliers de nos compatriotes qui sont en jeu.Le travail est porteur de sens, de valeurs. Le travail, c’est la dignité, c’est l’émancipation, c’est ce qui permet à chacun de bâtir sa vie et de contribuer à la richesse collective. Il faut comprendre que les solutions durables naissent du compromis, pas de l’affrontement stérile ni des injonctions bureaucratiques. Cette méthode a fait ses preuves. Elle a bâti notre modèle social. Elle a permis à notre pays de traverser les crises sans renoncer à ce qui nous définit : une société où le travail est respecté, où l’entreprise est valorisée, où le dialogue prime le conflit.Alors oui, je suis attaché au dialogue social, viscéralement attaché.Le rejet en première lecture de cet accord par certains députés interroge toutefois sur la place du dialogue social dans notre débat public. Voilà une quinzaine d’années que la question se pose. Les lettres de cadrage prescriptives, la multiplication des conclaves comme autant d’écrans de fumée remettent en cause la place vitale du paritarisme. La commission des affaires sociales avait voté le lancement sur ce sujet d’une mission d’information dont je suis l’un des corapporteurs, mais celle-ci n’a pas encore été mise en route.Nous voici donc revenus au cœur même de notre sujet, puisque l’Assemblée examine pour la deuxième fois ce projet de loi transposant l’avenant au protocole relatif à l’assurance chômage signé par certains partenaires sociaux, après son adoption conforme au Sénat. Ce texte intervient dans un contexte de tensions sur les finances du régime, après plusieurs années de réformes réglementaires qui ont fragilisé la logique paritaire. Il nous appartient d’en respecter l’équilibre général.Le constat est partagé : la rupture conventionnelle connaît un succès massif, avec plus de 500 000 ruptures annuelles. L’objectif n’est pas de remettre en cause cet outil, mais d’en limiter les effets financiers. L’avenant prévoit ainsi une réduction encadrée de la durée d’indemnisation, avec des modulations selon l’âge et la conjoncture et un accompagnement renforcé vers ce travail qui demeure, n’en déplaise à certains utopistes, la valeur fondamentale d’intégration.Pour autant, plusieurs interrogations demeurent. Deux organisations syndicales n’ont pas signé l’accord ; par ailleurs, la différenciation prévue marque une évolution de la philosophie du régime. Les partenaires sociaux demandent la fin des prélèvements opérés sur l’Unedic. Le respect du dialogue social implique que l’État tienne ses engagements.Comme tout compromis, cet accord est perfectible ; mais au-delà du texte, la place de ces sujets dans notre hémicycle pose question. Un renforcement du débat parlementaire s’impose. C’est dans cet esprit que j’avais déposé en 2024 un amendement – adopté par l’Assemblée, mais la dissolution a interrompu le parcours du texte – qui prévoyait chaque année, ici même, un débat portant sur l’emploi et l’assurance chômage, dans le respect de l’article L. 1 du code du travail.Pour toutes ces raisons et dans le respect du dialogue social, qui doit guider notre action, le groupe LIOT appelle à voter pour ce texte – non qu’il soit parfait, mais parce qu’il résulte d’une négociation paritaire dont, encore une fois, nous devons respecter l’équilibre. Voter contre enverrait aux partenaires sociaux un message funeste : celui que leur travail peut être balayé d’un revers de main par le législateur. C’est là, enfin, la substance même de ce pacte social qui nous lie et sans lequel il n’est point de République sociale digne de ce nom."
+  },
+  {
+   "orateur": "M. Olivier Fayssat",
+   "qualite": null,
+   "groupe": "UDR",
+   "president_de_seance": false,
+   "texte": "Nous examinons pour la deuxième fois un texte adopté par le Sénat, rejeté par notre assemblée, puis de nouveau adopté par les sénateurs dans sa version initiale. Ce projet de loi porte transposition de l’avenant no 3 du 25 février 2026 au protocole d’accord du 10 novembre 2023 relatif à l’assurance chômage, c’est-à-dire qu’il s’inscrit dans un cadre précis : celui d’un accord entre les partenaires sociaux qui vise à remédier à la dégradation financière de l’Unedic en ciblant les conséquences, en matière de dépenses d’indemnisation, des ruptures conventionnelles individuelles.Ce texte ne remet pas en question le principe de la rupture conventionnelle. Il s’appuie en revanche sur un constat : le nombre de ces ruptures a progressé de plus de 60 % en dix ans. Ce mécanisme présente en effet de réels avantages ; il offre davantage de souplesse aux entreprises et permet, dans de nombreux cas, de sécuriser les transitions professionnelles des salariés. L’idée de départ consistait en une sorte de divorce à l’amiable, une manière de se quitter qui rassure les deux parties : droit aux indemnités chômage pour le salarié, pas de risque de contentieux pour l’employeur.En revanche, si la volonté de se séparer n’est pas conjointe, la rupture conventionnelle n’avait en aucun cas vocation à se substituer aux autres procédures : la démission et le licenciement. C’est pourtant un peu ce qui est arrivé – et cela coûte cher. En 2024, les bénéficiaires d’indemnités à la suite d’une telle rupture représentaient 19 % des nouveaux inscrits, mais 26 % des dépenses d’allocations, soit 9,4 milliards d’euros. Le monde du travail a perdu de vue le fait que l’assurance chômage repose historiquement sur la compensation d’une perte involontaire d’emploi. Elle trouve son origine dans la volonté de se prémunir contre un aléa : le licenciement constitue un risque dont le salarié doit être protégé. C’est la logique même de l’assurance.La perte d’emploi à la suite d’une rupture conventionnelle, par définition, n’est pas un aléa. Elle résulte d’un choix librement consenti, négocié, ratifié par les deux parties : le salarié veut quitter l’entreprise, l’employeur souhaite le départ de ce salarié. Il n’y a pas de victime, il y a une volonté commune, un accord. Nous pouvons évidemment comprendre que celui-ci donne lieu à une ouverture des droits au chômage ; le salarié a cotisé, il mérite d’être accompagné dans sa transition. En revanche, indemniser ce choix délibéré aussi longtemps qu’une perte subie et involontaire est contre-productif. On donne à l’employeur qui veut s’épargner les risques associés à un licenciement le moyen de convaincre de partir un salarié qui ne le souhaitait pas ; réciproquement, le salarié peut obtenir de son employeur une séparation qui ne lui aurait pas été accordée autrement, faisant supporter à la collectivité ce qui n’est, au fond, qu’une démission.C’est pourquoi nous soutenons cette modulation : même ouverture des droits mais durée d’indemnisation réduite en cas de rupture conventionnelle, dans une logique assurantielle. Je ne m’attarderai pas sur le fond, ni sur les importantes économies attendues ; nous avons évoqué tout cela en détail lors de la première lecture. En bref, il s’agit d’un compromis, d’un équilibre à rétablir entre d’une part la nécessaire souplesse offerte par la rupture conventionnelle, qui permet, je le répète, d’organiser de manière apaisée la séparation entre salarié et employeur, d’autre part la soutenabilité d’un régime d’assurance chômage dont chacun sait qu’il ne peut durablement absorber de telles charges sans adaptation.L’unique article du projet de loi vise à l’agrément, afin de rendre applicables les nouvelles règles, de l’avenant négocié par les partenaires sociaux. Le texte résulte donc déjà d’une négociation, dans un cadre défini par le gouvernement, puis d’un accord majoritaire. Cet équilibre confère à la réforme une légitimité particulière et justifie que le Parlement ne la fragilise pas par des modifications qui remettraient en cause son architecture globale. Il serait regrettable que nous ne parvenions pas à trouver ici une majorité, alors qu’il s’agit de confirmer un accord signé par l’ensemble des organisations patronales et la majorité des organisations syndicales. Espérons que la représentation nationale ne sera pas moins raisonnable que celles et ceux qu’elle représente : le groupe UDR votera en faveur du projet de loi. (Applaudissements sur les bancs du groupe UDR ainsi que sur plusieurs bancs du groupe RN.)"
+  },
+  {
+   "orateur": "M. Gaëtan Dussausaye",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Chacun comprend mieux, désormais, l’état du pays comme celui des comptes publics. Voyons donc ensemble ce qu’est cette cinquième réforme de l’assurance chômage, et surtout ce que n’est pas cette cinquième réforme de l’assurance chômage.Non, mesdames et messieurs les membres du gouvernement, cette réforme n’est pas une réponse au déficit de notre régime d’assurance chômage. Sans ses charges supplémentaires, les prélèvements répétés de l’État, les obligations croissantes de financement de France Travail, ce régime, vous le savez pertinemment, serait à l’équilibre, voire excédentaire. Pour résorber son déficit, il conviendrait de stopper les prélèvements étatiques. Lors de l’examen du dernier projet de loi de financement de la sécurité sociale, le gouvernement a pourtant récidivé : 4 milliards d’euros pris à l’Unedic, avec un soutien allant des députés LR aux socialistes.Peut-être la réforme vise-t-elle plutôt à infléchir le nombre des ruptures conventionnelles individuelles ? Au Rassemblement national, nous suivons d’un ?il attentif et prudent cette décision, fruit de la démocratie sociale. Le recours à ce mode de rupture du contrat de travail, autrefois fortement critiqué par les syndicats et à gauche de cet hémicycle, a en effet connu une hausse considérable : 63 % en dix ans, 17 % rien qu’entre 2019 et 2024.Les ruptures conventionnelles ont un coût, notamment en termes de productivité. Elles sont devenues un outil courant de mobilité professionnelle, désormais utilisées en surnombre dans les petites et moyennes entreprises. Or ces acteurs économiques sont proportionnellement les plus touchés par la flexibilité du marché du travail.Il faut également examiner les ruptures conventionnelles au prisme de la justice sociale, car ce sont bien les plus diplômés – ceux qui ont le moins de difficultés à s’insérer sur le marché du travail – qui ont le plus fréquemment recours à ce mode de rupture de contrat.La rupture conventionnelle est exigée par les très grandes entreprises, plébiscitée par les très hauts cadres : quel paradoxe de voir la gauche en devenir l’avocate ! Beaucoup de ceux qui dénoncent cette inflexion contenue dans le texte sont les mêmes qui, hier, condamnaient avec virulence le mécanisme même de la rupture conventionnelle.Je vous propose un petit exercice de mémoire. Qui affirmait hier que la rupture conventionnelle est un moyen de « contourner la législation en matière de licenciement » ? Annie David, sénatrice communiste.Qui affirmait hier que la rupture conventionnelle offre une « possibilité de licenciement sans motif » ? Martine Billard, députée communiste. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+  },
+  {
+   "orateur": "M. Gaëtan Dussausaye",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Qui affirmait hier que la rupture conventionnelle est un dispositif qui « permet qu’on vous pousse dehors hors de tout cadre légal » ? Un sénateur qui siégeait alors avec les communistes, un certain Jean-Luc Mélenchon. (Applaudissements sur les bancs du groupe LFI-NFP. – M. Hadrien Clouet se lève et applaudit.)La gauche n’est définitivement pas à une contradiction près, puisqu’elle se fait aujourd’hui l’avocate de la rupture conventionnelle qu’elle n’a pourtant eu de cesse de dénoncer.Voter en faveur de cet avenant, c’est d’abord respecter l’accord négocié par les partenaires sociaux ; c’est donner son crédit et sa chance à la démocratie sociale, une fois encore abandonnée par l’extrême gauche de cet hémicycle ; et c’est agir pour un tout petit peu plus de justice sociale et de pérennité sur le marché du travail. C’est la raison pour laquelle le groupe Rassemblement national soutiendra l’accord. (Applaudissements sur les bancs des groupes RN et UDR.)"
+  },
+  {
+   "orateur": "M. Christophe Mongardien",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Ce projet de loi, qui revient devant l’Assemblée nationale pour une deuxième lecture, est indispensable à l’application de l’avenant no 3 du 25 février 2026 au protocole d’accord relatif à l’assurance chômage signé avec les partenaires sociaux le 10 novembre 2023.Le présent texte modifie l’article L. 5422-2 du code du travail en ajoutant le type de rupture de contrat parmi les critères d’établissement de la durée des droits à indemnisation. Dans le cas présent, il est question de la rupture conventionnelle individuelle, introduite dans le code du travail en 2008 en accord avec les partenaires sociaux afin de favoriser les négociations amiables entre l’employeur et le salarié lors d’une rupture du contrat de travail et de réduire le nombre de contentieux.Ce mode de rupture, qui répondait à un besoin tant de l’employeur que de l’employé, est victime de son succès et représente entre 8 et 21 % du volume des ruptures de contrat à durée indéterminée. En parallèle, les ouvertures de droits à l’allocation d’aide au retour à l’emploi liées à ce mode de rupture augmentent depuis 2008. En 2024, elles représentaient 19 % des ouvertures de droits pour un coût de 9,4 milliards d’euros, soit 26 % des dépenses totales d’allocations chômage.Par ailleurs, les salariés recourant le plus à ce mode de rupture appartiennent à une catégorie de personnes dont l’employabilité est sensiblement supérieure à la moyenne, du fait de leur âge, de leur formation et de leur expérience.Paradoxalement, la moyenne des droits à l’allocation chômage est plus élevée chez les salariés ayant fait l’objet d’une rupture conventionnelle que chez ceux qui ont subi un licenciement imposé. Dans un souci d’équité entre les salariés, d’économie et d’incitation au retour rapide à l’emploi, il convient donc de réduire légèrement la durée d’indemnisation maximale en cas de rupture conventionnelle individuelle par rapport à un licenciement forcé. C’est ce que prévoit l’avenant no 3 au protocole d’accord. À l’inverse du licenciement, la rupture conventionnelle individuelle requiert l’accord de l’employé et de l’employeur. C’est un acte négocié, et non une décision unilatérale subie.En outre, ce protocole d’accord consacre une attention particulière aux territoires d’outre-mer et aux personnes de plus de 55 ans qui rencontreraient des difficultés à retrouver un emploi malgré une recherche active, puisqu’il permet la restauration intégrale de la durée totale de leurs droits à l’allocation chômage.Rejeter ce projet de loi rendrait impossible l’application du protocole d’accord préalablement négocié et signé entre le gouvernement et les partenaires sociaux. Cela reviendrait à mettre en cause le dialogue social et la pertinence des partenaires sociaux dans la défense effective des droits des salariés, alors que ce sont eux qui connaissent le mieux le monde du travail ainsi que le quotidien des entreprises, des salariés et des demandeurs d’emploi.Ce projet de loi, rejeté une première fois dans l’hémicycle de l’Assemblée nationale à la suite du vote d’un amendement de suppression,…"
+  },
+  {
+   "orateur": "M. Christophe Mongardien",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "…a pourtant été voté tel quel par deux fois en commission des affaires sociales. Il nous revient du Sénat qui a adopté le texte à l’issue d’un vote favorable indiscutable, avec 236 voix pour et seulement 39 contre. À notre tour de démontrer notre respect et notre attachement aux négociations entre les partenaires sociaux !Favorable à ce protocole d’accord et à l’avenant signé entre le gouvernement et les partenaires sociaux, notre groupe soutiendra l’article unique de ce projet de loi et rejettera tous les amendements présentés, qui ne visent qu’à supprimer ou à contrecarrer le protocole d’accord signé. (Applaudissements sur les bancs du groupe EPR et sur quelques bancs du groupe Dem.)"
+  },
+  {
+   "orateur": "M. Julien Brugerolles",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Depuis 2017, les gouvernements successifs d’Emmanuel Macron se sont illustrés par leur acharnement contre les salariés et leur droit à l’assurance chômage, par la stigmatisation des privés d’emploi et par la constante remise en cause de la gestion paritaire de l’Unedic. En neuf ans, pas moins de sept réformes de l’assurance chômage sont venues accroître la précarité des privés d’emploi et, mécaniquement, fragiliser la situation de l’ensemble des travailleurs.Dans ce contexte, certaines organisations syndicales, comme la CFE-CGC et la CGT, n’ont pas signé cet accord ; d’autres, comme FO et la CFDT, ne l’ont signé que par crainte de voir le gouvernement reprendre unilatéralement la main.Ce texte est contraire aux intérêts des privés d’emploi et de tous les travailleurs, d’abord parce qu’il prévoit une nouvelle réduction de la durée d’indemnisation pouvant aller jusqu’à six mois et demi, ensuite parce qu’il instaure une grave inégalité de traitement entre les allocataires, et enfin parce qu’il frappe le plus durement les salariés les plus âgés.De plus, il ne s’attaque absolument pas au comportement de certains employeurs. Autrement dit, la rupture conventionnelle demeure acceptable tant qu’elle permet à un employeur de déguiser un licenciement en minimisant, au passage, le risque d’un recours devant le conseil de prud’hommes.Enfin, les justifications de cette réforme – la nécessité de réduire le déficit de l’Unedic ou, pour reprendre les mots du ministre du travail, de cibler les « gens qui profitent d’être au chômage pour passer un an tranquille » – reposent sur des mensonges. Lorsqu’une personne au chômage sur trois est en situation de pauvreté monétaire, elle ne profite de rien ni de personne.Quant à la gestion de l’Unedic, elle ne souffre que d’une chose : les moindres compensations des exonérations de cotisations et les ponctions opérées par l’État. Sans celles-ci, l’Unedic afficherait un solde positif de 2 milliards d’euros."
+  },
+  {
+   "orateur": "M. Thibault Bazin",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Madame Amiot, il ne faut pas mentir à nos collègues. (M. Hadrien Clouet s’exclame.) Votre amendement n’est pas que rédactionnel. Sur le fond, votre amendement rend obligatoire la modulation de la durée d’indemnisation, qui est aujourd’hui facultative. Je pense que ce n’est pas du tout votre intention.Pour toutes ces raisons, je vous invite à retirer votre amendement ; à défaut, avis défavorable."
+  },
+  {
+   "orateur": "Mme Isabelle Rauch",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "Nous sommes aussi contre cet amendement. Les propos qui ont été tenus n’étaient pas tout à fait justes. Il ne s’agit pas de mettre sous tutelle les bénéficiaires de ruptures conventionnelles mais de cibler la protection sur les risques réels de perte d’emploi.C’est cette même exigence de cohérence assurantielle qui a guidé notre action en Europe. La France a remporté une victoire décisive avec la réforme du régime des travailleurs frontaliers, qui consacre un principe clair : c’est l’État qui a perçu les cotisations qui indemnise. S’agissant d’assurance chômage, nous préférerons toujours défendre le régime assurantiel par des actes cohérents plutôt que par des proclamations aussi sonores que rapides."
+  },
+  {
+   "orateur": "Mme Sandrine Runel",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Nous le savons, il est très difficile de retrouver un emploi après une période de chômage, notamment pour les seniors, pour qui les possibilités de retour à l’emploi sont beaucoup plus faibles. Ainsi, ces personnes sont davantage exposées au risque de se retrouver sans emploi et sans retraite. En 2021, 20 % des personnes âgées de plus de 55 ans n’étaient ni en emploi ni en retraite, souvent de manière subie. Le report de l’âge légal de départ à la retraite ne fait qu’aggraver cette situation. Appliquer cet avenant aux personnes âgées de 55 ans et plus représenterait pour ces dernières une baisse de deux à six mois de la durée d’indemnisation – pour une personne au chômage, c’est énorme.Monsieur le premier ministre, vous avez décidé d’être avec nous pendant ces débats. Lors de l’examen du PLFSS, vous avez entendu qu’il fallait revenir sur la réforme portant l’âge légal de départ à la retraite à 64 ans. La pénibilité doit être prise en compte, notamment pour les plus fragiles. Peut-être qu’aujourd’hui vous pourriez comprendre que nous ne pouvons pas pénaliser davantage les salariés de plus de 55 ans.Afin d’éviter l’appauvrissement des travailleurs seniors, nous vous demandons d’exclure les demandeurs d’emploi âgés de 55 ans et plus du champ d’application de cet avenant."
+  },
+  {
+   "orateur": "M. Marcellin Nadeau",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Par cet amendement, dont le premier signataire est notre collègue Yannick Monnet, nous proposons d’exclure les travailleurs âgés de 55 ans et plus de la modulation de la durée d’indemnisation.Il est aberrant de constater que ce sont eux qui paieront le plus lourd tribut, alors même que leur situation du point de vue de l’accès et du maintien dans l’emploi est très fragile et complexe. Près de 15 % d’entre eux ne sont ni en emploi ni en retraite, un sas de précarité allongé par le recul de l’âge de départ à la retraite. Selon l’Insee, cette proportion augmente nettement avec l’âge, atteignant près de 28 % à 61 ans.Les réformes successives de l’assurance chômage ne les ont pas non plus épargnés : la règle de la contracyclicité a réduit de neuf mois la durée d’indemnisation des travailleurs de plus de 55 ans, qui est passée de trente-six à vingt-sept mois.Si cet avenant était appliqué, la durée d’indemnisation des plus de 55 ans passerait à vingt mois et demi : les droits seraient réduits de deux mois pour les 55-57 ans et de six mois et demi pour les plus de 57 ans. Une telle mesure, vous le comprendrez, est particulièrement injuste. Cela ne fera qu’accroître la précarité des travailleurs les plus âgés en opérant une bascule croissante vers l’allocation de solidarité spécifique (ASS) ou le RSA.En outre, pour ces travailleurs, le recours à la rupture conventionnelle est bien plus souvent subi que choisi. Selon l’Unedic, 19 % des ruptures conventionnelles sont conclues par des salariés de plus de 50 ans.Pour toutes ces raisons, nous ne pouvons qu’amender de cette manière cet avenant."
+  },
+  {
+   "orateur": "M. Thibault Bazin",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Mme Runel a raison, il est plus dur de retrouver un emploi quand on est plus âgé. Toutefois, les ruptures conventionnelles individuelles ne concernent pas en priorité les personnes les plus âgées ; les profils concernés sont surtout des publics plus jeunes et plus diplômés, en première partie de carrière – il est important de le mentionner.Par vos quatre amendements, vous voulez exclure du dispositif de l’accord issu du dialogue social les salariés les plus âgés. Outre le fait que ce n’est pas respectueux de l’accord entre les partenaires sociaux, vous faites fi de ce que celui-ci prévoit spécifiquement pour ces travailleurs. Tout d’abord, il prévoit un accompagnement intensif et personnalisé proposé par France Travail ; vous le balayez. La priorité doit être l’accompagnement, avant même d’évoquer la durée d’indemnisation.L’accord prévoit ensuite des durées d’indemnisation plus longues pour les demandeurs d’emploi de plus de 55 ans : vingt mois et demi, contre quinze pour les allocataires de moins de 55 ans. Il ouvre en outre la possibilité d’une prolongation de cette indemnisation, à l’issue d’un examen de situation réalisé au douzième mois. Cette prolongation serait accordée sous réserve que l’intéressé ait suivi les mesures d’accompagnement qui lui sont proposées et effectué les démarches relatives au retour à l’emploi.Dès lors, vous qui exprimez votre inquiétude pour les personnes âgées de plus de 55 ans, convenez que l’accord leur octroie un traitement spécifique en matière de durée d’indemnisation. Pour toutes ces raisons, j’émets un avis défavorable à vos amendements."
+  },
+  {
+   "orateur": "M. Jean-Pierre Farandou",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je ne vous surprendrai pas en émettant un avis défavorable à ces amendements. Nous faisons en effet le choix de renforcer massivement l’accompagnement de tous les demandeurs d’emploi ayant conclu une rupture conventionnelle, en particulier des seniors.De nombreuses études ont démontré que les politiques publiques de l’emploi les plus efficaces à l’égard des seniors au chômage reposent sur un accompagnement renforcé dans la recherche d’emploi, associé à des actions de formation. C’est précisément le sens du texte que nous examinons.Pour ne pas répéter les propos du rapporteur, que je partage pleinement, je vais préciser le rôle de France Travail dans cet accompagnement. Enfin, pourquoi croyez-vous que les organisations syndicales ont signé l’avenant au protocole d’accord ? Il doit bien y avoir des raisons, car je vous garantis que leur rôle est de protéger les salariés."
+  },
+  {
+   "orateur": "M. Jean-Pierre Farandou",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "France Travail fera le point, dès le premier entretien, sur les compétences de l’intéressé et sur l’état du marché du travail. Il contribuera à lever les contraintes – manque de confiance, stéréotypes liés à l’âge –, à remobiliser, à actualiser et à reconvertir les compétences : voilà pour le volet consacré à la formation.Son rôle sera également d’accélérer la recherche d’emploi grâce à un parcours intensif, d’examiner avec l’intéressé les projets de reprise d’activité, de l’informer sur ses droits et d’encourager la reprise d’un emploi pour améliorer le niveau futur de sa retraite.Cet accompagnement fonctionne ; c’est la raison pour laquelle les syndicats ont signé le projet d’avenant. C’est aussi pourquoi je vous demande de voter ce projet de loi."
+  },
+  {
+   "orateur": "M. Hadrien Clouet",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "À ce compte-là, je veux bien accompagner toute la Macronie en abrégeant votre mandat de six mois et demi : partez dès maintenant ! (Applaudissements sur les bancs du groupe LFI-NFP.) Franchement, vos arguments sont folkloriques !Vous expliquez ensuite que les seniors concluent moins de ruptures conventionnelles : c’est évident, puisque leur carrière est plus longue et qu’ils sont surexposés aux licenciements. Bravo, grâce à vous, leur sort va encore empirer ! Mais les données de l’Unedic montrent que les seniors représentent 9 % des entrants à France Travail, mais 10 % des entrants après rupture conventionnelle. Ils sont donc, proportionnellement, davantage concernés par ce dispositif que les non-seniors. Votre argument n’est donc pas valable.Enfin, l’accompagnement que vous proposez semble se résumer – je cite vos propos, peut-être dans le désordre – à une succession de rendez-vous autour des « compétences » : point sur les compétences, bilan de compétences, transmission de compétences… C’est très intéressant ! J’imagine qu’entre-temps viendront l’entretien préalable de compétences puis l’entretien de compétences de fin de carrière. Tant qu’à disposer de compétences, autant se voir toutes les semaines pour parler des compétences !"
+  },
+  {
+   "orateur": "M. Hadrien Clouet",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Les compétences des travailleurs seniors sont connues ; il faudrait d’ailleurs parler de qualifications. C’est donc au titre de leurs qualifications qu’ils devraient être accompagnés vers l’emploi. Le problème est le manque d’emplois, pas le déficit de compétences des salariés du pays. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+  },
+  {
+   "orateur": "Mme Océane Godard",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "J’ai le sentiment que les véritables sujets ne sont pas abordés. Nous ne parlons pas des 90 % de recrutements effectués en CDD lors du dernier trimestre, dont 70 % correspondent à des réembauches. Nous ne parlons pas de la réalité du marché du travail, qui nourrit une grande précarité : temps partiel subis, particulièrement pour les femmes, les salariés de plus de 55 ans, les jeunes et les personnes en situation de handicap.Peut-être pourrions-nous envisager des solutions à la fois plus modernes et plus pertinentes. Imaginons de nouvelles formes de sécurisation professionnelle, notamment pour les salariés de plus de 55 ans. Accompagnons les managers dans le développement de leurs compétences d’encadrement et d’animation du travail.Donnons toute sa place au dialogue social dans les entreprises, en associant davantage les salariés. Repensons la place des régions pour accompagner et coordonner plus efficacement le développement des entreprises ainsi que la qualité du travail des salariés."
+  },
+  {
+   "orateur": "Mme Justine Gruet",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Les régions plus efficaces ? Laissez-moi rire !"
+  },
+  {
+   "orateur": "Mme Océane Godard",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "L’ensemble de ces actions contribuerait à réduire le nombre de ruptures conventionnelles et à améliorer la qualité du travail : l’enjeu n’est pas tant de travailler plus que de travailler mieux. (Applaudissements sur plusieurs bancs du groupe SOC.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix les amendements identiques nos 1, 3 et 8."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

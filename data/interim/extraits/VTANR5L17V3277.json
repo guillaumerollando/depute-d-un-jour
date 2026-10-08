@@ -1,0 +1,106 @@
+{
+ "uid": "VTANR5L17V3277",
+ "titre": "l'amendement n° 8 de Mme Rousseau après l'article premier de la proposition de loi relative à la gratuité des parkings d'hôpitaux publics (première lecture).",
+ "type": "amendement",
+ "date": "2025-10-30",
+ "dossier": "DLR5L17N52776",
+ "dossier_titre": "Gratuité des parkings d'hôpitaux publics",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "contre",
+  "EPR": "contre",
+  "LFI": "pour",
+  "SOC": "pour",
+  "DR": "contre",
+  "ECOS": "pour",
+  "DEM": "contre",
+  "GDR": "pour",
+  "UDR": "contre"
+ },
+ "voix": {
+  "RN": {
+   "pour": 0,
+   "contre": 117,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 0,
+   "contre": 27,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 43,
+   "contre": 0,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 38,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 0,
+   "contre": 5,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 18,
+   "contre": 1,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 5,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 1,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 0,
+   "contre": 1,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 4,
+   "contre": 0,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 0,
+   "contre": 13,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901B1826P0D1N000008",
+  "dossier": "DLR5L17N52776",
+  "texte": "PIONANR5L17B1826",
+  "division": "Article PREMIER",
+  "auteur": "Mme Sandrine Rousseau,  M. Amirshahi, Mme Arrighi, Mme Autain, Mme Balage El Mariky, Mme Belluco, M. Ben Cheikh, M. Biteau, M. Arnaud Bonnet, M. Nicolas Bonnet, Mme Chatelain, M. Corbière, M. Davi, M. Duplessy, M. Fournier, Mme Garin, M. Damien Girard, M. Gustave, Mme Catherine Hervieu, M. Iordanoff, Mme Laernoes, M. Lahais, M. Lucas-Lundy, Mme Ozenne, M. Peytavie, Mme Pochon, M. Raux, Mme Regol, M. Roumégas, M. Ruffin, Mme Sas, Mme Sebaihi, Mme Simonnet, Mme Taillé-Polian, M. Tavernier, M. Thierry et Mme Voynet",
+  "auteur_groupe": "ECOS",
+  "auteur_type": "Député",
+  "dispositif": "Le Gouvernement remet un rapport au Parlement afin d’établir combien représentent les ressources liées aux solutions de stationnement dans l’ensemble des recettes des hôpitaux. Celles-ci y sont déclinées selon la taille des hôpitaux et par type de structure publique hospitalière.",
+  "expose": "Cet amendement d'appel a pour vocation de rappeler que le Rassemblement national aborde ici un sujet qui concerne 0.1 % du budget des hôpitaux publics français. Ces derniers sont fortement contraints, notamment par les choix budgétaires du Rassemblement national, que le groupe écologiste et social conteste encore et toujours. Par ailleurs, le Rassemblement national ne nous explique toujours pas comment une politique répressive contre les étranger·es remplirait les budgets publics et sociaux, soit par une démonstration en sciences économiques, soit par une démonstration en technique budgétaire. Nous craignons que l’accès aux parkings des hôpitaux, qui est un réel sujet de préoccupation, dissimule ici une ambition nulle pour le financement de notre santé : Madame Le Pen, son groupe et son parti politique laissent perdurer une illusion sociale - jusqu'à présent jamais dispersée - par des propositions à niveau des enjeux."
+ },
+ "seance": "RUANR5L17S2026IDS29856",
+ "compte_rendu": "CRSANR5L17S2026O1N023",
+ "interventions": [
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 8."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

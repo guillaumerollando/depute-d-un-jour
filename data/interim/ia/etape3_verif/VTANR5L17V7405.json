@@ -1,0 +1,11 @@
+{
+ "uid": "VTANR5L17V7405",
+ "consigne": "etape3_verification v2",
+ "verdict": "corrige",
+ "problemes": [
+  "La durée de 540 jours est une durée cumulée sur plusieurs placements successifs en rétention pour une même mesure d'expulsion (une seule rétention est limitée à 210 jours) ; la carte la présente comme une durée de rétention continue."
+ ],
+ "corrections": {
+  "ce_que_ca_change": "Le préfet pourrait imposer un examen psychiatrique à une personne très menaçante en raison de son adhésion à des thèses terroristes et de possibles troubles mentaux. Des condamnés pour terrorisme très dangereux pourraient, après leur peine, être placés dans un centre avec suivi médical. Des étrangers condamnés pour des faits graves pourraient être retenus jusqu'à 540 jours, en plusieurs fois."
+ }
+}

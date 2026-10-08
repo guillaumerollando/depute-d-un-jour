@@ -1,0 +1,83 @@
+{
+  "uid": "VTANR5L17V2958",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Michaël Taverne",
+      "citation": "Nous voterons néanmoins cette proposition de loi puisque, même si elle ne changera pas grand-chose, elle vise tout de même à protéger un peu plus les Français.",
+      "justification": "Le groupe vote pour en soutenant l’objectif de protection du texte."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Guillaume Kasbarian",
+      "citation": "Il est juste, ciblé, attendu et nécessaire.",
+      "justification": "Le groupe vote pour en soutenant le contenu du texte."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s’exprime pas dans l’extrait."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s’exprime pas dans l’extrait."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s’exprime pas dans l’extrait."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Jérémie Iordanoff",
+      "citation": "En somme, c’est un texte d’affichage, attentatoire aux libertés, inefficace et peut-être même contre-productif.",
+      "justification": "Le groupe vote contre en jugeant le texte attentatoire aux libertés et inefficace."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Anne Bergantz",
+      "citation": "Le groupe Les Démocrates votera en faveur de ce texte, car il prévoit des dispositions allant dans le bon sens.",
+      "justification": "Le groupe vote pour en soutenant les dispositions du texte."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Xavier Albertini",
+      "citation": "Convaincu que l’allongement de la durée de rétention favorisera l’éloignement des personnes sous OQTF et que l’État de droit nécessite cette réforme, notre groupe votera ce texte.",
+      "justification": "Le groupe vote pour en soutenant l’allongement de la durée de rétention."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Paul Molac (LIOT)",
+      "citation": "Le groupe Libertés, indépendants, outre-mer et territoires souscrit aux objectifs de ce texte et se retrouve dans le compromis trouvé par la commission des lois de l’Assemblée.",
+      "justification": "Le groupe vote pour en souscrivant aux objectifs du texte."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Émeline K/Bidi (GDR)",
+      "citation": "C’est une mesure qui, en plus d’être inefficace, constitue un dévoiement de l’objet légal de la rétention.",
+      "justification": "Le groupe vote contre en s’opposant au contenu du texte."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Matthieu Bloch (UDR)",
+      "citation": "Le texte que nous nous apprêtons à voter apporte une réponse indispensable et équilibrée.",
+      "justification": "Le groupe vote pour en soutenant le contenu du texte."
+    }
+  }
+}

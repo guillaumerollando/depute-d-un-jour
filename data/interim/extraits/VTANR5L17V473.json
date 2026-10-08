@@ -1,0 +1,106 @@
+{
+ "uid": "VTANR5L17V473",
+ "titre": "l'amendement n° 797 de M. Moulliere à l'article premier de la proposition de loi d'abrogation de la retraite à 64 ans (première lecture).",
+ "type": "amendement",
+ "date": "2024-11-28",
+ "dossier": "DLR5L17N50684",
+ "dossier_titre": "Abrogation de la retraite à 64 ans",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "contre",
+  "EPR": "pour",
+  "LFI": "contre",
+  "SOC": "contre",
+  "DR": "pour",
+  "ECOS": "contre",
+  "DEM": "pour",
+  "HOR": "pour",
+  "GDR": "contre"
+ },
+ "voix": {
+  "RN": {
+   "pour": 0,
+   "contre": 63,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 43,
+   "contre": 1,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 52,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 0,
+   "contre": 35,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 7,
+   "contre": 0,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 20,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 13,
+   "contre": 0,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 11,
+   "contre": 1,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 0,
+   "contre": 1,
+   "abstention": 1
+  },
+  "GDR": {
+   "pour": 0,
+   "contre": 4,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 1,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC0613P0D1N000797",
+  "dossier": "DLR5L17N50684",
+  "texte": "PIONANR5L17BTC0613",
+  "division": "Article PREMIER",
+  "auteur": "M. Moulliere,  M. Alfandari, M. Gernigon, Mme Colin-Oesterlé, M. Lam, M. Albertini, Mme Bellamy, M. Benoit, M. Berrios, M. Bouyx, M. Brard, Mme Firmin Le Bodo, M. Guerin, Mme Gérard, M. Henriet, M. Jolivet, M. Kervran, Mme Le Hénanff, M. Lemaire, Mme Lise Magnier, M. Marle, M. Marcangeli, Mme Mesnard, Mme Moutchou, M. Patrier-Leitus, Mme Piron, M. Plassard, M. Portarrieu, Mme Rauch, M. Roseren, Mme Saint-Paul, M. Thiébaut, M. Valletoux et Mme Violland",
+  "auteur_groupe": "HOR",
+  "auteur_type": "Député",
+  "dispositif": "Rédiger ainsi cet article : « Dans un délai d’un an suivant la promulgation de la présente loi, le Conseil d’orientation des retraites remet au Gouvernement et au Parlement un rapport sur la rénovation des mécanismes de transfert de compensation démographique entre régimes d’assurance vieillesse afin d’assurer la stricte solidarité démographique entre ces régimes. « Sur la base de ce rapport, le Gouvernement consulte la commission de compensation entre régimes de sécurité sociale définie à l’article L. 114‑3 du code de la sécurité sociale sur un projet de réforme de ces mécanismes. »",
+  "expose": "Cet amendement met en lumière une problématique fondamentale : la solidarité entre régimes d’assurance vieillesse. Si notre système par répartition repose sur un principe de solidarité, les mécanismes de transfert de compensation démographique montrent aujourd’hui leurs limites. Certaines disparités flagrantes, notamment entre régimes spéciaux et régime général, minent la confiance des Français dans le système. Le Conseil d’orientation des retraites, par son expertise reconnue, est le mieux placé pour proposer une rénovation de ces mécanismes et garantir une stricte équité démographique. Ce rapport permettrait d’examiner objectivement ces déséquilibres et d’ouvrir la voie à une réforme structurelle de la compensation. Cet amendement réaffirme la nécessité d’une solidarité intergénérationnelle rigoureuse, sans pour autant céder à des logiques d’injustice ou de privilèges indus. Il invite à renforcer l’équilibre et l’équité de notre modèle social en fondant les ajustements sur des données précises et partagées."
+ },
+ "seance": "RUANR5L17S2025IDS28718",
+ "compte_rendu": "CRSANR5L17S2025O1N056",
+ "interventions": [
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 797."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

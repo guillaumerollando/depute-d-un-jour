@@ -1,0 +1,69 @@
+{
+  "uid": "VTANR5L17V4442",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s’exprime pas dans l’extrait."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s’exprime pas dans l’extrait."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s’exprime pas dans l’extrait."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Nicolas Ray",
+      "citation": "L’adoption de ce texte garantit simplement que notre pays puisse terminer correctement l’année en cours et que le déficit soit contenu à 5,4 %.",
+      "justification": "Le groupe vote pour en indiquant que le texte permet de terminer l’exercice et de contenir le déficit."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Emmanuel Mandon",
+      "citation": "Le groupe Les Démocrates salue donc ces ajustements significatifs, qui sont la traduction respectueuse par le gouvernement des compromis auxquels nous sommes parvenus.",
+      "justification": "Le groupe vote pour en saluant les ajustements de crédits obtenus dans le texte."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Félicie Gérard",
+      "citation": "L’accord conclu en commission mixte paritaire est un bon accord.",
+      "justification": "Le groupe vote pour en jugeant favorablement le contenu de l’accord de la commission mixte paritaire."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Charles de Courson",
+      "citation": "Le texte de la CMP ne correspond pas totalement à ce que nous aurions voulu, mais il contient des améliorations réelles sur plusieurs priorités essentielles et sécurise l’exécution 2025.",
+      "justification": "Le groupe vote pour en mettant en avant les améliorations contenues dans le texte."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Emmanuel Maurel",
+      "citation": "Nous ne pourrons pas approuver un texte qui entérine une politique n’ayant permis ni le retour à la croissance ni celui de l’équilibre de nos finances publiques.",
+      "justification": "Le groupe vote contre en rejetant la politique budgétaire que le texte entérine."
+    },
+    "UDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Olivier Fayssat",
+      "citation": "Voter pour ce PLFG reviendrait à dire que cette trajectoire est acceptable. Or nous pensons l’inverse.",
+      "justification": "Le groupe vote contre en rejetant la trajectoire budgétaire que le texte valide."
+    }
+  }
+}

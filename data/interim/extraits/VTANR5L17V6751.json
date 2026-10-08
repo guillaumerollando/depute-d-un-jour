@@ -1,0 +1,296 @@
+{
+ "uid": "VTANR5L17V6751",
+ "titre": "l'amendement n° 11 du Gouvernement après l'article premier de la proposition de loi organique portant régularisation des natifs dans le corps électoral pour les élections au congrès et aux assemblées de province de Nouvelle-Calédonie (première lecture).",
+ "type": "amendement",
+ "date": "2026-05-20",
+ "dossier": "DLR5L17N52104",
+ "dossier_titre": "Proposition de loi organique portant actualisation du corps électoral pour les élections au congrès et aux assemblées de province de la Nouvelle-Calédonie",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "pour",
+  "LFI": "contre",
+  "SOC": "contre",
+  "DR": "pour",
+  "ECOS": "contre",
+  "DEM": "contre",
+  "LIOT": "contre",
+  "GDR": "contre",
+  "UDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 73,
+   "contre": 0,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 52,
+   "contre": 0,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 50,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 0,
+   "contre": 41,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 20,
+   "contre": 2,
+   "abstention": 3
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 26,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 2,
+   "contre": 16,
+   "abstention": 4
+  },
+  "HOR": {
+   "pour": 5,
+   "contre": 10,
+   "abstention": 3
+  },
+  "LIOT": {
+   "pour": 1,
+   "contre": 7,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 0,
+   "contre": 9,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 9,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC2807P0D1N000011",
+  "dossier": "DLR5L17N52104",
+  "texte": "PIONANR5L17BTC2807",
+  "division": "Article PREMIER",
+  "auteur": "le Gouvernement",
+  "auteur_groupe": null,
+  "auteur_type": "Gouvernement",
+  "dispositif": "Le I de l’article 188 de la loi organique n° 99‑209 du 19 mars 1999 relative à la Nouvelle Calédonie est complété par un e ainsi rédigé : « e) Les électeurs inscrits sur la liste électorale générale unis depuis au moins cinq ans par un mariage ou par un pacte civil de solidarité avec un électeur satisfaisant à l’une des conditions du présent article. »",
+  "expose": "A l’issue du cycle de discussion entre l’ensemble des parties calédoniennes, le Gouvernement a proposé de réduire le nombre d’exclus du corps électoral provincial calédonien en ajoutant, aux côtés des 10.569 exclus nés en Nouvelle-Calédonie, les conjoints d’électeurs. Le présent amendement vise à intégrer, selon des critères objectifs tenant aux liens familiaux, certaines catégories de personnes qui participent de manière effective à la vie économique, sociale et civique du territoire, tout en demeurant exclues du corps électoral actuel. S’appuyant sur des critères discutés lors des travaux ayant conduit aux Accords de Bougival-Elysée-Oudinot, le présent amendement tend à intégrer les électeurs inscrits sur la liste électorale générale ayant contracté depuis cinq années une union - mariage ou pacte civil de solidarité - avec un électeur. Une telle inscription serait réalisée à la demande de l’électeur et non d’office. Les critères ainsi édictés étant objectifs et facilement vérifiables, les services de l’Etat chargés de l’établissement des listes électorales pourront procéder à l’examen des demandes et, le cas échéant, y accéder, dans les délais impartis. La modification ainsi proposée est conçue de manière à s’inscrire dans le cadre constitutionnel en vigueur et à satisfaire aux exigences dégagées par la jurisprudence du Conseil constitutionnel en matière de dérogation au principe d’égalité devant le suffrage. Plus précisément, le présent amendement s’inscrit dans la voie admise par le Conseil d’Etat d’une modification du corps électoral calédonien par voie organique, puisque, si les règles qui avaient été définies par l’accord de Nouméa demeurent en vigueur, l’ampleur de la dérogation qu’elles apportent aux principes d’universalité et d’égalité du suffrage tend à s’accroître avec le temps. Ces règles étant consacrées par la Constitution, l’intervention du pouvoir constituant est en principe nécessaire pour les adapter afin de tenir compte de la situation présente et de son évolution, notamment démographique, en ce qui concerne la composition du corps électoral. Toutefois, le Conseil d’État estime qu’« eu égard à ces évolutions, plusieurs considérations peuvent conduire à estimer que les dispositions de l’article 77 de la Constitution, notamment de son dernier alinéa, cité au point 5, ne font pas obstacle à ce que le législateur organique puisse, le moment venu et si une révision constitutionnelle n’est pas venue régler plus tôt la difficulté, intervenir pour atténuer l’ampleur des dérogations aux principes d’universalité et d’égalité du suffrage, lesquelles auront, avec l’écoulement du temps, des effets excédant ce qui était nécessaire à la mise en œuvre de l’accord de Nouméa ». Ainsi, conservant le principe d’un corps électoral restreint et gelé, justifié par l’objectif de garantir la représentation des populations durablement établies et de préserver les équilibres issus du processus de décolonisation, le présent amendement vise à procéder à un ajustement limité et strictement encadré du corps électoral, sans remettre en cause les équilibres fondamentaux issus de l’Accord de Nouméa. Cet ajustement vise à intégrer, selon des critères objectifs tenant aux liens familiaux, certaines catégories de personnes qui participent de manière effective à la vie économique, sociale et civique du territoire, depuis au moins cinq années, tout en demeurant exclues du corps électoral actuel."
+ },
+ "seance": "RUANR5L17S2026IDS30603",
+ "compte_rendu": "CRSANR5L17S2026O1N238",
+ "interventions": [
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Nous en venons à des amendements portant article additionnel après l’article 1er. Sur l’amendement no 11, je suis saisie par le gouvernement ainsi que par les groupes Ensemble pour la République, La France insoumise-Nouveau Front populaire et Socialistes et apparentés de demandes de scrutin public. Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale. La parole est à M. le premier ministre pour soutenir cet amendement."
+  },
+  {
+   "orateur": "M. Sébastien Lecornu",
+   "qualite": "premier ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "L’amendement est défendu. J’en ai parlé longuement tout à l’heure à la tribune lors de la présentation du texte, redonnant les éléments de droit et les éléments de contexte. Bien que présenté par le gouvernement, l’amendement ne reflète pas forcément les convictions de ce dernier. (Exclamations sur les bancs du groupe GDR.) J’ai été précis tout à l’heure, mais je peux l’être à nouveau s’il le faut. Je préfère que le débat ait lieu et je vous répondrai. Cet amendement est le fruit des nombreuses réunions bilatérales et multilatérales qui permettront d’avancer, je le crois, au début du mois de juillet. Je me tiens à la disposition des parlementaires pour échanger."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis de la commission ?"
+  },
+  {
+   "orateur": "M. Philippe Gosselin",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Il y a eu un débat serré hier en commission des lois au sujet de cet amendement qui a finalement été rejeté. Il ne s’agit pas d’un vote d’opposition à l’intégration des conjoints, qui est un enjeu réel, comme d’autres intégrations d’ailleurs – la question du corps électoral se pose de façon beaucoup plus globale.À titre personnel, j’avais mis en garde sur ce point il y a quelques semaines dans le rapport que j’avais remis sur le projet de loi constitutionnelle relatif à la Nouvelle-Calédonie – le collègue Tjibaou et moi-même nous étions d’ailleurs un peu opposés sur l’intégration des conjoints. En tant que rapporteur – je fais bien attention à ne pas mêler mon propre groupe politique ou qui que ce soit ici à mon propos, chacun se déterminera, chaque parlementaire est comptable et responsable de son vote –, je ne peux que traduire les doutes d’une majorité de la commission des lois.Il faut sans doute intégrer les conjoints, mais ce n’est probablement pas le bon moment compte tenu des équilibres précaires et compliqués des débats en cours. Il me paraît plutôt de bonne politique de sécuriser l’ensemble du dispositif, plutôt que de tenter, à une date aussi rapprochée du 28 juin, quelques extensions supplémentaires.Je rappelle que nous ne sommes pas ici souverains ex nihilo. L’avis du Conseil d’État nous encadre d’une certaine façon, du point de vue juridique ; la décision du Conseil constitutionnel donne aussi un cadre. Nous devons donc toucher de façon très limitée à la configuration du corps électoral. Voilà ce qui a conduit la commission à émettre un avis défavorable, que je transmets."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Bastien Lachaud."
+  },
+  {
+   "orateur": "M. Bastien Lachaud",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Cet amendement déposé par le gouvernement, mais que celui-ci ne soutient même pas, si je comprends ce qu’a dit le premier ministre,…"
+  },
+  {
+   "orateur": "M. Sébastien Lecornu",
+   "qualite": "premier ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Vous n’étiez pas là !"
+  },
+  {
+   "orateur": "M. Bastien Lachaud",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "…est une nouvelle provocation et une nouvelle preuve que toute la discussion de ce texte n’a qu’un seul but, complaire au camp anti-indépendantiste. Ils en demandent toujours plus et ne concèdent jamais rien. (Applaudissements sur les bancs du groupe LFI-NFP.) Monsieur le premier ministre, en déposant cet amendement, vous ne montrez rien d’autre que votre alignement et celui de votre gouvernement sur les demandes des non-indépendantistes.Vous dites souhaiter la reprise d’un cycle de négociations sur l’avenir institutionnel du territoire après les élections provinciales. Comment ces négociations pourront-elles avoir lieu dans des conditions acceptables pour tous, si le gouvernement ne montre pas qu’il sera impartial dans ces discussions ? Le débat sur l’amendement n’est donc pas juridique, il ne concerne pas l’inconstitutionnalité ou non du dispositif ; il concerne la portée politique de l’ouverture aux conjoints, hors de tout accord global et expédiée dans l’urgence. Ouvrir le vote aux conjoints, c’est ouvrir une brèche dans l’accord de Nouméa en dépit du bon sens. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Patrick Hetzel."
+  },
+  {
+   "orateur": "M. Patrick Hetzel",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Le groupe de la Droite républicaine tient à soutenir cet amendement du gouvernement relatif aux conjoints mariés ou pacsés, parce qu’il répond à une logique de cohérence démocratique et d’enracinement dans la communauté calédonienne. Il ne s’agit pas d’ouvrir sans limite le corps électoral, comme le premier ministre l’a précisé tout à l’heure à la tribune, mais de reconnaître une réalité humaine, familiale et territoriale. Les conjoints mariés ou pacsés depuis plusieurs années partagent une communauté de vie et de destin ainsi qu’une insertion durable dans la société calédonienne.Cet amendement reste d’ailleurs équilibré : l’inscription ne sera pas automatique, mais très encadrée, notamment grâce à une condition de durée minimale de l’union. Cette mesure reste une correction très ciblée : le nombre de personnes concernées restera limité – autour de 1 % du corps électoral. C’est la raison pour laquelle nous soutiendrons cet amendement. (Applaudissements sur quelques bancs des groupes DR et EPR.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Arthur Delaporte."
+  },
+  {
+   "orateur": "M. Arthur Delaporte",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Collègues macronistes, écoutez le rapporteur Gosselin ! Il est un authentique Républicain – LR –, mais il a écouté les acteurs et il s’est fait son opinion sur le sujet. Il vous l’a dit, il considère que le texte tel qu’il vous est présenté à l’instant est équilibré, et que l’adoption de l’amendement du gouvernement, qui a été refusé par la majorité du Sénat, le déséquilibrerait (Applaudissements sur les bancs du groupe SOC) et irait contre les raisons que nous avons aujourd’hui de regarder l’avenir du territoire de Nouvelle-Calédonie avec un peu plus d’optimisme.Ce vote n’est pas anodin. Je tiens d’ailleurs à remercier les collègues des groupes Les Démocrates et Horizons & indépendants, qui ont pris position en toute indépendance. Faites votre choix, écoutez ce qui s’est dit dans cet hémicycle ; écoutez les avis de cette assemblée, mais aussi ceux de nos collègues sénateurs. Nous sommes sur un équilibre très fragile ; ne le remettons pas en cause. (M. Pierre Pribetich applaudit.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Nicolas Metzdorf."
+  },
+  {
+   "orateur": "M. Nicolas Metzdorf",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Cela fait des années – depuis 2007 – que 37 000 Calédoniens n’ont pas le droit de vote chez eux. Je veux que vous compreniez la violence humaine que cela représente. Tous les jours, nous fréquentons des Calédoniens qui ont tout investi en Nouvelle-Calédonie – ils y ont leur maison, leur travail, leur vie, leur passion, leur famille –, et à qui, après trois référendums, on refuse toujours le droit de vote. (Mme Danielle Simonnet s’exclame.) Ils ont entendu le premier ministre annoncer il y a quelques semaines à Nouméa que le gouvernement proposerait une ouverture minimale du droit de vote aux natifs et aux conjoints. Imaginez la violence pour ces 1 500 conjoints – 1 % du corps électoral –, lorsqu’ils apprendront que le Parlement a refusé la proposition du premier ministre."
+  },
+  {
+   "orateur": "M. Sylvain Maillard",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Eh oui !"
+  },
+  {
+   "orateur": "M. Nicolas Metzdorf",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Vous n’avez humainement pas le droit de le faire. S’il y a un problème constitutionnel, laissez le Conseil constitutionnel trancher, ce n’est pas notre sujet. Notre sujet est politique : nous ne pourrons pas reprendre des discussions sereines, si jamais la parole du gouvernement est de nouveau trahie par le Parlement. (Protestations sur les bancs des groupes LFI-NFP et EcoS.) Combien de fois faudra-t-il que le Parlement rejette ce que propose le gouvernement ? Madame la présidente, j’appelle solennellement cette assemblée à autoriser des maris et des femmes en Nouvelle-Calédonie à voter, comme leur mari et comme leur femme – et comme leurs enfants –, aux élections locales. Ce n’est pas la mer à boire. (Applaudissements sur les bancs du groupe EPR.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Emmanuel Tjibaou."
+  },
+  {
+   "orateur": "M. Emmanuel Tjibaou",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Trois mille ans ! On est chez nous depuis trois mille ans. (Applaudissements sur les bancs des groupes GDR et SOC ainsi que sur plusieurs bancs des groupes LFI-NFP et EcoS.) Le droit des peuples à disposer d’eux-mêmes et l’exercice du droit à l’autodétermination, à qui ça parle ici ? C’est dans la Constitution française, c’est dans le préambule de la Constitution de 1946, c’est le fondement de l’accord de Nouméa. Si on commence à faire des menaces, prenez-en la responsabilité ! Vous nourrissez l’instabilité chez nous. N’oubliez pas que nous sommes regardés dans notre pays. (Les députés des groupes GDR, LFI-NFP, SOC et EcoS se lèvent pour applaudir.)Le Conseil constitutionnel a déjà statué sur la question des conjoints dans sa décision du 30 juillet 2009 relative aux dispositions de la loi organique de 2009 concernant l’emploi local. À quel titre revenez-vous sur cette décision ?"
+  },
+  {
+   "orateur": "M. Nicolas Metzdorf",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "On est le Parlement !"
+  },
+  {
+   "orateur": "M. Emmanuel Tjibaou",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Oui, mais on doit respecter les engagements du Conseil constitutionnel et l’exercice du droit à l’autodétermination.La déclaration de Nainville-les-Roches de 1983 a marqué l’abolition du fait colonial. (Applaudissements sur les bancs des groupes GDR et EcoS ainsi que sur plusieurs bancs du groupe LFI-NFP.) Nous l’avons accepté, avec l’État français et les victimes de l’histoire. Si on commence à remettre en cause ces équilibres, nous allons reprendre la parole donnée à Nainville-les-Roches. (Applaudissements sur les bancs des groupes GDR et LFI-NFP ainsi que sur quelques bancs du groupe EcoS.)"
+  },
+  {
+   "orateur": "Plusieurs députés du groupe EPR",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Pas de menaces !"
+  },
+  {
+   "orateur": "M. Emmanuel Tjibaou",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "L’exercice du droit à l’autodétermination nous revient à nous, peuple colonisé. C’est juste une remarque que je fais et je vous invite à mesurer la justesse des propos prononcés dans cette enceinte."
+  },
+  {
+   "orateur": "M. Jean-Victor Castor",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Ils vont trop loin !"
+  },
+  {
+   "orateur": "M. Emmanuel Tjibaou",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Ne poussez pas trop, car ainsi vous nourrissez l’instabilité. Il faut faire attention à ce qu’on dit, surtout dans la perspective d’élections qui se tiendront dans un mois.Je souhaitais faire cette remarque sur le respect des institutions et dire que le principe « un homme, une voix » ne marche pas pour l’exercice du droit à l’autodétermination et du droit des peuples à disposer d’eux-mêmes. (Applaudissements sur les bancs des groupes GDR, LFI-NFP et EcoS ainsi que sur plusieurs bancs du groupe SOC.)"
+  },
+  {
+   "orateur": "M. Guillaume Kasbarian",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Tout est dit !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Agnès Firmin Le Bodo."
+  },
+  {
+   "orateur": "Mme Agnès Firmin Le Bodo",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "Privilégions la politique du petit pas ! Chacun a pu s’exprimer lors de la discussion générale sur les enjeux juridiques et institutionnels de la Nouvelle-Calédonie. Le Congrès de la Nouvelle-Calédonie s’est prononcé sur la proposition de loi de notre collègue sénateur LR Georges Naturel et le Sénat a rejeté cet amendement. Avançons ensemble vers un compromis qui semble se dégager autour des natifs. (Applaudissements sur quelques bancs du groupe SOC.) Votons ce texte conforme afin d’avancer. Je rappelle que l’élection aura lieu le 28 juin. (Applaudissements sur quelques bancs des groupes HOR et SOC.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 11."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

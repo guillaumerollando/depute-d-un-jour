@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V1624",
+  "consigne": "etape2_ambiguite v1",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Alexandra Martin",
+      "citation": "Ce texte, malgré ses marges d’amélioration, marque un tournant. Il affirme la volonté de restaurer l’autorité de l’État, de la justice et de la famille.",
+      "justification": "Le groupe soutient le texte sur le fond."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Pouria Amirshahi",
+      "citation": "Le groupe Écologiste et social votera contre cette proposition de loi, qui prétend restaurer l’autorité de la justice, mais en consacre en réalité le reniement.",
+      "justification": "Le groupe s'oppose au contenu du texte."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Éric Martineau",
+      "citation": "À l’issue de la CMP, la proposition de loi nous semble proportionnée et adaptée, offrant de nouveaux dispositifs aux magistrats pour mieux traiter la délinquance des mineurs et s’adapter à chaque situation.",
+      "justification": "Le groupe soutient le texte sur le fond."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Jean Moulliere",
+      "citation": "Nous croyons qu’une réponse ferme, juste et proportionnée est non seulement possible, mais indispensable.",
+      "justification": "Le groupe soutient le texte sur le fond."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Elsa Faucillon",
+      "citation": "Il n’est pas une réforme, mais une abdication, un abandon de nos jeunes au profit d’une logique de stigmatisation, de punition et de peur.",
+      "justification": "Le groupe s'oppose au contenu du texte."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Olivier Fayssat",
+      "citation": "Il ne s’agit pas de transférer la culpabilité sur les seuls parents, mais de reconnaître que le lien éducatif est la clé de voûte de toute société.",
+      "justification": "Le groupe soutient le texte sur le fond tout en jugeant sa portée limitée."
+    }
+  }
+}

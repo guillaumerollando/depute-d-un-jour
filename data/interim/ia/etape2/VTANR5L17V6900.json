@@ -1,0 +1,83 @@
+{
+  "uid": "VTANR5L17V6900",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Gaëtan Dussausaye",
+      "citation": "c’est agir pour un tout petit peu plus de justice sociale et de pérennité sur le marché du travail. C’est la raison pour laquelle le groupe Rassemblement national soutiendra l’accord.",
+      "justification": "Le groupe vote contre la suppression de l'article en déclarant soutenir l'accord transposé."
+    },
+    "EPR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Christophe Mongardien",
+      "citation": "Favorable à ce protocole d’accord et à l’avenant signé entre le gouvernement et les partenaires sociaux, notre groupe soutiendra l’article unique de ce projet de loi et rejettera tous les amendements présentés",
+      "justification": "Le groupe vote contre la suppression en déclarant soutenir l'article unique."
+    },
+    "LFI": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Hadrien Clouet",
+      "citation": "votre texte ne sert à rien d’autre qu’à précariser les chômeuses et les chômeurs, notamment en tapant sur les plus âgés.",
+      "justification": "Le groupe vote pour la suppression en estimant que le texte précarise les demandeurs d'emploi."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "DR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "DEM": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "HOR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Nathalie Colin-Oesterlé",
+      "citation": "Le groupe Horizons & indépendants soutiendra donc pleinement ce texte.",
+      "justification": "Le groupe vote contre la suppression en déclarant soutenir pleinement le texte."
+    },
+    "LIOT": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Stéphane Viry",
+      "citation": "le groupe LIOT appelle à voter pour ce texte – non qu’il soit parfait, mais parce qu’il résulte d’une négociation paritaire dont, encore une fois, nous devons respecter l’équilibre.",
+      "justification": "Le groupe vote contre la suppression en appelant à adopter le texte issu de la négociation paritaire."
+    },
+    "UDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Olivier Fayssat",
+      "citation": "C’est pourquoi nous soutenons cette modulation : même ouverture des droits mais durée d’indemnisation réduite en cas de rupture conventionnelle, dans une logique assurantielle.",
+      "justification": "Le groupe vote contre la suppression en déclarant soutenir la modulation de la durée d'indemnisation."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Julien Brugerolles",
+      "citation": "Ce texte est contraire aux intérêts des privés d’emploi et de tous les travailleurs",
+      "justification": "Le groupe, auteur de l'amendement, vote pour la suppression en jugeant le texte contraire aux intérêts des travailleurs."
+    }
+  }
+}

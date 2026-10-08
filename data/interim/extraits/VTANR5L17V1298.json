@@ -1,0 +1,254 @@
+{
+ "uid": "VTANR5L17V1298",
+ "titre": "l'amendement de suppression n° 1 de M. Fabrice Brun et les amendements identiques suivants à l'article premier de la proposition de loi organique visant à harmoniser le mode de scrutin aux élections municipales afin de garantir la vitalité démocratique, la cohésion municipale et la parité (première lecture).",
+ "type": "amendement",
+ "date": "2025-04-07",
+ "dossier": "DLR5L17N50579",
+ "dossier_titre": "Proposition de loi organique visant à harmoniser le mode de scrutin aux élections municipales afin de garantir la vitalité démocratique, la cohésion municipale et la parité",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "contre",
+  "LFI": "contre",
+  "SOC": "contre",
+  "DR": "pour",
+  "ECOS": "contre",
+  "DEM": "contre",
+  "LIOT": "pour",
+  "GDR": "contre",
+  "UDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 83,
+   "contre": 0,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 1,
+   "contre": 43,
+   "abstention": 1
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 41,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 0,
+   "contre": 27,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 23,
+   "contre": 2,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 15,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 27,
+   "abstention": 1
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 3,
+   "abstention": 7
+  },
+  "LIOT": {
+   "pour": 5,
+   "contre": 1,
+   "abstention": 2
+  },
+  "GDR": {
+   "pour": 0,
+   "contre": 4,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 10,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC1246P0D1N000001",
+  "dossier": "DLR5L17N50579",
+  "texte": "PIONANR5L17BTC1246",
+  "division": "Article PREMIER",
+  "auteur": "M. Fabrice Brun,  M. Bazin, Mme Bazin-Malgras, Mme Bonnivard, M. Bony, M. Brigand, M. Cordier, Mme Corneloup, M. Le Fur, M. Liger, M. Portier et M. Nury",
+  "auteur_groupe": "DR",
+  "auteur_type": "Député",
+  "dispositif": "Supprimer cet article.",
+  "expose": "Le présent texte propose l'’élargissement du scrutin de liste aux communes de moins de 1 000 habitants, afin de favoriser la parité au sein des communes. Si on peut être unanimes sur la finalité des dispositions défendues à travers cette proposition de loi, l’instauration de cette méthode de scrutin pour ces petites communes risque d’aggraver la situation en limitant le nombre de candidats, faute de pouvoir constituer une liste. A un an des municipales, rien ne justifie une telle réforme qui pourrait déstabiliser les communes et engendrer des complications là où il n’en existait pas. Dans le contexte actuel, encore plus à une date si rapprochée du scrutin, il ne semble pas possible adopter des telles dispositions alors que recrutement d’élus dans les communes de moins de 1 000 habitants constituait déjà en soit une difficulté. Le présent amendement propose ainsi la suppression de cet article."
+ },
+ "seance": "RUANR5L17S2025IDS29297",
+ "compte_rendu": "CRSANR5L17S2025O1N162",
+ "interventions": [
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La conférence des présidents a décidé que la proposition de loi visant à renforcer la parité dans les fonctions électives et exécutives du bloc communal et la proposition de loi organique visant à harmoniser le mode de scrutin aux élections municipales afin de garantir la vitalité démocratique, la cohésion municipale et la parité feraient l’objet d’explications de vote communes, suivies d’un vote solennel. J’appelle maintenant, dans le texte de la commission, les articles de la proposition de loi organique visant à harmoniser le mode de scrutin aux élections municipales afin de garantir la vitalité démocratique, la cohésion municipale et la parité. La parole est à M. Emeric Salmon, pour un rappel au règlement."
+  },
+  {
+   "orateur": "M. Emeric Salmon",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Il se fonde sur l’article 101. Il est d’usage que la seconde délibération intervienne avant les explications de vote – comme il est apparemment d’usage de ne pas réunir la commission pour demander son avis sur une seconde délibération. Madame la présidente, vous enfreignez cet article puisque la discussion des articles de la proposition de loi organique aurait dû intervenir avant la seconde délibération."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Les deux textes sont juridiquement distincts. La seconde délibération portait sur la proposition de loi ordinaire et non sur la proposition de loi organique. Je suis saisie de cinq amendements identiques, nos 1, 6, 11, 15 et 18, tendant à supprimer l’article 1er. La parole est à M. Fabrice Brun, pour soutenir l’amendement no 1."
+  },
+  {
+   "orateur": "M. Fabrice Brun",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Je serai rapide, nos débats ayant été suffisamment éclairés par l’examen de la proposition de loi ordinaire.La seconde délibération, c’est de la mauvaise cuisine. Elle ne vous honore pas. On s’en souviendra dans les petites communes rurales, soyez-en sûrs ! (Applaudissements sur les bancs des groupes DR, RN et UDR.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Fabien Di Filippo, pour soutenir l’amendement no 6."
+  },
+  {
+   "orateur": "M. Fabien Di Filippo",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "N’entendez-vous toujours pas, au bout de sept ans, le message que nous adressent les territoires ? La confiance que réclament les maires ? La parité est déjà atteinte par 45 % des conseils municipaux, les effectifs féminins ont doublé en vingt ans. Maintenant, vous voulez imposer une nouvelle structure uniforme depuis Paris (Exclamations sur plusieurs bancs des groupes LFI-NFP, SOC et EcoS),…"
+  },
+  {
+   "orateur": "Mme Dieynaba Diop",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Démago !"
+  },
+  {
+   "orateur": "M. Fabien Di Filippo",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "…compliquant la vie de la ruralité et la condamnant. Cela ne marche pas ! Vous ne voulez pas faire confiance aux maires."
+  },
+  {
+   "orateur": "Mme Marie Pochon",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "C’est vous qui ne leur faites pas confiance !"
+  },
+  {
+   "orateur": "M. Fabien Di Filippo",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Il faut les laisser travailler."
+  },
+  {
+   "orateur": "Mme Dieynaba Diop",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Parlez-en aux élus qui siègent à l’AMRF ! Ils sont majoritairement pour !"
+  },
+  {
+   "orateur": "M. Fabien Di Filippo",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Votre texte est complètement hors-sol – comme d’habitude – et ne devrait pas faire partie des priorités. Il mettra de nombreuses communes rurales en difficulté onze mois avant la prochaine échéance électorale. Elles seront contraintes de se séparer sans délai d’un tiers, voire de la moitié, de leurs conseillers municipaux. Vous obéissez à une idéologie aveugle. Tout cela vous échappe complètement."
+  },
+  {
+   "orateur": "M. Hervé Saulignac",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "N’importe quoi !"
+  },
+  {
+   "orateur": "M. Fabien Di Filippo",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Demandez-vous pourquoi ce texte suscite une telle colère dans les territoires ruraux !"
+  },
+  {
+   "orateur": "Mme Dieynaba Diop",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Ce n’est pas vrai !"
+  },
+  {
+   "orateur": "M. Fabien Di Filippo",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Interrogez-vous, ne serait-ce que trois secondes ! Peut-être entendrez-vous sur ce sujet, comme sur d’autres, des arguments que vous refusez d’entendre dans l’hémicycle, quitte à répéter les votes pour obtenir gain de cause."
+  },
+  {
+   "orateur": "Mme Dieynaba Diop",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "C’est démagogique !"
+  },
+  {
+   "orateur": "M. Fabien Di Filippo",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Vous refusez notre point de vue et vous l’empêchez de triompher. (Applaudissements sur les bancs du groupe DR et sur plusieurs bancs du groupe RN.)"
+  },
+  {
+   "orateur": "Mme Dieynaba Diop",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Vous venez pourtant de le défendre !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Jean-Pierre Bataille, pour soutenir l’amendement no 11."
+  },
+  {
+   "orateur": "M. Jean-Pierre Bataille",
+   "qualite": null,
+   "groupe": "LIOT",
+   "president_de_seance": false,
+   "texte": "Les élus du groupe LIOT ont été très perturbés par la façon dont la discussion et les votes ont été conduits. Demander à l’Assemblée de revoter parce que le résultat ne convient pas à la majorité, c’est très gênant. Règlement ou pas, je n’avais jamais vu ça ! (Applaudissements sur les bancs des groupes RN, DR et UDR.) Je n’ai pas compris en outre pourquoi il n’a pas été possible de sous-amender l’amendement no 1 du gouvernement. Toujours est-il que notre collègue Paul-André Colombani souhaite la suppression de l’article 1er."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Les amendements nos 15 de M. Philippe Gosselin et 18 de M. Nicolas Ray sont défendus.Sur ces amendements de suppression, je suis saisie par le groupe Ensemble pour la République d’une demande de scrutin public. Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.Je mets aux voix ces amendements identiques, qui ont reçu un avis défavorable de la commission et du gouvernement."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

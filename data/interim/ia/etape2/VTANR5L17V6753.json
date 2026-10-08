@@ -1,0 +1,78 @@
+{
+  "uid": "VTANR5L17V6753",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Yoann Gillet (RN)",
+      "citation": "Il y a là un réel enjeu démocratique, une question qui engage directement la représentativité des institutions.",
+      "justification": "Le groupe vote pour un texte qu'il présente comme répondant à un enjeu démocratique."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Marie Lebec (EPR)",
+      "citation": "Nous voterons le texte, car le groupe Ensemble pour la République souhaite avancer",
+      "justification": "Le groupe vote pour le texte en déclarant vouloir avancer sur le corps électoral."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "B",
+      "orateur": "M. Bastien Lachaud",
+      "citation": "nous ne sommes nullement opposés à l’ouverture du corps électoral. Le vote des natifs ne nous pose aucun problème",
+      "citation_raison": "mais encore faudrait-il qu’il advienne dans le cadre d’un accord consensuel avec les représentants du peuple premier.",
+      "justification": "Le groupe déclare ne pas s'opposer au vote des natifs mais vote contre en l'absence d'accord consensuel avec les représentants du peuple premier."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Arthur Delaporte (SOC)",
+      "citation": "l’intégration dans le corps électoral des natifs, des jeunes pour une grande partie d’entre eux, qui ne demandent qu’une chose, voter dans le territoire dans lequel ils sont nés, est nécessaire",
+      "justification": "Le groupe vote pour en jugeant nécessaire l'intégration des natifs dans le corps électoral."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Patrick Hetzel (DR)",
+      "citation": "elle garantit que les prochaines élections provinciales pourront se tenir dans des conditions plus justes, plus équilibrées et plus légitimes.",
+      "justification": "Le groupe vote pour en estimant que le texte rend les élections provinciales plus justes."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "B",
+      "orateur": "Mme Sabrina Sebaihi (EcoS)",
+      "citation": "nous ne sommes pas opposés à un dégel partiel du corps électoral, mais pas à n’importe quelles conditions.",
+      "citation_raison": "Changer le corps électoral à quelques semaines d’un scrutin donne le sentiment d’un nouveau passage en force du gouvernement.",
+      "justification": "Le groupe déclare ne pas s'opposer à un dégel partiel mais vote contre en invoquant l'absence d'accord global et le calendrier."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Philippe Vigier (Dem)",
+      "citation": "Le groupe Démocrates votera ce texte, car ce petit pas met fin à un statu quo, à un déni de démocratie totalement inacceptable.",
+      "justification": "Le groupe vote pour un texte qu'il présente comme mettant fin à un statu quo."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Agnès Firmin Le Bodo (HOR)",
+      "citation": "constitue une avancée juridique, démocratique et politique majeure",
+      "justification": "Le groupe vote pour un texte qu'il qualifie d'avancée."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Jean-Victor Castor",
+      "citation": "Tenter maintenant de toucher au corps électoral, c’est encore attiser le feu.",
+      "justification": "Le groupe vote contre en estimant que modifier le corps électoral attise les tensions."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Sophie Ricourt Vaginay (UDR)",
+      "citation": "Le groupe UDR votera pour le texte. Le suffrage universel n’est pas négociable",
+      "justification": "Le groupe vote pour au nom du suffrage universel."
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "uid": "VTANR5L17V8434",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Shéhérazade Bentorki",
+      "citation": "Ce texte ne modernise en rien l’État. Il installe la logique du marché en son cœur et transforme la puissance publique en locataire de son propre patrimoine.",
+      "justification": "Le groupe s'oppose à la création de la foncière et à la logique de marché qu'il attribue au texte."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Sophie Pantel",
+      "citation": "nous soutiendrons ce texte, fruit d’un débat exigeant, du compromis et du dialogue, qui ouvre la perspective d’une meilleure gestion de l’immobilier de l’État.",
+      "justification": "Le groupe soutient le texte après l'obtention de garanties."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Marie-Christine Dalloz",
+      "citation": "Cette proposition de loi instaure un cadre de gouvernance plus lisible, renforce les instruments de pilotage patrimonial et améliore les conditions du contrôle parlementaire.",
+      "justification": "Le groupe soutient le contenu du texte."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Arnaud Bonnet",
+      "citation": "Ce que vous nous présentez comme une modernisation est en réalité une financiarisation de l’immobilier de l’État dissimulée sous un vocabulaire de bonne gestion",
+      "justification": "Le groupe s'oppose au modèle de foncière créé par le texte."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Jean-Paul Mattei",
+      "citation": "Mes chers collègues, ce texte marque un vrai changement de méthode pour la gestion du patrimoine de l’État.",
+      "justification": "Le groupe soutient le contenu du texte."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. François Jolivet",
+      "citation": "C’est la raison d’être de l’établissement public industriel et commercial.",
+      "justification": "Le groupe soutient la création de l'établissement prévu par le texte."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Michel Castellani",
+      "citation": "La création d’une véritable fonction d’État propriétaire constitue donc une évolution attendue.",
+      "justification": "Le groupe soutient le contenu du texte."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Emmanuel Maurel",
+      "citation": "Le groupe GDR s’oppose à cette proposition de loi qui tend à faire gérer les biens de l’État comme des intérêts privés",
+      "justification": "Le groupe s'oppose au mode de gestion du patrimoine prévu par le texte."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Maxime Michelet",
+      "citation": "Ce texte engage le mouvement recherché. Il le fait imparfaitement, mais avancer imparfaitement vaudra toujours mieux que contempler le problème avec constance.",
+      "justification": "Le groupe soutient la direction du texte."
+    }
+  }
+}

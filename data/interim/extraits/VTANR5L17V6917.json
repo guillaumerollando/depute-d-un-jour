@@ -1,0 +1,175 @@
+{
+ "uid": "VTANR5L17V6917",
+ "titre": "l'amendement n° 899 de Mme Allemand à l'article 14 (examen prioritaire) du projet de loi d'urgence pour la protection et la souveraineté agricoles (première lecture).",
+ "type": "amendement",
+ "date": "2026-05-26",
+ "dossier": "DLR5L17N54085",
+ "dossier_titre": "Projet de loi d’urgence pour la protection et la souveraineté agricoles",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "contre",
+  "EPR": "contre",
+  "SOC": "pour",
+  "DR": "pour",
+  "ECOS": "contre",
+  "HOR": "contre",
+  "LIOT": "pour",
+  "UDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 0,
+   "contre": 75,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 1,
+   "contre": 20,
+   "abstention": 2
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 0,
+   "abstention": 12
+  },
+  "SOC": {
+   "pour": 19,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 26,
+   "contre": 0,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 19,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 2,
+   "contre": 6,
+   "abstention": 4
+  },
+  "HOR": {
+   "pour": 1,
+   "contre": 12,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 5,
+   "contre": 1,
+   "abstention": 1
+  },
+  "GDR": {
+   "pour": 1,
+   "contre": 0,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 7,
+   "contre": 1,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC2765P0D1N000899",
+  "dossier": "DLR5L17N54085",
+  "texte": "PRJLANR5L17BTC2765",
+  "division": "Article 14",
+  "auteur": "Mme Allemand,  Mme Pantel, Mme Thomin, Mme Battistel, M. Potier, M. Delautrette, M. Dufau, M. Echaniz, M. Benbrahim, M. Eskenazi, M. Fégné, Mme Jourdan, M. Leseul, M. Barusseau, M. Lhardit, M. Naillet, M. Delaporte, M. Garot, Mme Got, Mme Rossi, M. Roussel, M. Aviragnet, M. Baptiste, M. Baumel, M. Belhaddad, Mme Bellay, M. Bouloux, Mme Bregman, M. Philippe Brun, M. Califer, Mme Capdevielle, M. Christophle, M. Courbon, M. David, Mme Diop, Mme Dombre Coste, M. Faure, Mme Froger, Mme Godard, M. Guedj, M. Hablot, Mme Hadizadeh, Mme Herouin-Léautey, Mme Céline Hervieu, M. Hollande, M. Houlié, Mme Karamanli, Mme Keloua Hachi, Mme Mercier, M. Oberti, M. Pena, Mme Pic, Mme Pirès Beaune, M. Pribetich, M. Proença, Mme Récalde, Mme Rouaux, M. Aurélien Rousseau, Mme Runel, M. Saint-Pasteur, Mme Santiago, M. Saulignac, M. Simion, M. Sother, Mme Thiébault-Martinez, M. Vallaud, M. Vicot, M. William et les membres du groupe Socialistes et apparentés",
+  "auteur_groupe": "SOC",
+  "auteur_type": "Député",
+  "dispositif": "Après l’alinéa 4, insérer l’alinéa suivant : « L’arrêté définit également une méthode d’estimation de la population de loups, après concertation avec des représentants des collectivités territoriales et de leurs groupements, des professions agricoles et forestières, des chambres d’agriculture et des organismes nationaux à vocation agricole et rurale, des associations agréées de protection de l’environnement et des fédérations départementales ou interdépartementales de chasseurs. »",
+  "expose": "Cet amendement du groupe Socialistes et apparentés vise à souligner la nécessité d’adopter une méthode d’estimation de la population de loups fiable et partagée par l’ensemble des acteurs concernés. En effet, la politique de gestion et de prélèvement de la population lupine est directement indexée sur les effectifs estimés. Or, les méthodes de comptage actuellement utilisées ne sont pas toujours considérées comme efficaces par les acteurs de la ruralité. Depuis le 1 er janvier 2025, l’estimation de l’effectif moyen de la population lupine se fait désormais uniquement avec la méthode « Capture-Marquage-Recapture » (CMR). Si le Ministère de la Transition écologique présente cette méthode comme la plus fiable scientifiquement, il reconnaît aussi que « la publication du chiffre définitif de la CMR n’est possible que plusieurs années après le recueil des données génétiques. » Cet amendement propose donc d’instaurer une concertation entre l’État et le monde agricole afin de définir une méthode de comptabilisation partagée et fiable."
+ },
+ "seance": "RUANR5L17S2026IDS30612",
+ "compte_rendu": "CRSANR5L17S2026O1N247",
+ "interventions": [
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Marie-José Allemand, pour soutenir l’amendement no 899."
+  },
+  {
+   "orateur": "Mme Marie-José Allemand",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "La méthode actuelle de comptage ne satisfait personne ; c’est l’un des points d’achoppement dans toutes les discussions entre les éleveurs et les autres acteurs concernés. Le ministère de l’écologie l’a d’ailleurs lui-même reconnu lorsqu’il a indiqué que la publication du chiffre définitif obtenu par la méthode CMR – capture, marquage, recapture – n’était possible que plusieurs années après le recueil des données génétiques. C’est un vrai problème : on ne peut pas se permettre d’attendre des années avant de savoir si, oui ou non, le compte est bon – passez-moi l’expression.Par cet amendement, nous proposons de mettre autour de la table l’ensemble des personnes concernées afin de définir une méthode fiable et acceptée – j’insiste sur ce mot – par tous."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis de la commission ?"
+  },
+  {
+   "orateur": "M. Xavier Roseren",
+   "qualite": "rapporteur pour avis",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je suis d’accord avec vous : le système actuel d’estimation n’est pas satisfaisant parce qu’il n’est pas accepté par tout le monde. Madame la ministre, monsieur le ministre, il faudra, dans les prochaines années, faire évoluer la méthode de comptage – qui est définie par arrêté. Il se peut qu’un nombre de prélèvements insuffisant ne donne pas la bonne estimation. Si nous voulons arriver à une gestion du loup acceptée par tous, il faut que nous disposions d’un comptage qui reflète la réalité, ou du moins d’une estimation fiable.Je suis défavorable à cet amendement, mais je crois qu’en croisant différentes méthodes, on peut avoir une estimation proche de la réalité. En Haute-Savoie, on a testé la méthode du hurlement, qui fonctionne très bien et qui permet de compter les loups à un moment donné."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis du gouvernement ?"
+  },
+  {
+   "orateur": "M. Mathieu Lefèvre",
+   "qualite": "ministre délégué",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je partage la préoccupation exprimée dans cet amendement : il faut évidemment renforcer la concertation afin d’aboutir à une méthode d’estimation qui soit moins contestée par les parties prenantes – à défaut d’être incontestable. Toutefois, force est de constater que nous avons à ce jour une méthode éprouvée, reposant sur des bases scientifiques et, comme nous l’avons dit tout à l’heure, sur la consultation de l’ensemble des parties prenantes.Évidemment, je suis tout à fait disposé à réfléchir avec vous aux vecteurs d’amélioration de cette méthode. Il n’y a pas de méthode de comptage et d’estimation parfaite ; c’est la raison pour laquelle il faut que nous continuions à y travailler. Pour l’heure, je vous invite à retirer votre amendement, au bénéfice d’un travail approfondi que nous pourrions mener de concert."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Marie-José Allemand."
+  },
+  {
+   "orateur": "Mme Marie-José Allemand",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Vous commencez par dire que vous êtes d’accord avec moi et finalement vous êtes contre mon amendement !"
+  },
+  {
+   "orateur": "M. Mathieu Lefèvre",
+   "qualite": "ministre délégué",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Il est satisfait, madame la députée."
+  },
+  {
+   "orateur": "Mme Marie-José Allemand",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Il va falloir vous décider ! On ne peut plus attendre. Dans les Hautes-Alpes, on attend une méthode de comptage depuis 1992 ! S’il n’y avait pas eu l’abattage de la louve dite des Orres, jamais on n’aurait considéré qu’il y avait des loups dans notre pays. Nous avons assez attendu et j’invite nos collègues à voter cet amendement pour faire bouger les choses. Vous proposez que nous nous mettions autour de la table pour réfléchir, mais ce n’est pas avec moi qu’il faut discuter, monsieur le ministre. C’est avec les éleveurs, l’ensemble des éleveurs ! (Applaudissements sur les bancs du groupe SOC.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 899."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+{
+  "uid": "VTANR5L17V1298",
+  "consigne": "etape3_verification v1",
+  "verdict": "rejete",
+  "problemes": [
+    "L'article supprimé ne fait que modifier des renvois de trois articles du code électoral (L.O. 141, L.O. 247-1, L.O. 255-5) dont le contenu ne figure pas dans les sources : on ne peut pas expliquer concrètement ce que la suppression changerait sans jargon ni information extérieure (la rédactrice l'a elle-même classée « trop_technique »)."
+  ],
+  "corrections": {}
+}

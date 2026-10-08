@@ -1,0 +1,83 @@
+{
+  "uid": "VTANR5L17V8042",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Sylvie Josserand",
+      "citation": "Dans l’attente, et face à l’asphyxie des juridictions pénales, le groupe Rassemblement national votera en faveur du projet de loi adopté ce matin par la CMP.",
+      "justification": "Le groupe vote pour en invoquant la situation des juridictions pénales."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Sébastien Huyghe",
+      "citation": "Nous le voterons parce qu’il apporte des améliorations utiles et immédiatement applicables",
+      "justification": "Le groupe soutient les mesures du texte issu de la CMP."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Jean-François Coulomme",
+      "citation": "Ils dénoncent à raison un texte qui répond à une crise structurelle par un recul des droits fondamentaux.",
+      "justification": "Le groupe s'oppose au texte en raison du recul des droits fondamentaux qu'il lui attribue."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Sacha Houlié",
+      "citation": "Monsieur le ministre, ce n’est pas en affaiblissant les droits de la défense que vous accélérerez les procédures ou permettrez une meilleure justice pour les justiciables.",
+      "justification": "Le groupe s'oppose aux dispositions du texte touchant les droits de la défense."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Ian Boucard",
+      "citation": "Le texte n’en sera pas moins utile, dans la mesure où il permettra d’accélérer les procédures et de mieux encadrer la justice criminelle. Nous nous en félicitons.",
+      "justification": "Le groupe soutient le contenu du texte."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Hendrik Davi",
+      "citation": "Parce que cette réforme continue de répondre à la pénurie par l’affaiblissement des garanties plutôt que par un investissement massif dans notre justice, le groupe Écologiste et social votera contre ce texte.",
+      "justification": "Le groupe s'oppose à l'affaiblissement des garanties procédurales prévu par le texte."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Éric Martineau",
+      "citation": "Ils veulent des enquêtes plus rapides, des magistrats mieux formés et des victimes respectées. Ce texte le permettra, et c’est pourquoi le groupe Les Démocrates votera pour les conclusions de la commission mixte paritaire.",
+      "justification": "Le groupe soutient le contenu du texte issu de la CMP."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Agnès Firmin Le Bodo",
+      "citation": "En tout état de cause, ces deux projets de loi ont le mérite d’engager un mouvement indispensable pour remettre notre justice en ordre. C’est la raison pour laquelle le groupe Horizons & indépendants votera en leur faveur.",
+      "justification": "Le groupe soutient les mesures des deux textes."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Michel Castellani",
+      "citation": "Certes cette réforme n’est pas parfaite – elle ne prétend pas l’être – mais, face aux troubles qui touchent notre justice, l’immobilisme ne pouvait être la solution. Pour ces raisons, le groupe LIOT votera en faveur de ces deux projets de loi.",
+      "justification": "Le groupe vote pour en raison des mesures qu'il juge utiles."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Elsa Faucillon",
+      "citation": "Nous refusons que les droits des justiciables deviennent la variable d’ajustement du manque de moyens ; nous voterons contre ce texte.",
+      "justification": "Le groupe s'oppose aux atteintes aux droits des justiciables qu'il attribue au texte."
+    }
+  }
+}

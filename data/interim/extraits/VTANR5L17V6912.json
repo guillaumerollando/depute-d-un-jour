@@ -1,0 +1,147 @@
+{
+ "uid": "VTANR5L17V6912",
+ "titre": "l'amendement n° 894 de Mme Rossi à l'article 14 (examen prioritaire) du projet de loi d'urgence pour la protection et la souveraineté agricoles (première lecture).",
+ "type": "amendement",
+ "date": "2026-05-26",
+ "dossier": "DLR5L17N54085",
+ "dossier_titre": "Projet de loi d’urgence pour la protection et la souveraineté agricoles",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "contre",
+  "EPR": "contre",
+  "LFI": "contre",
+  "SOC": "pour",
+  "DR": "pour",
+  "ECOS": "contre",
+  "HOR": "contre",
+  "UDR": "contre"
+ },
+ "voix": {
+  "RN": {
+   "pour": 0,
+   "contre": 72,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 1,
+   "contre": 21,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 20,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 24,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 23,
+   "contre": 0,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 11,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 8,
+   "contre": 3,
+   "abstention": 3
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 9,
+   "abstention": 3
+  },
+  "LIOT": {
+   "pour": 2,
+   "contre": 2,
+   "abstention": 3
+  },
+  "UDR": {
+   "pour": 0,
+   "contre": 8,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 0,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC2765P0D1N000894",
+  "dossier": "DLR5L17N54085",
+  "texte": "PRJLANR5L17BTC2765",
+  "division": "Article 14",
+  "auteur": "Mme Rossi,  Mme Pantel, Mme Allemand, Mme Thomin, Mme Battistel, M. Potier, M. Delautrette, M. Dufau, M. Echaniz, M. Benbrahim, M. Eskenazi, M. Fégné, Mme Jourdan, M. Leseul, M. Barusseau, M. Lhardit, M. Naillet, M. Delaporte, M. Garot, Mme Got, M. Roussel, M. Aviragnet, M. Baptiste, M. Baumel, M. Belhaddad, Mme Bellay, M. Bouloux, Mme Bregman, M. Philippe Brun, M. Califer, Mme Capdevielle, M. Christophle, M. Courbon, M. David, Mme Diop, Mme Dombre Coste, M. Faure, Mme Froger, Mme Godard, M. Guedj, M. Hablot, Mme Hadizadeh, Mme Herouin-Léautey, Mme Céline Hervieu, M. Hollande, M. Houlié, Mme Karamanli, Mme Keloua Hachi, Mme Mercier, M. Oberti, M. Pena, Mme Pic, Mme Pirès Beaune, M. Pribetich, M. Proença, Mme Récalde, Mme Rouaux, M. Aurélien Rousseau, Mme Runel, M. Saint-Pasteur, Mme Santiago, M. Saulignac, M. Simion, M. Sother, Mme Thiébault-Martinez, M. Vallaud, M. Vicot, M. William et les membres du groupe Socialistes et apparentés",
+  "auteur_groupe": "SOC",
+  "auteur_type": "Député",
+  "dispositif": "À la seconde phrase de l’alinéa 4, après le mot : « gestion », insérer les mots : « et de prélèvement ».",
+  "expose": "Cet amendement du groupe Socialistes et apparentés vise à préciser que les mesures de gestion du loup incluent explicitement des mesures de prélèvement, afin de renforcer la lisibilité et l’efficacité du dispositif. Le dispositif proposé a pour objet de clarifier le champ des mesures susceptibles d’être mises en œuvre pour assurer la gestion du loup (Canis lupus), en indiquant expressément que celles-ci comprennent, le cas échéant, des mesures de prélèvement. Cette précision vise à sécuriser juridiquement l’intervention des autorités compétentes en consacrant le prélèvement comme un outil à part entière de la gestion de l’espèce, aux côtés des autres mesures de prévention et de protection des troupeaux."
+ },
+ "seance": "RUANR5L17S2026IDS30612",
+ "compte_rendu": "CRSANR5L17S2026O1N247",
+ "interventions": [
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je suis saisi de plusieurs demandes de scrutin public : sur les amendements nos 90 et 1167, par le groupe Rassemblement national ; sur l’amendement no 894, par le groupe Socialistes et apparentés. Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.La parole est à Mme Valérie Rossi, pour soutenir l’amendement no 894."
+  },
+  {
+   "orateur": "Mme Valérie Rossi",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Il vise à préciser que les mesures de gestion du loup incluent explicitement des prélèvements, afin de renforcer la lisibilité et l’efficacité du dispositif. Cette précision a pour but de sécuriser juridiquement l’intervention des autorités compétentes en consacrant le prélèvement comme un outil à part entière de la gestion de l’espèce, aux côtés des autres mesures de prévention et de protection des troupeaux."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis de la commission ?"
+  },
+  {
+   "orateur": "M. Xavier Roseren",
+   "qualite": "rapporteur pour avis",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "La phrase précédant celle qui est concernée par l’amendement inclut les tirs de prélèvement dans les mesures de gestion. La répétition ne paraît pas nécessaire. L’amendement étant satisfait, j’en suggère le retrait. À défaut, avis défavorable."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis du gouvernement ?"
+  },
+  {
+   "orateur": "Mme Annie Genevard",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Cet amendement a pour but l’explicitation, la clarification. Il est évident pour nous que la gestion du loup inclut des prélèvements. Toutefois, nous ne pouvons être opposés à la volonté de l’écrire explicitement dans le texte. C’est pourquoi le gouvernement s’en remet à la sagesse de l’Assemblée."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 894."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

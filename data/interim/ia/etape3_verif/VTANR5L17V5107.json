@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V5107",
+  "consigne": "etape3_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "Le titre dit « ne plus créer » alors que la résolution invite seulement à « suspendre » toute nouvelle création : la formulation négative est plus forte que la source."
+  ],
+  "corrections": {
+    "titre": "Demander de suspendre la création de nouvelles agences et instances de l'État"
+  }
+}

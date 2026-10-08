@@ -1,0 +1,62 @@
+{
+  "uid": "VTANR5L17V8427",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Hélène Laporte",
+      "citation": "Ce texte n’est pas parfait et ne va pas aussi loin que nous l’aurions souhaité, mais il représente une avancée pour notre agriculture et notre souveraineté alimentaire. En l’état, nous le soutenons.",
+      "justification": "Le groupe vote pour en qualifiant le texte d’avancée pour l’agriculture."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": "M. Louis Boyard",
+      "citation": null,
+      "justification": "Les interventions du groupe dans l’extrait portent sur la conduite des débats, sans déclaration sur le contenu du texte."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Fabrice Barusseau",
+      "citation": "il faudrait aller beaucoup plus loin et supprimer complètement les articles 5, 6, 7 et 8 qui traitent de l’eau en mettant en danger la ressource.",
+      "justification": "Le groupe vote contre en s’opposant aux dispositions du texte sur l’eau."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Vincent Descoeur",
+      "citation": "Je me réjouis du travail réalisé par la CMP et notre collègue rapporteur Julien Dive, qui a permis d’aboutir à ce compromis.",
+      "justification": "Le groupe vote pour en approuvant les dispositions issues de la commission mixte paritaire."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Delphine Batho",
+      "citation": "le Conseil d’État a souligné que le flupyradifurone se dégradait en PFAS, c’est-à-dire en polluant éternel",
+      "justification": "Le groupe vote contre en invoquant les effets d’une substance autorisée par le texte."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s’exprime pas dans l’extrait."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Julien Brugerolles",
+      "citation": "ce texte ne protège pas les agriculteurs.",
+      "justification": "Le groupe vote contre en s’opposant au contenu du texte."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Vincent Trébuchet",
+      "citation": "L’UDR salue ce retour au bon sens.",
+      "justification": "Le groupe vote pour en approuvant des dispositions du texte final."
+    }
+  }
+}

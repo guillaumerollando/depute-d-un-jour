@@ -1,0 +1,12 @@
+{
+ "uid": "VTANR5L17V4754",
+ "consigne": "etape3_verification v2",
+ "verdict": "corrige",
+ "problemes": [
+  "La carte omet que, selon le texte adopté, l'absence de réponse de l'administration pendant quatre mois après une demande de renouvellement vaut acceptation.",
+  "« Sans nouvelle demande » n'est pas dans le texte, qui évoque au contraire une demande de renouvellement."
+ ],
+ "corrections": {
+  "ce_que_ca_change": "La carte de séjour pluriannuelle et les cartes de résident (titres de séjour de plusieurs années) seraient renouvelées automatiquement par l'administration. Sans réponse de sa part quatre mois après une demande de renouvellement, celle-ci serait acceptée. Avant de refuser un renouvellement, l'administration devrait suivre une procédure particulière prévue par la loi."
+ }
+}

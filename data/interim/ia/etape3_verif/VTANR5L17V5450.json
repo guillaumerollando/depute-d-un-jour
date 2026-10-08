@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V5450",
+  "consigne": "etape3_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "Le dispositif ouvre le recours à la « personne de confiance ou, à défaut, un proche » : la carte ne mentionne que le proche."
+  ],
+  "corrections": {
+    "ce_que_ca_change": "Toute personne dont l'état de santé le nécessite aurait droit à un accompagnement et à des soins palliatifs (soins qui soulagent et accompagnent les malades graves), garanti par les agences régionales de santé. Sans offre de prise en charge dans un délai fixé par décret, elle pourrait saisir en urgence le juge administratif, ou, avec son accord, sa personne de confiance ou à défaut un proche."
+  }
+}

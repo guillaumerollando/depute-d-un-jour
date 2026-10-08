@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V6901",
+  "consigne": "etape3_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "Le titre « la baisse du chômage » est ambigu (peut se lire comme la baisse du nombre de chômeurs) ; il s'agit de la réduction de la durée d'indemnisation. « Épargner » est en outre connoté."
+  ],
+  "corrections": {
+    "titre": "Exclure les 55 ans et plus de la baisse des droits chômage après rupture conventionnelle"
+  }
+}

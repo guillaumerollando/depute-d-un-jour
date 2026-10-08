@@ -1,0 +1,119 @@
+{
+ "uid": "VTANR5L17V1214",
+ "titre": "l'amendement n° 55 de M. Garot et l'amendement identique suivant de rétablissement de l'article premier (supprimé) de la proposition de loi visant à lutter contre les déserts médicaux, d'initiative transpartisane (première lecture).",
+ "type": "amendement",
+ "date": "2025-04-02",
+ "dossier": "DLR5L17N51516",
+ "dossier_titre": "Contre les déserts médicaux, d'initiative transpartisane",
+ "sort": "adopté",
+ "positions": {
+  "RN": "contre",
+  "EPR": "contre",
+  "LFI": "pour",
+  "SOC": "pour",
+  "ECOS": "pour",
+  "DEM": "pour",
+  "LIOT": "pour",
+  "GDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 0,
+   "contre": 50,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 4,
+   "contre": 18,
+   "abstention": 1
+  },
+  "LFI": {
+   "pour": 40,
+   "contre": 0,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 50,
+   "contre": 1,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 8,
+   "contre": 6,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 19,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 7,
+   "contre": 1,
+   "abstention": 2
+  },
+  "HOR": {
+   "pour": 8,
+   "contre": 5,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 6,
+   "contre": 1,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 10,
+   "contre": 0,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 2,
+   "contre": 2,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC1180P0D1N000055",
+  "dossier": "DLR5L17N51516",
+  "texte": "PIONANR5L17BTC1180",
+  "division": "Article PREMIER",
+  "auteur": "M. Garot,  M. Philippe Vigier, M. Clouet, M. Marion, M. Breton, Mme Batho, M. Kervran, M. Sansu, M. Favennec-Bécot, Mme Dupont, M. Arnaud Bonnet, Mme Abomangoli, M. Alexandre, Mme Allemand, M. Amard, Mme Amiot, Mme Amrani, M. Arenas, M. Arnault, M. Aviragnet, Mme Bannier, Mme Bellay, Mme Belluco, Mme Belouassa-Cherifi, M. Benbrahim, M. Bex, M. Bilongo, M. Biteau, M. Bompard, M. Bouloux, M. Boumertit, M. Boyard, M. Brosse, M. Cadalen, M. Caron, M. Carrière, Mme Cathala, M. Cernon, Mme Chikirou, M. Christophle, M. Coquerel, M. Coulomme, M. Courbon, M. David, M. Delaporte, M. Delautrette, M. Delogu, Mme Delpech, M. Diouara, Mme Dombre Coste, Mme Dufour, M. Duplessy, M. Echaniz, Mme Erodi, M. Eskenazi, M. Fait, M. Faure, Mme Feld, M. Fernandes, Mme Ferrer, M. Forissier, Mme Froger, M. Gaillard, Mme Godard, M. Gokel, Mme Got, M. Emmanuel Grégoire, M. Guedj, Mme Guetté, M. Guiraud, Mme Hadizadeh, Mme Hamdane, M. Henriet, Mme Herouin-Léautey, Mme Hignet, Mme Jourdan, M. Kerbrat, M. Lachaud, M. Lahmar, M. Laisney, M. Le Coq, M. Le Gall, M. Fégné, Mme Leboucher, M. Lecamp, M. Legavre, Mme Legrain, Mme Lejeune, Mme Lepvraud, M. Leseul, M. Léaument, Mme Élisa Martin, M. Martineau, M. Maudet, M. Maurel, Mme Maximi, Mme Mesmeur, Mme Manon Meunier, M. Molac, M. Monnet, M. Nilor, M. Naillet, M. Nury, Mme Obono, M. Philippe Brun, Mme Oziol, M. Panifous, Mme Panot, Mme Pantel, M. Patrier-Leitus, M. Peytavie, Mme Pic, M. Pilato, M. Piquemal, Mme Piron, Mme Pirès Beaune, Mme Pochon, M. Portes, M. Potier, M. Prud'homme, M. Ratenon, M. Raux, Mme Reid Arbelot, M. Rimane, Mme Runel, M. Saint-Martin, M. Saintoul, Mme Santiago, M. Saulignac, M. Simion, M. Sother, Mme Soudais, Mme Stambach-Terrenoir, M. Taché, M. Taupiac, M. Tavel, Mme Thiébault-Martinez, Mme Thomin, Mme Trouvé, M. Vallaud, M. Vannier, M. Maillot, M. Descoeur, M. Benoit, Mme Catherine Hervieu, M. Liger, M. Cosson, M. Liégeon, Mme Josso, M. Bernalicis, Mme Karamanli, Mme Nosbé, Mme Taurinya, M. Barusseau et M. Lucas-Lundy",
+  "auteur_groupe": "SOC",
+  "auteur_type": "Député",
+  "dispositif": "Rétablir cet article dans la rédaction suivante : « I. – Le chapitre I er du titre I er de la quatrième partie du code de la santé publique est ainsi modifié : « 1° L’article L. 4111‑1 est complété par un alinéa ainsi rédigé : « « Les médecins sont autorisés à exercer leur activité à titre libéral ou salarié dans les conditions prévues à l’article L. 4111‑1‑3. » ; « 2° Après l’article L. 4111‑1‑2, il est inséré un article L. 4111‑1‑3 ainsi rédigé : « Art. L. 4111‑1‑3 . – L’installation d’un médecin exerçant à titre libéral ou salarié est soumise à l’autorisation préalable du directeur général de l’agence régionale de santé compétente après avis rendu dans les trente jours suivant sa saisine, du conseil départemental de l’ordre dont il relève. « L’autorisation est délivrée de droit : « 1° Si le lieu d’installation du médecin est situé dans une zone caractérisée par une offre de soins insuffisante ou par des difficultés dans l’accès aux soins au sens du 1° de l’article L. 1434‑4 ; « 2° Si un médecin de la même spécialité et exerçant dans la même zone cesse concomitamment son activité. « L’autorisation ne peut être délivrée dans les autres cas. « Les conditions d’application du présent article sont définies par un décret en Conseil d’État pris, après avis du conseil national de l’ordre des médecins, et consultation des représentants des étudiants en médecine, des usagers du système de santé et des élus locaux. » « II. – Le I du présent article entre en vigueur à la date de publication du décret prévu au dernier alinéa de l’article L. 4111‑1‑3 du code de la santé publique, et au plus tard un an après la promulgation de la présente loi. »",
+  "expose": "Amendement transpartisan de réécriture globale de l’article premier, portant rétablissement de l’article premier modifié, pour préciser les conditions de mise en œuvre de la procédure de régulation de l’installation, et notamment son application à l’ensemble des médecins exerçant en cabinet de ville quel que soit leur mode d’exercice libéral ou salarié et pour prévoir la consultation des représentants des étudiants en médecine ainsi que des usagers du système de santé et des élus locaux dans la procédure d’élaboration du décret d’application de l’article. L’article premier permet de flécher l’installation des médecins – généralistes et spécialistes, libéraux et salariés – vers les zones où l’offre de soins est insuffisante. Il crée une autorisation d’installation des médecins, délivrée par l’ARS. En zone sous-dotée, l’autorisation est délivrée de droit pour toute nouvelle installation. Dans tous les autres cas, c’est-à-dire lorsque l’offre de soins est au moins suffisante, l’autorisation est délivrée uniquement si l’installation fait suite à la cessation d’activité́ d’un praticien pratiquant la même spécialité́ sur ce territoire. L’autorisation d’installation intervient après consultation, par l’ARS, de l’Ordre départemental des médecins, des représentants des étudiants en médecine, des usagers du système de santé et des élus locaux. Il s’agit d’un premier pas dans la régulation de l’installation des médecins sur le territoire, qui permettra, à tout le moins, de stopper la progression des inégalités entre territoires. La mesure vise à orienter l’installation des professionnels de santé vers les zones où l’offre est la moins dense par un aménagement du principe de liberté d’installation, qui continue de prévaloir. Ce cadre nouveau doit évidemment être soutenu par les mesures d’incitation déjà existantes, notamment pour les jeunes médecins, au plan financier comme au plan professionnel. Les politiques d’incitation à l’installation des médecins dans les zones sous-denses restent bien entendu nécessaires. Mais ces mesures ne répondent pas à l’urgence de la situation. Soit leur impact est trop faible compte tenu des moyens engagés – c’est le cas des incitations, qui coûtaient 86,9 millions d’euros par an à l’État en 2016 – soit il est à retardement, comme la réforme du numerus clausus dont les effets sur le nombre de médecins ne seront pas significatifs avant une décennie."
+ },
+ "seance": "RUANR5L17S2025IDS29263",
+ "compte_rendu": "CRSANR5L17S2025O1N158",
+ "interventions": [
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Les sous-amendements identiques nos 120 et 122 ne sont pas adoptés.)"
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Les sous-amendements nos 131, 126, 127, 129, 121 et 117, successivement mis aux voix, ne sont pas adoptés.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix les amendements identiques nos 55 et 67."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

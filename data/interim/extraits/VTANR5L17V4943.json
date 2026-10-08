@@ -1,0 +1,274 @@
+{
+ "uid": "VTANR5L17V4943",
+ "titre": "l'amendement n° 5 de M. Jean-Philippe Tanguy après l'article premier du projet de loi spéciale prévue par l'article 45 de la loi organique du 1er août 2001 relative aux lois de finances (première lecture).",
+ "type": "amendement",
+ "date": "2025-12-23",
+ "dossier": "DLR5L17N53386",
+ "dossier_titre": "Projet de loi spéciale prévue par l'article 45 de la loi organique n°2001-692 du 1er août 2001 relative aux lois de finances",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "contre",
+  "SOC": "contre",
+  "DR": "contre",
+  "ECOS": "contre",
+  "DEM": "contre",
+  "HOR": "contre",
+  "LIOT": "contre",
+  "UDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 79,
+   "contre": 0,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 0,
+   "contre": 58,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 0,
+   "abstention": 6
+  },
+  "SOC": {
+   "pour": 0,
+   "contre": 36,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 0,
+   "contre": 30,
+   "abstention": 2
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 18,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 29,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 21,
+   "abstention": 1
+  },
+  "LIOT": {
+   "pour": 0,
+   "contre": 13,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 0,
+   "contre": 1,
+   "abstention": 1
+  },
+  "UDR": {
+   "pour": 7,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901B2269P0D1N000005",
+  "dossier": "DLR5L17N53386",
+  "texte": "PRJLANR5L17B2269",
+  "division": "Article PREMIER",
+  "auteur": "M. Jean-Philippe Tanguy et les membres du groupe Rassemblement National",
+  "auteur_groupe": "RN",
+  "auteur_type": "Député",
+  "dispositif": "I. – Jusqu’à l’entrée en vigueur de la loi de finances pour 2026, le montant du prélèvement effectué sur les recettes de l’État au titre de la participation de la France au budget de l’Union européenne est évalué pour l’exercice 2026 à 23 098 097 974 €. II. – La perte de recettes pour l’État est compensée à due concurrence par la création d’une taxe additionnelle à l’accise sur les tabacs prévue au chapitre IV du titre I er du livre III du code des impositions sur les biens et services.",
+  "expose": "La France doit faire un effort significatif de maîtrise de la dépense publique en 2026 compte tenu des difficultés budgétaires que nous connaissons. Le Rassemblement national défend la mise en place d’un « rabais » sur la contribution de la France au financement de l’Union européenne, dont la France est le seul grand pays contributeur net à ne pas bénéficier. Néanmoins, compte tenu de l’urgence des mesures à prendre et du contexte politique, le groupe Rassemblement national propose de reconduire en 2026 le contribution de la France au budget de l’Union européenne (PSR UE) à son niveau de 2025 - jusqu’à l’adoption de la loi de finances pour 2026. Pour rappel, dans son projet initial, le Gouvernement a fixé le PSR-UE à 28,7 milliards d’euros, soit une augmentation de 5,6 Mds €."
+ },
+ "seance": "RUANR5L17S2026IDS30157",
+ "compte_rendu": "CRSANR5L17S2026O1N101",
+ "interventions": [
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je suis saisie de deux amendements, nos 5 et 18, portant article additionnel après l’article 1er. Ils peuvent être soumis à une discussion commune. La parole est à M. Jean-Philippe Tanguy, pour soutenir l’amendement no 5."
+  },
+  {
+   "orateur": "M. Jean-Philippe Tanguy",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Cet amendement simple, qui vise à limiter la hausse de notre contribution à l’Union européenne, devrait être soutenu par tous. Si l’Assemblée se prenait vraiment au sérieux, si nous estimions vraiment être souverains, nous ne devrions pas accepter que figure dans une loi spéciale l’augmentation automatique de notre contribution – ce tribut, cette dîme – à l’Union européenne.Madame la ministre, je vous invite à un examen de conscience. Depuis trois mois, on nous répète que nous sommes souverains. Or, si vous acceptez que notre contribution à l’Union européenne – une autorité extérieure – augmente automatiquement, alors vous avouez, explicitement ou implicitement, que nous ne sommes plus souverains."
+  },
+  {
+   "orateur": "Mme Dieynaba Diop",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Vous devriez faire votre propre examen de conscience et rendre l’argent !"
+  },
+  {
+   "orateur": "M. Jean-Philippe Tanguy",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Je crains que le Parlement, avec Emmanuel Macron à la présidence de la République, ne soit plus vraiment souverain. Il est même, hélas, totalement soumis. Nous le verrons aussi avec l’accord UE-Mercosur."
+  },
+  {
+   "orateur": "Mme Dieynaba Diop",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Ce serait un beau cadeau de Noël pour le contribuable !"
+  },
+  {
+   "orateur": "M. Jean-Philippe Tanguy",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "On ne fait que décaler les méfaits de votre politique. Il est à peu près sûr que vous vous entendrez avec LR et les socialistes pour augmenter les impôts, les dépenses et le déficit."
+  },
+  {
+   "orateur": "M. Philippe Gosselin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Ça suffit !"
+  },
+  {
+   "orateur": "M. Jean-Philippe Tanguy",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Je crains pour nos agriculteurs que la position sur l’accord UE-Mercosur ne suive le même triste chemin. (Applaudissements sur les bancs du groupe RN.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Sur cet amendement no 5, je suis saisie par le groupe Rassemblement national d’une demande de scrutin public. Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.La parole est à M. Charles de Courson, pour soutenir l’amendement no 18."
+  },
+  {
+   "orateur": "M. Charles de Courson",
+   "qualite": null,
+   "groupe": "LIOT",
+   "president_de_seance": false,
+   "texte": "Comme vous le savez, les prélèvements sur les recettes de l’État sont de deux ordres : les prélèvements au profit des collectivités territoriales – une petite somme de 45 milliards, qui fait l’objet de l’article 2 – et le prélèvement au profit de l’Union européenne – qui ne figure pas, lui, à l’article 2. Je vous propose donc de compléter l’article 2 en y inscrivant le montant du prélèvement sur recettes au profit de l’Union.De deux choses l’une : soit nous votons pour l’article 2 en ayant adopté au préalable mon amendement ; soit nous supprimons l’article 2, et il n’est alors pas nécessaire de voter mon amendement.Dans son avis, le Conseil d’État indique que la rédaction initiale du projet de loi emporterait de toute façon reconduction de tous les prélèvements sur recettes. Certes, mais cela irait mieux en le disant."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis de la commission sur ces deux amendements en discussion commune ?"
+  },
+  {
+   "orateur": "M. Philippe Juvin",
+   "qualite": "rapporteur général",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "En ce qui concerne l’amendement no 18, je renvoie M. de Courson à l’exposé général des motifs, qui décrit le contenu de la loi spéciale. Il y est écrit que l’autorisation de percevoir les impôts existants prévue à l’article 1er « emporte également la reconduction des prélèvements sur les recettes mentionnées à l’article 6 de la Lolf, dont le prélèvement sur recettes au profit de l’Union européenne ». L’amendement étant superfétatoire, je lui donne un avis défavorable.Quant à l’amendement no 5 de M. Tanguy, il soulève un véritable débat politique, qui n’a pas sa place dans la loi spéciale. Si nous adoptions cet amendement, nous contreviendrions à l’accord trouvé le 15 novembre au niveau européen, en vertu duquel le montant du prélèvement sur recettes au profit de l’Union européenne (PSR-UE) a été fixé à 28,4 milliards. J’émets donc également un avis défavorable sur cet amendement."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. le président de la commission des finances."
+  },
+  {
+   "orateur": "M. Éric Coquerel",
+   "qualite": "président de la commission des finances",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "J’ai bien compris que ces deux amendements ne suivent pas la même logique.Je me réjouis que nous examinions l’amendement no 18 de M. de Courson – je l’avais déclaré recevable –, mais je trouve paradoxal que nous puissions débattre, dans le cadre de la loi spéciale, de la réactualisation du PSR-UE, mais pas de celle du barème de l’impôt sur le revenu, ce qui nous aurait permis de maintenir le périmètre des contribuables concernés. (Applaudissements sur quelques bancs du groupe LFI-NFP.) Je m’oppose cependant à cet amendement, parce qu’il serait paradoxal que le PSR-UE soit la seule dépense actualisée. La logique m’en échapperait.Quant à l’amendement no 5 du Rassemblement national, on peut considérer qu’il est satisfait, puisque la revalorisation du PSR-UE n’est pas prévue dans le projet de loi spéciale."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis du gouvernement ?"
+  },
+  {
+   "orateur": "Mme Amélie de Montchalin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je commence par une considération de forme : pour être promulguée dans les plus brefs délais, cette loi spéciale doit être adoptée dans les mêmes termes par les deux chambres. Si des amendements votés par l’Assemblée ne l’étaient pas à l’identique par le Sénat, une CMP serait nécessaire et il vous faudrait revenir voter le 26 ou le 27 décembre."
+  },
+  {
+   "orateur": "M. Stéphane Peu",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Pas de problème ! Néanmoins, le 27 m’arrangerait davantage que le 26."
+  },
+  {
+   "orateur": "M. Jean-Paul Lecoq",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Nous reviendrons !"
+  },
+  {
+   "orateur": "Mme Amélie de Montchalin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "J’insiste sur l’importance d’un vote conforme."
+  },
+  {
+   "orateur": "M. Thibault Bazin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Le Sénat n’a qu’à voter le même texte !"
+  },
+  {
+   "orateur": "Mme Amélie de Montchalin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je poursuis par une considération de fond : la loi spéciale ne vise ni à remettre en cause les engagements internationaux ni à sécuriser un engagement international parmi d’autres. Nous sommes liés par d’autres engagements à l’égard de l’ONU et de diverses institutions internationales. Certains de ces montants peuvent augmenter – je pense notamment aux engagements multilatéraux en matière d’aide publique au développement."
+  },
+  {
+   "orateur": "M. Pierre Cordier",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Justement, parlons-en, de l’APD !"
+  },
+  {
+   "orateur": "Mme Amélie de Montchalin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Tenons-nous en à ce que prévoit l’article 1er : il autorise les prélèvements sur recettes, notamment au profit de l’Union européenne. Le PSR-UE est même obligatoire, sans quoi la France ferait défaut.Monsieur Tanguy, brider le PSR-UE ainsi que vous le souhaitez, en reconduisant pour 2026 le montant de 2025, reviendrait à ne pas tenir compte de l’accord trouvé entre les États membres et le Parlement européen le 15 novembre. Ce serait remettre en cause un engagement, autrement dit, faire défaut. Je ne souhaite pas que ce projet de loi spéciale soit l’occasion d’un tel défaut.Je suis donc défavorable aux deux amendements, pour des raisons différentes. En tout cas, je le redis, si le Sénat n’adopte pas tous les amendements que vous allez adopter ici, nous devrons nous retrouver prochainement."
+  },
+  {
+   "orateur": "Mme Sabrina Sebaihi",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Ce n’est pas un argument !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 5."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

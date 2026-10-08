@@ -1,0 +1,105 @@
+{
+ "uid": "VTANR5L17V4262",
+ "titre": "l'amendement n° 24 de M. Gaillard à l'article premier de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+ "type": "amendement",
+ "date": "2025-11-27",
+ "dossier": "DLR5L17N52976",
+ "dossier_titre": "L'établissement de l’égalité d’accès au service public postal en outre-mer",
+ "sort": "adopté",
+ "positions": {
+  "EPR": "contre",
+  "LFI": "pour",
+  "SOC": "pour",
+  "DR": "pour",
+  "ECOS": "pour",
+  "DEM": "pour",
+  "HOR": "contre",
+  "GDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 12,
+   "contre": 29,
+   "abstention": 21
+  },
+  "EPR": {
+   "pour": 0,
+   "contre": 21,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 58,
+   "contre": 0,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 21,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 4,
+   "contre": 0,
+   "abstention": 1
+  },
+  "ECOS": {
+   "pour": 15,
+   "contre": 0,
+   "abstention": 1
+  },
+  "DEM": {
+   "pour": 4,
+   "contre": 0,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 8,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 0,
+   "contre": 0,
+   "abstention": 1
+  },
+  "GDR": {
+   "pour": 9,
+   "contre": 0,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 0,
+   "contre": 0,
+   "abstention": 6
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC2118P0D1N000024",
+  "dossier": "DLR5L17N52976",
+  "texte": "PIONANR5L17BTC2118",
+  "division": "Article PREMIER",
+  "auteur": "M. Gaillard",
+  "auteur_groupe": "LFI",
+  "auteur_type": "Député",
+  "dispositif": "I. – A la fin de l’alinéa 4, substituer aux mots : « quelle que soit la tranche » les mots : « pour toutes les tranches ». II. – En conséquence, rédiger ainsi l’alinéa 5 : « II. – Après l’article L. 1 du code des postes et des communications électroniques, il est inséré un article L. 1‑1 ainsi rédigé : » III. – En conséquence, au début de l’alinéa 6, insérer la mention : « Art. L. 1‑1. – ». IV. – En conséquence, au même alinéa 6, après le mot : « tarif » insérer le mot : « postal ». V. – En conséquence, audit alinéa 6, substituer aux mots : « du présent article » les mots : « de l’article L. 1 du présent code ». VI. – En conséquence, au même alinéa 6, substituer aux mots : « au moyen » les mots : « par l’intermédiaire ».",
+  "expose": "Amendement rédactionnel"
+ },
+ "seance": "RUANR5L17S2026IDS29977",
+ "compte_rendu": "CRSANR5L17S2026O1N072",
+ "interventions": [
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 24."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

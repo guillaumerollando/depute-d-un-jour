@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V3260",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Guillaume Bigot",
+      "citation": "L’irresponsabilité, alors que les taux d’intérêt et notre dette flambent, c’est de dilapider encore 2 milliards d’euros par an dans un système qui ne fonctionne pas.",
+      "justification": "Le groupe vote pour en invoquant le coût des accords."
+    },
+    "EPR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe s’exprime sur le groupe auteur de la résolution, pas sur son contenu."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Bastien Lachaud",
+      "citation": "Non seulement le présent texte est un ramassis de foutaises, et vous le savez, mais il est dangereux, et vous le savez tout aussi bien.",
+      "justification": "Le groupe vote contre en s’opposant au contenu de la résolution."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe s’exprime sur le groupe auteur de la résolution, pas sur son contenu."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Éric Pauget",
+      "citation": "Nous dénoncerons les accords de 1968 car nous devons moderniser des accords obsolètes et qui, comme un précédent orateur l’a dit, n’ont pas de limite dans le temps.",
+      "justification": "Le groupe vote pour en soutenant la dénonciation des accords."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Sabrina Sebaihi",
+      "citation": "Savez-vous seulement que les Australiens sont exemptés de visa pour venir en France – savez-vous que la France n’a jamais colonisé l’Australie ?",
+      "justification": "Le groupe vote contre en invoquant l’histoire commune justifiant les accords."
+    },
+    "DEM": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Bruno Fuchs",
+      "citation": "De toute évidence, la responsabilité, l’efficacité et la dynamique positive, pour la France, se trouvent dans la renégociation de ces accords dans les plus brefs délais – c’est ce que nous souhaitons.",
+      "justification": "Le groupe vote contre en préférant la renégociation des accords à leur dénonciation et en invoquant les effets sur l’exécution des OQTF."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Sylvain Berrios",
+      "citation": "L’Algérie a déjà suspendu l’accord franco-algérien. La France s’obstine à le soutenir et à le faire vivre. Cet accord, initialement bilatéral, est donc devenu unilatéral.",
+      "justification": "Le groupe vote pour en soutenant la dénonciation des accords."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Elsa Faucillon",
+      "citation": "Avec la dénonciation de ces accords, la seule chose que vous obtiendrez, c’est de raviver les plaies de la guerre d’Algérie.",
+      "justification": "Le groupe vote contre en invoquant les effets de la dénonciation."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Éric Ciotti",
+      "citation": "L’Algérie, aujourd’hui, non seulement n’est pas un pays avec lequel nous pouvons coopérer pour notre sécurité, mais elle est un pays qui menace notre sécurité, en refusant de reprendre ses ressortissants les plus dangereux.",
+      "justification": "Le groupe vote pour en soutenant la dénonciation des accords."
+    }
+  }
+}

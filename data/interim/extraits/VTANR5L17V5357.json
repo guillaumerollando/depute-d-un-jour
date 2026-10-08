@@ -1,0 +1,247 @@
+{
+ "uid": "VTANR5L17V5357",
+ "titre": "l'amendement n° 10 de M. Caure à l'article premier de la proposition de loi améliorant la protection des personnes ciblées par les réseaux de criminalité organisée (première lecture).",
+ "type": "amendement",
+ "date": "2026-02-12",
+ "dossier": "DLR5L17N53427",
+ "dossier_titre": "Améliorer la protection des personnes ciblées par les réseaux de criminalité organisée",
+ "sort": "adopté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "pour",
+  "LFI": "contre",
+  "SOC": "contre",
+  "DR": "pour",
+  "ECOS": "contre",
+  "HOR": "pour",
+  "LIOT": "pour",
+  "GDR": "contre",
+  "UDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 60,
+   "contre": 0,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 25,
+   "contre": 0,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 1,
+   "contre": 43,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 0,
+   "contre": 27,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 13,
+   "contre": 0,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 1,
+   "contre": 34,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 3,
+   "contre": 2,
+   "abstention": 2
+  },
+  "HOR": {
+   "pour": 11,
+   "contre": 0,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 4,
+   "contre": 0,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 0,
+   "contre": 3,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 6,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC2431P0D1N000010",
+  "dossier": "DLR5L17N53427",
+  "texte": "PIONANR5L17BTC2431",
+  "division": "Article PREMIER",
+  "auteur": "M. Caure,  M. Attal, M. Boudié, M. Anglade, M. Armand, M. Becht, M. Berville, Mme Borne, M. Bothorel, M. Brosse, Mme Brulebois, M. Buchou, Mme Buffet, Mme Calvez, M. Causse, M. Cazenave, M. Jean-René Cazeneuve, M. Pierre Cazeneuve, M. Chenevard, Mme Coggia, M. Cormier-Bouligeon, Mme Delpech, M. Dirx, Mme Dubré-Chirat, M. Ferracci, M. Fiévet, M. Frébault, M. Fugit, Mme Galliard-Minier, M. Gassilloud, Mme Genetet, Mme Givernet, M. Gouffier Valente, Mme Olivia Grégoire, M. Huyghe, Mme Ibled, M. Jacques, M. Kasbarian, Mme Klinkert, M. Labaronne, Mme Lakrafi, Mme Lalanne, M. Larrouquis, M. Lauzzana, Mme Le Feur, M. Le Gac, Mme Le Grip, Mme Le Meur, Mme Le Nabour, Mme Le Peih, Mme Lebec, M. Ledoux, Mme Liso, M. Maillard, M. Marchive, M. Marion, Mme Marsaud, M. Masséglia, M. Mazars, Mme Melchior, M. Mendes, M. Metzdorf, M. Midy, Mme Miller, Mme Missoffe, M. Mongardien, M. Olive, Mme Pannier-Runacher, Mme Panonacle, Mme Panosyan-Bouvet, Mme Pouzyreff, M. Riester, Mme Riotton, Mme Rist, Mme Rixain, M. Rodwell, Mme Ronceret, M. Rousset, M. Seo, M. Sitzenstuhl, M. Sorre, Mme Spillebout, Mme Liliana Tanguy, M. Terlier, Mme Thevenot, M. Travert, Mme Vidal, Mme Vignon, M. Weissberg, M. Woerth et Mme Yadan",
+  "auteur_groupe": "EPR",
+  "auteur_type": "Député",
+  "dispositif": "Après l’alinéa 16, insérer l’alinéa suivant : « Les personnes peuvent, sur autorisation du procureur de la République ou du juge d’instruction, déclarer comme domicile l’adresse du commissariat ou de la brigade de gendarmerie ».",
+  "expose": "L’article 32 de la loi du n° 2025-532 du 13 juin 2025 visant à sortir la France du piège du narcotrafic a étendu, par son article 32, la possibilité pour les victimes de déclarer comme domicile l’adresse du commissariat ou de la brigade de gendarmerie, sur autorisation du procureur de la République ou du juge d’instruction. Cet amendement propose d’étendre cette possibilité aux personnes mentionnées au présent I."
+ },
+ "seance": "RUANR5L17S2026IDS30262",
+ "compte_rendu": "CRSANR5L17S2026O1N147",
+ "interventions": [
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Vincent Caure, pour soutenir l’amendement no 10."
+  },
+  {
+   "orateur": "M. Vincent Caure",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "La loi visant à sortir la France du piège du narcotrafic a ouvert une nouvelle possibilité, celle de se faire domicilier dans un commissariat ou dans une brigade de gendarmerie, avec l’accord du procureur de la République ou du juge d’instruction, afin d’éviter la divulgation de son adresse personnelle.Cet amendement propose de transposer cette disposition que nous avions votée au printemps dernier aux personnes visées à l’alinéa 4 de l’article 1er, qui sont exposées à des risques comparables. Deux catégories de personnes confrontées au même type de danger doivent pouvoir accéder aux mêmes moyens de sécurisation de leur vie privée. Encore une fois, je pense que cela s’inscrit dans la logique de l’objectif que nous poursuivons."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis de la commission ?"
+  },
+  {
+   "orateur": "Mme Sandra Regol",
+   "qualite": "rapporteure",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "J’entends vos arguments, mais les personnes que vous visez sont déjà sous protection très avancée, et votre mesure ne s’adresse pas à elles. Nous voulons agir et faire tout notre possible avant que la situation devienne dramatique. Votre amendement n’est donc pas exactement dans la logique du texte, et j’y suis défavorable."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis du gouvernement ?"
+  },
+  {
+   "orateur": "M. Laurent Nuñez",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Avis défavorable pour les mêmes raisons que tout à l’heure. Mais, puisque le micro m’est donné, j’en profite pour répondre à M. Bernalicis. Vous avez qualifié les raisonnements du ministre de bêtises fondées sur une méconnaissance du terrain. Monsieur Bernalicis, vous connaissez mon parcours : j’ai travaillé dans les quartiers difficiles, je connais très bien le terrain, très bien la délinquance (Applaudissements sur les bancs des groupes EPR et HOR) et très bien la question du trafic qui, dans les quartiers comme celui dans lequel j’ai grandi et où vivent encore mes parents, se pose avec toute l’acuité que je sais. Je ne vous permets donc pas de m’insulter…"
+  },
+  {
+   "orateur": "M. Ugo Bernalicis",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Alors, n’insultez pas ma collègue !"
+  },
+  {
+   "orateur": "M. Laurent Nuñez",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "…car vos insultes expriment une radicalité dont j’ai tiré par ailleurs toutes les conséquences comme ministre de l’intérieur ! (Applaudissements sur les bancs des groupes EPR et HOR et sur plusieurs bancs du groupe Dem. – Exclamations sur plusieurs bancs du groupe LFI-NFP.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Ian Boucard."
+  },
+  {
+   "orateur": "M. Ian Boucard",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Je crois, contrairement à vous, madame la rapporteure, que l’amendement de notre collègue Vincent Caure renforcerait le dispositif. L’alinéa précédent, le 16, vise à garantir l’anonymat des personnes qui apporteraient des informations, tout au long du parcours. Vincent Caure propose également d’anonymiser leur adresse, en les domiciliant au commissariat ou à la brigade de gendarmerie car, parfois, au cours d’une procédure, un avocat ou une personne suspecte – un délinquant, et pas un délinquant victime comme les appellent ceux de l’extrême gauche –…"
+  },
+  {
+   "orateur": "Mme Mathilde Feld",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Elle n’existe pas ici !"
+  },
+  {
+   "orateur": "M. Ian Boucard",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "…peut malheureusement avoir accès au procès-verbal. (Exclamations sur les bancs du groupe LFI-NFP.)Le terme « délinquant victime » est tout de même un concept un peu abscons pour ceux qui croient dans l’ordre républicain. Nous voterons l’amendement de Vincent Caure qui renforce la protection de celles et ceux qui sont ciblés par les réseaux de criminalité organisée."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Dominique Voynet."
+  },
+  {
+   "orateur": "Mme Dominique Voynet",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Monsieur le ministre, vous avez répondu de façon frontale à la provocation d’Ugo Bernalicis."
+  },
+  {
+   "orateur": "M. Antoine Léaument",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Ce n’était pas une provocation !"
+  },
+  {
+   "orateur": "Mme Dominique Voynet",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "C’était mal de mettre en cause, tout à l’heure, l’âge de Mme Mesmeur…"
+  },
+  {
+   "orateur": "Mme Marie Mesmeur",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Merci !"
+  },
+  {
+   "orateur": "Mme Dominique Voynet",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "…mais c’était mal aussi de mettre en cause la présence sur le terrain de M. Nuñez. (Applaudissements sur quelques bancs des groupes EPR et HOR.) Je connais bien M. Nuñez, que j’ai rencontré dans les quartiers, sur le terrain, en Seine-Saint-Denis quand j’étais maire de Montreuil, et je dois dire qu’il n’a jamais fait défaut quand nous avons eu besoin de lui. (Applaudissements sur les bancs des groupes EPR, Dem et HOR.)"
+  },
+  {
+   "orateur": "M. Thierry Tesson",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "C’est le front de gauche qui se fissure !"
+  },
+  {
+   "orateur": "Mme Dominique Voynet",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Cela n’a aucun intérêt de mettre en cause, de façon personnelle, les uns ou les autres. Nous sommes des élus de la nation ; nous assumons de la façon la plus forte possible nos convictions, nos positions, nos responsabilités. Si nous pouvions revenir au contenu du texte, ce serait formidable. (Applaudissements sur les bancs des groupes EcoS, EPR, SOC, DR, Dem, HOR ainsi que sur quelques bancs du groupe RN.)"
+  },
+  {
+   "orateur": "M. Alexandre Dufosset",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Excellent !"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 10."
+  }
+ ]
+}

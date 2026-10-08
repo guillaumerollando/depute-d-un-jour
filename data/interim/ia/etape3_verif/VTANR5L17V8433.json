@@ -1,0 +1,12 @@
+{
+ "uid": "VTANR5L17V8433",
+ "consigne": "etape3_verification v2",
+ "verdict": "corrige",
+ "problemes": [
+  "Le texte adopté (art. 14) étend aux locaux commerciaux, agricoles ou professionnels la procédure d'expulsion rapide par le préfet des squats ; « étend la sanction des squats » est inexact.",
+  "Le passage de 200 à 500 euros concerne l'amende forfaitaire pour usage de stupéfiants, et l'encadrement des fêtes musicales est une obligation de déclaration au-delà de 250 personnes : à préciser."
+ ],
+ "corrections": {
+  "ce_que_ca_change": "Le texte impose de déclarer les fêtes musicales de plus de 250 personnes, étend l'expulsion rapide des squats aux locaux professionnels, commerciaux ou agricoles et porte de 200 à 500 euros l'amende forfaitaire pour usage de drogue. Il interdit aux particuliers de détenir du protoxyde d'azote au-delà d'un seuil et autorise des appareils photographiant les véhicules et leurs occupants."
+ }
+}

@@ -1,0 +1,108 @@
+{
+ "uid": "VTANR5L17V1280",
+ "titre": "l'amendement n° 43 de M. Gosselin et l'amendement identique suivant à l'article 1er bis de la proposition de loi visant à harmoniser le mode de scrutin aux élections municipales afin de garantir la vitalité démocratique, la cohésion municipale et la parité (deuxième lecture).",
+ "type": "amendement",
+ "date": "2025-04-07",
+ "dossier": "DLR5L15N43846",
+ "dossier_titre": "Renforcement de la parité dans les fonctions électives et exécutives du bloc communal",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "contre",
+  "LFI": "contre",
+  "SOC": "contre",
+  "DR": "pour",
+  "ECOS": "contre",
+  "DEM": "contre",
+  "HOR": "contre",
+  "LIOT": "pour",
+  "GDR": "contre",
+  "UDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 74,
+   "contre": 0,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 1,
+   "contre": 37,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 27,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 0,
+   "contre": 24,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 17,
+   "contre": 3,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 12,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 1,
+   "contre": 25,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 8,
+   "abstention": 5
+  },
+  "LIOT": {
+   "pour": 4,
+   "contre": 0,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 0,
+   "contre": 4,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 10,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC1245P0D1N000043",
+  "dossier": "DLR5L15N43846",
+  "texte": "PIONANR5L17BTC1245",
+  "division": "Article 1er bis",
+  "auteur": "M. Gosselin",
+  "auteur_groupe": "DR",
+  "auteur_type": "Député",
+  "dispositif": "I. – À la fin de l’alinéa 6, substituer aux mots : « moins de 1 000 habitants » les mots : « 200 habitants et plus ». II. – En conséquence, à la fin de l’alinéa 7, substituer au nombre : « 1 000 » le nombre : « 200 ».",
+  "expose": "L’uniformisation du mode de scrutin prévue par cette proposition de loi, à moins d’un an des prochaines élections municipales, introduit des contraintes significatives qui risquent d’affecter le bon fonctionnement des plus petites collectivités. Dans un contexte marqué par un nombre record de démissions de maires et d’élus locaux, ainsi que par des difficultés croissantes à trouver des candidats dans de nombreuses communes, l’extension généralisée d’un mode de scrutin jusqu’ici réservé aux villes pourrait accentuer la crise démocratique locale. Afin de limiter ces perturbations et dans un souci d’équité, nous proposons de restreindre l’application de cette réforme aux seules communes de plus de 200 habitants. Cette adaptation permettrait de préserver les plus petites communes du passage au scrutin de liste, qui risquerait d’affaiblir le pluralisme au sein des conseils municipaux et de constituer un recul démocratique majeur. Par conséquent, l’extension de la parité aux communes de moins de 200 habitants ne saurait être retenue."
+ },
+ "seance": "RUANR5L17S2025IDS29297",
+ "compte_rendu": "CRSANR5L17S2025O1N162",
+ "interventions": [
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix les amendements identiques nos 43 rectifié et 64 rectifié."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

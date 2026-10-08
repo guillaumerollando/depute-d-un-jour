@@ -1,0 +1,12 @@
+{
+ "uid": "VTANR5L17V2958",
+ "consigne": "etape3_verification v2",
+ "verdict": "corrige",
+ "problemes": [
+  "Le bracelet électronique après 90 jours de rétention ne figure ni dans le texte adopté (l'article 3 y est seulement noté « conforme ») ni dans le débat : affirmation non sourcée.",
+  "La carte omet une mesure ajoutée et discutée en séance : la prise forcée des empreintes et de la photo d'un étranger retenu qui refuse, sur autorisation du procureur."
+ ],
+ "corrections": {
+  "ce_que_ca_change": "La rétention longue (maintien dans un centre fermé en attendant l'expulsion, jusqu'à 210 jours), réservée aux cas liés au terrorisme, serait étendue aux étrangers condamnés pour des crimes ou délits graves (meurtre, viol, trafic de drogue…) ou très menaçants pour l'ordre public. Les empreintes et la photo d'un étranger retenu qui refuse pourraient être prises de force, sur accord du procureur."
+ }
+}

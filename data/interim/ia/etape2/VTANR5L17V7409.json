@@ -1,0 +1,69 @@
+{
+  "uid": "VTANR5L17V7409",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "EPR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Karim Benbrahim",
+      "citation": "Le statu quo ou la mise en concurrence ne sont pas des options possibles. Les députés Socialistes et apparentés voteront donc en faveur de la proposition de loi.",
+      "justification": "Le groupe vote pour un texte qui écarte la mise en concurrence des concessions hydrauliques."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Vincent Rolland",
+      "citation": "Parce que ce texte est nécessaire, parce qu’il est solide juridiquement, la Droite républicaine votera en faveur des conclusions de la commission mixte paritaire.",
+      "justification": "Le groupe vote pour en jugeant le texte nécessaire et solide juridiquement."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Louise Morel",
+      "citation": "Ce texte répond à ces exigences. En conséquence, vous l’aurez compris, le groupe Les Démocrates lui apporte son plein soutien.",
+      "justification": "Le groupe vote pour en déclarant son plein soutien au texte."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Xavier Roseren",
+      "citation": "En sécurisant juridiquement l’exploitation des ouvrages, ce texte redonne de la visibilité à la filière et crée les conditions pour relancer les investissements",
+      "justification": "Le groupe vote pour en estimant que le texte relance les investissements."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Joël Bruneau",
+      "citation": "Le groupe Libertés, indépendants, outre-mer et territoires salue cette proposition de loi et votera en sa faveur.",
+      "justification": "Le groupe vote pour en saluant le texte."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Julien Brugerolles",
+      "citation": "La seule véritable avancée est bien le maintien de la propriété publique des installations. C’est déjà beaucoup, me direz-vous, et c’est pourquoi nous voterons en faveur du texte.",
+      "justification": "Le groupe vote pour en raison du maintien de la propriété publique des installations, malgré des critiques sur la mise aux enchères."
+    }
+  }
+}

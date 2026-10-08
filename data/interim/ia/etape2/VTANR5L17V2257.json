@@ -1,0 +1,62 @@
+{
+  "uid": "VTANR5L17V2257",
+  "consigne": "etape2_ambiguite v1",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Théo Bernhardt",
+      "citation": "Vous portez la responsabilité écrasante d’avoir laissé triompher la réforme de Mme Borne.",
+      "justification": "Le groupe s'oppose à la réforme des retraites de 2023 et vote pour son abrogation."
+    },
+    "EPR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Stéphanie Rist",
+      "citation": "Enfin, cette proposition de résolution est indifférente au sort des générations futures, car, derrière vos grands discours, il est question de la retraite que toucheront nos enfants et nos petits-enfants.",
+      "justification": "Le groupe s'oppose à l'abrogation en raison de ses effets sur le financement des retraites."
+    },
+    "LFI": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Mathilde Panot",
+      "citation": "nous ne renoncerons jamais à revenir sur cette réforme injuste et injustifiée et à rétablir le droit à la retraite à 60 ans.",
+      "justification": "Le groupe s'oppose à la réforme de 2023 et soutient son abrogation."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Sandrine Runel",
+      "citation": "Nous voulons le retour de l’âge du départ à la retraite à 62 ans.",
+      "justification": "Le groupe s'oppose à la réforme de 2023 et soutient le retour à 62 ans."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": "M. François Ruffin",
+      "citation": null,
+      "justification": "L'intervention du groupe porte sur la retraite par capitalisation et non sur l'abrogation de la réforme de 2023, ce qui ne permet pas de trancher."
+    },
+    "DEM": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Nicolas Turquois",
+      "citation": "mais avec le souci de la responsabilité, de l’équilibre et de la fidélité à notre modèle de retraite par répartition.C’est pourquoi nous voterons contre cette proposition de résolution.",
+      "justification": "Le groupe s'oppose à la résolution au nom de l'équilibre du système de retraite et du dialogue social en cours."
+    },
+    "HOR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Marie-Agnès Poussier-Winsback",
+      "citation": "Ces impératifs doivent également nous pousser à travailler un peu plus longtemps – non par plaisir, mais pour garantir qu’en 2040, chacun perçoive encore une pension décente dans un système lisible et crédible.",
+      "justification": "Le groupe défend un allongement de la durée de travail et s'oppose à l'abrogation."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    }
+  }
+}

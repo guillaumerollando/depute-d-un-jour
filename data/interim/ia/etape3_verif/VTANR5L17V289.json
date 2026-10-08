@@ -1,0 +1,11 @@
+{
+ "uid": "VTANR5L17V289",
+ "consigne": "etape3_verification v2",
+ "verdict": "corrige",
+ "problemes": [
+  "Le texte adopté n'exige pas seulement un diagnostic énergétique : les meublés de tourisme doivent respecter les niveaux de performance énergétique exigés d'un logement décent (sauf résidence principale du loueur), le maire pouvant demander le diagnostic."
+ ],
+ "corrections": {
+  "ce_que_ca_change": "Les maires pourront limiter le nombre de meublés de tourisme (quotas, zones réservées aux résidences principales) et réduire de 120 à 90 jours par an la location d'une résidence principale. L'enregistrement est généralisé, les meublés devront respecter les seuils énergétiques des logements loués (hors résidence principale) et la part non imposée des revenus des meublés classés passe de 71 à 50 %."
+ }
+}

@@ -1,0 +1,240 @@
+{
+ "uid": "VTANR5L17V4720",
+ "titre": "l'amendement n° 48 de M. Emmanuel Grégoire à l'article 2 de la proposition de loi visant à protéger les mineurs isolés et à lutter contre le sans-abrisme (première lecture).",
+ "type": "amendement",
+ "date": "2025-12-11",
+ "dossier": "DLR5L17N53051",
+ "dossier_titre": "Protéger les mineurs isolés et à lutter contre le sans-abrisme",
+ "sort": "adopté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "pour",
+  "LFI": "contre",
+  "SOC": "pour",
+  "DR": "pour",
+  "ECOS": "pour",
+  "DEM": "pour",
+  "HOR": "pour",
+  "GDR": "pour",
+  "UDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 43,
+   "contre": 1,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 25,
+   "contre": 0,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 49,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 58,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 4,
+   "contre": 0,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 22,
+   "contre": 0,
+   "abstention": 1
+  },
+  "DEM": {
+   "pour": 4,
+   "contre": 0,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 5,
+   "contre": 1,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 1,
+   "contre": 0,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 3,
+   "contre": 0,
+   "abstention": 1
+  },
+  "UDR": {
+   "pour": 4,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901B2021P0D1N000048",
+  "dossier": "DLR5L17N53051",
+  "texte": "PIONANR5L17B2021",
+  "division": "Article 2",
+  "auteur": "M. Emmanuel Grégoire",
+  "auteur_groupe": "SOC",
+  "auteur_type": "Député",
+  "dispositif": "Supprimer cet article.",
+  "expose": "Amendement de suppression de l'article."
+ },
+ "seance": "RUANR5L17S2026IDS30044",
+ "compte_rendu": "CRSANR5L17S2026O1N091",
+ "interventions": [
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je suis saisi de plusieurs demandes de scrutin public : sur les amendements identiques nos 4 et 48, 41 et 6 par le groupe La France insoumise-Nouveau Front populaire ; sur l’amendement no 32 par le groupe Rassemblement national ; et sur l’article 2 par ces deux groupes. Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.L’amendement no 4 n’est pas soutenu.La parole est à M. le rapporteur, pour le soutenir l’amendement no 48, qui tend à supprimer l’article 2."
+  },
+  {
+   "orateur": "M. Emmanuel Grégoire",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "J’ai expliqué lors de la discussion générale pourquoi je voulais supprimer cet article qui prévoyait la création d’un Observatoire national du sans-abrisme. Nos échanges avec l’administration m’ont convaincu que cette suppression permettra de gagner en efficacité, et je fais confiance à l’Insee et à la Drees – direction de la recherche, des études, de l’évaluation et des statistiques – pour nous fournir les chiffres dont nous avons besoin. Cela dit, je répète qu’il est très difficile d’obtenir des statistiques précises, en raison de l’extrême confusion qui règne en la matière ; par exemple, la Chancellerie n’est pas capable de dire, parmi les jeunes qui formulent un recours, combien sont finalement reconnus comme mineurs et combien ne le sont pas. C’est donc aux associations de le faire, ce qui n’est tout de même pas très satisfaisant."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis du gouvernement ?"
+  },
+  {
+   "orateur": "Mme Charlotte Parmentier-Lecocq",
+   "qualite": "ministre déléguée",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Avis favorable. Comme l’a rappelé le rapporteur, il serait utile que nous disposions de davantage de données. Les résultats de l’enquête Insee sur les personnes sans domicile, dont la publication est prévue pour la fin d’année 2026, vont justement permettre d’y contribuer."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Guillaume Kasbarian."
+  },
+  {
+   "orateur": "M. Guillaume Kasbarian",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Une fois n’est pas coutume, nous serons favorables, nous aussi, à cet amendement de suppression de l’Observatoire du sans-abrisme – pour une fois que la gauche propose la suppression d’un observatoire ou d’un comité, nous n’allons pas nous en plaindre !"
+  },
+  {
+   "orateur": "M. Sylvain Maillard",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Oui, bravo !"
+  },
+  {
+   "orateur": "M. Guillaume Kasbarian",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Néanmoins, je me permets de réagir aux propos de M. le rapporteur, qui a dit que nous manquions de statistiques sur le sujet. Or mon amendement no 41, dont l’examen devait intervenir juste après,…"
+  },
+  {
+   "orateur": "Mme Marie Mesmeur",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Un amendement raciste !"
+  },
+  {
+   "orateur": "M. Guillaume Kasbarian",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "…visait précisément à obtenir des données chiffrées, notamment sur la proportion de personnes en situation irrégulière accueillies en hébergement d’urgence. Ces personnes occupent les deux tiers des places d’hôtel pour une durée moyenne de séjour de trois ans ; il serait donc intéressant, avant même d’envisager un changement de règle, d’opérer un suivi pour savoir combien de personnes sont concernées, combien de temps elles restent et ce qu’il est possible de faire en la matière. Le système est complètement saturé ; il l’est toujours autant alors que le budget de l’hébergement d’urgence a doublé en huit ans ! Et s’il est saturé, c’est encore une fois parce que ces places sont occupées par des migrants en situation irrégulière."
+  },
+  {
+   "orateur": "Mme Marie Mesmeur",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Quelle honte !"
+  },
+  {
+   "orateur": "M. Guillaume Kasbarian",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Il apparaît nécessaire d’obtenir des statistiques fiables sur le sujet ; c’est pourquoi nous regrettons de ne pas pouvoir défendre un amendement qui aurait permis d’y parvenir."
+  },
+  {
+   "orateur": "M. Emmanuel Grégoire",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "On le fera en deuxième lecture !"
+  },
+  {
+   "orateur": "M. Guillaume Kasbarian",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Malgré tout, nous soutiendrons l’amendement de suppression. (M. Charles Rodwell applaudit.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Louis Boyard."
+  },
+  {
+   "orateur": "M. Louis Boyard",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Nous allons pour notre part voter contre cet amendement de suppression, car nous avons besoin de cet observatoire national ! Monsieur Kasbarian, vous contredisez M. Klein,…"
+  },
+  {
+   "orateur": "M. Guillaume Kasbarian",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Ce n’est pas la première fois qu’on se contredit, M. Klein et moi !"
+  },
+  {
+   "orateur": "M. Sylvain Maillard",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "C’est pas trop notre truc, M. Klein ! Une erreur de casting !"
+  },
+  {
+   "orateur": "M. Louis Boyard",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "…qui l’avait présenté comme indispensable. Nous avons besoin de davantage de statistiques pour comprendre la réalité du sans-abrisme en France ; je vous appelle donc à voter contre l’amendement."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 48."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

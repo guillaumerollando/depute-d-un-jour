@@ -1,0 +1,141 @@
+{
+ "uid": "VTANR5L17V4285",
+ "titre": "l'amendement n° 21 de M. Fayssat au titre de la proposition de loi relative à l’établissement de l’égalité d’accès au service public postal en outre-mer (première lecture).",
+ "type": "amendement",
+ "date": "2025-11-27",
+ "dossier": "DLR5L17N52976",
+ "dossier_titre": "L'établissement de l’égalité d’accès au service public postal en outre-mer",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "contre",
+  "LFI": "contre",
+  "SOC": "contre",
+  "ECOS": "contre",
+  "DEM": "contre",
+  "HOR": "contre",
+  "GDR": "contre",
+  "UDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 65,
+   "contre": 0,
+   "abstention": 1
+  },
+  "EPR": {
+   "pour": 0,
+   "contre": 22,
+   "abstention": 1
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 69,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 0,
+   "contre": 22,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 0,
+   "contre": 1,
+   "abstention": 5
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 20,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 3,
+   "abstention": 2
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 7,
+   "abstention": 1
+  },
+  "LIOT": {
+   "pour": 0,
+   "contre": 1,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 1,
+   "contre": 9,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 7,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC2118P0D1N000021",
+  "dossier": "DLR5L17N52976",
+  "texte": "PIONANR5L17BTC2118",
+  "division": "relative à l’établissement de l’égalité d’accès au  service public postal en outre-mer",
+  "auteur": "M. Fayssat et M. Verny",
+  "auteur_groupe": "UDR",
+  "auteur_type": "Député",
+  "dispositif": "Au titre, substituer aux mots : « relative à l’établissement de » le mot : « garantissant ».",
+  "expose": "Le présent amendement vise à modifier le titre de la proposition de loi afin de refléter plus clairement l’ambition du législateur. Le choix du verbe « garantir » permet d’exprimer explicitement le caractère impératif et protecteur du dispositif instauré par la loi, en affirmant que celle-ci ne se limite pas à établir un cadre ou un principe, mais vise à assurer pleinement l’égalité d’accès au service public postal pour les usagers résidant en outre-mer."
+ },
+ "seance": "RUANR5L17S2026IDS29977",
+ "compte_rendu": "CRSANR5L17S2026O1N072",
+ "interventions": [
+  {
+   "orateur": "M. Emeric Salmon",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Neuf Insoumis ont voté contre !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Les amendements nos 21 et 22 de M. Olivier Fayssat et pouvant faire l’objet d’une présentation groupée, sont défendus.Quel est l’avis de la commission sur ces deux amendements ?"
+  },
+  {
+   "orateur": "M. Perceval Gaillard",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Avis défavorable."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis du gouvernement ?"
+  },
+  {
+   "orateur": "Mme Anne Le Hénanff",
+   "qualite": "ministre déléguée",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Avis défavorable."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 21."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

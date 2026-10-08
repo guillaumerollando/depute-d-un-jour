@@ -1,0 +1,69 @@
+{
+  "uid": "VTANR5L17V657",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Graziella Melchior (EPR)",
+      "citation": "La réintroduction de l’article 3 et de la notion de contrôle coercitif est essentielle.",
+      "justification": "Le groupe déclare voter le texte en raison des dispositions sur la prescription glissante et le contrôle coercitif."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Danièle Obono",
+      "citation": "Assimiler les crimes sexuels à ces derniers introduirait une incohérence dans la hiérarchie des infractions.",
+      "justification": "Le groupe déclare voter contre le texte en raison de son opposition à l'extension de l'imprescriptibilité et à l'orientation répressive."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Colette Capdevielle (SOC)",
+      "citation": "Mais l’apport majeur de ce texte, ce que l’on en retiendra, c’est qu’il crée une nouvelle infraction pénale : le contrôle coercitif.",
+      "justification": "Le groupe déclare voter le texte en raison de la création de l'infraction de contrôle coercitif."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Émilie Bonnivard",
+      "citation": "Je plaide pour que le travail se poursuive et pour que nous réintroduisions la notion d’imprescriptibilité dans ce texte, dont je salue les avancées fondamentales.",
+      "justification": "Le groupe déclare voter le texte dont il salue les avancées, tout en regrettant le non-rétablissement de l'article 1er."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Sandra Regol",
+      "citation": "Enfin, même si la rédaction des dispositions sur la prescription glissante et le contrôle coercitif n’est pas aboutie, le travail transpartisan a permis de progresser.",
+      "justification": "Le groupe déclare voter le texte en estimant qu'il permet de progresser."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Delphine Lingemann (Dem)",
+      "citation": "Je compte sur nos efforts transpartisans pour améliorer ce texte, car ses objectifs sont louables.",
+      "justification": "Le groupe déclare soutenir les objectifs du texte."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Agnès Firmin Le Bodo (HOR)",
+      "citation": "Le groupe Horizons & indépendants votera majoritairement en faveur de cette proposition de loi qui traite d’un sujet crucial.",
+      "justification": "Le groupe déclare soutenir le texte depuis le début."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Laurent Mazaury (LIOT)",
+      "citation": "nous ne pouvons que nous féliciter du vote qui s’annonce pour le symbole qu’il représente et le message qu’il enverra aux victimes.",
+      "justification": "Le groupe déclare voter le texte pour le message adressé aux victimes."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Elsa Faucillon (GDR)",
+      "citation": "C’est pourquoi je ne m’opposerai pas à ce que le texte poursuive son parcours, bien que je regrette l’adoption de l’amendement gouvernemental visant à déroger aux règles de la garde à vue.",
+      "justification": "Le groupe déclare ne pas s'opposer au texte tout en regrettant une disposition, sans déclarer s'opposer à son principe."
+    }
+  }
+}

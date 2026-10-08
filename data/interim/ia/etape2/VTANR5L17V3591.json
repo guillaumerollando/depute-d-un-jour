@@ -1,0 +1,83 @@
+{
+  "uid": "VTANR5L17V3591",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Les interventions du groupe portent sur ses propres amendements, sans indiquer la raison de son vote sur l'article."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "L'intervention du groupe répond à un autre groupe sur les exonérations, sans indiquer la raison de son vote sur l'article."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Pierre-Yves Cadalen",
+      "citation": "le compte n’y est pas et toujours pour la même raison : vous avez protégé vos amis les plus riches, protégé les grandes entreprises",
+      "justification": "Le groupe déclare que le financement prévu ne répond pas aux besoins, ce qui va dans le sens de son vote contre."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe commente les déficits des branches sans indiquer la raison de son vote sur l'article."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Hendrik Davi",
+      "citation": "Madame la ministre des comptes publics, vous aviez prévu 3 milliards de recettes dans votre copie initiale, et on arrive aujourd’hui à seulement 1 milliard de plus pour la sécurité sociale. Est-ce que vous êtes d’accord avec ce budget ? Pour nous, à ce stade, le compte n’y est pas.",
+      "justification": "Le groupe déclare que les recettes inscrites au tableau d'équilibre ne lui conviennent pas, ce qui va dans le sens de son vote contre."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Julien Brugerolles",
+      "citation": "Pour toutes ces raisons, et parce qu’il est nécessaire que ce budget soit fondé sur une grande politique de santé publique et non sur la seule obsession de réduire un déficit public global, nous vous proposons de supprimer l’article 14.",
+      "justification": "Le groupe demande la suppression de l'article en raison des choix budgétaires qu'il traduit."
+    },
+    "UDR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    }
+  }
+}

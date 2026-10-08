@@ -1,0 +1,292 @@
+{
+ "uid": "VTANR5L17V451",
+ "titre": "l'ensemble de la proposition de loi organique portant réforme du financement de l'audiovisuel public (première lecture).",
+ "type": "ensemble",
+ "date": "2024-11-20",
+ "dossier": "DLR5L17N50168",
+ "dossier_titre": "Proposition de loi organique portant réforme du financement de l'audiovisuel public",
+ "sort": "adopté",
+ "positions": {
+  "EPR": "pour",
+  "SOC": "pour",
+  "DR": "pour",
+  "ECOS": "pour",
+  "DEM": "pour",
+  "HOR": "pour",
+  "LIOT": "pour",
+  "GDR": "pour",
+  "UDR": "contre"
+ },
+ "voix": {
+  "RN": {
+   "pour": 0,
+   "contre": 0,
+   "abstention": 52
+  },
+  "EPR": {
+   "pour": 28,
+   "contre": 0,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 0,
+   "abstention": 11
+  },
+  "SOC": {
+   "pour": 24,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 17,
+   "contre": 0,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 14,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 16,
+   "contre": 0,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 12,
+   "contre": 0,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 3,
+   "contre": 0,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 4,
+   "contre": 0,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 0,
+   "contre": 6,
+   "abstention": 1
+  }
+ },
+ "amendement": null,
+ "seance": "RUANR5L17S2025IDS28677",
+ "compte_rendu": "CRSANR5L17S2025O1N049",
+ "interventions": [
+  {
+   "orateur": "Mme Soumya Bourouaha",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Nous sommes obligés de poursuivre la discussion, parce que l’on nous demande de voter un texte que nous jugeons insuffisant pour garantir un financement stable et pérenne de l’audiovisuel public. Or, étant responsables, nous voterons la proposition de loi organique, afin d’éviter la budgétisation, laquelle mettrait en danger ce service public.Je remets une couche sur la TVA, car je suis en total désaccord avec vous : elle est un impôt injuste, parce que ce sont les foyers les plus modestes qui en assument le plus la charge.Je remets aussi une couche sur la contribution affectée universelle et progressive : les députés du groupe GDR sont convaincus qu’elle est la solution. Je déposerai d’ailleurs une proposition de loi, que je souhaite la plus transpartisane possible, pour relancer le débat sur le financement de l’audiovisuel public."
+  },
+  {
+   "orateur": "M. Emmanuel Grégoire",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "La visibilité financière annuelle, voire pluriannuelle, est un enjeu important pour des acteurs industriels procédant à d’importants investissements, réalisant des réorganisations et soumis à différentes servitudes et obligations de service public. Elle est insuffisante et nous devrions travailler à son amélioration.Monsieur le rapporteur, je sais que vous êtes sensible à ce problème, qui n’a pas pu être abordé lors de l’examen des dépenses prévues par le PLF pour 2025. Veillez à ce qu’il soit réglé par le texte qui sera finalement adopté par application de l’article 49.3 de la Constitution."
+  },
+  {
+   "orateur": "Mme Soumya Bourouaha",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "…mais il me paraissait important de dire que nous le soutenions : il vise en effet à sécuriser l’audiovisuel public par le versement intégral de ses crédits. Chacun ici sait qu’un budget reçu en tout début d’année permet de se projeter sans sentir la menace d’une épée de Damoclès. Je tenais à le dire : merci de me laisser la parole et de ne pas m’empêcher de parler !"
+  },
+  {
+   "orateur": "Mme Constance de Pélichy",
+   "qualite": null,
+   "groupe": "LIOT",
+   "president_de_seance": false,
+   "texte": "Il tendait à garantir l’indépendance de l’audiovisuel public grâce à un financement suffisant, quelle que soit l’année ou le contexte budgétaire. Je le retire, compte tenu de l’importance d’un vote conforme et des débats qui ont eu lieu à l’occasion de la discussion générale, ont lieu à l’occasion de la discussion des articles et auront encore lieu à l’occasion des explications de vote."
+  },
+  {
+   "orateur": "M. Denis Masséglia",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je remercie d’abord M. Saintoul d’avoir pris en considération les remarques que j’ai formulées en commission spéciale et modifié la rédaction de ses amendements, en substituant l’acronyme « CAP » au terme de « redevance ».Nous discutons aujourd’hui du financement de l’audiovisuel public et d’une proposition de loi organique qu’il faudrait, à mes yeux et à ceux de nombreux autres députés, voter à l’identique pour éviter la budgétisation.Vous parlez aujourd’hui de telle ou telle fusion et d’hypothétiques changements de gouvernance ; ce n’est pas ce dont nous devons discuter aujourd’hui. Avis défavorable."
+  },
+  {
+   "orateur": "Mme Rachida Dati",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Ne voulant pas vous faire de la peine ni heurter votre sensibilité, monsieur Saintoul, je vous répondrai lentement et doucement. Vous craignez que l’affectation d’une partie de la TVA ne permette pas le bon financement du service public. En fait, vous déniez à l’audiovisuel public sa nature de service public,…"
+  },
+  {
+   "orateur": "M. Aurélien Saintoul",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Pourquoi n’apportez-vous aucune réponse aux arguments de Mmes Roselyne Bachelot et Rima Abdul-Malak, qui ont été cités hier, alors que vous jugez vous-même qu’il existe un lien fort entre réforme du financement et réforme de la gouvernance ?Enfin, vous ne répondez pas non plus à cette autre question : que ferait le gouvernement si nous rejetions cette proposition de loi organique ? Laisseriez-vous la budgétisation se faire, ou bien dans le texte que le premier ministre s’apprête à faire adopter par 49.3, serait-il prêt à recréer une redevance ? C’est la solution qui s’impose, à Lolf constante."
+  },
+  {
+   "orateur": "Mme Rachida Dati",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Ce n’est pas la première fois que vous me manquez de respect, monsieur Saintoul, et ce n’est pas grave. Je ne nourris aucun complexe vis-à-vis d’un personnage comme vous, je vous rassure. (Applaudissements sur les bancs des groupes EPR et DR.) Vous savez sans doute trop de choses, mais pas forcément les bonnes, et encore moins les meilleures.Premièrement, je suis contre un alourdissement de la fiscalité des ménages. Deuxièmement, le débat sur la redevance a été largement tranché. Troisièmement, vous savez très bien que depuis que j’ai été nommée ministre de la culture au mois de janvier, et même avant cela, je me suis battue pour sanctuariser le financement de l’audiovisuel public. Vous ne pouvez pas dire le contraire. Je sais que ce n’est pas votre combat, mais c’est le mien. Il n’y a aucune raison de traiter Arte ou France Médias Monde différemment du reste de l’audiovisuel public : toutes les chaînes sont traitées de la même manière et je n’ai pas compris le sens de votre propos. Vous voulez savoir ce qui se passera si la proposition de loi organique n’est pas adoptée ? Eh bien, nous reviendrons à la budgétisation."
+  },
+  {
+   "orateur": "M. Richard Ramos",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Monsieur Jacobelli, vous n’allez pas dans le sens des Français. Les audiences de l’audiovisuel public, notamment de France Bleu et de France 3, sont en constante augmentation. Cela signifie que de plus en plus de Français ont besoin d’un service public audiovisuel de proximité. Privatiser, c’est aller à l’encontre de la volonté des Français."
+  },
+  {
+   "orateur": "M. Jérémie Patrier-Leitus",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "Si, vous vous êtes emporté, monsieur Jacobelli ! Vous avez remis en cause le travail de ces salariés qui font aussi notre fierté. Je rends également hommage aux agents de France Bleu, qui font la fierté des territoires ruraux. (Applaudissements sur plusieurs bancs des groupes HOR, EPR, SOC et DR.) Vous devriez le savoir, vous qui êtes élu dans un territoire rural ! On a la chance d’avoir France 3, France Bleu, des chaînes qui mettent en valeur des événements dans les petites communes rurales, qui contribuent au lien social, qui font la fierté des habitants. Les employés de France Médias Monde font aussi la fierté de la France et participent au rayonnement culturel du pays – pensez à RFI. Que vous souhaitiez privatiser l’audiovisuel public ne doit pas vous conduire à remettre en cause le travail remarquable de l’audiovisuel public ! (Applaudissements sur les bancs des groupes HOR et SOC.)"
+  },
+  {
+   "orateur": "Mme Sophie Taillé-Polian",
+   "qualite": "présidente de la commission spéciale",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Quelle est la meilleure manière d’évaluer les montants destinés à l’audiovisuel public ? Actuellement, des discussions poussées ont lieu entre les entreprises du secteur, le ministère de la culture et le ministère des finances. Si nous cherchions véritablement à garantir l’indépendance de ces entreprises, à les préserver de toute velléité d’ingérence politique, nous devrions non reproduire le modèle allemand, car nos histoires sont différentes, mais nous en inspirer. En Allemagne, une commission indépendante définit le montant de la redevance en vérifiant que concordent les missions de service public – établies par la représentation nationale –, les objectifs affichés et les montants alloués. Dans notre rapport d’information sur les projets de contrats d’objectifs et de moyens (COM) 2024-2028 des entreprises de l’audiovisuel public, nous avons relevé, ma collègue Céline Calvez et moi-même, la dichotomie entre les missions et les objectifs, qui sont les bons, et les moyens, qui sont insuffisants. Il convient de corriger ce hiatus : on ne peut plus demander l’impossible à des entreprises où les employés font déjà tout ce qu’ils peuvent. Un regard indépendant serait extrêmement utile, dans le cadre d’une mission naturellement confiée à l’Arcom, l’Autorité de régulation de la communication audiovisuelle et numérique, afin d’ajuster les moyens aux missions.Nous appelons également de nos vœux une loi de programmation pluriannuelle pour l’audiovisuel public, qui serait l’occasion d’un grand débat sur les missions et les moyens alloués. Le secteur a peut-être un peu plus besoin que d’autres de prévisibilité."
+  },
+  {
+   "orateur": "M. Denis Masséglia",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Vous avez raison : l’histoire allemande est différente de l’histoire française ; il n’est donc pas forcément judicieux de tenter de ressembler à l’Allemagne. Quant à l’évaluation que vous proposez, il entre déjà dans les attributions de l’Arcom de formuler des avis relatifs aux COM. Des améliorations sont possibles, mais l’agence indépendante – l’Arcom – comme les outils – les COM – existent déjà. Avis défavorable."
+  },
+  {
+   "orateur": "Mme Céline Calvez",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Bien que la question du renforcement du suivi assuré par l’Arcom mérite d’être posée, j’insisterai plutôt sur la question du pouvoir du Parlement. J’invite les parlementaires à se saisir de toutes leurs prérogatives. Actuellement, ils ne sont consultés qu’en bout de course : certes, nous évaluons les COM, mais ils nous parviennent trop tardivement, nous participons trop peu à leur élaboration et nous ne disposons pas des bons indicateurs de suivi. J’invite l’État et le gouvernement à associer davantage le Parlement. Je ne voterai pas l’amendement, mais j’en retiens cette idée de mieux associer le Parlement à la définition de la stratégie de l’audiovisuel public, dont l’indépendance doit être assurée. (M. Aurélien Saintoul applaudit.)"
+  },
+  {
+   "orateur": "Mme Sophie Taillé-Polian",
+   "qualite": "présidente de la commission spéciale",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je vais retirer l’amendement, bien que votre réponse, madame la ministre, ne me satisfasse pas. L’Arcom a beau donner des avis sur les COM, elle ne le fait qu’en amont, avant même la signature des conventions pluriannuelles d’objectifs et de moyens. Rendre des avis a priori, sur des trajectoires financières aussi larges et peu précises, sans possibilité d’y revenir au fil de l’eau, n’est pas satisfaisant. Nous devons empêcher qu’à l’avenir un gouvernement malveillant puisse soumettre l’audiovisuel public – ô combien important pour la démocratie – à des injonctions contradictoires, ni lui assigner des missions impossibles."
+  },
+  {
+   "orateur": "M. Jérémie Patrier-Leitus (HOR)",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "Nous voterons la proposition de loi organique car il faut donner de la visibilité aux acteurs de l’audiovisuel public, assurer un financement pérenne, réaffirmer notre attachement à ce garant d’une information fiable, plurielle, indépendante, de proximité. Je salue de nouveau le rôle joué par France 3 et France Bleu, dont les missions ne sauraient être assurées par des acteurs privés. Si nous avons pu débattre démocratiquement lors des élections législatives, c’est aussi grâce à ces chaînes ; elles font vivre le débat démocratique. J’espère un vote conforme, qui marque le début d’un travail approfondi sur l’avenir de l’audiovisuel public : nous attendons en effet que soit mis à l’ordre du jour un débat sur le projet de holding – la gouvernance de cette dernière et de ses filiales –, au cours duquel seraient définis les objectifs stratégiques du secteur. Il y va de l’argent des Français et du rôle du Parlement."
+  },
+  {
+   "orateur": "Mme Hanane Mansouri (UDR)",
+   "qualite": null,
+   "groupe": "UDR",
+   "president_de_seance": false,
+   "texte": "Sans suspense, le groupe UDR votera contre ce texte : nous refusons de pérenniser le financement de l’audiovisuel public, en allouant une fraction de la TVA ou au moyen de tout autre impôt.Je me réjouis uniquement que cette discussion ait permis, une fois de plus, de montrer le vrai visage de la gauche, laquelle tente de nous faire croire, comme Sandrine Rousseau hier dans un grand numéro d’actrice, qu’elle se tient aux côtés des pauvres, et qui nous explique à présent que 138 euros de pouvoir d’achat ne représentent rien."
+  },
+  {
+   "orateur": "Mme Hanane Mansouri",
+   "qualite": null,
+   "groupe": "UDR",
+   "president_de_seance": false,
+   "texte": "Vous n’avez jamais rencontré de vrais Français, manifestement. Une telle somme représente un plein et demi d’essence, à peine un panier de courses pour une semaine, une facture moyenne d’électricité : ce n’est pas rien !Voter le texte dans le délai très court qui nous est imparti ne permet pas de poser les bonnes questions, notamment sur le coût faramineux de l’audiovisuel public compte tenu des nouveaux modes de communication, et sur son utilité au regard de l’offre variée du secteur privé, qui répond parfaitement aux besoins d’information des Français. La gauche le sait mais tente de protéger à tout prix son outil de propagande en demandant aux contribuables de le financer, avec la complicité des LR, apparemment habitués à trahir ! (Rires sur les bancs des groupes UDR et RN.)"
+  },
+  {
+   "orateur": "M. Bruno Clavet",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Il n’en s’agit pas moins, soyons honnêtes, d’un bricolage budgétaire, d’une solution temporaire qui ne fait que repousser la nécessité d’une réforme profonde et courageuse de l’audiovisuel public. Tant que France Télévisions et Radio France resteront sous perfusion publique, elles continueront de réclamer toujours plus d’argent, sans jamais prouver leur capacité à bien le dépenser. Les deux entités coûtent aux contribuables 3,2 milliards d’euros par an. Avec cette somme, nous pourrions embaucher…"
+  },
+  {
+   "orateur": "M. Bruno Clavet",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "…60 000 policiers, construire 3 000 nouvelles écoles, rénover 6 400 kilomètres de route. Bref, il est possible et nécessaire de mieux dépenser l’argent des Français. Le Rassemblement national s’abstiendra de voter la proposition de loi organique, car nous refusons de soutenir une demi-mesure qui ne traite pas le fond du problème. Nous plaidons depuis longtemps pour la privatisation progressive de l’audiovisuel public, tout en conservant dans le giron public TV5 Monde, Arte, l’INA et les chaînes régionales.Permettez-moi enfin d’évoquer un sujet absent de nos débats : la neutralité. L’audiovisuel public ne peut être légitime que s’il est parfaitement neutre ; il n’est démocratiquement légitime et budgétairement admissible qu’à cette condition. Quand il prend parti une fois, deux fois, il s’écarte de son rôle, il n’est plus le carrefour du débat public qu’il est censé être. Un journaliste du service public ne doit pas être un militant ou un activiste, il doit être – au mieux – un sceptique, obéissant à des devoirs et à une méthode. C’est pourquoi nous restons cohérents et réaffirmons notre volonté de mettre un terme à l’ensemble des financements publics, ce qui permettra de rendre directement cet argent…"
+  },
+  {
+   "orateur": "Mme Céline Calvez (EPR)",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Cette année, il a souvent été question d’audiovisuel public, que ce soit pour le critiquer, le privatiser, le figer ou, encore, pour le défendre – je fais partie de cette dernière catégorie. En effet, le groupe Ensemble pour la République défend l’idée d’un audiovisuel public fort et indépendant.Au fil de nos discussions, nous avons évoqué, outre les modalités de financement de ce secteur, ses missions et ses orientations stratégiques, qui sont fondamentales pour garantir la démocratie et promouvoir la culture française. Nous avons parlé des coopérations, de son mode d’organisation et de gouvernance, ainsi que du niveau de son financement.Dans quelques instants, nous nous prononcerons en faveur de son indépendance en adoptant, par un vote conforme, la proposition de loi organique du Sénat qui vise à affecter à l’audiovisuel public un montant déterminé d’imposition. Nous pouvons au moins nous accorder sur ce point. Nous sommes parvenus à éviter l’adoption d’amendements qui auraient empêché un vote conforme."
+  },
+  {
+   "orateur": "M. Aurélien Saintoul",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Mon intervention me donne l’occasion non seulement de réaffirmer notre attachement au service public de l’audiovisuel, mais aussi de rappeler que les macronistes n’ont pas toujours été gentils avec lui ! En tant que député de la 11e circonscription des Hauts-de-Seine, qui comprend la ville de Malakoff dans laquelle se situait le siège de France Ô, je peux vous dire que, dans les outre-mer, on sourit amèrement lorsqu’on entend les macronistes affirmer qu’ils ont tant à cœur l’avenir de l’audiovisuel public, alors que cette chaîne a cessé d’être diffusée !Quant aux protestations d’amitié à l’égard de l’audiovisuel public, nous savons désormais ce qu’elles valent ! Nous venons en effet de vivre un moment de vérité, puisque Mme la ministre a fini par reconnaître au cours du débat qu’en l’absence d’un vote conforme, le gouvernement ne prendrait aucune initiative en vue d’éviter la budgétisation. Ainsi, celles et ceux qui œuvrent au bon fonctionnement de l’audiovisuel public et qui nous écoutent, sauront – lorsque le gouvernement viendra leur expliquer, la bouche pleine de paroles sucrées, que la réforme de la gouvernance est un bien et qu’ils en sortiront grandis face à l’avenir – que sa parole ne vaut rien ! En réalité, le gouvernement n’est pas prêt à empêcher la budgétisation du financement de l’audiovisuel – ce que tout le monde souhaite pourtant éviter –, en rétablissant simplement la redevance. Les engagements pris ici par le gouvernement ne sont donc que des faux-semblants. Nous ne l’oublierons pas lorsqu’il s’agira de débattre de la fusion. Nous vous donnons donc rendez-vous.Sachant que le présent texte doit être adopté, puisque le gouvernement n’est pas dans de bonnes dispositions à l’égard de l’audiovisuel public, nous nous abstiendrons, afin de permettre son adoption."
+  },
+  {
+   "orateur": "M. Emmanuel Grégoire (SOC)",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Nous nous sommes déjà exprimés sur plusieurs sujets, mais leur cohérence invite à les rappeler. Tout d’abord, nous voterons la proposition de loi organique dans une version conforme à celle du Sénat – il nous est demandé une forme de vote impérieux –, puisqu’en raison de l’impéritie et de l’impréparation du gouvernement, c’est le seul moyen d’éviter une budgétisation qui ferait peser une grande menace non seulement financière mais aussi juridique sur la poursuite des activités de plusieurs acteurs de l’audiovisuel public. À ce titre, j’appelle chacun à la cohérence : si vous considérez que la budgétisation est une menace et si vous vous apprêtez à voter le texte, ce qui, à l’exception du RN, semble s’esquisser compte tenu de l’abstention de La France insoumise, il faudra en tirer les conséquences budgétaires : nous ne pouvons laisser dire, d’un côté, que la budgétisation de l’audiovisuel public constitue une forme d’insécurité budgétaire et, de l’autre, ne pas adapter les moyens permettant au service public de remplir ses missions.Ensuite, il y a la question de la gouvernance – c’est l’une des raisons pour lesquelles nous nous trouvons dans cette situation. Une forme de chantage avait été exercée, selon laquelle on empêcherait la budgétisation, à condition de bien accompagner la réforme de la gouvernance. Ce sont deux sujets certes importants, disjoints techniquement et philosophiquement. Nous devrons approfondir la réflexion sur l’évolution de la gouvernance – il n’y a rien d’acquis en la matière. La ligne qui devra nous guider est celle de la défense non des acteurs mais des missions et de la singularité de l’audiovisuel, qui fait que c’est un véritable service public.Enfin, en cohérence avec ce qui a été évoqué, nous devrons également accompagner les acteurs de l’audiovisuel public dans leurs missions d’éducation populaire, d’égalité territoriale, d’accès à la culture, d’accès à la formation, et renouer avec un peu moins de logistique et un peu plus de service public pour l’audiovisuel. (Applaudissements sur quelques bancs du groupe SOC.)"
+  },
+  {
+   "orateur": "Mme Virginie Duby-Muller",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "…en faveur d’un retour de la redevance audiovisuelle. Au moins, ils ont le mérite de la constance, pour rétablir des taxes et des impôts au détriment des ménages et de nos concitoyens ! (Applaudissements sur les bancs du groupe DR et sur quelques bancs du groupe EPR.)Nous voici donc au terme de l’examen de cette proposition de loi organique qui vise à pérenniser le financement de l’audiovisuel public. Le groupe Droite républicaine a déjà largement exprimé son soutien à ce texte, issu des travaux du rapport de nos anciens collègues Jean-Jacques Gaultier et Quentin Bataillon…"
+  },
+  {
+   "orateur": "Mme Virginie Duby-Muller",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "…et d’une initiative des sénateurs membres de notre famille politique. Il permet de sanctuariser le financement de l’audiovisuel public et d’éviter sa budgétisation. Rappelons que cette solution est soutenue et attendue par les dirigeants de toutes les entités de l’audiovisuel public. Permettez-moi de saluer, à cet égard, l’ensemble des salariés de ce groupe, en particulier ceux de France 3 et de France Bleu qui travaillent dans nos territoires.Le texte doit être adopté conforme pour que la loi soit promulguée avant la fin de l’année ; ce qui est sur le point d’advenir – c’est d’ailleurs assez rare au sein de cette assemblée, a fortiori compte tenu de sa configuration actuelle. C’est la preuve d’un esprit de responsabilité, qui signe notre attachement à pérenniser le modèle français. C’est un engagement en faveur de la démocratie, de la diversité culturelle et d’une information de qualité, auxquelles nous sommes tous attachés. (Applaudissements sur les bancs du groupe DR et sur quelques bancs du groupe EPR.)"
+  },
+  {
+   "orateur": "M. Emmanuel Duplessy (EcoS)",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Comme nous l’avons indiqué au cours de la discussion générale, nous voterons la proposition de loi organique, afin de préserver l’indépendance des médias publics. Je ne m’étendrai pas sur le rôle déterminant du droit à l’information dans l’exercice des libertés démocratiques, pas plus que sur les phénomènes de concentration des médias aux mains de quelques fortunes, les ingérences étrangères, la désinformation, la qualité de l’information, les moyens dévolus à l’enquête et à l’investigation, la diffusion des arts et de la culture ou encore la vulgarisation des sciences. Néanmoins, ces questions essentielles restent entières et le resteront après l’adoption de la proposition de loi organique. (Applaudissements sur plusieurs bancs du groupe EcoS et sur quelques bancs du groupe SOC.)"
+  },
+  {
+   "orateur": "M. Erwan Balanant (Dem)",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Nous avons constaté, au cours de nos débats, l’importance que nous accordons presque tous à l’audiovisuel public, secteur agile et indépendant qui crée des contenus largement plébiscités, la plupart du temps, par les Français.Permettez-moi, au moment où nous nous apprêtons à pérenniser le financement de l’audiovisuel public, de saluer tous les salariés de ce secteur, qui accomplissent un travail remarquable. Nous l’avons observé durant la campagne pour les élections législatives : ils étaient sur le terrain pour organiser les débats, rendre compte de la situation et, tout simplement, faire vivre la démocratie. L’audiovisuel public est donc bien un service public.Nous avons également noté que le nouveau mantra du Rassemblement national est de privatiser le service public ! Durant la campagne pour les élections législatives, M. Tanguy déclarait vouloir privatiser La Poste. (Exclamations sur plusieurs bancs du groupe RN.)"
+  },
+  {
+   "orateur": "M. Emeric Salmon",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Vous venez d’en inventer une, de fake news !"
+  },
+  {
+   "orateur": "M. Erwan Balanant",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "…d’informer les citoyens ou encore de créer des programmes pédagogiques pour les enfants. C’est pourquoi le groupe Les Démocrates votera ce texte et nous ne pouvons que nous féliciter d’un tel vote conforme. (Applaudissements sur plusieurs bancs du groupe Dem et sur quelques bancs du groupe EPR.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’ensemble de la proposition de loi organique."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

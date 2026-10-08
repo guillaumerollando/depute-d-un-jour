@@ -1,0 +1,14 @@
+{
+ "uid": "VTANR5L17V6045",
+ "consigne": "etape3_verification v2",
+ "verdict": "corrige",
+ "problemes": [
+  "La carte omet une mesure majeure du texte adopté : la création de la collectivité est soumise à un référendum local des électeurs d'Alsace.",
+  "Le texte adopté porte un intitulé modifié (faire sortir la Collectivité européenne d'Alsace de la région Grand Est) ; le contexte est ajusté."
+ ],
+ "corrections": {
+  "titre": "Faire sortir l'Alsace de la région Grand Est en créant une collectivité unique",
+  "ce_que_ca_change": "L'actuelle Collectivité européenne d'Alsace deviendrait une collectivité unique, l'« Alsace », exerçant à la fois les compétences d'un département et celles d'une région, à la place de la région Grand Est sur son territoire. Le projet serait d'abord soumis à un référendum local des électeurs alsaciens. S'il est approuvé, il s'appliquerait aux prochaines élections régionales.",
+  "contexte": "Vote sur l'ensemble de la proposition de loi visant à faire sortir l'Alsace de la région Grand Est, le 8 avril 2026."
+ }
+}

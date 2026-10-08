@@ -1,0 +1,83 @@
+{
+  "uid": "VTANR5L17V984",
+  "consigne": "etape2_ambiguite v2",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Marc de Fleurian",
+      "citation": "Quant aux garanties de sécurité de cette Union européenne impuissante, puisque c’est ce que vous entendez par « occidentales », elles existent encore moins.",
+      "justification": "Le groupe conteste l'existence des garanties de sécurité visées par l'alinéa."
+    },
+    "EPR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Pierre Cazeneuve",
+      "citation": "Voter cet amendement reviendrait à acter le désengagement total de la France et de l’Europe en la matière, et donc, évidemment, notre affaiblissement.",
+      "justification": "Le groupe s'oppose à la suppression des garanties de sécurité."
+    },
+    "LFI": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Aurélien Saintoul",
+      "citation": "Vous ne pouvez pas dire, assumant des décisions prises dans notre dos, que nous serons les garants d’un accord que nous n’avons même pas négocié !",
+      "justification": "Le groupe s'oppose à ce que la France garantisse un accord qu'elle n'a pas négocié."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Les propos du groupe dans l'extrait portent sur d'autres amendements."
+    },
+    "DR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Les propos du groupe dans l'extrait portent sur un autre amendement."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne se prononce pas sur l'alinéa 69 dans l'extrait."
+    },
+    "DEM": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Frédéric Petit",
+      "citation": "Garantir la fin du pilonnage des civils au-delà du front, l’Europe sait le faire et peut le faire immédiatement ; c’est une garantie que l’on peut étendre.",
+      "justification": "Le groupe défend l'extension de garanties de sécurité."
+    },
+    "HOR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Les propos du groupe dans l'extrait ne portent pas sur l'alinéa 69."
+    },
+    "LIOT": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Jean-Paul Lecoq",
+      "citation": "Cela reviendrait à dire que nous entrons immédiatement en guerre",
+      "justification": "Le groupe demande la suppression en estimant que l'alinéa engagerait la France dans la guerre."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Maxime Michelet",
+      "citation": "Une telle disposition est tout simplement dangereuse : une extension « immédiate », en plein conflit, de ces garanties reviendrait tout simplement à nous faire basculer dans la guerre.",
+      "justification": "Le groupe s'oppose à l'extension immédiate des garanties de sécurité."
+    }
+  }
+}

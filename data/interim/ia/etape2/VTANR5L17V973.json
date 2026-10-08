@@ -1,0 +1,83 @@
+{
+  "uid": "VTANR5L17V973",
+  "consigne": "etape2_ambiguite v2",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Laurent Jacobelli",
+      "citation": "c’est justement parce que nous les voulons souverains que nous leur conseillons de ne pas adhérer à l’Union !",
+      "justification": "Le groupe s'oppose à l'adhésion de l'Ukraine à l'Union européenne."
+    },
+    "EPR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Jean-René Cazeneuve",
+      "citation": "Nous voulons au contraire étendre au plus grand nombre la promesse européenne, l’espoir de la paix, de la justice sociale !",
+      "justification": "Le groupe déclare soutenir l'élargissement de l'Union à l'Ukraine."
+    },
+    "LFI": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Sophia Chikirou",
+      "citation": "La France insoumise pense qu’il ne faut pas élargir davantage l’Union européenne.",
+      "justification": "Le groupe s'oppose à l'élargissement de l'Union européenne."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Les propos du groupe dans l'extrait ne portent pas sur l'alinéa 55."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas sur la raison de son vote sur la suppression de l'alinéa 55."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Jérémie Iordanoff",
+      "citation": "La suppression de cet alinéa serait dramatique : politiquement, elle enverrait le signal que nous sommes prêts à abandonner l’Ukraine.",
+      "justification": "Le groupe s'oppose à la suppression de l'alinéa en raison du signal envoyé à l'Ukraine."
+    },
+    "DEM": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Les propos du groupe dans l'extrait ne portent pas sur l'alinéa 55."
+    },
+    "HOR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Les propos du groupe dans l'extrait ne portent pas sur l'alinéa 55."
+    },
+    "LIOT": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe soutient la résolution sans se prononcer sur l'alinéa 55."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Jean-Paul Lecoq",
+      "citation": "l’exécutif s’empressera de répandre partout l’idée que la représentation nationale est favorable à l’adhésion ukrainienne, qu’elle en a validé le principe.",
+      "justification": "Le groupe demande la suppression pour que l'Assemblée ne paraisse pas valider le principe de l'adhésion."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Maxime Michelet",
+      "citation": "Nous nous opposons résolument à cet alinéa car nous nous opposons résolument à l’entrée de l’Ukraine dans l’Union européenne.",
+      "justification": "Le groupe s'oppose à l'adhésion de l'Ukraine à l'Union européenne."
+    }
+  }
+}

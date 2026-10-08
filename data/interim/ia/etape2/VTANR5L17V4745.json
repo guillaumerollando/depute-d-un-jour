@@ -1,0 +1,69 @@
+{
+  "uid": "VTANR5L17V4745",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Frédéric-Pierre Vos",
+      "citation": "Nous avons là une très mauvaise loi.",
+      "justification": "Le groupe déclare s'opposer au texte en raison de ses effets sur le parc locatif."
+    },
+    "EPR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Marie Lebec",
+      "citation": "Plus globalement, elle désinciterait les propriétaires à mettre leur logement sur le marché locatif.",
+      "justification": "Le groupe critique une disposition du texte pour ses effets sur l'offre locative."
+    },
+    "LFI": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Sandrine Nosbé",
+      "citation": "Il ne doit plus être un mécanisme de contournement généralisé de l’encadrement des loyers.",
+      "justification": "Le groupe défend un encadrement des loyers plus strict, ce qui va dans le sens de son vote pour."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Sandrine Runel",
+      "citation": "l’encadrement des loyers a permis à davantage de locataires d’accéder à des logements et surtout à des logements en centre-ville.",
+      "justification": "Le groupe déclare soutenir l'encadrement des loyers pour ses effets."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Boris Tavernier",
+      "citation": "Or l’encadrement des loyers n’a pas vocation à entériner les inégalités, voire les excès, du passé, mais à les réduire dans une même zone et entre les différentes zones d’un même territoire.",
+      "justification": "Le groupe défend l'encadrement des loyers, ce qui va dans le sens de son vote pour."
+    },
+    "DEM": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Mickaël Cosson",
+      "citation": "À ce stade, nous ne pouvons cependant pas souscrire à la philosophie générale de la proposition de loi, qui consiste à graver dans le marbre, sans évaluation fine et complète, un dispositif qui pourrait gripper davantage un marché déjà à l’arrêt.",
+      "justification": "Le groupe déclare ne pas souscrire à la philosophie du texte et craindre des effets contre-productifs sur le marché."
+    },
+    "HOR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. François Jolivet",
+      "citation": "l’encadrement des loyers ne tient pas compte de la qualité du service rendu.",
+      "justification": "Le groupe critique le fonctionnement de l'encadrement des loyers, ce qui va dans le sens de son vote contre."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Stéphane Peu",
+      "citation": "Cet amendement vise à contraindre les bailleurs et les plateformes à respecter l’encadrement des loyers lorsqu’il a été décidé par les collectivités",
+      "justification": "Le groupe défend une application renforcée de l'encadrement des loyers, ce qui va dans le sens de son vote pour."
+    },
+    "UDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Olivier Fayssat",
+      "citation": "À cause de vos propositions, l’investisseur ne sera plus au rendez-vous.",
+      "justification": "Le groupe déclare que le texte découragerait l'investissement locatif."
+    }
+  }
+}

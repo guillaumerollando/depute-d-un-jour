@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V5357",
+  "consigne": "etape3_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "La dernière phrase présente comme certaine une conséquence espérée (non-divulgation de l'adresse) ; c'est le but, pas un effet garanti par le dispositif."
+  ],
+  "corrections": {
+    "ce_que_ca_change": "Les personnes protégées parce qu'elles agissent contre le crime organisé (collecte de preuves, prévention, aide aux victimes) pourraient déclarer comme adresse celle d'un commissariat ou d'une gendarmerie. Il faudrait l'accord du procureur ou du juge d'instruction. Le but est d'éviter que leur adresse personnelle soit divulguée."
+  }
+}

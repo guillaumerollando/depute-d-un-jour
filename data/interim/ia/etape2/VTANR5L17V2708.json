@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V2708",
+  "consigne": "etape2_ambiguite v2",
+  "groupes": {
+    "RN": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Les interventions du groupe portent sur des mises en cause personnelles et ne se prononcent ni sur l'amendement ni sur le texte."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Paul Midy",
+      "citation": "C’est pourquoi nous voterons contre cette loi, en soutenant pleinement cet amendement de suppression.",
+      "justification": "Le groupe s'oppose au texte, qu'il juge destiné à exonérer une personne condamnée, et vote pour la suppression."
+    },
+    "LFI": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Gabrielle Cathala",
+      "citation": "Je veux défendre ces excellents amendements.",
+      "justification": "Le groupe défend les amendements de suppression et vote pour."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Les interventions du groupe portent sur des mises en cause personnelles et ne se prononcent pas sur l'amendement."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Alexis Corbière",
+      "citation": "il ne saurait exister de statut particulier pour certains d’entre nous lorsqu’ils sont candidats à l’élection présidentielle.",
+      "justification": "Le groupe refuse un statut particulier pour les candidats et vote pour la suppression."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Philippe Vigier",
+      "citation": "Nous croyons à l’universalité du droit, nous refusons les régimes d’exception, nous respectons l’autorité judiciaire et l’État de droit. Aussi voterons-nous contre la proposition de loi.",
+      "justification": "Le groupe refuse un régime d'exécution différencié pour les élus et vote pour la suppression."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Agnès Firmin Le Bodo",
+      "citation": "Ce texte porte également atteinte à l’image de l’ensemble des parlementaires et à la confiance que nos concitoyens nous témoignent.",
+      "justification": "Le groupe critique le texte comme visant une affaire en cours et vote pour sa suppression."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Constance de Pélichy",
+      "citation": "Ce texte est indigne ! C’est la raison pour laquelle nous demandons la suppression de son article unique.",
+      "justification": "Le groupe juge le texte contraire à l'égalité devant la loi et vote pour la suppression."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Elsa Faucillon",
+      "citation": "Nous vous répondons que les élus doivent être des citoyens comme les autres, et particulièrement devant la justice.",
+      "justification": "Le groupe défend l'égalité des élus devant la justice et vote pour la suppression."
+    },
+    "UDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Charles Alloncle",
+      "citation": "je vous invite à voter pour ce texte parce qu’il protège le droit à l’éligibilité, garantit le droit au recours et préserve la présomption d’innocence.",
+      "justification": "Le groupe défend le texte comme protecteur du droit à l'éligibilité et vote contre sa suppression."
+    }
+  }
+}

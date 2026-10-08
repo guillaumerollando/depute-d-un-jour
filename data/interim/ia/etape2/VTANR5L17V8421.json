@@ -1,0 +1,83 @@
+{
+  "uid": "VTANR5L17V8421",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime que par une interjection qui ne permet pas de trancher."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Vincent Descoeur",
+      "citation": "Or ce texte, cher Jean-Pierre, va permettre de lever certains freins à son développement. C’est la raison pour laquelle le groupe de la Droite républicaine le soutiendra évidemment",
+      "justification": "Le groupe soutient le contenu du texte."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Marie Pochon",
+      "citation": "Pourquoi détricoter les règles d’urbanisme de la loi « montagne » de 1985",
+      "justification": "Le groupe s'oppose aux dispositions sur l'urbanisme, l'eau et l'écologie contenues dans le texte."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Hubert Ott",
+      "citation": "le groupe Les Démocrates soutient avec conviction cette proposition de loi.",
+      "justification": "Le groupe soutient le contenu du texte."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Xavier Roseren",
+      "citation": "Mais le pas que nous franchissons aujourd’hui compte, il va dans le bon sens, c’est pourquoi le groupe Horizons & indépendants votera ce texte avec fierté et conviction.",
+      "justification": "Le groupe soutient les mesures du texte."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Michel Castellani",
+      "citation": "Dans son ensemble, cette proposition de loi apporte des réponses attendues par les élus et par les habitants des territoires de montagne.",
+      "justification": "Le groupe soutient le contenu du texte malgré des réserves sur certains articles."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Matthieu Bloch",
+      "citation": "Nous voterons néanmoins en faveur de ce texte, parce qu’il apporte des améliorations,…",
+      "justification": "Le groupe vote pour en raison des améliorations qu'il reconnaît au texte."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Julien Brugerolles",
+      "citation": "Bien évidemment, nous voterons en faveur de ce texte, tout en souhaitant qu’il trouve des prolongements budgétaires",
+      "justification": "Le groupe soutient le contenu du texte."
+    }
+  }
+}

@@ -1,0 +1,450 @@
+{
+ "uid": "VTANR5L17V187",
+ "titre": "l'amendement n° 475 de Mme Godard après l'article 3 du projet de loi de financement de la sécurité sociale pour 2025 (première lecture).",
+ "type": "amendement",
+ "date": "2024-10-29",
+ "dossier": "DLR5L17N50588",
+ "dossier_titre": "Projet de loi de financement de la sécurité sociale pour 2025",
+ "sort": "adopté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "contre",
+  "LFI": "pour",
+  "SOC": "pour",
+  "DR": "contre",
+  "ECOS": "pour",
+  "DEM": "contre",
+  "HOR": "contre",
+  "LIOT": "pour",
+  "GDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 70,
+   "contre": 0,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 0,
+   "contre": 36,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 36,
+   "contre": 0,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 41,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 0,
+   "contre": 5,
+   "abstention": 1
+  },
+  "ECOS": {
+   "pour": 15,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 1,
+   "contre": 8,
+   "abstention": 1
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 10,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 3,
+   "contre": 0,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 5,
+   "contre": 0,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 0,
+   "contre": 0,
+   "abstention": 7
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901B0325P0D1N000475",
+  "dossier": "DLR5L17N50588",
+  "texte": "PRJLANR5L17B0325",
+  "division": "Article 3",
+  "auteur": "Mme Godard,  M. Barusseau, Mme Allemand, M. Aviragnet, M. Baptiste, Mme Battistel, M. Baumel, Mme Bellay, M. Benbrahim, M. Bouloux, M. Philippe Brun, M. Califer, Mme Capdevielle, M. Christophle, M. Courbon, M. David, M. Delaporte, M. Delautrette, Mme Diop, Mme Dombre Coste, M. Dufau, M. Echaniz, M. Eskenazi, M. Faure, M. Fégné, M. Garot, M. Gokel, Mme Got, M. Emmanuel Grégoire, M. Guedj, M. Hablot, Mme Hadizadeh, Mme Herouin-Léautey, Mme Céline Hervieu, M. Hollande, Mme Jourdan, Mme Karamanli, Mme Keloua Hachi, M. Leseul, M. Lhardit, Mme Mercier, M. Naillet, M. Oberti, Mme Pantel, M. Pena, Mme Pic, Mme Pirès Beaune, M. Potier, M. Pribetich, M. Proença, Mme Rossi, Mme Rouaux, M. Aurélien Rousseau, M. Roussel, Mme Runel, Mme Récalde, M. Saint-Pasteur, Mme Santiago, M. Saulignac, M. Simion, M. Sother, Mme Thiébault-Martinez, Mme Thomin, M. Vallaud, M. Vicot, M. William et les membres du groupe Socialistes et apparentés",
+  "auteur_groupe": "SOC",
+  "auteur_type": "Député",
+  "dispositif": "I. – Au 1 er janvier 2025, le taux de la contribution patronale sur les traitements des agents des collectivités territoriales et des établissements sanitaires versée à la Caisse nationale de retraites des agents des collectivités locales ne peut être supérieur à 31,65 %. II. – La perte de recettes pour les organismes de sécurité sociale est compensée à due concurrence par la majoration de l’accise sur les tabacs prévue au chapitre IV du titre I er du livre III du code des impositions sur les biens et services.",
+  "expose": "Cet amendement d'appel des députés socialistes et apparentés vise à empêcher par voie législative la hausse du taux de cotisation patronale de la Caisse nationale de retraite des agents des collectivités territoriales (CNRACL) de 4 points, et sa compensation partielle. La hausse annoncée de ce taux par le Gouvernement va en effet pénaliser les employeurs, qui ont déjà des moyens très réduits par des années de disette budgétaire. En outre, cette hausse permet au Gouvernement d'afficher une hausse des dépenses de santé (\"ONDAM\") alors qu'il y a là un tour de passe-passe budgétaire, que nous dénonçons avec force."
+ },
+ "seance": "RUANR5L17S2025IDS28625",
+ "compte_rendu": "CRSANR5L17S2025O1N025",
+ "interventions": [
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Fabien Di Filippo, pour soutenir l’amendement no 779."
+  },
+  {
+   "orateur": "M. Fabien Di Filippo",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Il porte sur le sujet voisin du régime simplifié des professions médicales, s’adressant pour l’heure seulement aux médecins effectuant des remplacements. Le plafond permettant d’en bénéficier, fixé à 19 000 euros, paraît très bas. Des demandes, émanant par exemple de l’Urssaf, visent à relever ce plafond, à simplifier les déclarations et les contrôles, et à étendre ce dispositif à d’autres professions du soin, comme les infirmiers ou les masseurs-kinésithérapeutes. C’est à une telle extension que tend cet amendement, ainsi qu’à porter le plafond à 38 000 euros."
+  },
+  {
+   "orateur": "M. Jean-Pierre Vigier",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Qu’il est bon, Di Filippo !"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Sur les amendements identiques nos 1088 et 1864, je suis saisi par le groupe La France insoumise-Nouveau Front populaire d’une demande de scrutin public. Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.Quel est l’avis de la commission ?"
+  },
+  {
+   "orateur": "M. Yannick Neuder",
+   "qualite": "rapporteur général",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "La commission a donné un avis favorable, mais il faut peut-être laisser aux professionnels concernés le temps de la négociation pour fixer le seuil et les modalités d’une telle mesure. Je vous invite donc, afin de ne rien précipiter, à retirer votre amendement, et à reprendre les négociations pour la deuxième lecture."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis du Gouvernement ?"
+  },
+  {
+   "orateur": "Mme Astrid Panosyan-Bouvet",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Même avis."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Agnès Firmin Le Bodo."
+  },
+  {
+   "orateur": "Mme Agnès Firmin Le Bodo",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "C’est sur les amendements identiques précédents que je souhaite en fait m’exprimer, n’ayant pas eu la parole à ce moment-là.La simplification de l’accès au cumul emploi-retraite est absolument nécessaire si l’on veut que les médecins s’engagent. Seuls les médecins effectuant des remplacements sont à l’heure actuelle éligibles à ce statut. Des expérimentations où, par exemple, des médecins retraités prennent en charge des patients sous ALD – affection de longue durée – ont pourtant été menées, notamment au Havre : mais ils ne peuvent pas bénéficier du cumul emploi-retraite. C’est un handicap au développement de ce genre d’initiatives locales."
+  },
+  {
+   "orateur": "M. Fabien Di Filippo",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "C’est une forme de soutien à mon amendement !"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Yannick Monnet."
+  },
+  {
+   "orateur": "M. Yannick Monnet",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Mon intervention ne porte pas non plus spécifiquement sur cet amendement, mais sur le cumul emploi-retraite.Je ne pense pas que nous rencontrions les mêmes médecins : ce n’est pas pour des raisons financières que les médecins que j’ai rencontrés souhaitent poursuivre une activité."
+  },
+  {
+   "orateur": "M. Fabien Di Filippo",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Vous n’avez pas lu mon amendement !"
+  },
+  {
+   "orateur": "M. Thibault Bazin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "C’est des infirmiers qu’il est question !"
+  },
+  {
+   "orateur": "M. Yannick Monnet",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Ce qu’ils veulent, c’est retrouver du temps médical et échapper à la lourdeur administrative. Je ne crois pas aux incitations fiscales."
+  },
+  {
+   "orateur": "M. Fabien Di Filippo",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Vous ne parlez pas de mon amendement ! Il faut vous arrêter !"
+  },
+  {
+   "orateur": "M. Yannick Monnet",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Sans répondre, donc, à la réelle demande des médecins, ces incitations privent de surcroît la sécurité sociale d’une partie de ses ressources. Il faut donc agir sur la simplification administrative de l’exercice des professions de santé, ce qui relève sans doute du domaine réglementaire."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Sur l’amendement no 475, je suis saisi par le groupe Socialistes et apparentés d’une demande de scrutin public. Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.La parole est à Mme la ministre."
+  },
+  {
+   "orateur": "Mme Astrid Panosyan-Bouvet",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Comme le rapporteur général, je souhaite que vous retiriez votre amendement, monsieur Di Filippo, afin que nous puissions engager la concertation avec les professionnels de santé mentionnés dans votre amendement."
+  },
+  {
+   "orateur": "M. Fabien Di Filippo",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Mais mon amendement ne vise pas les retraités !"
+  },
+  {
+   "orateur": "Mme Astrid Panosyan-Bouvet",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Madame Firmin Le Bodo, le régime simplifié ira précisément au-delà des remplacements – c’est une bonne chose.Enfin, monsieur Monnet, un conseil de l’Ordre départemental a sondé ses retraités, dans les deux ans qui suivent leur départ en retraite. Cela vaut ce que cela vaut, mais un tiers d’entre eux seraient prêts à travailler entre dix et douze heures par semaine. La demande existe donc.Bien sûr, cela ne résout pas le problème de l’équilibre entre le temps médical proprement dit et celui qu’il faut consacrer à la paperasserie. En l’espèce, nous ouvrons la possibilité de reprendre une activité. Il faut l’entendre car, dans le département précité, cela concerne un tiers des médecins retraités."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. le rapporteur général."
+  },
+  {
+   "orateur": "M. Yannick Neuder",
+   "qualite": "rapporteur général",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Monsieur Di Filippo, si nous adoptions votre amendement, cela bloquerait toute discussion sur l’augmentation du plafond.Monsieur Monnet, j’entends votre plaidoyer en faveur de la simplification, mais ce n’est pas incompatible avec le statut des médecins retraités.Madame Firmin Le Bodo, vous avez raison, restons vigilants : il ne faudrait pas qu’un dispositif incitatif en bloque un autre, notamment celui des médecins retraités remplaçants. Il s’agit seulement de favoriser le travail des médecins retraités et de libérer du temps médical pour tous ceux qui le souhaitent."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Fabien Di Filippo."
+  },
+  {
+   "orateur": "M. Fabien Di Filippo",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "J’ai entendu les propos du rapporteur général et de la ministre. Sensible à leur volonté d’aller encore plus loin que ce que je propose sur les seuils – et plus vite, en recourant éventuellement à un décret – et soucieux de ne pas faire perdre de temps aux professions médicales, je retire mon amendement."
+  },
+  {
+   "orateur": "Mme Christine Arrighi",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Très bien !"
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(L’amendement no 779 est retiré.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Océane Godard, pour soutenir l’amendement no 475."
+  },
+  {
+   "orateur": "Mme Océane Godard",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Il vise à dénoncer le tour de passe-passe budgétaire du Gouvernement. Vous affichez un objectif national de dépenses d’assurance maladie (Ondam) à 2,8 %. Mais l’inflation représente 1,8 point et, dans le point restant, les obligations des employeurs s’élèvent à 0,9 !Dans ces conditions, l’Ondam ne peut ni financer les besoins de l’hôpital ni répondre à ceux des Françaises et des Français en matière de santé.Cet amendement d’appel vise à annuler la hausse de 4 points du taux de la contribution patronale sur les traitements des agents des collectivités territoriales et des établissements sanitaires versée à la Caisse nationale de retraite des agents des collectivités territoriales (CNRACL), ainsi que sa compensation partielle, afin de parer cette nouvelle attaque contre les collectivités. (Applaudissements sur les bancs du groupe SOC.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis de la commission ?"
+  },
+  {
+   "orateur": "M. Yannick Neuder",
+   "qualite": "rapporteur général",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je suis d’accord avec vous : l’Ondam pour 2025 va mettre les établissements – hôpitaux publics, cliniques privées, centres de lutte contre le cancer – en grande difficulté."
+  },
+  {
+   "orateur": "M. Jérôme Guedj",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "C’est intenable !"
+  },
+  {
+   "orateur": "M. Yannick Neuder",
+   "qualite": "rapporteur général",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Pourquoi ? Le sous-objectif de l’Ondam dédié aux établissements de santé augmente de 3,1 % en 2025, ce qui devrait représenter 3 milliards d’euros supplémentaires. Mais plus de 1,1 milliard sera gelé – ou ciblé, au choix – pour compenser la hausse du taux de cotisation à la CNRACL – les hôpitaux sont aussi des employeurs.J’y insiste, nous ne devons pas choisir entre soin et paiement des cotisations vieillesse : il faut financer les deux. Cela dit, votre amendement ne fait que geler les cotisations des employeurs, donc les recettes de la CNRACL. Or, à partir de 2030, le déficit de cette caisse sera de 11 milliards par an.Si ce n’est au cours de cette première lecture, il faudra que nous y revenions durant la deuxième, ou lors de la commission mixte paritaire (CMP).Ces plus de 1 milliard doivent être neutralisés au sein de l’Ondam, afin de ne pas opposer fonctionnement des structures hospitalières et cotisations vieillesse. On pourrait par exemple trouver une autre source de recettes pour les financer. Je le répète : le financement de la CNRACL ne doit pas se faire aux dépens du soin.Les 3 milliards ne sont pas de trop pour répondre aux besoins nouveaux de l’hôpital, notamment avec notre niveau d’inflation.Avis défavorable sur la méthode donc, même si je comprends bien que vous avez été contrainte dans votre rédaction par l’article 40. J’entends l’appel, mais il faut analyser le problème plus largement."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis du Gouvernement ?"
+  },
+  {
+   "orateur": "Mme Astrid Panosyan-Bouvet",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Le 27 septembre 2024, la mission interinspections chargée d’évaluer la situation financière de la CNRACL a rendu son rapport public. Quelques chiffres permettent de mieux comprendre la situation, très grave : le déficit cumulé de cette caisse devrait atteindre 14 milliards d’euros dès 2025 et, en 2027, ce déficit représentera les deux tiers du déficit de l’ensemble des régimes de retraite.C’est la raison pour laquelle la mission a préconisé d’augmenter la cotisation patronale du régime de 10,2 % dès 2025. Le Gouvernement privilégie un effort étalé sur trois ans, et une hausse globale beaucoup moins conséquente pour les employeurs hospitaliers et territoriaux.Associée à d’autres mesures, cette augmentation de la cotisation patronale est indispensable pour assurer la soutenabilité financière du régime de retraite et le versement des pensions des agents des collectivités locales et des agents hospitaliers, dont la retraite constitue un droit acquis.Avis défavorable."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Jérôme Guedj."
+  },
+  {
+   "orateur": "M. Jérôme Guedj",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Madame la ministre, ma collègue vous l’a dit, il s’agit d’un amendement d’appel. Le rapporteur général indique qu’il serait possible de neutraliser l’effet de cette hausse de 1,1 milliard afin que l’Ondam n’ait pas à l’absorber au détriment du financement normal de l’hôpital."
+  },
+  {
+   "orateur": "M. Yannick Neuder",
+   "qualite": "rapporteur général",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Exactement !"
+  },
+  {
+   "orateur": "M. Jérôme Guedj",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Hier, nous avons plaidé pour une hausse de l’Ondam 2024 ; vous avez refusé. Aujourd’hui, notre proposition est simple : si le Gouvernement est prêt à augmenter de 1,1 milliard le sous-objectif de l’Ondam consacré aux établissements de santé, ou à absorber ce montant, nous sommes disposés à retirer l’amendement.Notre assemblée doit marquer son opposition ferme à ce tour de passe-passe – j’aurais pu parler de hold-up. Les crédits alloués à l’hôpital ne doivent pas être amputés de l’équivalent du financement – légitime – de la CNRACL. (Applaudissements sur quelques bancs du groupe SOC.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Stéphanie Rist."
+  },
+  {
+   "orateur": "Mme Stéphanie Rist",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Nous sommes opposés à cet amendement. Il faut bien prévoir les retraites des agents hospitaliers et de ceux des collectivités territoriales. Or les caisses sont nettement déficitaires et le seront encore dans les années qui viennent.Monsieur le rapporteur général et monsieur Guedj, vous plaidez pour une hausse de 1,1 milliard de l’Ondam, mais les fédérations demandent beaucoup plus !"
+  },
+  {
+   "orateur": "M. Jérôme Guedj",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Oui !"
+  },
+  {
+   "orateur": "Mme Stéphanie Rist",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Au cours des cinq dernières années, l’Ondam a augmenté de presque 60 milliards. C’est une hausse très importante – bien supérieure à ce 1,1 milliard d’euros.Nous devons donc plutôt viser une transformation du financement de notre système de santé, notamment de celui des établissements de santé."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. le rapporteur général."
+  },
+  {
+   "orateur": "M. Yannick Neuder",
+   "qualite": "rapporteur général",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Monsieur Guedj, vous évoquez une rectification de l’Ondam 2024, mais vous avez voté la suppression de l’article. Nous n’avons donc pas débattu du fond."
+  },
+  {
+   "orateur": "M. Jérôme Guedj",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Mais nous avions fait une proposition !"
+  },
+  {
+   "orateur": "M. Yannick Neuder",
+   "qualite": "rapporteur général",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Même si nous avions voté la rectification de l’Ondam, avec la navette budgétaire, sachant que nous sommes quasiment début novembre, cela n’aurait pas eu d’impact – les dés sont jetés pour 2024 ; ne nous opposons donc pas sur ce point.Mais nous sommes d’accord pour 2025 : la hausse du taux de cotisation vieillesse en faveur de la CNRACL, indispensable, ne doit pas avoir de conséquences sur l’Ondam de cette année.J’invite vigoureusement le Gouvernement à y revenir. Tout le monde a compris la nécessité d’augementer le taux de cotisation, mais votre proposition, madame la ministre, met cette cotisation en concurrence directe avec les soins. Il s’agit d’un point de blocage."
+  },
+  {
+   "orateur": "Mme Astrid Panosyan-Bouvet",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Mais votre avis reste défavorable ?"
+  },
+  {
+   "orateur": "M. Yannick Neuder",
+   "qualite": "rapporteur général",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Oui, Avis défavorable sur l’amendement, mais il faut organiser la discussion sur le fond, comme nous l’avons fait en commission."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 475."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V3261",
+  "consigne": "etape2_ambiguite v2",
+  "groupes": {
+    "RN": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Marine Le Pen",
+      "citation": "Partout en Europe, la gauche s’est rendu compte que l’immigration avait atteint un niveau qui n’était plus soutenable.",
+      "justification": "Le groupe défend le texte en invoquant un niveau d'immigration qu'il juge non soutenable."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Thomas Cazenave",
+      "citation": "il n’y a aucun résultat à attendre de ce que vous proposez. C’est la raison pour laquelle nous voterons ces amendements de suppression.",
+      "justification": "Le groupe vote la suppression en jugeant la mesure sans effet."
+    },
+    "LFI": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Élisa Martin",
+      "citation": "Alors, votons contre cette proposition de loi !",
+      "justification": "Le groupe appelle à s'opposer à la proposition de loi."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Romain Eskenazi",
+      "citation": "Votre proposition de loi est à la fois illégale, inefficace et inhumaine.",
+      "justification": "Le groupe déclare s'opposer à la proposition de loi sur le fond."
+    },
+    "DR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Fabien Di Filippo",
+      "citation": "N’avez-vous pas envie de réintroduire des repères dans notre pays ?",
+      "justification": "Le groupe défend le rétablissement du délit de séjour irrégulier."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Pouria Amirshahi",
+      "citation": "tous les démocrates qui ont été élus pour ce mandat doivent se réunir pour empêcher cette infamie de scinder la République !",
+      "justification": "Le groupe appelle à s'opposer au texte."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Éric Martineau",
+      "citation": "Le groupe Démocrates ne votera pas ce texte. Pour nous, l’immigration est bien un sujet à traiter, mais les positions et les propositions du RN sont inopérantes.",
+      "justification": "Le groupe déclare ne pas voter le texte, qu'il juge inopérant."
+    },
+    "HOR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Stéphane Peu",
+      "citation": "s’il y a une urgence dans ce pays, c’est bien de régulariser tous ceux qui travaillent",
+      "justification": "Le groupe oppose au texte la régularisation des travailleurs sans papiers."
+    },
+    "UDR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    }
+  }
+}

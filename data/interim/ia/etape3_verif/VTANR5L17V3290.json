@@ -1,0 +1,14 @@
+{
+  "uid": "VTANR5L17V3290",
+  "consigne": "etape3_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "« Biens de luxe » reprend le vocabulaire de l'exposé (« somptuaires ») et ne correspond pas à l'assiette du dispositif, qui inclut des voitures et des logements sans usage professionnel.",
+    "« Objets non ouverts au public » est flou : l'article 150 VI vise bijoux, objets d'art, de collection et d'antiquité.",
+    "L'amendement a été mis aux voix « tel qu'il a été sous-amendé » ; le contenu du sous-amendement n'est pas dans les sources."
+  ],
+  "corrections": {
+    "titre": "Taxer à 20 % les seuls biens non professionnels des holdings familiales",
+    "ce_que_ca_change": "Le budget crée une taxe de 2 % sur certains biens et placements des sociétés gérant le patrimoine d'une famille (holdings). L'amendement ne taxerait plus que des biens sans usage professionnel (avions, voitures, biens de chasse ou de pêche, bijoux et objets d'art non exposés au public, logements), mais à 20 %. Seules les sociétés détenues à 50 % par une famille seraient visées, au lieu d'un tiers."
+  }
+}

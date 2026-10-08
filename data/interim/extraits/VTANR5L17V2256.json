@@ -1,0 +1,258 @@
+{
+ "uid": "VTANR5L17V2256",
+ "titre": "l'ensemble de la proposition de loi permettant aux salariés de participer aux collectes de sang, de plaquettes ou de plasma sur leur temps de travail (première lecture).",
+ "type": "ensemble",
+ "date": "2025-06-04",
+ "dossier": "DLR5L17N51132",
+ "dossier_titre": "Permettre aux salariés de participer aux collectes de sang, de plaquettes ou de plasma sur leur temps de travail",
+ "sort": "adopté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "pour",
+  "LFI": "pour",
+  "SOC": "pour",
+  "DR": "pour",
+  "ECOS": "pour",
+  "DEM": "contre",
+  "HOR": "pour",
+  "LIOT": "pour",
+  "UDR": "contre"
+ },
+ "voix": {
+  "RN": {
+   "pour": 30,
+   "contre": 0,
+   "abstention": 3
+  },
+  "EPR": {
+   "pour": 12,
+   "contre": 2,
+   "abstention": 4
+  },
+  "LFI": {
+   "pour": 19,
+   "contre": 0,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 26,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 8,
+   "contre": 0,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 16,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 7,
+   "abstention": 1
+  },
+  "HOR": {
+   "pour": 8,
+   "contre": 0,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 4,
+   "contre": 0,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 2,
+   "contre": 0,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 0,
+   "contre": 3,
+   "abstention": 0
+  }
+ },
+ "amendement": null,
+ "seance": "RUANR5L17S2025IDS29502",
+ "compte_rendu": "CRSANR5L17S2025O1N226",
+ "interventions": [
+  {
+   "orateur": "M. Yannick Neuder",
+   "qualite": "ministre chargé de la santé et de l’accès aux soins",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "L’objectif est de concilier la facilitation des dons de sang – à laquelle nous sommes tous favorables – et l’acceptabilité du dispositif par les employeurs. Pour ce faire, il faut naturellement favoriser le lieu de collecte le plus proche du lieu de travail ou du domicile – dans ce dernier cas, le déplacement du salarié présentera d’ailleurs moins de contraintes pour l’employeur. Avis favorable."
+  },
+  {
+   "orateur": "Mme Camille Galliard-Minier",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Il est important de concilier la générosité des futurs donneurs avec l’organisation de l’entreprise. C’est pourquoi cet amendement vise à limiter le nombre maximum d’absences à quatre par an. Ce chiffre est raisonnable : lorsqu’on donne son plasma, l’addition du temps du don, du temps de repos et de collation et du temps de déplacement peut prendre jusqu’à une demi-journée. Procéder à quatre dons de ce type dans l’année représente donc deux jours d’absence, ce qui constitue un effort important de la part de l’entreprise.Toutefois, si l’entreprise le souhaite, elle pourra autoriser plus d’absences à ses salariés. À ces dons effectués sur le temps de travail peuvent aussi s’ajouter des dons réalisés sur le temps personnel.En outre, ce chiffre de quatre absences correspondrait au doublement du nombre moyen de dons par donneur, qui s’élève aujourd’hui à 1,5 don pour le sang, 2,2 dons pour les plaquettes et 2,4 dons pour le plasma.Enfin, cette proposition de loi a un double objectif : faciliter le don pour ceux qui donnent déjà – en l’espèce, ma proposition constituerait donc un doublement – et surtout faire connaître le don et permettre aux personnes de passer outre leur appréhension. Toutes ces raisons m’amènent à penser que ce chiffre de quatre absences est celui qu’il faut retenir."
+  },
+  {
+   "orateur": "Mme Annie Vidal",
+   "qualite": "suppléant M. Frédéric Valletoux, président de la commission des affaires sociales",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Si je me permets d’intervenir, ce n’est pas pour vous donner mon avis personnel quant au nombre idéal d’absences autorisées par an : je le tairai car il n’émane pas de la commission. En revanche, j’appelle votre attention sur le fait que si nous n’adoptons aucun de ces amendements, ce sera open bar, pour ainsi dire. Or il importe de fixer des limites. Je vous appelle donc à la vigilance et vous demande de voter en conscience."
+  },
+  {
+   "orateur": "Mme Nathalie Colin-Oesterlé",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "L’objectif du texte est très important : il s’agit d’inciter les salariés à donner leur sang, ce qui constitue un enjeu de souveraineté sanitaire. Nous engageons là une démarche intéressante, mais il faut savoir concilier les impératifs de santé publique avec les contraintes des entreprises. C’est pourquoi je soutiendrai l’amendement de Mme Galliard-Minier visant à limiter à quatre le nombre annuel de dons effectués pendant le temps de travail."
+  },
+  {
+   "orateur": "M. Bérenger Cernon",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Les travailleurs des services essentiels sont exclus des dispositions prévues par cette proposition de loi car par définition ils ne peuvent pas quitter leur lieu de travail. Nous proposons qu’ils bénéficient d’un droit à s’absenter pour faire un don ou d’un temps de récupération si le don est réalisé hors de leurs horaires de travail. La durée de ce congé est d’une demi-journée pour un don de sang ou de plasma et d’une journée pour un don de plaquettes. C’est bien peu, au vu de ce qu’ils donnent chaque jour au service de notre pays. Il s’agit d’une mesure de justice autant que d’intérêt général. Ces salariés doivent avoir les mêmes droits que les autres. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+  },
+  {
+   "orateur": "M. Théo Bernhardt",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Nous sommes défavorables à cet amendement, pour deux raisons. D’abord, de nombreuses collectes sont déjà organisées dans les lieux d’études. La plupart des étudiants ont assez de temps libre pour aller donner leur sang – je pense à ceux qui étudient à l’université, pas en prépa.Ensuite, des collègues en face ont fait remarquer que les étudiants travaillaient. Cette proposition de loi leur sera donc utile, car ils pourront avoir accès au don du sang sur le temps de travail."
+  },
+  {
+   "orateur": "M. Hendrik Davi",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "La réforme des retraites est une catastrophe. Demain, pour la énième fois, nous débattrons de son abrogation. (Applaudissements sur quelques bancs des groupes EcoS et LFI-NFP.)Cette réforme a une conséquence : il y a de moins en moins de bénévoles. Toutes les associations nous le disent : si vous partez à la retraite à 67 ans, cela ne vous laisse plus beaucoup de temps pour vous engager dans une association.L’amendement vise à autoriser les bénévoles, quand ils sont salariés, à s’absenter cinq jours pour participer à la collecte du sang. Cela aiderait les associations."
+  },
+  {
+   "orateur": "M. Pierre Cordier",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "L’amendement propose d’octroyer cinq jours d’autorisation d’absence par an pour les salariés ou les agents publics qui sont bénévoles dans les associations de don du sang.Je comprends cet objectif et suis d’ailleurs le premier à rappeler l’importance du rôle des bénévoles dans nos territoires. Nous en connaissons tous, nous participons régulièrement à des assemblées générales et nous sommes conscients de leur rôle fondamental.J’ai eu l’occasion de le rappeler en commission : les bénévoles facilitent grandement le travail de l’EFS en organisant l’accueil et la collation offerte aux donneurs. Je ne sais pas comment l’EFS ferait sans eux, en particulier dans les territoires ruraux.Néanmoins, comme en commission, j’émets un avis défavorable à l’amendement. Si l’on autorise les bénévoles de ces associations à s’absenter, pourquoi refuserait-on des autorisations d’absence à tous les bénévoles membres d’associations d’intérêt général ou caritatives ? Je pense à Emmaüs, par exemple. Si l’on suit la logique de l’amendement, il faudrait étendre l’autorisation de cinq jours à toutes ces personnes.Je souhaite soutenir l’engagement citoyen et associatif, mais ce n’est pas aux entreprises de financer celui-ci. L’effort demandé me semble suffisamment important dans le cadre de ce que nous avons prévu."
+  },
+  {
+   "orateur": "M. Yannick Neuder",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Même si la démarche est bonne, même s’il faut encourager l’engagement associatif et caritatif, nous ne pouvons pas mettre en péril les petites entreprises. Ce n’est pas du tout le sens de cette proposition de loi, qui vise à réaffirmer l’engagement collectif de la nation envers le don du sang, sans opposer employeurs et donneurs."
+  },
+  {
+   "orateur": "M. Hendrik Davi",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Monsieur le ministre, s’il n’y a plus assez de bénévoles dans les associations, il faudra employer des salariés et, pour financer ces emplois, il faudra augmenter les taux de cotisations sociales des entreprises. Cela coûtera plus cher à ces dernières que de donner congé de temps en temps aux bénévoles. Le bénévolat coûte moins que le salariat !"
+  },
+  {
+   "orateur": "M. Joël Bruneau",
+   "qualite": null,
+   "groupe": "LIOT",
+   "president_de_seance": false,
+   "texte": "Je voudrais rappeler à toutes fins utiles, pour rendre hommage à toutes celles et ceux qui s’engagent de manière bénévole tout en travaillant, que le monde associatif n’est pas animé que par des retraités et des personnes détachées par leur entreprise. Il l’est très majoritairement par des personnes qui le font sur leur temps libre, parce que ça leur fait plaisir. J’en ai fait partie."
+  },
+  {
+   "orateur": "Mme Astrid Panosyan-Bouvet",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Aujourd’hui, 61,5 % de cette tranche d’âge travaillent. En Suède, ils sont à 75 % – nous avons encore une marge de progrès.La proposition de loi de M. Cordier améliorera la situation car, plus les gens travaillent, plus ils peuvent donner leur sang. Évitons cette espèce de malthusianisme qui consiste à vouloir qu’il y ait moins de gens qui travaillent et à imaginer des congés pour les bénévoles."
+  },
+  {
+   "orateur": "M. Pierre Cordier",
+   "qualite": "rapporteur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Nous avons débattu en commission de l’importance des campagnes d’information de l’EFS. Vous proposez d’ajouter aux missions de cet établissement l’information des salariés sur leur droit à autorisation d’absence pour la collecte de sang. Je vous remercie d’avoir accepté de retravailler votre amendement, auquel j’émets un avis favorable."
+  },
+  {
+   "orateur": "Mme Perrine Goulet (Dem)",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Nous avions déjà des doutes – qu’a exprimés tout à l’heure, dans la discussion générale, mon collègue Nicolas Turquois – au sujet de cette proposition de loi ; nous avons à présent des inquiétudes. Ce texte part d’une bonne intention et nous souhaitons tous amplifier le don du sang, mais l’amendement qui fixe à huit le nombre maximum d’absences par an est très imprécis : potentiellement, ces huit absences pourraient être huit journées complètes, ce qui peut être très déstabilisant pour une entreprise.Par ailleurs, la même disposition vaudra pour toutes les entreprises, des plus grandes jusqu’aux très petites entreprises (TPE). Or elle aura un impact plus fort sur ces dernières.On n’a pas du tout évoqué le risque, bien réel, de faire un malaise après avoir donné son sang. Si un salarié qui a donné son sang dans la matinée fait un malaise dans l’après-midi et a un accident, est-ce qu’on va considérer que c’est un accident de travail qui doit être pris en charge par l’entreprise ? Tout cela n’est pas précisé.Sur le fond, on est en train de transformer ce qui relevait d’un don de soi, bénévole et volontaire, en une pratique susceptible d’offrir un jour de congé. Le don de soi disparaît et l’on entre dans une logique où tout est monnayé, où tout doit être payé : c’est une évolution de la société qui me paraît très inquiétante. (Mmes Anne Bergantz, Véronique Riotton et Stéphanie Rist applaudissent.)Enfin, on fait peser toujours plus de contraintes sur les entreprises. Chaque fois que l’on veut faire quelque chose, on impose une contrainte supplémentaire aux entreprises."
+  },
+  {
+   "orateur": "Mme Perrine Goulet",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "À aucun moment on n’a envisagé de réorganiser l’Établissement français du sang, par exemple pour qu’il accueille les gens après 18 heures ou à l’heure du déjeuner, ou pour qu’il envoie des camions dans les entreprises– je l’ai vécu dans la mienne – afin d’éviter les déplacements.Ce texte partait d’une bonne intention mais le résultat n’est pas satisfaisant. Cela me contrarie, mais nous ne pourrons pas voter en faveur de son adoption. (Applaudissements sur plusieurs bancs des groupes Dem et EPR.)"
+  },
+  {
+   "orateur": "Mme Nathalie Colin-Oesterlé (HOR)",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "Je comprends les réserves de ma collègue, mais on touche là à des questions de santé publique et de souveraineté sanitaire. Actuellement, nous importons 40 % du sang dont nous avons besoin de pays qui rémunèrent les donneurs. Alors soyons sérieux !Bien sûr, j’ai moi aussi quelques réserves, dont j’ai fait part au rapporteur. Je pense par exemple qu’il aurait été préférable de limiter à quatre le nombre de dons dans l’année. (M. Thierry Benoit applaudit. – Exclamations sur les bancs du groupe LFI-NFP.) Pour l’instant, rien n’est prévu, et il m’aurait paru beaucoup plus raisonnable de commencer par quatre absences dans l’année.Cela étant dit, à titre personnel, je voterai pour cette proposition de loi, afin de lui laisser faire son cheminement législatif. (Applaudissements sur les bancs du groupe HOR. – M. Inaki Echaniz applaudit également.)"
+  },
+  {
+   "orateur": "M. Théo Bernhardt (RN)",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Je rejoins totalement Mme Colin-Oesterlé : il y a là un enjeu de souveraineté et de santé publique. On le sait tous, le sang est un produit précieux et exceptionnel. Il sauve des vies, mais il sert aussi à la recherche, qui l’utilise pour trouver de nouveaux traitements et pour mieux comprendre certaines infections. Le niveau de nos stocks est bas et nous avons besoin de ce précieux liquide.Nous avons souligné au début du débat que nous souhaitions arriver à un consensus. Force est de constater que nous y sommes parvenus, puisque nous nous sommes accordés sur le nombre d’absences. C’est vraiment l’objectif d’un texte transpartisan : discuter ensemble et trouver le bon compromis pour faire avancer notre pays.Le présent texte ne fait peser de soupçon ni sur les employés, ni sur les employeurs. Nous avons trouvé un bon équilibre entre le nombre de dons possibles par an, la nécessité d’en informer l’employeur soixante-douze heures ouvrées à l’avance et la possibilité laissée à l’employeur de demander un report des dons, ce qui permettra de sécuriser les TPE et PME.J’en profite pour féliciter tous les bénévoles et encourager tous les donneurs. Ce qu’ils font est exceptionnel. Le 10 juin, une collecte de sang est organisée à l’Assemblée nationale : allez donner votre sang, on en a besoin ! (Applaudissements sur plusieurs bancs des groupes RN et UDR.)"
+  },
+  {
+   "orateur": "Mme Camille Galliard-Minier (EPR)",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Le groupe Ensemble pour la République votera évidemment pour cette proposition de loi, et je remercie le rapporteur de s’être saisi de ce sujet. Ce texte est équilibré, simple et il sera facile à appliquer. Il va permettre de faire connaître le don du sang et il va le faciliter. À quelques jours de la Journée mondiale du don du sang, le 14 juin, qui est l’occasion de remercier les donneurs, il était important que notre assemblée se saisisse de ce sujet. Comme le dit l’EFS, donner son sang, c’est offrir la vie. (M. Jean-Luc Fugit et Mme Marie-Agnès Poussier-Winsback applaudissent.)"
+  },
+  {
+   "orateur": "Mme Ersilia Soudais (LFI-NFP)",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Cette proposition de loi a le mérite de mettre en exergue la nécessité qu’il y a d’augmenter le nombre de donneurs de sang, de plaquettes et de plasma et de favoriser la régularité de ces dons. Seules 3,5 % des personnes en âge de donner le font. C’est vraiment peu et cela pose un problème de souveraineté, puisque 65 % de notre plasma provient des États-Unis, où les conditions de prélèvement ne sont pas du tout les mêmes, ce qui a un impact sur la qualité du plasma. On profite de la détresse de miséreux pour en collecter. Rien n’aurait donc vraiment changé depuis la Fantine de Victor Hugo ?Nous attendions beaucoup de cette proposition de loi, mais elle a surtout une portée symbolique, puisque le droit de refus accordé à l’employeur est sans limite. Ce n’est pas faute de vous avoir avertis sur la nécessité d’employer des moyens coercitifs pour imposer cette nécessité d’intérêt sanitaire général aux employeurs, par exemple en prévoyant des sanctions pour ceux qui entraveraient la volonté de leurs salariés de donner leur sang.On peut vraiment douter de la volonté de la droite de protéger les salariés donneurs de la discrimination des employeurs. On ne peut même pas évoquer ce sujet sans qu’il soit balayé avec mépris, tant est niée l’existence d’un système de domination au sein des entreprises. Et pourtant, la lutte des classes n’est pas une fable !En matière de santé, il y a les intentions affichées et il y a les actes. À droite, il y a toujours une dissonance, et c’est la raison pour laquelle mon département, la Seine-et-Marne, est devenu le plus grand désert médical de l’Hexagone. Prélever le sang pour sauver des vies, c’est bien, mais encore faut-il des urgences dignes de ce nom pour que ce projet aboutisse. Or vous avez largement contribué à l’état de délabrement de nos hôpitaux : c’est ainsi qu’à Jossigny on peut attendre des heures sans être pris en charge et même mourir sur un brancard, faute de soins.Que ce soit dans les entreprises ou dans les hôpitaux, le respect des donneurs, des patients et des soignants est une question de volonté politique. Il est temps de s’affranchir d’un management brutal et délétère. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+  },
+  {
+   "orateur": "M. Pierrick Courbon (SOC)",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Je tiens à saluer l’état d’esprit qui a été le nôtre au cours de ce débat, aussi bien en commission qu’en séance publique. Les efforts de chacun nous ont permis de trouver une position d’équilibre, notamment sur ce chiffre de huit jours.Je voudrais rassurer notre collègue Perrine Goulet, en espérant la convaincre et obtenir ainsi un vote à l’unanimité. L’amendement no 15, qui a été adopté, prévoit la remise d’un justificatif précisant l’heure d’arrivée et de départ du donneur : il n’y a donc aucun risque que ces huit autorisations d’absence soient des journées entières d’absence. Personne n’utilisera plus de temps que nécessaire."
+  },
+  {
+   "orateur": "M. Pierrick Courbon",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Face à ce qui constitue un enjeu de souveraineté sanitaire, soit on essaie de trouver des solutions, qui nécessitent effectivement que chacun fasse des efforts, y compris dans le monde de l’entreprise, soit on se satisfait d’importer les deux tiers de notre plasma des États-Unis. Pour notre part, nous ne nous satisfaisons pas de cette deuxième option et nous cherchons des solutions.Le don du sang permet de sauver des vies, et il importe que chacun y prenne sa part, y compris les entreprises. Je suis d’accord avec vous, madame Goulet, au sujet des moyens de l’EFS, qui sont effectivement un angle mort de ce texte. Or, pour renforcer les moyens de l’EFS, il y a un rendez-vous majeur : l’examen du projet de loi de financement de la sécurité sociale. Depuis de nombreuses années, nous avons déposé un certain nombre d’amendements visant à renforcer les moyens de l’EFS sur les plans matériel et humain. Malheureusement, vous avez toujours voté contre ces amendements. (Applaudissements sur plusieurs bancs des groupes SOC et LFI-NFP.) Vous aurez la possibilité de mettre vos actes en cohérence avec vos discours d’ici quelques mois. En attendant, je vous invite toutes et tous à voter pour cette proposition de loi."
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Josiane Corneloup."
+  },
+  {
+   "orateur": "Mme Josiane Corneloup (DR)",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Je veux moi aussi souligner la qualité de nos débats, qui ont été constructifs. Le groupe Droite républicaine votera en faveur de cette proposition de loi qui, cela a été dit, répond à la fois à un impératif de santé publique et à un enjeu de souveraineté sanitaire. C’est un texte équilibré, qui permettra aux salariés et aux agents de s’absenter pour faire don de leur sang, tout en conservant leur rémunération. Nous avons besoin de dons supplémentaires, nous avons besoin de sensibiliser et d’inciter au don. Ce texte répond parfaitement à ces impératifs. Il concilie le soutien au don de sang, de plaquettes et de plasma et la préservation du bon fonctionnement des entreprises. (Applaudissements sur les bancs du groupe DR.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’ensemble de la proposition de loi."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

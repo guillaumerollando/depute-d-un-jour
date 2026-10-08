@@ -1,0 +1,329 @@
+{
+ "uid": "VTANR5L17V2707",
+ "titre": "l'amendement n° 21 de M. Duplessy avant l'article unique de la proposition de loi visant à  protéger l'effectivité du droit fondamental d'éligibilité (première lecture).",
+ "type": "amendement",
+ "date": "2025-06-26",
+ "dossier": "DLR5L17N52087",
+ "dossier_titre": "protéger l’effectivité du droit fondamental d’éligibilité",
+ "sort": "adopté",
+ "positions": {
+  "RN": "contre",
+  "EPR": "pour",
+  "LFI": "pour",
+  "SOC": "pour",
+  "ECOS": "pour",
+  "DEM": "pour",
+  "HOR": "contre",
+  "UDR": "contre"
+ },
+ "voix": {
+  "RN": {
+   "pour": 0,
+   "contre": 104,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 28,
+   "contre": 4,
+   "abstention": 6
+  },
+  "LFI": {
+   "pour": 40,
+   "contre": 0,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 35,
+   "contre": 0,
+   "abstention": 1
+  },
+  "DR": {
+   "pour": 0,
+   "contre": 2,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 27,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 6,
+   "contre": 0,
+   "abstention": 2
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 10,
+   "abstention": 1
+  },
+  "LIOT": {
+   "pour": 0,
+   "contre": 0,
+   "abstention": 1
+  },
+  "GDR": {
+   "pour": 2,
+   "contre": 0,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 0,
+   "contre": 16,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901B1415P0D1N000021",
+  "dossier": "DLR5L17N52087",
+  "texte": "PIONANR5L17B1415",
+  "division": "Article unique",
+  "auteur": "M. Duplessy,  M. Amirshahi, Mme Arrighi, Mme Autain, Mme Balage El Mariky, Mme Belluco, M. Ben Cheikh, M. Biteau, M. Arnaud Bonnet, M. Nicolas Bonnet, Mme Chatelain, M. Corbière, M. Davi, M. Fournier, Mme Garin, M. Damien Girard, M. Gustave, Mme Catherine Hervieu, M. Iordanoff, Mme Laernoes, M. Lahais, M. Lucas-Lundy, Mme Ozenne, M. Peytavie, Mme Pochon, M. Raux, Mme Regol, Mme Sandrine Rousseau, M. Ruffin, Mme Sas, Mme Sebaihi, Mme Simonnet, Mme Taillé-Polian, M. Tavernier, M. Thierry et Mme Voynet",
+  "auteur_groupe": "ECOS",
+  "auteur_type": "Député",
+  "dispositif": "« Chapitre unique « Création d’une justice de classe »",
+  "expose": "Cet amendement du groupe Ecologiste et Social vise à nommer le chapitre unique de cette proposition de loi pour correspondre à la volonté de ses auteurs, à savoir instaurer une loi pénale à double vitesse. Alors que l'article 6 de la Déclaration des droits de l'Homme et du Citoyen dispose que la loi \"doit être la même pour tous, soit qu'elle protège, soit qu'elle punisse\", la proposition de loi vise à n'exclure l'exécution provisoire que pour la peine d'inéligibilité, peine prononcée exclusivement contre les élus. A l'inverse, la peine d'interdiction d'exercer, par exemple, serait toujours applicable, alors qu'elle prive, non d'un mandat, mais d'un emploi."
+ },
+ "seance": "RUANR5L17S2025IDS29584",
+ "compte_rendu": "CRSANR5L17S2025O1N257",
+ "interventions": [
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État, garde des sceaux, ministre de la justice",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Nous débattons d’une proposition de loi qui touche aux fondements de notre vie démocratique : le droit de vote, la possibilité d’être élu et de représenter ses concitoyens, l’exigence d’exemplarité de celles et ceux qui exercent une parcelle de pouvoir public.La question posée est simple : faut-il interdire, de façon générale et définitive, toute exécution provisoire d’une peine d’inéligibilité ? C’était l’essence de la proposition que vous avez déposée, madame la rapporteure, avec votre groupe, avant qu’elle ne soit modifiée et rejetée en commission. Faut-il retirer au juge la faculté d’ordonner, dans certaines circonstances, que l’inéligibilité s’applique sans attendre l’épuisement de toutes les voies de recours ?À la suite de Mme la rapporteure, permettez-moi de rappeler un point essentiel : l’inéligibilité n’est pas une sanction ordinaire. Elle touche à la substance même de notre pacte républicain. Pour restaurer la confiance dans la vie politique et dans la démocratie, le législateur a donc encadré avec rigueur l’usage de cette peine, en renforçant les exigences d’exemplarité pour les élus condamnés pour des faits graves.Mais c’est aussi dans un esprit de responsabilité que la loi a prévu, dans certains cas, la possibilité pour le juge d’ordonner l’exécution provisoire de cette peine. Ce n’est ni un automatisme ni une dérive ; c’est un outil laissé à la libre appréciation du juge, dans le respect du contradictoire, de la présomption d’innocence et de la proportionnalité – vous l’avez rappelé, madame la rapporteure –, afin de garantir l’effectivité des décisions de justice et répondre à l’attente de probité de nos concitoyens.Dans notre droit, les élus ne sont pas les seuls concernés par des mesures provisoires. Le juge peut ainsi prononcer une interdiction d’entrer en contact avec une victime de violences conjugales. La possibilité de retirer l’autorité parentale sans attendre une condamnation a été votée plusieurs fois par presque tous les groupes parlementaires, et ce depuis plus de quarante ans. Pour les faits les plus graves commis en violation d’un sursis, il est possible de révoquer celui-ci et d’ordonner l’incarcération ; c’est une mesure provisoire qui tend à faire cesser le trouble à l’ordre public. Je rappelle que plus de 20 % des détenus sont en détention provisoire, c’est-à-dire avant une éventuelle condamnation.La proposition de loi qui vous est soumise vise à supprimer purement et simplement l’exécution provisoire pour les seuls élus. Elle entend sans doute répondre à une situation particulière et médiatique, à une émotion du moment qui concerne l’un de vos collègues de l’Assemblée nationale – il faut le dire, madame la rapporteure. C’est sans doute là que réside le problème.Nous pouvons réfléchir à l’exécution provisoire et à la place du juge. Comme vous l’avez rappelé en évoquant votre propre cas, madame la rapporteure, il est possible que le juge prenne des décisions paraissant ab irato et contraires à la volonté du peuple. Cette discussion, sans doute noble, permettrait d’éviter le genre de situation dans laquelle vous vous êtes retrouvée.Mais il n’est pas convenable de légiférer dans la circonstance, au moment même où l’affaire en question, certes importante mais qui ne devrait influencer ni le travail du juge ni celui du législateur, se trouve entre la première instance et l’appel. Je pense que chacun reconnaîtra que ce n’est pas une bonne façon de faire la loi."
+  },
+  {
+   "orateur": "M. Charles Alloncle",
+   "qualite": null,
+   "groupe": "UDR",
+   "president_de_seance": false,
+   "texte": "Car cette victoire sera brève, cette victoire est illusoire. Demain, c’est vous qu’elle rattrapera. Souvenez-vous : la Révolution dévore toujours ses propres enfants.Chers collègues, je vous invite à voter pour ce texte parce qu’il protège le droit à l’éligibilité, garantit le droit au recours et préserve la présomption d’innocence. Et parce que jamais – jamais ! – le prétoire ne doit l’emporter sur l’isoloir. (Applaudissements sur les bancs des groupes UDR et RN. – Mme la rapporteure applaudit également.)"
+  },
+  {
+   "orateur": "Mme Prisca Thevenot",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Ils vous ont fait confiance pour lui faire barrage. En marchant avec eux, vous trahissez la confiance qu’ils ont placée en vous.Mes chers collègues, cette bataille n’est pas une bataille partisane. C’est une bataille pour la République, pour l’exemplarité, pour le respect de nos institutions. Votons ensemble contre cette proposition de loi ! (Applaudissements sur les bancs des groupes EPR, Dem et SOC. – Mme Constance de Pélichy applaudit également.)"
+  },
+  {
+   "orateur": "Mme Émeline K/Bidi",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "…la peine est assortie d’une exécution provisoire. Si une personne condamnée à des dommages et intérêts souhaite interjeter appel, elle doit d’abord payer, sinon sa demande d’appel sera rejetée. Nous aurions pu parler du principe de l’exécution provisoire dans son ensemble, mais vous préférez ici défendre l’impunité d’une seule personne, rien qu’une. (Applaudissements sur les bancs des groupes GDR, LFI-NFP, SOC et EcoS.)"
+  },
+  {
+   "orateur": "Mme Émeline K/Bidi",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Peu vous importe que les Français soient opposés à cette proposition de loi ; peu vous importe que ce texte soit indécent et ne soit pas même cohérent avec ce que vous avez défendu auparavant. Vous avez pour seul but de sauver une copine. Vous plaidez ici non pas pour la justice, mais pour l’injustice.Les élus ne sont pas au-dessus de la loi. Ceux qui nous ont élus attendent de nous de l’exemplarité et des propositions plus dignes que celle que vous nous présentez ce matin. Vous n’utilisez pas votre niche parlementaire pour lutter contre la vie chère, ni pour soutenir la justice, ni pour favoriser le logement ; vous l’utilisez pour vous. Nous n’en sommes pas surpris, et c’est aussi sans surprise que nous voterons contre ce texte. (Applaudissements sur les bancs des groupes GDR, LFI-NFP, SOC et EcoS. – Mme Brigitte Liso applaudit également.)"
+  },
+  {
+   "orateur": "M. Boris Vallaud",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Madame la rapporteure, vous ne pouvez-vous revendiquer ni des turpitudes du Rassemblement national, ni de la Constitution, ni de l’ordre conventionnel. Le Conseil constitutionnel et la Cour européenne des droits de l’homme ont validé l’exécution provisoire des peines d’inéligibilité, afin de prévenir la récidive, de s’assurer de l’efficacité des peines, de prôner la probité et l’exemplarité. Vous choisissez non pas le camp de la démocratie, mais celui de la forfaiture et de l’indignité."
+  },
+  {
+   "orateur": "M. Boris Vallaud",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Madame la rapporteure, ce ne sont pas les juges qui gouvernent, ce sont ceux qui gouvernent qui prétendent juger à la place de la justice. (Applaudissements sur quelques bancs du groupe LFI-NFP.) Vous nous avez donné rendez-vous pour examiner une loi qui vise à contourner la loi, une loi pour défaire le droit, une loi pour juger les juges, une loi qui sue l’injustice et transpire le mensonge. Cette loi à laquelle nous nous opposerons, donnons-lui un nom, puisque vous feignez l’ignorer : c’est la loi Le Pen. (Applaudissements sur les bancs des groupes SOC, EcoS et GDR, ainsi que sur plusieurs bancs du groupe LFI-NFP.)"
+  },
+  {
+   "orateur": "M. Olivier Marleix",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "En préambule, je tiens à rappeler que la condamnation qui est le motif principal du dépôt de ce texte est une condamnation pour détournement de fonds publics. On ne parle pas d’une barre chocolatée ! Toutefois, ce texte mérite une véritable réflexion.Souvenons-nous d’abord, comme l’a rappelé madame la rapporteure, que l’exécution provisoire d’une peine d’inéligibilité n’émane pas de la volonté du législateur stricto sensu. Ni la loi Sapin 2 de 2016, ni la loi de 2017 pour la confiance dans la vie politique ne prévoient explicitement cette faculté – j’étais l’orateur de mon groupe sur ces deux textes, et il n’en a jamais été question dans nos débats.C’est par un jeu de renvois législatifs que le juge pénal est autorisé à prononcer l’exécution provisoire d’une peine d’inéligibilité. Jean-Éric Schoettl, ancien secrétaire général du Conseil constitutionnel, l’a souligné dans sa contribution aux travaux de la commission : « Le Parlement n’a pas voulu expressis verbis que le juge pénal puisse prononcer l’exécution provisoire d’une peine d’inéligibilité. Cette faculté n’a été conférée au juge que par ricochet […]. »Venons-en au cœur du sujet : est-il légitime que l’exécution provisoire soit prévue dans notre droit ? Elle est fréquemment prononcée en droit pénal, notamment en matière criminelle. Cela se justifie par des impératifs de sécurité publique, pour éviter la récidive : on ne va pas attendre que le terroriste commette un autre attentat ou que l’assassin qui a tué un enfant commette un nouveau crime pour les enfermer en prison !Toutefois, l’exécution provisoire prononcée en première instance est toujours assortie d’une contrepartie : le droit à réparation en cas de relaxe en appel. Aux termes de l’article 149 du code de procédure pénale, le justiciable a alors droit à une réparation financière, payée par l’État.Au-delà des arguments développés par Mme la rapporteure sur l’effectivité du droit d’éligibilité se pose la question du caractère pertinent et juste de l’exécution provisoire d’une peine d’inéligibilité. Pour un élu, les conséquences sont très spécifiques : il lui sera interdit de se présenter à une élection, avant même l’épuisement des voies de recours."
+  },
+  {
+   "orateur": "M. Olivier Marleix",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Pour lui, les effets seront donc tangibles et impossibles à réparer.Imaginez qu’une candidate à l’élection présidentielle, qui fait figure de favorite – que cela nous plaise ou non, et l’on ne peut guère me suspecter en la matière –, ait l’interdiction de s’y présenter en application d’un jugement rendu en première instance. Imaginez qu’après l’élection à laquelle elle n’a pas pu participer, elle soit relaxée par le jugement rendu en appel – pure hypothèse, en la circonstance. Comment réparer le fait qu’une personne qui aurait pu être élue président de la République n’ait pas pu l’être du fait d’une décision de justice non définitive et annulée postérieurement ? Quelqu’un sait-il chiffrer ce préjudice ?Idéalement, il faudrait que, dans ce type de contentieux, les affaires soient jugées en appel dans un délai très raisonnable, afin d’empêcher qu’une décision de première instance ait des conséquences irréversibles. Actuellement, les moyens de la justice ne le garantissent pas. J’espère, monsieur le ministre d’État, que dans l’affaire qui motive cette proposition de loi, ce sera le cas, et que tout sera tranché définitivement avant 2027 ; c’est un véritable enjeu démocratique.Soyons clairs : nous tenons à la loi Sapin 2, qui mériterait d’ailleurs d’être appliquée avec plus de vigueur dans d’autres types d’affaires – le plan national de lutte contre la corruption se fait attendre depuis 2024. Cette loi a marqué une avancée indispensable dans la moralisation de la vie politique, en rendant obligatoire le prononcé de la peine d’inéligibilité en cas d’atteinte à la probité, et il n’est pas question de remettre en cause cette disposition.Le présent texte ne revient pas sur cette exigence. Il ne supprime pas la peine et ne diminue pas sa portée. Il rétablit simplement un équilibre fondamental, celui de la présomption d’innocence, du double degré de juridiction et du respect du suffrage universel. Il ne devrait pas y avoir d’exécution provisoire s’il n’y a pas de réparation possible. C’est au nom de ce principe que les députés de la Droite républicaine voteront en faveur de cette proposition de loi. (Applaudissements sur les bancs des groupes DR, RN et UDR.)"
+  },
+  {
+   "orateur": "M. Éric Ciotti",
+   "qualite": null,
+   "groupe": "UDR",
+   "president_de_seance": false,
+   "texte": "Ma mère est tétraplégique. Elle a été victime d’un AVC, il y a vingt-quatre ans. Elle est sur un lit de souffrance. Elle est nourrie artificiellement. Elle est sous respirateur. Vous m’obligez à évoquer sa situation personnelle… (Applaudissements sur les bancs des groupes UDR et RN. – M. Sylvain Berrios applaudit également)"
+  },
+  {
+   "orateur": "M. Sébastien Chenu",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "…mettre en cause personnellement non seulement le président Ciotti, mais aussi sa vie privée, par des propos particulièrement outrageants. Ce collègue s’est peut-être cru malin, mais il a profondément dégradé sa fonction ainsi que notre institution. (Applaudissements sur les bancs des groupes RN et UDR. – M. François-Xavier Ceccoli applaudit également.) Tout n’est pas permis : il n’est pas acceptable de mettre en cause la vie privée, la santé de nos collègues ou de membres de leur famille. Nous nous gardons bien d’évoquer les addictions de certains à l’alcool ou à la drogue,…"
+  },
+  {
+   "orateur": "M. Sébastien Chenu",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "…aussi est-il inadmissible de viser la famille du président Ciotti. (Applaudissements sur les bancs des groupes RN et UDR.) Nous demandons officiellement que ce député d’extrême gauche lui présente des excuses, ainsi qu’à l’ensemble de la représentation nationale. (Applaudissements sur les bancs des groupes RN et UDR. – M. François-Xavier Ceccoli applaudit également.)"
+  },
+  {
+   "orateur": "M. Alexis Corbière",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Le style, c’est l’homme ! Vous pouvez juger vifs les propos de mon collègue, mais franchement, vous en faites des tonnes ! (Exclamations sur les bancs des groupes RN et UDR.) Vous passez votre temps à nous injurier, à nous qualifier d’amis des assassins ou des terroristes, à nous traiter de tous les noms, et ce sans aucun fondement ni preuve ! (Protestations sur les mêmes bancs.) Vous mettez en cause notre honneur en permanence, sans que cela vous choque ! (Applaudissements sur les bancs des groupes EcoS, LFI-NFP et GDR.) Cela démontre le caractère grotesque de votre réaction ! (Les protestations redoublent sur les bancs des groupes RN et UDR. – Brouhaha.)Nous saisirons le bureau de l’Assemblée, monsieur le président, car ces donneurs de leçons ont traité M. Duplessy d’« abruti » et de « demeuré » ! Les insulteurs, c’est eux ! (Applaudissements sur les bancs des groupes EcoS, LFI-NFP et GDR.)"
+  },
+  {
+   "orateur": "M. Philippe Vigier",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "…fût-il médiatique ou électoral. Ces principes, et non les intérêts d’un jour – aussi réels soient-ils –, doivent guider le législateur.De quoi parlons-nous exactement ? L’exécution provisoire n’est ni nouvelle ni exceptionnelle : elle est prévue par notre droit en matière civile comme en matière pénale, afin de garantir l’effectivité des décisions rendues ; elle permet d’éviter qu’un appel ou un recours dilatoire ne prive la sanction de toute portée concrète. Pour la peine d’inéligibilité, elle est laissée à l’appréciation du juge – Olivier Marleix l’a souligné –, dans le cadre d’un débat contradictoire. Il ne s’agit donc pas d’un mécanisme automatique, mais d’un outil que le législateur a mis à la disposition du juge, lequel peut décider, seul ou de manière collégiale, d’en user.Chacun sait que la peine d’inéligibilité n’est ni automatique ni arbitraire. Il s’agit d’une peine complémentaire encadrée par la loi et soumise à un strict contrôle de proportionnalité. Si elle est assortie d’une exécution provisoire, c’est parce que le juge estime que l’atteinte portée à la probité publique le justifie. Cela n’a rien d’un excès : il s’agit de tenir compte, de manière équilibrée, de la gravité des faits et de l’exemplarité attendue de la fonction. Telle est la boussole du juge : porter un regard sur les faits, assurer l’individualisation de la peine. C’est parce qu’elles ont été pensées ensemble que ces deux dispositions – la peine d’inéligibilité et l’exécution provisoire – doivent rester liées. Les dissocier reviendrait à neutraliser l’une par l’autre, et à affaiblir l’autorité judiciaire.Au-delà de son fondement juridique, la proposition de loi nous amène à nous interroger sur notre responsabilité en tant que législateurs. Peut-on, sous couvert de corriger une décision judiciaire, légiférer dans l’urgence, au gré des circonstances, sous la pression d’une émotion collective – que je peux comprendre – ou d’un agenda électoral ? Tout se ramène au bout du compte à une seule question : le législateur peut-il prévoir une exception au nom d’un statut, en l’occurrence celui d’élu ? Le Conseil constitutionnel l’a récemment rappelé avec force : il ne peut exister de régime d’exécution différencié selon que l’on est citoyen ou élu. Être élu ne protège donc pas. Mieux : être élu engage. Le mandat électif suppose l’exemplarité, pas la présomption d’impunité.Des réserves juridiques ont été émises sur ce texte. S’il était adopté, il pourrait avoir des effets rétroactifs, en vertu du principe de l’application immédiate de la loi pénale plus douce. Il aboutirait ainsi à suspendre une peine déjà prononcée mais non définitive. Ce serait une forme d’amnistie déguisée, votée en réalité pour une seule et même personne – je pense évidemment à Mme Le Pen. Le message envoyé aux Français serait désastreux, dégradant encore l’image des élus dans l’opinion, comme l’a évoqué un orateur précédent. Les décisions de justice seraient donc pleinement exécutoires dès la première instance, sauf lorsqu’elles concernent un élu ? Tout le monde se réfère au peuple de France, or 64 % de nos concitoyens se déclarent opposés à la suppression de l’exécution provisoire.Il est certes possible d’invoquer la présomption d’innocence et de regretter que l’exécution provisoire ne puisse pas faire l’objet d’un appel. Rappelons néanmoins que, dans le cas de Mme Le Pen, un nouveau procès aura lieu à l’été 2026. On comprend l’émotion particulière que cela suscite à l’approche de l’élection présidentielle, mais toute décision de justice, quand bien même elle serait imparfaite, est prise à l’issue d’un débat contradictoire, et seulement sur ce fondement. Il ne nous revient pas de légiférer au bénéfice de quelques-uns à l’occasion d’une niche parlementaire. Que dirions-nous alors aux chefs d’entreprise ou aux professions réglementées qui, dans nos prétoires, peuvent eux aussi se voir infliger – j’en connais – une exécution provisoire ?"
+  },
+  {
+   "orateur": "M. Philippe Vigier",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "« Ce n’est pas pour vous, uniquement pour les élus ! » Est-ce le message que nous voulons envoyer aux Français ?Le groupe Les Démocrates considère que toute réforme de l’exécution des peines d’inéligibilité doit s’inscrire dans une réflexion globale. Nous ne fermons pas la porte à une telle discussion, équilibrée et dégagée des circonstances, mais nous nous opposons à toute réflexion partielle. L’exemplarité démocratique à laquelle nous sommes tenus ne peut pas être à géométrie variable. Nous croyons à l’universalité du droit, nous refusons les régimes d’exception, nous respectons l’autorité judiciaire et l’État de droit. Aussi voterons-nous contre la proposition de loi. (Applaudissements sur les bancs des groupes Dem et EPR. – M. Romain Eskenazi applaudit également.)"
+  },
+  {
+   "orateur": "Mme Agnès Firmin Le Bodo",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "La présente proposition de loi vise à priver le juge de la possibilité d’assortir d’une exécution provisoire les peines d’inéligibilité et d’interdiction du droit de vote. Ce dispositif appelle au moins deux observations.Premièrement, le champ de la peine d’interdiction des droits civiques, civils et de famille, défini à l’article 131-26 du code pénal, est plus large que les seules peines d’interdiction du droit de vote et du droit d’éligibilité que vise la proposition de loi. Avec ce texte, les autres peines d’interdiction prévues à l’article 131-26 du code pénal – l’interdiction du droit d’exercer une fonction juridictionnelle ou du droit d’être tuteur ou curateur – ne seraient pas exclues de l’exécution provisoire. L’on peut être en désaccord avec l’exécution provisoire, qui permet au juge de faire exécuter une peine, sans possibilité d’obtenir sa suspension en faisant appel, mais, dans ce cas, ne faudrait-il pas la remettre en question dans son intégralité ? Il est indéniable que l’exécution provisoire d’une peine d’inéligibilité, qui peut conduire à démettre un élu de son mandat, au cours de celui-ci, sans véritable possibilité d’appel, a des conséquences démocratiques notoires. Mais dans ce cas, il convient de faire preuve de transparence en affichant un peu plus clairement le but de cette proposition de loi : revenir sur une décision de justice rendue ou à venir.Deuxièmement, la loi, expression de la raison, doit être, comme cette dernière, générale et impersonnelle. Or il est indéniable que la présente proposition de loi vise une affaire judiciaire en cours et que son adoption aurait un impact significatif sur cette affaire, compte tenu du principe de l’application immédiate des lois pénales plus douces.Le groupe Horizons & indépendants tient à interroger la représentation nationale quant à la conformité du présent texte au principe selon lequel la loi est l’expression de la volonté générale. Ce principe, inscrit à l’article 6 de la Déclaration des droits de l’homme et du citoyen, est fondamental. Il garantit la souveraineté du peuple et représente un rempart majeur contre les petites affaires. Avec ce texte, chers collègues du groupe UDR, vous risquez de le battre en brèche."
+  },
+  {
+   "orateur": "Mme Agnès Firmin Le Bodo",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "Ce texte porte également atteinte à l’image de l’ensemble des parlementaires et à la confiance que nos concitoyens nous témoignent. Madame la rapporteure, si l’on peut comprendre certains de vos propos, le moment choisi pour examiner cette proposition de loi répond, contrairement à ce que vous avez affirmé, à une urgence médiatique et politique."
+  },
+  {
+   "orateur": "Mme Constance de Pélichy",
+   "qualite": null,
+   "groupe": "LIOT",
+   "president_de_seance": false,
+   "texte": "En interdisant l’exécution provisoire pour l’inéligibilité, indépendamment du crime auquel l’individu est condamné, le groupe UDR accepte qu’une personne condamnée pour terrorisme, pour homicide ou pour viol puisse se présenter à des élections en attendant le verdict en appel. (Applaudissements sur les bancs des groupes LFI-NFP, SOC et EcoS.)"
+  },
+  {
+   "orateur": "Mme Constance de Pélichy",
+   "qualite": null,
+   "groupe": "LIOT",
+   "president_de_seance": false,
+   "texte": "…et à la capacité de l’autorité judiciaire à trancher chaque situation en toute indépendance et en toute impartialité. Cette proposition de loi, en affaiblissant notre système judiciaire, en créant une impunité de fait pour les élus condamnés, tourne le dos à cette exigence de justice et à toutes les valeurs républicaines et démocratiques de notre pays. Notre groupe votera donc fermement contre. (Applaudissements sur les bancs du groupe LIOT et sur plusieurs bancs des groupes EPR, LFI-NFP, SOC, EcoS et Dem.)"
+  },
+  {
+   "orateur": "M. Sacha Houlié",
+   "qualite": null,
+   "groupe": "NI",
+   "president_de_seance": false,
+   "texte": "Quel paradoxe – un de plus – que de réclamer sans cesse une meilleure exécution des peines tout en cherchant à vous y soustraire ! L’exécution provisoire assure également la célérité, toute relative, d’un processus judiciaire dont vous êtes souvent les premiers à déplorer la lenteur. (Exclamations sur les bancs du groupe RN.) À ce stade, je n’ose plus dénombrer les paradoxes de votre démarche !L’exécution provisoire, vous le savez, ne tombe pas du ciel : la Cour de cassation et le Conseil constitutionnel affirment, dans les termes de ce dernier, qu’elle doit permettre « d’assurer, en cas de recours, l’efficacité de la peine et de prévenir la récidive ». C’est là l’une des motivations du jugement rendu le 31 mars dernier."
+  },
+  {
+   "orateur": "M. Sacha Houlié",
+   "qualite": null,
+   "groupe": "NI",
+   "president_de_seance": false,
+   "texte": "En somme, cette exécution provisoire participe à la bonne administration de la justice et il n’y a pas lieu de procéder à sa suppression. J’observe d’ailleurs qu’elle ne vous pose problème qu’en matière pénale, puisqu’en matière disciplinaire, dans le droit de la fonction publique ou le droit du travail, l’interruption de travail décidée avant même la fin des poursuites est souvent de droit, afin de préserver la cohésion du groupe de travail et la confiance des citoyens. Vous n’avez jamais remis non plus en question les interdictions d’exercer prévues par le code pénal.Il fut une époque où l’extrême droite clamait – de façon déjà mensongère – qu’elle avait la tête haute et les mains propres. Après le jugement du 31 mars, vous êtes pourtant sortis la tête basse et les mains sales du tribunal correctionnel de Paris. (Applaudissements sur quelques bancs du groupe SOC. – Mme Brigitte Liso applaudit également.) Ni aujourd’hui ni demain, nous ne prêterons nos têtes et nos mains à votre sale besogne. (Applaudissements sur quelques bancs du groupe EPR et sur plusieurs bancs des groupes SOC, Dem et EcoS.)"
+  },
+  {
+   "orateur": "Mme Brigitte Barèges",
+   "qualite": "rapporteure",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "…d’accepter que ses effets soient suspendus jusqu’à ce que la décision définitive soit prononcée par la cour d’appel ou par la Cour de cassation. (Applaudissements sur les bancs des groupes RN et UDR.)Je ne prends pas la peine de relever vos remarques désagréables nous accusant de vouloir une loi d’exception ou une loi d’amnistie,…"
+  },
+  {
+   "orateur": "M. Florent Boudié",
+   "qualite": "président de la commission des lois",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Les recours et les appels, enfin, permettent de s’assurer qu’une erreur d’appréciation n’a pas été commise en première instance. (Exclamations sur les bancs des groupes RN et UDR.)Enfin, je reviens sur le point qui me semble le plus important pour nous, représentants de la souveraineté nationale.Cette proposition de loi ne protège en rien les droits des justiciables – en rien ! En revanche, elle nous fait courir le risque d’introduire une profonde iniquité dans la justice pénale. (Applaudissements sur plusieurs bancs des groupes EPR, SOC, EcoS et Dem.)Ne pouvons-nous pas déjà, par exemple, interdire provisoirement à un condamné de se présenter en ville ? Il s’agit pourtant d’une liberté fondamentale, celle d’aller et de venir.Ne pouvons-nous pas déjà interdire à un condamné d’exercer sa profession, qu’il soit médecin, enseignant, artisan ou commerçant, même en première instance ?"
+  },
+  {
+   "orateur": "M. Florent Boudié",
+   "qualite": "président de la commission des lois",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "C’est profondément inéquitable – et je ne parle pas uniquement de la situation qui a suscité cette proposition de loi. Je comprends le débat ; il est légitime.Mais, je le répète, un tel dispositif est profondément inéquitable. Il me semble au contraire que l’exercice d’un mandat électif exige de nous une exemplarité immédiate – immédiate ! (Applaudissements sur plusieurs bancs des groupes EPR, SOC, EcoS et Dem. – Mme Elsa Faucillon applaudit également.)"
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Faire semblant de confondre syndicats et magistrats, c’est profondément inacceptable – et antirépublicain.Vous oubliez de rappeler que dans le cas du Syndicat de la magistrature, concernant l’affaire dite du mur des cons, la justice a déjà prononcé des condamnations. J’étais le camarade d’Anne-Lorraine Schmitt à l’institut d’études politiques de Lille, et je connais le drame qui a touché sa famille. Mais cette ignominie – confondre son père avec les assassins de sa fille – a été, je le répète, condamnée par la justice. (M. Charles Alloncle s’exclame.)Ne pas rappeler cette condamnation, c’est faire comme si vous aviez droit à l’expression, mais pas les syndicats.Pour ma part, je défends toutes les libertés syndicales : celles du syndicat Alliance comme celles du Syndicat de la magistrature. Je ne confonds pas les syndicats et les représentants syndicaux avec les magistrats ou les policiers."
+  },
+  {
+   "orateur": "M. Gérald Darmanin",
+   "qualite": "ministre d’État",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "En l’espèce, monsieur Bompard, je visais le groupe Écologiste et social, qui m’a interrogé sur la mise en examen de militants écologistes. (Exclamations sur les bancs du groupe LFI-NFP.) Mais si vous vous êtes senti concerné, je ne corrigerai pas votre propos. (Sourires et applaudissements sur quelques bancs du groupe EPR.)"
+  },
+  {
+   "orateur": "M. Emmanuel Duplessy",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Il s’agit d’ajouter un chapitre unique intitulé : « Création d’une justice de classe ». (Applaudissements sur les bancs du groupe EcoS et sur quelques bancs du groupe LFI-NFP.)Plusieurs intervenants l’ont rappelé : cette proposition de loi est un texte d’exception, pensé pour quelques cas particuliers – notamment celui de Mme Le Pen. L’exécution provisoire ne concerne pas uniquement la peine d’inéligibilité, mais les conséquences de cette dernière ne s’appliquent qu’aux élus, c’est-à-dire aux personnes en situation de pouvoir.Nous souhaitons dénoncer l’instauration d’une justice de classe. En effet, l’exécution provisoire peut avoir des conséquences très lourdes, notamment l’interdiction d’exercer une profession, ce qui peut entraîner des effets tout aussi graves – voire davantage – que l’interdiction d’exercer un mandat.Très clairement, ce texte ne traite pas de la question de l’exécution provisoire dans sa globalité. Il ne s’y intéresse que lorsqu’elle gêne des élus condamnés pour corruption. Ce n’est pas admissible. Il faut nommer les choses avec clarté ; c’est pourquoi nous vous proposons ce chapitre introductif. (Applaudissements sur les bancs des groupes EcoS et LFI-NFP.)"
+  },
+  {
+   "orateur": "Mme Brigitte Barèges",
+   "qualite": "rapporteure",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Vous proposez de créer une sorte de sous-titre à cette proposition de loi. C’est assez amusant, mais c’est surtout ridicule.Lors de la discussion générale, j’ai déjà répondu à tous les arguments accusant ce texte de réserver aux élus un traitement privilégié.Vous l’avez vous-même rappelé : l’exécution provisoire concerne chaque année environ 1 000 condamnations à une peine d’inéligibilité ; ce n’est pas négligeable. Et il ne s’agit pas uniquement d’élus, bien au contraire : seuls 5 % des concernés sont des élus."
+  },
+  {
+   "orateur": "Mme Gabrielle Cathala",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Je voterai cet amendement. Nous l’avons dit lors de la discussion générale, il s’agit d’une disposition d’exception, pensée pour ne s’appliquer qu’à Mme Le Pen.M. Ciotti a choisi d’inscrire ce texte en deuxième position dans l’ordre du jour de sa niche parlementaire. Et pendant ce temps, nous ne discutons ni de pouvoir d’achat, ni d’environnement, ni de démocratie, ni de santé – les sujets qui préoccupent réellement les Français. (Applaudissements sur les bancs du groupe LFI-NFP et sur quelques bancs des groupes SOC et EcoS.)Si la proposition de loi de M. Ciotti est un texte d’exception, le programme de Mme Le Pen prévoit lui aussi une justice d’exception. On y parle de fraude sociale, mais jamais de délinquance en col blanc, de fraude fiscale ou des fraudes des grandes entreprises. (Applaudissements sur plusieurs bancs des groupes LFI-NFP et EcoS. – Exclamations sur les bancs des groupes RN et UDR.)Les condamner, ce serait risquer de remplir les prisons – celles que Mme Le Pen veut remplir avec de petits délinquants, pour des délits qui, selon nous, devraient être abrogés. (Exclamations sur les bancs du groupe RN.)Dans le programme de Mme Le Pen, on trouve aussi une justice à deux vitesses pour les mineurs – une justice extrêmement répressive. Je me réjouis que la semaine dernière, le Conseil constitutionnel ait censuré la loi de M. Attal, adoptée grâce aux voix du Rassemblement national. (Applaudissements sur les bancs du groupe LFI-NFP et sur quelques bancs du groupe SOC.)Enfin, le programme de Mme Le Pen, c’est une justice à deux vitesses en matière de discriminations. Car on vous entend – et sur ce point, nous sommes d’accord – lorsqu’il s’agit d’infractions subies par les agents publics : policiers, douaniers, surveillants pénitentiaires."
+  },
+  {
+   "orateur": "Mme Gabrielle Cathala",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Mais pour les autres citoyens, ceux qui sont victimes de préjudices – personnes racisées, personnes LGBT, femmes –, là, on ne vous entend pas.Dans votre programme, vous prévoyez même de détricoter le droit relatif aux discriminations et celui du travail. (Applaudissements sur les bancs du groupe LFI-NFP et sur quelques bancs du groupe SOC.)"
+  },
+  {
+   "orateur": "Mme Prisca Thevenot",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Nous voterons cet amendement de réécriture (Exclamations sur les bancs des groupes RN et UDR), parce qu’il faut appeler un chat un chat. (Applaudissements sur quelques bancs des groupes EPR, LFI-NFP et SOC. – Vives exclamations sur les bancs des groupes RN et UDR.)Ce qui est triste, avec l’extrême droite, c’est que lorsqu’elle est élue pour siéger, soit elle ne siège pas – et finalement, c’est peut-être mieux – soit, lorsqu’elle siège, c’est pour proposer des lois non pas pour les Français, non pas pour les classes populaires, mais pour elle-même ! (Applaudissements sur quelques bancs du groupe EPR. – Vives exclamations sur les bancs des groupes RN et UDR.)"
+  },
+  {
+   "orateur": "M. José Beaurain",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Et qui est dans les cent premiers les plus présents ?"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Nous allons procéder par scrutin public. Je mets aux voix l’amendement no 21."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

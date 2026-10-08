@@ -1,0 +1,92 @@
+"""Étape 4 : exporter le paquet final pour l'application (app/public/data/).
+
+- groupes.json : groupes dans l'ordre usuel de l'hémicycle, avec nom, sigle et couleur officiels
+- cartes.json  : cartes du paquet final, avec le vote nominatif de chaque député
+- deputes.json : nom, groupe et département des députés ayant voté sur ces cartes
+- meta.json    : date des données, volumes, adresse du dépôt
+"""
+import glob
+import json
+import os
+
+from commun import ALIAS, GROUPES, ORDRE, RACINE, RAW, charger_json, ecrire_json
+from etape2_extraits import appartenances, groupe_a_la_date
+
+SORTIE = RACINE / "app" / "public" / "data"
+DEPOT = os.environ.get("DEPOT", "https://github.com/guillaumerollando/depute-d-un-jour")
+SIGLES = {"LFI": "LFI-NFP", "UDR": "UDR"}
+
+
+def acteurs():
+    """acteur -> (nom affiché, département du mandat de la 17e législature)."""
+    res = {}
+    for f in glob.glob(str(RAW / "amo30/json/acteur/*.json")):
+        a = charger_json(f)["acteur"]
+        uid = a["uid"]["#text"] if isinstance(a["uid"], dict) else a["uid"]
+        ident = a["etatCivil"]["ident"]
+        mandats = a.get("mandats", {}).get("mandat") or []
+        mandats = mandats if isinstance(mandats, list) else [mandats]
+        dep = None
+        for m in mandats:
+            if m.get("typeOrgane") == "ASSEMBLEE" and str(m.get("legislature")) == "17":
+                lieu = (m.get("election") or {}).get("lieu") or {}
+                dep = lieu.get("departement") if isinstance(lieu.get("departement"), str) else dep
+        res[uid] = (f"{ident['prenom']} {ident['nom']}", dep)
+    return res
+
+
+def main():
+    cartes = charger_json(RACINE / "data/publie/cartes.json")
+    bruts = {}
+    for f in glob.glob(str(RAW / "scrutins/json/*.json")):
+        s = charger_json(f)["scrutin"]
+        bruts[s["uid"]] = s
+
+    # Sièges : effectif de chaque groupe au dernier scrutin
+    dernier = max(bruts.values(), key=lambda s: (s["dateScrutin"], int(s["numero"])))
+    sieges = {}
+    for g in dernier["ventilationVotes"]["organe"]["groupes"]["groupe"]:
+        gid = GROUPES.get(ALIAS.get(g["organeRef"], g["organeRef"]))
+        if gid:
+            sieges[gid] = int(g["nombreMembresGroupe"])
+
+    groupes = []
+    for gid in ORDRE:
+        ref = next(k for k, v in GROUPES.items() if v == gid)
+        o = charger_json(glob.glob(str(RAW / f"amo30/**/{ref}.json"), recursive=True)[0])["organe"]
+        groupes.append({"id": gid, "sigle": SIGLES.get(gid, o["libelleAbrev"]), "nom": o["libelle"],
+                        "couleur": o["couleurAssociee"], "sieges": sieges.get(gid, 0)})
+
+    noms, app = acteurs(), appartenances()
+    index_deputes, deputes = {}, []
+
+    def idx(acteur, date):
+        if acteur not in index_deputes:
+            nom, dep = noms.get(acteur, (acteur, None))
+            index_deputes[acteur] = len(deputes)
+            deputes.append({"nom": nom, "groupe": groupe_a_la_date(app, acteur, date), "departement": dep})
+        return index_deputes[acteur]
+
+    sortie = []
+    for c in cartes:
+        votes = {"p": [], "c": []}
+        for g in bruts[c["uid"]]["ventilationVotes"]["organe"]["groupes"]["groupe"]:
+            nominatif = g["vote"].get("decompteNominatif") or {}
+            for cle, cat in (("p", "pours"), ("c", "contres")):
+                v = (nominatif.get(cat) or {}).get("votant") if isinstance(nominatif.get(cat), dict) else None
+                for x in ([v] if isinstance(v, dict) else v or []):
+                    votes[cle].append(idx(x["acteurRef"], c["date"]))
+        sortie.append({k: c[k] for k in ("uid", "numero", "date", "type", "theme", "titre", "ce_que_ca_change",
+                                          "contexte", "resultat", "positions", "neutralises", "citations", "liens")}
+                      | {"socle": c.get("socle", False), "deputes": votes})
+
+    meta = {"date_donnees": dernier["dateScrutin"], "scrutins_analyses": len(bruts), "cartes": len(sortie), "depot": DEPOT}
+    for nom, contenu in (("groupes", groupes), ("cartes", sortie), ("deputes", deputes), ("meta", meta)):
+        SORTIE.mkdir(parents=True, exist_ok=True)
+        with open(SORTIE / f"{nom}.json", "w", encoding="utf-8") as f:
+            json.dump(contenu, f, ensure_ascii=False, separators=(",", ":"))
+    print(f"Exporté : {len(groupes)} groupes, {len(sortie)} cartes, {len(deputes)} députés → {SORTIE}")
+
+
+if __name__ == "__main__":
+    main()

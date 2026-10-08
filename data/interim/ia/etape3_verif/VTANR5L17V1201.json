@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V1201",
+  "consigne": "etape3_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "Le titre « effets de la nouvelle définition du viol dans le couple » laisse croire que la nouvelle définition concerne spécifiquement le couple, alors qu'elle est générale ; le rapport porte sur ses effets pour les violences sexuelles commises dans le couple."
+  ],
+  "corrections": {
+    "titre": "Demander un rapport sur la redéfinition du viol et les violences sexuelles dans le couple"
+  }
+}

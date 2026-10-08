@@ -1,0 +1,12 @@
+{
+  "uid": "VTANR5L17V1054",
+  "consigne": "etape3_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "Le résumé omet que le placement est prévu « à titre exceptionnel » (article L. 224-5).",
+    "« Ils y subissent » est connoté ; le texte dit « font l'objet »."
+  ],
+  "corrections": {
+    "ce_que_ca_change": "L'article supprimé permet au ministre de la Justice de placer, à titre exceptionnel et pour quatre ans renouvelables, des détenus majeurs liés au crime organisé dans des quartiers spéciaux. Ils y font l'objet de fouilles corporelles complètes systématiques après un contact non surveillé, de parloirs avec séparation (adaptés pour les enfants) et d'un accès limité au téléphone."
+  }
+}

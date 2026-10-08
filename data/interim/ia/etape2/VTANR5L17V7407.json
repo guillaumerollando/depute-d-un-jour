@@ -1,0 +1,69 @@
+{
+  "uid": "VTANR5L17V7407",
+  "consigne": "etape2_ambiguite v2",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Marine Le Pen",
+      "citation": "Voilà donc comment nous concevons l’autonomie insulaire, et cela me semble consensuel.",
+      "justification": "Le groupe, auteur de l'amendement, présente sa conception de l'autonomie insulaire et vote pour."
+    },
+    "EPR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Pierre Cazeneuve",
+      "citation": "Sur le fond, votre argumentation a été démontée point à point par le rapporteur Boudié.",
+      "justification": "Le groupe déclare s'opposer au contenu de l'amendement de réécriture et vote contre."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Ugo Bernalicis",
+      "citation": "cet amendement qui n’a ni queue ni tête et qui est rédigé avec les pieds – il dit tout et son contraire.",
+      "justification": "Le groupe déclare s'opposer au contenu de l'amendement et vote contre."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Marc Pena",
+      "citation": "C’est cela que vous nous proposez, et ceci sans autonomie législative. C’est une blague !",
+      "justification": "Le groupe déclare s'opposer au contenu de l'amendement, qui ne prévoit pas d'autonomie législative, et vote contre."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Sandra Regol",
+      "citation": "Je serai brève, car il nous reste six minutes avant de voter contre cet amendement. Les collègues l’ont dit à de nombreuses reprises, c’est un refus démocratique.",
+      "justification": "Le groupe déclare s'opposer à l'amendement, qu'il qualifie de refus démocratique, et vote contre."
+    },
+    "DEM": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Jean-Paul Mattei",
+      "citation": "Ce texte est particulièrement équilibré.",
+      "justification": "L'orateur du groupe déclare soutenir la rédaction actuelle du texte que l'amendement réécrit, et le groupe vote contre."
+    },
+    "HOR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "L'orateur du groupe s'exprime sur les amendements de suppression et non sur cet amendement."
+    },
+    "LIOT": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Paul-André Colombani",
+      "citation": "Je suis opposé à la préférence régionale",
+      "justification": "Le groupe déclare s'opposer au contenu de l'amendement, dont la préférence régionale et l'absence de pouvoir législatif, et vote contre."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    }
+  }
+}

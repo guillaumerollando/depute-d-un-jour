@@ -1,0 +1,212 @@
+{
+ "uid": "VTANR5L17V3878",
+ "titre": "l'amendement n° 119 de M. de Courson à l'article premier du projet de loi de finances de fin de gestion pour 2025 (première lecture).",
+ "type": "amendement",
+ "date": "2025-11-18",
+ "dossier": "DLR5L17N53135",
+ "dossier_titre": "Projet de loi de finances de fin de gestion pour 2025",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "contre",
+  "LFI": "contre",
+  "SOC": "contre",
+  "DR": "pour",
+  "ECOS": "contre",
+  "DEM": "contre",
+  "HOR": "contre",
+  "LIOT": "pour",
+  "UDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 69,
+   "contre": 0,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 0,
+   "contre": 27,
+   "abstention": 1
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 28,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 0,
+   "contre": 27,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 17,
+   "contre": 2,
+   "abstention": 2
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 10,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 1,
+   "contre": 13,
+   "abstention": 1
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 5,
+   "abstention": 2
+  },
+  "LIOT": {
+   "pour": 6,
+   "contre": 0,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 0,
+   "contre": 1,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 10,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901B2068P0D1N000119",
+  "dossier": "DLR5L17N53135",
+  "texte": "PRJLANR5L17B2068",
+  "division": "ARTICLE 1",
+  "auteur": "M. de Courson,  M. Castellani, Mme Sanquer et M. Taupiac",
+  "auteur_groupe": "LIOT",
+  "auteur_type": "Député",
+  "dispositif": "À la fin, substituer au montant : « 3 959 580 513 euros », le montant : « 3 959 080 513 euros ».",
+  "expose": "Le présent amendement vise à minorer de 500 000 euros la hausse prévue à l’article 1 er du projet de loi de finances de fin de gestion pour 2025, relative au montant de la fraction de taxe sur la valeur ajoutée affectée au compte de concours financiers « Avances à l’audiovisuel public ». Cette réduction symbolique traduit une réserve sur la sincérité et la qualité du pilotage budgétaire de certaines composantes de l’audiovisuel public, en particulier s’agissant des ajustements opérés pour TV5 Monde et ARTE France. Les mouvements constatés (+0,7 M€ pour TV5 Monde et –0,2 M€ pour ARTE France) résultent d’erreurs d’anticipation relatives au niveau des taxes sur les salaires."
+ },
+ "seance": "RUANR5L17S2026IDS29931",
+ "compte_rendu": "CRSANR5L17S2026O1N057",
+ "interventions": [
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Charles de Courson, pour soutenir l’amendement no 119."
+  },
+  {
+   "orateur": "M. Charles de Courson",
+   "qualite": null,
+   "groupe": "LIOT",
+   "president_de_seance": false,
+   "texte": "Il s’agit d’un petit amendement de principe. On nous demande de rehausser la dotation de l’audiovisuel public de 10,4 millions d’euros, dont 9,9 millions consistent en « crédits alloués à France Médias Monde afin de compenser la régularisation payée par l’entreprise au titre de la TVA sur les achats internationaux hors UE du fait de la perte de son droit à déductibilité de TVA ». À la limite, pourquoi pas ?En revanche, bien qu’il ne s’agisse pas de grosses sommes, quand vous lisez – je cite toujours l’exposé des motifs de l’article 1er – qu’il faut 700 000 euros de plus à TV5 Monde « en raison d’un niveau de taxe sur les salaires plus élevé qu’initialement prévu » et 200 000 euros de moins à Arte France « dans la mesure où l’entreprise a payé moins de taxe sur les salaires que prévu », vous vous évanouissez ! Ne sont-ils pas capables de prévoir le niveau de cette taxe ? Ce n’est pas sérieux ! En outre, un budget se gère globalement : pourquoi nous demander de compenser ligne par ligne ?D’où cet amendement visant à minorer de 500 000 euros, soit la différence entre les deux sommes que je viens de mentionner, la hausse prévue. Il nous faut montrer que nous ne sommes pas là pour acter une mauvaise gestion ; si je présidais l’une de ces institutions, j’aurais honte de révéler que je me suis trompé dans le calcul de la taxe sur les salaires. Il y a quelques chefs d’entreprise parmi vous, chers collègues : je ne sais pas ce qu’ils en pensent, mais moi, je n’oserais pas réclamer !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis de la commission ?"
+  },
+  {
+   "orateur": "M. Philippe Juvin",
+   "qualite": "rapporteur général",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Nous nous situons là à la marge : 0,3 % des budgets de TV5 Monde et d’Arte, 500 000 euros sur les 4 milliards alloués à l’audiovisuel public."
+  },
+  {
+   "orateur": "M. Pierre Cordier",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Ce n’est pas le montant qui est en cause, c’est le motif !"
+  },
+  {
+   "orateur": "M. Philippe Juvin",
+   "qualite": "rapporteur général",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "En raison du remplacement de la contribution à l’audiovisuel public par une taxe affectée, elle-même non soumise à la TVA, ces sociétés ont été assujetties à la taxe sur les salaires – dont il est prévu qu’elle soit compensée. Il y a en la matière 0,3 % de différence entre la somme effective et les prévisions établies en début d’année, mais cette affaire, pour les finances publiques, reste neutre : par l’intermédiaire de la taxe affectée, l’État verse aux sociétés en cause le même montant qu’elles lui ont payé sous forme de taxe sur les salaires. Ce mouvement circulaire…"
+  },
+  {
+   "orateur": "M. Emeric Salmon",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "À quoi sert-il, alors ?"
+  },
+  {
+   "orateur": "M. Philippe Juvin",
+   "qualite": "rapporteur général",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "…n’aggrave pas la dépense publique. Avis défavorable."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis du gouvernement ?"
+  },
+  {
+   "orateur": "Mme Amélie de Montchalin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Si nous passons quelques minutes à discuter de 500 000 euros destinés à un opérateur public, c’est qu’il ne s’agit pas de subventions : l’octroi de ces dernières relève de la direction du budget et de l’autorité des ministres, dont en dernier lieu vous examinez les comptes et sanctionnez éventuellement la gestion. Si ces 500 000 euros avaient correspondu à des subventions, vous ne les auriez pas forcément vus passer, dans un sens ou dans l’autre. En revanche, dès qu’il s’agit d’affectation de recettes fiscales – recettes de la TVA, en l’occurrence –, la décision finale revient au Parlement, auquel nous devons donc, avec une totale transparence, fournir les montants à l’euro près – de là ces ajustements.Vous le savez, car nous en avons déjà parlé longuement : la taxe sur les salaires est affreusement compliquée et présente beaucoup d’effets de bord, ce pourquoi je souhaite la réformer en profondeur. Nous constatons ces effets indésirables sur Arte ou TV5 Monde, dont les prévisions de budget ont été calculées d’après la masse salariale de 2024, mais les associations qui gèrent désormais nombre de nos services sociaux, comme des Ehpad, rencontrent les mêmes problèmes. Très ancienne, cette taxe doit, je le répète, être revue de fond en comble ; je suis même prête à envisager sa suppression…"
+  },
+  {
+   "orateur": "M. Thibault Bazin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "On en a parlé lors de l’examen du budget de la sécurité sociale !"
+  },
+  {
+   "orateur": "Mme Amélie de Montchalin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "…et son remplacement par une autre source de financement de la sécurité sociale. En attendant, monsieur de Courson, peut-être pourriez-vous nous faire confiance en matière d’affectation de la TVA et retirer votre amendement ; à défaut, avis défavorable."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Charles de Courson."
+  },
+  {
+   "orateur": "M. Charles de Courson",
+   "qualite": null,
+   "groupe": "LIOT",
+   "president_de_seance": false,
+   "texte": "Je vais retirer cet amendement. Toutefois, chers collègues, nous ne pouvons continuer d’être là simplement pour alimenter les comptes en vue de remédier à des erreurs de gestion. Je suis désolé, ce n’est pas normal !"
+  },
+  {
+   "orateur": "M. Laurent Wauquiez",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Je reprends l’amendement !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "L’amendement no 119 est repris. Je le mets donc aux voix."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

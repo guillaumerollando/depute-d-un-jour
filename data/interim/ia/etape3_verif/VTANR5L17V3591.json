@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V3591",
+  "consigne": "etape3_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "Les montants (659,4 / 676,9 / 17,5 milliards) sont ceux du texte initial du Gouvernement ; les débats indiquent que des recettes ont été modifiées avant le vote. La carte les présente comme le contenu certain de l'article voté."
+  ],
+  "corrections": {
+    "ce_que_ca_change": "Cet article fixe, pour 2026, le tableau des recettes et dépenses de chaque branche de la Sécurité sociale (maladie, retraite, famille, autonomie, accidents du travail). Dans le texte initial du Gouvernement, il prévoyait 659,4 milliards d'euros de recettes pour 676,9 milliards de dépenses, soit un déficit de 17,5 milliards d'euros."
+  }
+}

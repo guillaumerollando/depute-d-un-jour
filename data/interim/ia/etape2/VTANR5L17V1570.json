@@ -1,0 +1,77 @@
+{
+  "uid": "VTANR5L17V1570",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Guillaume Bigot",
+      "citation": "Il ne s’agit pas seulement de défendre un innocent, mais aussi de défendre ce que nous sommes.",
+      "justification": "Le groupe soutient la demande de libération de Boualem Sansal."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Vincent Ledoux (EPR)",
+      "citation": "Le groupe Ensemble pour la République votera avec détermination en faveur de cette proposition de résolution européenne.",
+      "justification": "Le groupe soutient la résolution appelant à la libération de Boualem Sansal."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "B",
+      "orateur": "M. Bastien Lachaud",
+      "citation": "Nous disons oui à la libération de Boualem Sansal, mais non à l’algérophobie.",
+      "citation_raison": "il suffisait d’adopter notre amendement de réécriture",
+      "justification": "Le groupe déclare soutenir la libération de Boualem Sansal et vote contre après le rejet de sa version de réécriture du texte."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe critique la rédaction retenue sans énoncer la raison de son vote."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Patrick Hetzel (DR)",
+      "citation": "Notre groupe parlementaire est évidemment favorable à cette proposition de résolution, pour une raison simple : cela fait plus de six mois que notre compatriote Boualem Sansal se trouve emprisonné en Algérie, à la suite d’une décision tout à fait condamnable.",
+      "justification": "Le groupe soutient la résolution en raison de la détention de Boualem Sansal."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Dominique Voynet",
+      "citation": "nous voterons pour la libération de ce grand écrivain dont la place n’est pas en prison.",
+      "justification": "Le groupe vote pour la libération de Boualem Sansal, objet de la résolution, tout en critiquant certaines dispositions."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Maud Petit (Dem)",
+      "citation": "Voter cette résolution, c’est affirmer notre attachement à la justice et au respect des droits humains, valeurs fondamentales.",
+      "justification": "Le groupe soutient la résolution au nom des droits humains."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Bertrand Bouyx (HOR)",
+      "citation": "Je vous appelle solennellement, chers collègues, à exiger ensemble sa libération immédiate et inconditionnelle.",
+      "justification": "Le groupe soutient la demande de libération de Boualem Sansal."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Laurent Mazaury (LIOT)",
+      "citation": "Notre groupe soutient la proposition de résolution européenne demandant la libération immédiate de Boualem Sansal.",
+      "justification": "Le groupe soutient la résolution."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Éric Ciotti (UDR)",
+      "citation": "Notre groupe votera naturellement pour cette résolution. Nous voterons pour la libération de Boualem Sansal.",
+      "justification": "Le groupe soutient la résolution."
+    }
+  }
+}

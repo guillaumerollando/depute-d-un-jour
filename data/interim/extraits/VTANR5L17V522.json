@@ -1,0 +1,324 @@
+{
+ "uid": "VTANR5L17V522",
+ "titre": "l'amendement n° 29 de M. Delautrette après l'article premier du projet de loi spéciale prévue par l'article 45 de la loi organique du 1er août 2001 relative aux lois de finances (première lecture).",
+ "type": "amendement",
+ "date": "2024-12-16",
+ "dossier": "DLR5L17N51079",
+ "dossier_titre": "Projet de loi spéciale prévue par l’article 45 de la loi organique du 1er août 2001 relative aux lois de finances",
+ "sort": "adopté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "contre",
+  "LFI": "pour",
+  "SOC": "pour",
+  "DR": "contre",
+  "ECOS": "pour",
+  "DEM": "contre",
+  "HOR": "contre",
+  "GDR": "pour",
+  "UDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 106,
+   "contre": 0,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 0,
+   "contre": 62,
+   "abstention": 1
+  },
+  "LFI": {
+   "pour": 43,
+   "contre": 0,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 33,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 0,
+   "contre": 22,
+   "abstention": 4
+  },
+  "ECOS": {
+   "pour": 20,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 23,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 20,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 5,
+   "contre": 4,
+   "abstention": 4
+  },
+  "GDR": {
+   "pour": 5,
+   "contre": 0,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 12,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901B0711P0D1N000029",
+  "dossier": "DLR5L17N51079",
+  "texte": "PRJLANR5L17B0711",
+  "division": "Article PREMIER",
+  "auteur": "M. Delautrette,  M. Philippe Brun, M. Baptiste, M. Baumel, M. Bouloux, Mme Mercier, M. Oberti, Mme Pantel, Mme Pirès Beaune, Mme Allemand, M. Aviragnet, M. Barusseau, Mme Battistel, Mme Bellay, M. Benbrahim, M. Califer, Mme Capdevielle, M. Christophle, M. Courbon, M. David, M. Delaporte, Mme Diop, Mme Dombre Coste, M. Dufau, M. Echaniz, M. Eskenazi, M. Faure, M. Fégné, M. Garot, Mme Godard, M. Gokel, Mme Got, M. Emmanuel Grégoire, M. Guedj, M. Hablot, Mme Hadizadeh, Mme Herouin-Léautey, Mme Céline Hervieu, M. Hollande, Mme Jourdan, Mme Karamanli, Mme Keloua Hachi, M. Leseul, M. Lhardit, M. Naillet, M. Pena, Mme Pic, M. Potier, M. Pribetich, M. Proença, Mme Rossi, Mme Rouaux, M. Aurélien Rousseau, M. Roussel, Mme Runel, Mme Récalde, M. Saint-Pasteur, Mme Santiago, M. Saulignac, M. Simion, M. Sother, Mme Thiébault-Martinez, Mme Thomin, M. Vallaud, M. Vicot, M. William et les membres du groupe Socialistes et apparentés",
+  "auteur_groupe": "SOC",
+  "auteur_type": "Député",
+  "dispositif": "Jusqu’à l’entrée en vigueur de la loi de finances initiale pour 2025, les prélèvements opérés sur les recettes de l’État au profit des collectivités territoriales sont évalués à 45 057 825 520 €, qui se répartissent comme suit : (En euros) Intitulé du prélèvement Montant Prélèvement sur les recettes de l'État au titre de la dotation globale de fonctionnement 27 245 046 362 Prélèvement sur les recettes de l'État au titre de la dotation spéciale pour le logement des instituteurs 4 753 232 Dotation de compensation des pertes de bases de la taxe professionnelle et de redevance des mines des communes et de leurs groupements 30 000 000 Prélèvement sur les recettes de l'État au profit du fonds de compensation pour la taxe sur la valeur ajoutée (FCTVA) 7 104 000 000 Prélèvement sur les recettes de l'État au titre de la compensation d'exonérations relatives à la fiscalité locale 664 114 745 Dotation pour transferts de compensations d'exonérations de fiscalité directe locale 378 003 970 Dotation élu local 123 506 000 Prélèvement sur les recettes de l'État au profit de la collectivité de Corse 42 946 742 Fonds de mobilisation départementale pour l'insertion 431 738 376 Dotation départementale d'équipement des collèges 326 317 000 Dotation régionale d'équipement scolaire 661 186 000 Dotation globale de construction et d'équipement scolaire 2 686 000 Dotation de compensation de la réforme de la taxe sur les logements vacants pour les communes et les établissements publics de coopération intercommunale percevant la taxe d'habitation sur les logements vacants 4 000 000 Dotation de compensation liée au processus de départementalisation de Mayotte 107 000 000 Dotation de compensation de la réforme de la taxe professionnelle (communes) 239 658 133 Dotation de compensation de la réforme de la taxe professionnelle (établissements publics de coopération intercommunale) 890 110 332 Dotation de compensation de la réforme de la taxe professionnelle (départements) 1 243 315 500 Dotation de compensation de la réforme de la taxe professionnelle (régions) 467 129 770 Dotation de garantie des reversements des fonds départementaux de taxe professionnelle 272 278 000 Fonds de compensation des nuisances aéroportuaires 6 822 000 Prélèvement sur les recettes de l'État au titre de la compensation des pertes de recettes liées au relèvement du seuil d'assujettissement des entreprises au versement transport 48 020 650 Prélèvement sur les recettes de l'État au profit de la collectivité territoriale de Guyane 27 000 000 Prélèvement sur les recettes de l'État au profit des régions au titre de la neutralisation financière de la réforme de l'apprentissage 122 559 085 Prélèvement sur les recettes de l'État au titre de la dotation globale d'autonomie de la Polynésie française 90 552 000 Soutien exceptionnel de l'État au profit des collectivités du bloc communal confrontées à des pertes de recettes fiscales et domaniales du fait de la crise sanitaire - Soutien exceptionnel de l'État au profit des régions d'outre-mer confrontées à des pertes de recettes d'octroi de mer et de taxe spéciale de consommation du fait de la crise sanitaire - Soutien exceptionnel de l'État au profit de la collectivité de Corse confrontée à certaines pertes de recettes fiscales spécifiques du fait de la crise sanitaire - Soutien exceptionnel de l'État au profit de Saint-Pierre-et-Miquelon, Saint-Martin, Saint-Barthélemy et Wallis-et-Futuna confrontées à certaines pertes de recettes fiscales spécifiques du fait de la crise sanitaire - Prélèvement sur les recettes de l'État au titre de la compensation de la réduction de 50 % des valeurs locatives de taxe foncière sur les propriétés bâties et de cotisation foncière des entreprises des locaux industriels 4 016 619 586 Prélèvement sur les recettes de l'État au titre de la compensation des communes et des établissements publics de coopération intercommunale contributeurs au fonds national de garantie individuelle des ressources (FNGIR) subissant une perte de base de cotisation foncière des entreprises 3 000 000 Prélèvement exceptionnel sur les recettes de l'État de compensation du fonds national de péréquation des droits de mutation à titre onéreux (DMTO) - Prélèvement exceptionnel sur les recettes de l'État au profit des collectivités territoriales et des groupements de communes qui procèdent à l'abandon ou à la renonciation définitive de loyers - Prélèvement sur les recettes de l'État au titre du soutien exceptionnel pour les communes et leurs groupements face à la croissance des prix de l'énergie et de la revalorisation du point d'indice de la fonction publique en 2022 - Prélèvement sur les recettes de l'État au titre du soutien exceptionnel, au titre de l'année 2023, pour les collectivités territoriales face à la croissance des prix de l'énergie 400 000 000 Prélèvement sur les recettes de l'État au titre de la compensation de la réforme de 2023 de la taxe sur les logements vacants pour les communes et les établissements publics de coopération intercommunale percevant la taxe d'habitation sur les logements vacants 24 700 000 Prélèvement sur les recettes de l'État en faveur des communes nouvelles 17 600 000 Prélèvement sur les recettes de l'État visant à abonder le fonds de sauvegarde des départements pour l'année 2024 52 862 037 Prélèvement sur les recettes de l'État au titre de la compensation et du lissage des pertes exceptionnelles de recettes de taxe foncière sur les propriétés bâties 3 300 000 Prélèvement sur les recettes de l'État destiné à compenser les pertes de recettes résultant de l'exonération de taxe foncière sur les propriétés bâties 7 000 000 Prélèvements sur les recettes de l'État au profit des collectivités territoriales 45 057 825 520",
+  "expose": "Cet amendement des députés Socialistes et apparentés vise à inscrire au sein de ce texte les prélèvements sur les recettes de l’État à destination des collectivités territoriales. Si les services du Gouvernement semblent dorénavant estimer que l’article 1 du PJL spéciale emporte reconduction de ces PSR, comme l’indique l’exposé des motifs du texte, cela n’a pas toujours été le cas. En effet, une note du Secrétariat Général du Gouvernement indiquait : « Pour d’autres mesures, leur entrée en vigueur présenterait une insécurité juridique forte, n’entrant pas directement dans la définition des services votés : – les prélèvements sur les recettes de l’État (PSR) au profit des collectivités territoriales et de l’Union Européenne. » Dès lors, il nous semble préférable d’inscrire ces PSR explicitement dans le texte afin de sécuriser les ressources des collectivités territoriales. Le présent amendement reprend donc à l’identique (sans être une validation politique de notre part) les montants de PSR de 2024."
+ },
+ "seance": "RUANR5L17S2025IDS28877",
+ "compte_rendu": "CRSANR5L17S2025O1N064",
+ "interventions": [
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Sur l’article 2 et sur l’article 3, je suis saisie par le groupe Ensemble pour la République de demandes de scrutin public.Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale.La parole est à M. Stéphane Delautrette, pour soutenir l’amendement no 29."
+  },
+  {
+   "orateur": "M. Stéphane Delautrette",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Comme le disait tout à l’heure le président de la commission des finances, la loi spéciale est un objet mal identifié ; pour cette raison, nous devons faire preuve de la plus grande prudence. C’est pourquoi cet amendement vise à garantir les prélèvements sur recettes de l’État au profit des collectivités territoriales. Je sais ce que vous allez me répondre, monsieur le ministre, mais des divergences d’appréciation existent quant à la nécessité de mentionner ces prélèvements au sein de l’article 1er. Certains, comme le secrétariat général du gouvernement, disent que par sécurité juridique, il vaut mieux les y inscrire ; d’autres disent que cela va de soi. Peut-être est-ce le cas, mais dans le doute, cela va mieux en le disant !"
+  },
+  {
+   "orateur": "M. Didier Le Gac",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Il ne fallait pas voter la motion de censure !"
+  },
+  {
+   "orateur": "M. Stéphane Delautrette",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Je vous le dis en ma qualité de président de la délégation aux collectivités territoriales, chargé du dialogue avec celles-ci, mais aussi à la suite des innombrables interpellations que j’ai reçues – comme nombre d’entre vous – de la part d’élus locaux en circonscription. Dans cette période de construction budgétaire, les maires et les présidents d’intercommunalités, de départements ou de régions ont besoin de ne pas être dans le flou : il leur faut de la prévisibilité et de l’assurance. C’est la raison d’être de notre amendement, que je vous invite évidemment à soutenir : nous devons les rassurer. (Applaudissements sur les bancs du groupe SOC.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis de la commission ?"
+  },
+  {
+   "orateur": "M. Charles de Courson",
+   "qualite": "rapporteur général",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "L’amendement n’ayant pas été examiné en commission, j’y suis défavorable à titre personnel, même si je suis d’accord avec vous sur le fond. Le Conseil d’État a bien indiqué, dans son avis, que les PSR-CT étaient reconduits par l’article 1er du projet de loi spéciale à leur niveau de 2024. Or le montant inscrit dans votre amendement – un peu plus de 45 milliards – était bien celui de 2024. En l’état actuel des choses, si nous votons le présent article, la dotation globale de fonctionnement (DGF) de 2024 sera maintenue. Je vous rappelle d’ailleurs que dans le PLF pour 2025, les dotations totales de ce PSR étaient en très légère baisse de 800 millions ; cette baisse se trouve donc annulée.Il me paraît en outre essentiel que nous ne multipliions pas le nombre d’articles dans une loi spéciale qui doit s’en tenir au strict minimum. Avis défavorable."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis du gouvernement ?"
+  },
+  {
+   "orateur": "M. Laurent Saint-Martin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Même avis que le rapporteur général, à une petite nuance près. Les PSR au profit des collectivités territoriales sont effectivement reconduits par la loi spéciale sur la base des crédits 2024, tout comme les crédits relatifs aux services votés, qui feront l’objet d’un décret. Attention, cependant : par définition, tout cela n’est que provisoire, temporaire ! Je le précise parce que cela concerne les budgets des collectivités. En matière de dotations et de PSR, c’est bien le budget pour 2025 qui, in fine, fera foi. Pour l’instant, l’article 1er autorise à lever l’impôt en prenant en compte les PSR au bénéfice de l’Union européenne et des collectivités territoriales. Moi aussi, je suis d’accord avec vous sur le fond,…"
+  },
+  {
+   "orateur": "M. Matthias Tavel",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Bah non !"
+  },
+  {
+   "orateur": "Mme Élisa Martin",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Onze milliards de moins !"
+  },
+  {
+   "orateur": "M. Laurent Saint-Martin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "…et je vous remercie d’avoir abordé le problème des PSR-CT sans polémiquer sur le respect des institutions et du droit, contrairement à ce que nous avons entendu à propos du PSR-UE. Dans cet article 1er, on trouve bien la même faculté à diminuer les PSR, que ce soit pour l’Union européenne ou pour les collectivités territoriales. Mais je veux éviter tout malentendu – s’agissant d’un cas aussi exceptionnel, il faut prendre le temps des explications : les montants définitifs ne relèveront que du budget pour 2025, quand celui-ci sera adopté. Pour l’instant, il s’agit bien d’une situation transitoire, provisoire. Avis défavorable."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. le rapporteur général."
+  },
+  {
+   "orateur": "M. Charles de Courson",
+   "qualite": "rapporteur général",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "C’est une question technique : le versement aux collectivités locales – qui s’effectue en général par douzièmes, même si ce n’est pas toujours le cas – se fera-t-il sur la base du montant de 2024, jusqu’à ce qu’un nouveau texte soit voté ? Si le nouveau texte augmente la dotation, vous augmenterez les douzièmes ; s’il la réduit, vous les baisserez en récupérant la différence. C’est bien cela, monsieur le ministre ?"
+  },
+  {
+   "orateur": "M. Laurent Saint-Martin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Tout à fait !"
+  },
+  {
+   "orateur": "M. Charles de Courson",
+   "qualite": "rapporteur général",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Tous les élus locaux sont donc éclairés à ce propos."
+  },
+  {
+   "orateur": "Mme Élisa Martin",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Ils savent compter, les élus locaux !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Véronique Louwagie."
+  },
+  {
+   "orateur": "Mme Véronique Louwagie",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Alors que nous discutons de l’impact de la présente situation sur les collectivités territoriales, vous avez apporté des réponses, monsieur le ministre, mais je voudrais que vous nous disiez aussi ce qu’il en est d’autres dotations, en particulier de celles relatives aux investissements – je vous ai déjà interrogé à leur propos en commission des finances. Les communes m’ont fait part de leurs inquiétudes en ce qui concerne la DETR, la DSIL et le fonds Vert. Pouvez-vous nous dire, concrètement, comment nous devons procéder ? Les commissions pourront-elles se tenir en début d’année ? Qu’en est-il ? Je vous remercie de nous éclairer sur tous ces points. (Applaudissements sur les bancs du groupe DR.)"
+  },
+  {
+   "orateur": "M. François Cormier-Bouligeon",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Les censeurs vont répondre !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. le ministre."
+  },
+  {
+   "orateur": "M. Laurent Saint-Martin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "La DSIL, la DETR et le fonds Vert sont des crédits d’intervention dits discrétionnaires : ils ne seront donc pas débloqués dans le décret relatif aux services votés,…"
+  },
+  {
+   "orateur": "M. François Cormier-Bouligeon",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Et voilà ! Il va falloir assumer !"
+  },
+  {
+   "orateur": "Mme Élisa Martin",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "On assume !"
+  },
+  {
+   "orateur": "M. Laurent Saint-Martin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "…conformément à l’article 45 de la Lolf. C’est très clair : pas de DSIL ni de DETR tant qu’il n’y a pas de budget ! (Applaudissements sur les bancs du groupe EPR.)"
+  },
+  {
+   "orateur": "M. François Cormier-Bouligeon",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Les collectivités locales ne vous remercient pas !"
+  },
+  {
+   "orateur": "M. Laurent Saint-Martin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Il faut le dire clairement et cela ne procède pas d’une volonté politique, bien au contraire. Il faudra donc un budget pour corriger cet état de fait ; le plus rapidement sera le mieux.Concernant enfin la DGF, j’ai acquiescé tout à l’heure aux propos du rapporteur général : comme vous l’avez dit, elle sera en effet versée par douzièmes."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Stéphane Delautrette."
+  },
+  {
+   "orateur": "M. Stéphane Delautrette",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Ces précisions s’imposaient. Nos élus restent dans le flou s’agissant des dotations d’équipement, dont le versement devra attendre le vote d’un budget. Je voudrais tout de même rappeler aux quelques collègues qui hurlent quant aux conséquences de la censure que les collectivités n’étaient pas favorables au coup de rabot de 10 milliards que vous vouliez effectuer sur leur dos ! (Applaudissements sur les bancs des groupes SOC, LFI-NFP, EcoS et GDR. – Exclamations sur quelques bancs des groupes EPR et DR.)"
+  },
+  {
+   "orateur": "M. François Cormier-Bouligeon",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "La censure, c’est plusieurs milliards en moins !"
+  },
+  {
+   "orateur": "M. Stéphane Delautrette",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Et justement, compte tenu de l’importance du sujet, j’invite vraiment à inscrire dès maintenant ce PSR dans la loi spéciale, afin de lever le flou en indiquant que dès janvier prochain, les collectivités percevront bien les dotations de fonctionnement par reconduction des montants de 2024, et ce jusqu’à l’introduction de nouvelles dispositions par le vote d’une nouvelle loi de finances. (Applaudissements sur les bancs du groupe SOC.)"
+  },
+  {
+   "orateur": "M. François Cormier-Bouligeon",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Il va falloir assumer !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 29."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

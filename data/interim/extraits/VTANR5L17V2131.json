@@ -1,0 +1,655 @@
+{
+ "uid": "VTANR5L17V2131",
+ "titre": "l’amendement n° 953  rectifié de M. Renault et l'amendement identique suivant à l’article 15 (examen prioritaire) du projet de loi de simplification de la vie économique (première lecture).",
+ "type": "amendement",
+ "date": "2025-05-28",
+ "dossier": "DLR5L16N49868",
+ "dossier_titre": "Projet de loi de simplification de la vie économique",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "contre",
+  "LFI": "contre",
+  "SOC": "contre",
+  "DR": "pour",
+  "ECOS": "contre",
+  "DEM": "contre",
+  "HOR": "contre",
+  "LIOT": "contre",
+  "GDR": "contre",
+  "UDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 94,
+   "contre": 0,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 1,
+   "contre": 29,
+   "abstention": 3
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 52,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 0,
+   "contre": 37,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 23,
+   "contre": 0,
+   "abstention": 1
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 31,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 12,
+   "abstention": 1
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 10,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 0,
+   "contre": 4,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 0,
+   "contre": 3,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 9,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC1191P0D1N000953",
+  "dossier": "DLR5L16N49868",
+  "texte": "PRJLANR5L17BTC1191",
+  "division": "Article 15",
+  "auteur": "M. Renault,  M. Allisio, M. Amblard, Mme Auzanot, M. Ballard, Mme Bamana, M. Barthès, M. Baubry, M. Beaurain, M. Bentz, M. Bernhardt, M. Bigot, M. Bilde, M. Blairy, Mme Blanc, M. Boccaletti, Mme Bordes, M. Boulogne, Mme Bouquin, M. Bovet, M. Buisson, M. Casterman, M. Chenu, M. Chudeau, M. Clavet, Mme Colombier, Mme Da Conceicao Carvalho, M. de Fleurian, M. de Lépinau, Mme Delannoy, M. Dessigny, Mme Diaz, Mme Dogor-Such, M. Dragon, M. Dufosset, M. Dussausaye, M. Dutremble, M. Evrard, M. Falcon, M. Florquin, M. Fouquart, M. Frappé, M. Gabarron, Mme Galzy, M. Gery, M. Giletti, M. Gillet, M. Christian Girard, M. Golliot, M. Gonzalez, Mme Florence Goulet, Mme Grangier, Mme Griseti, M. Guibert, M. Guiniot, M. Guitton, Mme Hamelet, M. Houssin, M. Humbert, M. Jacobelli, M. Jenft, M. Jolly, Mme Joncour, Mme Josserand, Mme Joubert, Mme Laporte, Mme Lavalette, M. Le Bourgeois, Mme Le Pen, Mme Lechanteux, Mme Lechon, Mme Lelouis, Mme Levavasseur, M. Limongi, M. Lioret, Mme Loir, M. Lopez-Liguori, Mme Lorho, M. Lottiaux, M. Loubet, M. David Magnier, Mme Marais-Beuil, M. Marchio, M. Markowsky, M. Patrice Martin, Mme Martinez, Mme Alexandra Masson, M. Bryan Masson, M. Mauvieux, M. Meizonnet, Mme Mélin, Mme Ménaché, M. Ménagé, M. Meurin, M. Monnier, M. Muller, M. Odoul, Mme Parmentier, M. Perez, M. Pfeffer, Mme Pollet, M. Rambaud, Mme Ranc, M. Rancoule, Mme Rimbert, M. Rivière, Mme Robert-Dehault, Mme Roullaud, Mme Roy, Mme Sabatini, M. Sabatou, M. Salmon, M. Schreck, Mme Sicard, M. Taché de la Pagerie, M. Jean-Philippe Tanguy, M. Taverne, M. Tesson, M. Tivoli, M. Tonussi, M. Villedieu et M. Weber",
+  "auteur_groupe": "RN",
+  "auteur_type": "Député",
+  "dispositif": "I. – À la fin de l’alinéa 39, substituer aux mots : « ainsi modifié », le mot : « abrogé ». II. – En conséquence, supprimer les alinéas 40 à 42.",
+  "expose": "Le présent amendement vise à supprimer les articles relatifs à l’objectif de zéro artificialisation nette (ZAN). Si la préservation des sols constitue un impératif environnemental légitime, l’approche retenue par le législateur s’avère à la fois technocratique, déséquilibrée et profondément déconnectée des réalités territoriales. Le ZAN, tel qu’il est conçu, pénalise durement les communes rurales et périurbaines, en figeant leur développement au profit des grandes métropoles, déjà saturées. Il empêche la réalisation de projets de logements, d’infrastructures ou d’installations économiques pourtant essentiels à la vitalité des territoires. Il introduit en outre une complexité juridique considérable, plaçant les élus locaux sous une contrainte aussi rigide qu’injuste. Ce dispositif traduit une vision uniformisante et descendante de l’aménagement du territoire. Il alimente la fracture territoriale et sociale, restreint la souveraineté des communes et nourrit un sentiment croissant d’abandon chez nos compatriotes. C’est pourquoi il est proposé de supprimer ces articles, afin d’ouvrir la voie à une nouvelle stratégie d’aménagement plus équilibrée, concertée et respectueuse des réalités locales."
+ },
+ "seance": "RUANR5L17S2025IDS29461",
+ "compte_rendu": "CRSANR5L17S2025O1N219",
+ "interventions": [
+  {
+   "orateur": "Mme Agnès Pannier-Runacher",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "…et plus généralement pour les Français. Je vous en remercie.Du 9 au 13 juin, nous accueillerons plus de soixante chefs d’État pour relever le niveau de la protection des océans, car ils sont essentiels à la production de l’oxygène, essentiels pour nourrir plus d’un milliard d’humains, essentiels pour la régulation du climat, alors même que l’impact du dérèglement climatique ne cesse de croître. Ils constituent aussi un espace de puissance, et parfois de conflits. Enfin, ils sont un espace économique essentiel, puisque 80 % des marchandises mondiales transitent par voie maritime.C’est pourquoi la France sera au rendez-vous. En particulier dans son rôle diplomatique, en obtenant de la part des pays présents des engagements complémentaires pour renforcer la protection des AMP, la lutte contre la pêche illégale, la décarbonation du transport maritime, la lutte contre la pollution plastique, la lutte contre l’érosion des côtes.Nous serons également au rendez-vous à l’échelle européenne en défendant aux côtés d’Ursula von der Leyen le pacte européen pour les océans, dont nous avons largement nourri les propositions. Vous le constaterez lorsqu’il sera présenté le 9 juin par Mme von der Leyen.La France disposant du deuxième domaine maritime mondial, elle se doit d’être responsable. C’est pourquoi le président de la République annoncera des mesures fortes, concertées avec des scientifiques, des pêcheurs et des ONG, pour rehausser le niveau de protection de nos AMP."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. David Taupiac."
+  },
+  {
+   "orateur": "M. David Taupiac",
+   "qualite": null,
+   "groupe": "LIOT",
+   "president_de_seance": false,
+   "texte": "La santé mentale est la grande cause nationale de 2025, nous dit-on."
+  },
+  {
+   "orateur": "M. Inaki Echaniz",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "On attend encore !"
+  },
+  {
+   "orateur": "M. David Taupiac",
+   "qualite": null,
+   "groupe": "LIOT",
+   "president_de_seance": false,
+   "texte": "Toutefois, même si les slogans sonnent bien à Paris, la réalité dans les territoires est tout autre : elle désespère chaque jour un peu plus nos concitoyens."
+  },
+  {
+   "orateur": "Mme Sandrine Rousseau",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Il faut bouger sur la santé mentale, monsieur le ministre !"
+  },
+  {
+   "orateur": "M. David Taupiac",
+   "qualite": null,
+   "groupe": "LIOT",
+   "president_de_seance": false,
+   "texte": "La situation du Centre hospitalier du Gers n’est certes pas unique – l’effondrement de la psychiatrie est généralisé en France –, mais pour les Gersois, elle est dramatique, d’autant que les besoins en soins psychiatriques explosent, en particulier chez les jeunes.Malgré les annonces faites à l’automne dernier par l’agence régionale de santé et les engagements pris pour recruter des médecins, la dégradation est exponentielle.L’établissement accuse un déficit de personnel médical et administratif. Le manque actuel de psychiatres – 7,5 postes – entraînera la fermeture de dix lits en admission pour l’été.Les délais d’admission en pédopsychiatrie dépassent huit mois et certaines situations humaines sont dramatiques. Faute de personnel, des admissions sont refusées, ce qui affecte les parcours de soins et désorganise les structures d’aval. Les urgences psychiatriques de l’hôpital général ne fonctionnent pas non plus de manière régulière et satisfaisante.Dans le Gers, l’accès aux soins est dans une situation critique, d’autant que le fonctionnement des urgences du centre hospitalier d’Auch est maintenant dégradé depuis plusieurs années. Lorsqu’elles sont fermées, il n’y a plus que les sapeurs-pompiers en première ligne.Pourquoi les moyens annoncés tardent-ils à arriver ? Tout n’est pas un problème de numerus clausus, monsieur le ministre de la santé ! Où sont les actions de moyen terme qu’on nous a promises pour restaurer l’attractivité de l’établissement ?Les Gersois, comme l’ensemble des Français, sont las des promesses politiques non tenues : ils attendent des réponses concrètes et rapides. (Applaudissements sur les bancs des groupes LIOT et SOC.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. le ministre chargé de la santé et de l’accès aux soins."
+  },
+  {
+   "orateur": "M. Yannick Neuder",
+   "qualite": "ministre chargé de la santé et de l’accès aux soins",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "La situation du centre hospitalier du Gers est alarmante. Vous vous êtes entretenu hier avec le directeur de l’agence régionale de santé, à qui j’ai moi-même demandé de se rendre sur place dès la semaine prochaine. La gouvernance – le directeur de l’établissement est actuellement en arrêt –, la fermeture des urgences et la difficile organisation de l’offre de soins sont au programme de sa visite.Je le confirme, tout ne se résume pas aux effets du numerus clausus ou du numerus apertus, car notre problème est bien le manque de soignants en général. Si nous voulons réarmer cet hôpital pour y rouvrir demain, comme partout ailleurs, des lits, il nous faut des soignants.Pour cette raison, le gouvernement a introduit, dans le projet de loi de finances pour 2025, une enveloppe de 215 millions d’euros dédiée à la formation des professionnels paramédicaux, en partenariat avec les régions. En outre, de nombreux plans ont été lancés pour former un plus grand nombre de médecins.Il faut rendre la psychiatrie plus attractive. Environ 20 % des 950 infirmiers en pratique avancée en formation se destinent à la psychiatrie, mais je souhaite que ce taux progresse. Le rapport d’information sur la prise en charge des urgences psychiatriques, présenté par Mmes Dubré-Chirat et Rousseau, préconise l’affectation d’IPA aux urgences psychiatriques.Avec Philippe Baptiste, nous avons ouvert de nouveaux postes hospitalo-universitaires, dont le quart est orienté vers la psychiatrie. Ils n’attirent malheureusement pas autant de candidats qu’espéré.Pour améliorer l’attractivité de la filière, nous travaillons avec des associations de jeunes psychiatres : encore 30 % des internes pensent que la psychiatrie fait peur et 60 % d’entre eux la considèrent comme une sous-spécialité.Nous devons travailler ensemble. Les moyens financiers et les moyens humains ont été engagés. J’attends le rapport de l’ARS, je diligenterai un audit et je viendrai en personne visiter avec vous le Centre hospitalier du Gers. (MM. Romain Daubié et Laurent Panifous applaudissent.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Nous avons terminé les questions au gouvernement."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La séance est suspendue."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(La séance, suspendue à quatorze heures cinquante, est reprise à quinze heures, sous la présidence de Mme Clémence Guetté.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La séance est reprise. L’ordre du jour appelle la suite de la discussion du projet de loi de simplification de la vie économique (nos 481 rectifié, 1191). Hier soir, l’Assemblée a poursuivi la discussion des articles du projet de loi, s’arrêtant aux amendements identiques nos 953 rectifié et 2639 rectifié à l’article 15, appelé par priorité. Ces amendements ont été présentés par leurs auteurs. Sur les amendements identiques nos 953 rectifié et 2639 rectifié, je suis saisie par les groupes Rassemblement national, La France insoumise-Nouveau Front populaire et Droite républicaine de demandes de scrutin public. Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale. La parole est à M. Stéphane Travert, rapporteur de la commission spéciale, pour donner l’avis de la commission sur ces amendements identiques."
+  },
+  {
+   "orateur": "M. Stéphane Travert",
+   "qualite": "rapporteur de la commission spéciale",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Nous sommes évidemment opposés à la suppression, d’un trait de plume, de l’objectif zéro artificialisation nette (ZAN) à laquelle tendent les amendements présentés hier soir par MM. Renault et Boucard. Nous pouvons certes considérer que le ZAN doit être modifié, qu’il faut tenir compte des spécificités des territoires et modifier les procédures prévues par la loi « climat et résilience » promulguée en 2021, mais le présent texte n’est pas le bon véhicule législatif pour ce faire. Comme vous le savez, nous aurons bientôt l’occasion de plancher sur le ZAN – normalement au mois de septembre, lors de l’examen de la proposition de loi visant à instaurer une trajectoire de réduction de l’artificialisation concertée avec les élus locaux (Trace). J’émets donc un avis défavorable sur ces amendements."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. le ministre chargé de l’industrie et de l’énergie, pour donner l’avis du gouvernement."
+  },
+  {
+   "orateur": "M. Marc Ferracci",
+   "qualite": "ministre chargé de l’industrie et de l’énergie",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Ces amendements visent à supprimer l’article 194 de la loi « climat et résilience »,…"
+  },
+  {
+   "orateur": "M. Christophe Bentz",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "C’est ça !"
+  },
+  {
+   "orateur": "M. Marc Ferracci",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "…donc à défaire purement et simplement le cadre national défini afin d’atteindre l’objectif zéro artificialisation nette en 2050,…"
+  },
+  {
+   "orateur": "M. Christophe Bentz",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Exactement !"
+  },
+  {
+   "orateur": "M. Marc Ferracci",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "…objectif auquel le gouvernement est évidemment attaché car il est essentiel pour protéger la biodiversité, préserver le foncier agricole et renforcer notre capacité d’adaptation au changement climatique. L’étalement urbain et l’artificialisation des sols ont de fortes conséquences environnementales et socio-économiques. Cela ne signifie pas qu’il ne faille pas aménager le ZAN…"
+  },
+  {
+   "orateur": "M. Philippe Gosselin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Il y a en effet de quoi aménager !"
+  },
+  {
+   "orateur": "M. Marc Ferracci",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Nous sommes en effet convaincus qu’il faut par exemple permettre à certains projets industriels qui rempliraient certaines conditions d’y déroger, afin de favoriser la réindustrialisation du pays. Cependant, nous cherchons toujours à atteindre l’objectif final. Je suis défavorable aux amendements, qui vont à l’encontre de cet objectif."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Philippe Gosselin."
+  },
+  {
+   "orateur": "M. Philippe Gosselin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Les débats interrompus hier soir ont donné lieu à certaines interpellations qui ne seront peut-être plus valables aujourd’hui : en entendant hier soir notre collègue du Finistère Sandrine Le Feur dire qu’elle ne connaissait aucun maire ayant des griefs contre le ZAN, j’ai eu l’envie de l’inviter dans la Manche… (Exclamations sur les bancs des groupes LFI-NFP et EcoS.)"
+  },
+  {
+   "orateur": "M. Pierre Cordier",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Elle peut venir dans les Ardennes !"
+  },
+  {
+   "orateur": "M. Thibault Bazin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "En Normandie ou en Lorraine !"
+  },
+  {
+   "orateur": "M. Philippe Gosselin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Dans tous vos départements, les maires sont évidemment nombreux à faire part des difficultés soulevées par le ZAN."
+  },
+  {
+   "orateur": "M. Fabien Di Filippo",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Évidemment !"
+  },
+  {
+   "orateur": "M. Philippe Gosselin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Sur le fond, nous sommes plutôt d’accord avec le rapporteur et le gouvernement, en réalité. Le ZAN est un vrai sujet. Sans remettre en cause l’économie des sols, comment remédier à la crise du logement que nous connaissons et qui tient, entre autres, à un manque de terrains constructibles ? Des entreprises installées chez nous depuis des années – je ne parle même pas des nouvelles entreprises ! – ne parviennent plus à trouver des terrains à cause de l’application du ZAN. Alors que celui-ci doit être atteint en 2050, avec un objectif intermédiaire fixé à 2030, tout se passe en fait comme s’il fallait appliquer immédiatement la loi…Nous pourrons sans aucun doute avancer grâce à la proposition de loi Trace, mais il me paraît important de signifier dès aujourd’hui le ras-le-bol des élus locaux à l’égard du ZAN. Le maire d’une commune de ma circonscription préfère d’ailleurs parler des ZEM : des zones d’emmerdement maximum. Cet élu, maire d’une commune de 10 000 habitants, n’est pas un jusqu’au-boutiste, il n’est pas anti-environnement, mais il en a ras le bol ! Les maires veulent pouvoir construire, créer des emplois. Votons ces amendements dès aujourd’hui, nous pourrons toujours revoir l’articulation avec la proposition de loi Trace (Exclamations. – Brouhaha) : ce qui est rentré ne craint pas l’eau ! (Applaudissements sur les bancs du groupe DR et sur quelques bancs du groupe RN. – M. Ian Boucard, président de la commission spéciale, applaudit également.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Lisa Belluco."
+  },
+  {
+   "orateur": "Mme Lisa Belluco",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Je suis contente de voir les collègues du bloc central en nombre plus important qu’hier soir."
+  },
+  {
+   "orateur": "M. Philippe Gosselin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Faut-il aussi rappeler vos manœuvres ?"
+  },
+  {
+   "orateur": "Mme Lisa Belluco",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Certains d’entre vous m’ont expliqué hier, à cor et à cri, que la loi « climat et résilience » était la grande avancée écologique de votre précédent mandat. Eh bien oui, elle l’était ! Nous voici donc à un moment de vérité : allez-vous revenir sur votre propre texte ? Je compte sur vos voix pour rejeter ces amendements tendant à détruire la disposition la plus écologique que vous ayez prise en sept ans. (Exclamations sur les bancs des groupes EPR et DR.)"
+  },
+  {
+   "orateur": "Un député du groupe EcoS",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "La seule !"
+  },
+  {
+   "orateur": "Mme Lisa Belluco",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Collègues du Rassemblement national et de la droite, ce qui tue notre ruralité, c’est votre vision étriquée et passéiste du développement économique ! (Applaudissements sur les bancs du groupe EcoS et sur plusieurs bancs des groupes LFI-NFP et SOC. – « Non, c’est vous ! » sur plusieurs bancs du groupe RN.)"
+  },
+  {
+   "orateur": "M. Philippe Gosselin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Faites preuve d’un peu de mesure !"
+  },
+  {
+   "orateur": "Mme Lisa Belluco",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "L’étalement urbain tue nos centres-bourgs, accélère la désertification de nos villages. Pour sauver nos campagnes, il faut lutter contre l’industrialisation de l’agriculture, contre la destruction des services publics,…"
+  },
+  {
+   "orateur": "M. Hervé de Lépinau",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Que proposez-vous ?"
+  },
+  {
+   "orateur": "Mme Lisa Belluco",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "…il faut penser et soutenir enfin un modèle économique compatible avec la finitude des ressources naturelles, harmonieux avec le reste du vivant. Ce ne sont pas vos supermarchés, vos entrepôts et vos autoroutes qui les sauveront ! Vous détestez nos campagnes ! Tous les projets que vous soutenez accélèrent la destruction des campagnes françaises, des paysages français, de l’agriculture française. (Applaudissements prolongés sur les bancs des groupes EcoS, LFI-NFP et SOC.) Là encore, vous proposez de détruire les terres agricoles françaises, et vous voudriez nous faire croire que vous êtes du côté des ruralités et des agriculteurs ? (Mme Émilie Bonnivard s’exclame.) Vous mentez là-dessus comme sur tout le reste ! Vous œuvrez à la destruction de la France !"
+  },
+  {
+   "orateur": "Mme Émilie Bonnivard",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "C’est sans doute pour ça qu’ils nous élisent !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. François Piquemal."
+  },
+  {
+   "orateur": "M. François Piquemal",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Nos collègues de la droite et de l’extrême droite veulent supprimer le ZAN pour pouvoir continuer la bétonisation, en cours depuis des décennies en France, qui entraîne notamment la réduction des surfaces agricoles."
+  },
+  {
+   "orateur": "Mme Émilie Bonnivard",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Bla bla bla !"
+  },
+  {
+   "orateur": "M. François Piquemal",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Hier, nombre d’entre vous ont développé l’argument, d’ailleurs repris aujourd’hui, selon lequel le ZAN empêcherait de construire des logements… (« Eh oui ! » et exclamations sur plusieurs bancs des groupes RN et DR.)"
+  },
+  {
+   "orateur": "M. Philippe Gosselin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "C’est en partie vrai !"
+  },
+  {
+   "orateur": "M. François Piquemal",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Je vous trouve particulièrement gonflés, car chaque fois que nous cherchons à faire respecter la loi relative à la solidarité et au renouvellement urbains, dite loi SRU, qui impose aux communes de construire 20 à 25 % de logements sociaux, vous êtes vent debout contre nous ! (Applaudissements sur les bancs du groupe LFI-NFP et sur plusieurs bancs du groupe EcoS.) Vous êtes toujours là pour défendre les hors-la-loi qui ne la respectent pas !Vous porterez la responsabilité de ce qui se produira dans les prochaines décennies, comme vos amis de l’extrême droite espagnole portent celle des inondations survenues à Valence en octobre dernier, qui ont fait plus de 230 morts. (Applaudissements sur les bancs des groupes LFI-NFP, SOC et EcoS.) À Valence, 23 % de la zone littérale est bétonisée et l’extrême droite, alliée à la droite, y a réduit les moyens destinés à la transition écologique, notamment ceux des services d’alerte et des services d’urgence, avec les résultats que l’on connaît."
+  },
+  {
+   "orateur": "Mme Émilie Bonnivard",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Tu es élu d’où, toi ?"
+  },
+  {
+   "orateur": "M. François Piquemal",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Tout le monde sera comptable, à l’égard du cycle du vivant et du cycle de l’eau, comme à l’égard des agriculteurs et des agricultrices ainsi que des habitants et des habitantes de nos régions, du vote auquel nous allons procéder dans quelques instants. (Applaudissements sur les bancs du groupe LFI-NFP et sur plusieurs bancs du groupe EcoS.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Sandrine Le Feur."
+  },
+  {
+   "orateur": "Mme Sandrine Le Feur",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Ce n’est pas très beau de déformer mes propos d’hier soir, cher collègue. J’ai dit que j’avais mené des auditions d’élus locaux dans le cadre d’une mission…"
+  },
+  {
+   "orateur": "M. Philippe Gosselin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Je n’ai pas dit que vous n’aviez rencontré personne !"
+  },
+  {
+   "orateur": "Mme Sandrine Le Feur",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "À cette occasion, plusieurs d’entre eux ont précisé qu’ils n’étaient pas opposés au ZAN mais qu’ils avaient besoin d’outils, notamment fiscaux, pour pouvoir l’appliquer. (Applaudissements sur les bancs du groupe EcoS et sur plusieurs bancs du groupe SOC.)"
+  },
+  {
+   "orateur": "Mme Marie-Charlotte Garin",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Eh oui !"
+  },
+  {
+   "orateur": "Mme Sandrine Le Feur",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Sachez que le Finistère compte beaucoup d’élus locaux, en particulier ruraux, et que je les côtoie : aucun ne m’a dit qu’il voulait remettre en cause le ZAN. Par ailleurs, chers collègues qui êtes si attachés à la sécurité, vous devriez prendre conscience que l’artificialisation des sols est un enjeu de sécurité pour nos concitoyens, compte tenu des dégâts qu’elle entraîne – les inondations, les sécheresses, les canicules provoquent en effet des décès ! (Mêmes mouvements.) Nous devons protéger nos concitoyens et donc conserver cet objectif zéro artificialisation nette. (Applaudissements sur plusieurs bancs des groupes EPR, SOC, EcoS et Dem.)"
+  },
+  {
+   "orateur": "M. Erwan Balanant",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Bravo !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Matthias Renault."
+  },
+  {
+   "orateur": "M. Matthias Renault",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "L’Assemblée nationale a aujourd’hui l’occasion de supprimer le ZAN. Celle-ci vous est offerte par le Rassemblement national, qui a déposé l’amendement que nous sommes en train d’examiner. Le groupe DR a déposé un amendement identique et j’espère que ses députés seront suffisamment nombreux pour les voter tous deux : les élus locaux nous regardent et certains d’entre eux, en particulier dans les zones rurales, attendent beaucoup de ce vote ! (Applaudissements sur les bancs des groupes RN et UDR.)Je ne développerai pas de nouveau les arguments présentés hier soir ; le débat a déjà eu lieu. Chers collègues du bloc central, la loi « climat et résilience » a été une immense erreur. Or il est bon de reconnaître ses erreurs. J’en veux pour preuve la multiplication des dérogations dont vous avez eu l’initiative depuis le vote de cette loi !"
+  },
+  {
+   "orateur": "Mme Sandra Marsaud",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Pense ce que tu veux, on s’en fiche !"
+  },
+  {
+   "orateur": "M. Matthias Renault",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Sentez-vous libres de votre vote, chers collègues !"
+  },
+  {
+   "orateur": "M. Gabriel Attal",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Merci !"
+  },
+  {
+   "orateur": "M. Matthias Renault",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "L’occasion ne se représentera peut-être pas très souvent : votons ces amendements de suppression du ZAN ! (Applaudissements sur les bancs des groupes RN et UDR.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Marc Fesneau."
+  },
+  {
+   "orateur": "M. Marc Fesneau",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Le groupe Démocrates votera contre ces amendements. Les élus locaux nous regardent, disiez-vous, monsieur Renault. Certains d’entre nous sont aussi des élus locaux… (« Alors que faites-vous ? » sur plusieurs bancs du groupe RN.) Or nous sommes plusieurs à penser, comme nous le répétons auprès des assemblées locales, qu’il faut cesser d’artificialiser les sols ! (Applaudissements sur plusieurs bancs des groupes Dem, EPR, SOC et EcoS.) Nous avons tous répété que nous perdions tous les dix ans l’équivalent d’un département ! Alors que faire, maintenant que nous sommes au pied du mur ? C’est compliqué autant que nécessaire, à n’en pas douter ! Oui, il faut ajuster le dispositif ! C’est tout l’objet de la proposition de loi Trace qui est en cours de navette parlementaire. Sans doute la loi « climat et résilience » n’était-elle pas correctement pensée pour s’appliquer convenablement, mais il ne faudra jamais renoncer à lutter contre l’artificialisation, qui galope ! Vous qui prétendez défendre l’agriculture, vous devriez emprunter ce chemin plutôt que celui de la facilité ! (Exclamations sur les bancs du groupe RN.) Nous choisissons quant à nous celui de l’exigence ! (« Bravo ! » et applaudissements sur les bancs des groupes Dem et EPR.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Gérard Leseul."
+  },
+  {
+   "orateur": "M. Gérard Leseul",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Soyons précis. Nous l’avons dit hier lors de l’examen des amendements nos 2587 à 2190 : contrairement à ce que vous laissez entendre, collègues du Rassemblement national, 121 568 hectares sont possiblement utilisables aujourd’hui. On ne peut donc pas prétendre que le ZAN aurait conduit à ce que plus aucun mètre carré ne soit plus disponible à l’artificialisation ! Vous avez rejeté ces amendements qui visaient à revenir sur la nouvelle dérogation au ZAN introduite par amendement en commission spéciale, à hauteur de 36 470 hectares supplémentaires – sachant que les préfets auront encore la possibilité d’y déroger davantage ! Cela représente tout de même une superficie supérieure au territoire de Mayotte ou de la ville de Marseille. Ne racontez donc pas n’importe quoi : de nombreuses exemptions de l’objectif ZAN sont déjà prévues ; on peut d’ailleurs le regretter. Bref, ne cherchez pas à tout déréguler, sans quoi vous finirez par tout détricoter et par abîmer la France ! (Applaudissements sur les bancs du groupe SOC.)"
+  },
+  {
+   "orateur": "M. Laurent Jacobelli",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Pfff, venant d’un socialiste !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Éric Ciotti."
+  },
+  {
+   "orateur": "M. Éric Ciotti",
+   "qualite": null,
+   "groupe": "UDR",
+   "president_de_seance": false,
+   "texte": "Je soutiendrai ces amendements ; ce qu’ils tendent à supprimer, c’est un monstre de technocratie. (Applaudissements sur les bancs des groupes UDR et RN.)"
+  },
+  {
+   "orateur": "M. Erwan Balanant",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Il faudra l’expliquer lors de la prochaine inondation dans ton territoire ! Et à ceux qui y auront perdu un proche !"
+  },
+  {
+   "orateur": "M. Éric Ciotti",
+   "qualite": null,
+   "groupe": "UDR",
+   "president_de_seance": false,
+   "texte": "Le ZAN constitue une atteinte au droit fondamental de propriété et à la libre administration des collectivités locales, garantie par l’article 72 de la Constitution. Faites confiance au bon sens des élus ! Faites confiance à la liberté ! Arrêtons avec la bureaucratie ! Arrêtons avec la technocratie ! (Applaudissements sur les bancs des groupes UDR et RN.)"
+  },
+  {
+   "orateur": "M. Dominique Potier",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "C’est de la démagogie !"
+  },
+  {
+   "orateur": "M. Éric Ciotti",
+   "qualite": null,
+   "groupe": "UDR",
+   "president_de_seance": false,
+   "texte": "Nous avons besoin que notre pays se réindustrialise, qu’il accueille des usines, qu’il construise des logements. Aucune menace ne pèse sur la biodiversité ni sur les espaces : jamais la France n’a été aussi boisée ! Arrêtez avec vos délires et vos lubies ! (Vives exclamations sur les bancs du groupe EcoS.) Ne trompez pas les Français ! Faites confiance au bon sens et à la liberté ! (Applaudissements sur les bancs des groupes UDR et RN.)"
+  },
+  {
+   "orateur": "M. Erwan Balanant",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Démagos ! Populistes inconscients !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Thierry Benoit."
+  },
+  {
+   "orateur": "M. Thierry Benoit",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "L’artificialisation des sols nous préoccupe tous, notamment parce qu’elle menace le potentiel agricole de la France, qui repose sur ses 28 millions d’hectares de surface agricole utile. Oui, la loi « climat et résilience » et l’objectif zéro artificialisation nette posent des difficultés d’application sur le terrain."
+  },
+  {
+   "orateur": "M. Philippe Gosselin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Évidemment !"
+  },
+  {
+   "orateur": "M. Thierry Benoit",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "Mais la proposition du gouvernement est la bonne : revoir cet objectif avec les élus locaux, en particulier dans le cadre de la proposition de loi Trace. En conséquence, il convient de s’opposer à ces amendements tendant à supprimer le ZAN. (Applaudissements sur quelques bancs du groupe EPR. – M. Dominique Potier applaudit également.)"
+  },
+  {
+   "orateur": "M. Philippe Gosselin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Non, il faut mettre la pression !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix les amendements identiques nos 953 rectifié et 2639 rectifié."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ],
+ "compte_rendu_precedent": "CRSANR5L17S2025O1N218"
+}
