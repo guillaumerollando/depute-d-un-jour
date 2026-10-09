@@ -1,0 +1,63 @@
+{
+  "uid": "VTANR5L17V8042",
+  "consigne": "etape3_accroche v1",
+  "modifie": true,
+  "mesures_citees": [
+    {
+      "mesure": "Cours criminelles départementales (fonctionnement, compétence)",
+      "groupes": [
+        "EPR",
+        "LFI",
+        "SOC",
+        "DR",
+        "ECOS",
+        "HOR",
+        "LIOT"
+      ]
+    },
+    {
+      "mesure": "Détention provisoire (délai supplémentaire, « sas »)",
+      "groupes": [
+        "RN",
+        "SOC",
+        "ECOS",
+        "DEM",
+        "HOR",
+        "LIOT"
+      ]
+    },
+    {
+      "mesure": "Fichier et généalogie génétiques (ADN)",
+      "groupes": [
+        "RN",
+        "SOC",
+        "ECOS",
+        "DEM",
+        "LIOT"
+      ]
+    },
+    {
+      "mesure": "Plaider-coupable criminel (retiré)",
+      "groupes": [
+        "EPR",
+        "SOC",
+        "DEM",
+        "LIOT"
+      ]
+    },
+    {
+      "mesure": "Avocat payé par l'aide juridictionnelle dès la plainte",
+      "groupes": [
+        "HOR"
+      ]
+    },
+    {
+      "mesure": "Renvoi d'une affaire vers une autre cour d'assises",
+      "groupes": [
+        "HOR"
+      ]
+    }
+  ],
+  "titre": "Permettre d'analyser l'ADN d'un inconnu dans les enquêtes pour crime",
+  "remarque": "Arbitrage du coordinateur : mesures retenues parmi celles du résumé. La plus citée est l'ADN (5 groupes) ; l'avocat payé dès la plainte et le renvoi vers une autre cour ne sont cités que par 1 groupe. Les cours criminelles et la détention provisoire, plus citées mais absentes du résumé, sont ignorées."
+}

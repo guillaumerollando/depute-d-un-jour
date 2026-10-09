@@ -1,0 +1,47 @@
+{
+  "uid": "VTANR5L17V8427",
+  "consigne": "etape3_accroche v1",
+  "modifie": true,
+  "mesures_citees": [
+    {
+      "mesure": "autorisation de deux pesticides interdits",
+      "groupes": [
+        "GDR",
+        "UDR",
+        "RN",
+        "DR",
+        "DEM",
+        "ECOS"
+      ]
+    },
+    {
+      "mesure": "doubler le stockage d'eau agricole",
+      "groupes": [
+        "GDR",
+        "UDR",
+        "RN",
+        "DR",
+        "EPR",
+        "SOC"
+      ]
+    },
+    {
+      "mesure": "protection des troupeaux contre le loup",
+      "groupes": [
+        "UDR",
+        "RN",
+        "DR",
+        "EPR"
+      ]
+    },
+    {
+      "mesure": "suspension des importations",
+      "groupes": [
+        "UDR",
+        "RN",
+        "DR"
+      ]
+    }
+  ],
+  "titre": "Pouvoir autoriser deux pesticides interdits et viser à doubler le stockage d'eau agricole"
+}

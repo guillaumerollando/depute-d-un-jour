@@ -1,0 +1,47 @@
+{
+  "uid": "VTANR5L17V789",
+  "consigne": "etape3_accroche v1",
+  "modifie": true,
+  "mesures_citees": [
+    {
+      "mesure": "Dirigeants de coopératives vendant des pesticides au bureau des chambres d'agriculture",
+      "groupes": [
+        "LIOT",
+        "GDR",
+        "UDR",
+        "RN",
+        "EPR",
+        "LFI",
+        "SOC"
+      ]
+    },
+    {
+      "mesure": "Élections de la Mutualité sociale agricole (Lyon, cotisations en retard, calendrier)",
+      "groupes": [
+        "LIOT",
+        "GDR",
+        "UDR",
+        "RN",
+        "EPR",
+        "SOC"
+      ]
+    },
+    {
+      "mesure": "Parité des listes MSA",
+      "groupes": [
+        "LIOT",
+        "UDR",
+        "LFI"
+      ]
+    },
+    {
+      "mesure": "Report des élections à Mayotte",
+      "groupes": [
+        "RN",
+        "SOC"
+      ]
+    }
+  ],
+  "titre": "Ouvrir le bureau des chambres agricoles aux chefs de coopératives vendant des pesticides",
+  "remarque": "Le terme exact du résumé (« dirigeants de coopératives vendant des pesticides ») plus « bureau des chambres d'agriculture » ne tient pas en 90 caractères (meilleure version exacte : 93). « vendant des pesticides » retiré ; à arbitrer."
+}

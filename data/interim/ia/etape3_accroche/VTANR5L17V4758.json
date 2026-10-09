@@ -1,0 +1,25 @@
+{
+  "uid": "VTANR5L17V4758",
+  "consigne": "etape3_accroche v1",
+  "modifie": true,
+  "mesures_citees": [
+    {
+      "mesure": "congé de naissance",
+      "groupes": [
+        "EPR",
+        "LFI",
+        "SOC",
+        "LIOT"
+      ]
+    },
+    {
+      "mesure": "frein de la hausse de l'âge de retraite",
+      "groupes": [
+        "SOC",
+        "DEM",
+        "HOR"
+      ]
+    }
+  ],
+  "titre": "Adopter le budget de la Sécurité sociale pour 2026 et créer un congé de naissance"
+}

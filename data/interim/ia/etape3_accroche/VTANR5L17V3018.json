@@ -1,0 +1,37 @@
+{
+  "uid": "VTANR5L17V3018",
+  "consigne": "etape3_accroche v1",
+  "modifie": false,
+  "mesures_citees": [
+    {
+      "mesure": "Prime de sièges à la liste en tête",
+      "groupes": [
+        "DEM",
+        "ECOS",
+        "EPR",
+        "GDR",
+        "HOR",
+        "LIOT",
+        "RN",
+        "SOC",
+        "UDR"
+      ]
+    },
+    {
+      "mesure": "Deux scrutins séparés (ville et arrondissement)",
+      "groupes": [
+        "DEM",
+        "GDR",
+        "UDR"
+      ]
+    },
+    {
+      "mesure": "Conférence des maires",
+      "groupes": [
+        "EPR",
+        "UDR"
+      ]
+    }
+  ],
+  "titre": "Élire séparément les conseils de ville et d'arrondissement à Paris, Lyon et Marseille"
+}

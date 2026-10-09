@@ -1,0 +1,53 @@
+{
+  "uid": "VTANR5L17V8434",
+  "consigne": "etape3_accroche v1",
+  "modifie": false,
+  "mesures_citees": [
+    {
+      "mesure": "Agence transformée en établissement public",
+      "groupes": [
+        "DEM",
+        "DR",
+        "ECOS",
+        "GDR",
+        "HOR",
+        "LIOT",
+        "SOC"
+      ]
+    },
+    {
+      "mesure": "Transfert des bâtiments de l'État",
+      "groupes": [
+        "DEM",
+        "DR",
+        "ECOS",
+        "LFI",
+        "LIOT",
+        "UDR"
+      ]
+    },
+    {
+      "mesure": "Vente des bâtiments",
+      "groupes": [
+        "DEM",
+        "DR",
+        "ECOS",
+        "HOR",
+        "LIOT",
+        "SOC"
+      ]
+    },
+    {
+      "mesure": "Emprunt et filiales",
+      "groupes": [
+        "DEM",
+        "DR",
+        "ECOS",
+        "HOR",
+        "LIOT",
+        "SOC"
+      ]
+    }
+  ],
+  "titre": "Transformer l'Agence de gestion de l'immobilier de l'État en établissement public"
+}

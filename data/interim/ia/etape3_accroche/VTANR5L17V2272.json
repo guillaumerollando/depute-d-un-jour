@@ -1,0 +1,22 @@
+{
+  "uid": "VTANR5L17V2272",
+  "consigne": "etape3_accroche v1",
+  "modifie": false,
+  "mesures_citees": [
+    {
+      "mesure": "Allocations familiales dès le premier enfant",
+      "groupes": [
+        "DEM",
+        "DR",
+        "ECOS",
+        "EPR",
+        "HOR",
+        "LFI",
+        "LIOT",
+        "RN",
+        "UDR"
+      ]
+    }
+  ],
+  "titre": "Verser les allocations familiales dès le premier enfant"
+}

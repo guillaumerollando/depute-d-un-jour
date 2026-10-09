@@ -1,0 +1,37 @@
+{
+  "uid": "VTANR5L17V2256",
+  "consigne": "etape3_accroche v1",
+  "modifie": false,
+  "mesures_citees": [
+    {
+      "mesure": "Absence pour donner son sang",
+      "groupes": [
+        "DEM",
+        "DR",
+        "ECOS",
+        "EPR",
+        "HOR",
+        "LFI",
+        "RN",
+        "SOC"
+      ]
+    },
+    {
+      "mesure": "Don de plasma",
+      "groupes": [
+        "DR",
+        "EPR",
+        "LFI",
+        "SOC"
+      ]
+    },
+    {
+      "mesure": "Refus de l'employeur",
+      "groupes": [
+        "LFI",
+        "RN"
+      ]
+    }
+  ],
+  "titre": "Permettre aux salariés et aux agents publics une absence payée pour donner leur sang"
+}

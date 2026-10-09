@@ -1,0 +1,38 @@
+{
+  "uid": "VTANR5L17V7409",
+  "consigne": "etape3_accroche v1",
+  "modifie": true,
+  "mesures_citees": [
+    {
+      "mesure": "Fin des concessions, régime d'autorisation, maintien des exploitants actuels",
+      "groupes": [
+        "SOC",
+        "DR",
+        "DEM",
+        "HOR",
+        "GDR"
+      ]
+    },
+    {
+      "mesure": "Mise aux enchères d'une partie de la production d'EDF",
+      "groupes": [
+        "SOC",
+        "DR",
+        "ECOS",
+        "DEM",
+        "GDR"
+      ]
+    },
+    {
+      "mesure": "Fin du contentieux avec la Commission européenne",
+      "groupes": [
+        "DR",
+        "DEM",
+        "HOR",
+        "GDR"
+      ]
+    }
+  ],
+  "titre": "Mettre fin aux concessions des grands barrages et y maintenir les exploitants actuels",
+  "remarque": "Égalité entre les deux mesures : retenue celle qui vient en premier dans le résumé. La durée de 70 ans est laissée au résumé."
+}

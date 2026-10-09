@@ -1,0 +1,50 @@
+{
+  "uid": "VTANR5L17V1041",
+  "consigne": "etape3_accroche v1",
+  "modifie": false,
+  "mesures_citees": [
+    {
+      "mesure": "Pouvoirs des agents de sécurité de la SNCF et de la RATP",
+      "groupes": [
+        "DEM",
+        "DR",
+        "EPR",
+        "HOR",
+        "LFI",
+        "LIOT",
+        "SOC"
+      ]
+    },
+    {
+      "mesure": "Inspection et fouille des bagages",
+      "groupes": [
+        "DEM",
+        "DR",
+        "EPR",
+        "HOR",
+        "LIOT",
+        "SOC"
+      ]
+    },
+    {
+      "mesure": "Caméras portées par les agents",
+      "groupes": [
+        "DEM",
+        "DR",
+        "ECOS",
+        "EPR",
+        "HOR",
+        "LFI"
+      ]
+    },
+    {
+      "mesure": "Amende pour bagage abandonné",
+      "groupes": [
+        "DEM",
+        "EPR",
+        "LFI"
+      ]
+    }
+  ],
+  "titre": "Renforcer les pouvoirs des agents de sécurité dans les transports en commun"
+}

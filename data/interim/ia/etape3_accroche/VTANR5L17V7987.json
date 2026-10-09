@@ -1,0 +1,21 @@
+{
+  "uid": "VTANR5L17V7987",
+  "consigne": "etape3_accroche v1",
+  "modifie": true,
+  "mesures_citees": [
+    {
+      "mesure": "présomption d'usage conforme de l'arme par policiers et gendarmes",
+      "groupes": [
+        "UDR",
+        "EPR",
+        "RN",
+        "LIOT",
+        "ECOS",
+        "GDR",
+        "LFI",
+        "SOC"
+      ]
+    }
+  ],
+  "titre": "Présumer qu'un policier ou un gendarme qui utilise son arme l'a fait dans un cas autorisé"
+}

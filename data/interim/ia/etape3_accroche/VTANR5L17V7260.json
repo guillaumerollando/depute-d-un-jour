@@ -1,0 +1,23 @@
+{
+  "uid": "VTANR5L17V7260",
+  "consigne": "etape3_accroche v1",
+  "modifie": false,
+  "mesures_citees": [
+    {
+      "mesure": "durée d'indemnisation réduite après rupture conventionnelle",
+      "groupes": [
+        "LFI",
+        "SOC",
+        "DR",
+        "ECOS",
+        "DEM",
+        "HOR",
+        "LIOT",
+        "GDR",
+        "UDR",
+        "RN"
+      ]
+    }
+  ],
+  "titre": "Permettre une durée de chômage indemnisé plus courte après une rupture conventionnelle"
+}

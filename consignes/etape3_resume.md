@@ -64,7 +64,7 @@ Choisis le thème du **contenu** de la mesure, pas celui du texte qui la porte. 
 
 - Une phrase à l'infinitif, de 90 caractères maximum, qui décrit l'action votée : « Interdire… », « Créer… », « Supprimer… », « Autoriser… ».
 - Pas de question, pas de négation piège.
-- Pas de date limite ni de durée (« jusqu'en 2028 », « au plus tard le 28 juin 2026 ») : une fois la date passée, la mesure paraîtrait périmée. Ces dates vont dans `ce_que_ca_change`. Une année qui désigne le texte lui-même reste (« budget de la Sécurité sociale pour 2026 »).
+- Pas de date limite ni de durée d'application de la mesure (« jusqu'en 2028 », « au plus tard le 28 juin 2026 »). Une durée qui est le contenu même de la mesure reste (« une rétention jusqu'à 540 jours ») : une fois la date passée, la mesure paraîtrait périmée. Ces dates vont dans `ce_que_ca_change`. Une année qui désigne le texte lui-même reste (« budget de la Sécurité sociale pour 2026 »).
 - Vocabulaire courant.
 
 ### `ce_que_ca_change`

@@ -1,0 +1,29 @@
+{
+  "uid": "VTANR5L17V3182",
+  "consigne": "etape3_accroche v1",
+  "modifie": false,
+  "mesures_citees": [
+    {
+      "mesure": "report des élections provinciales",
+      "groupes": [
+        "EPR",
+        "LFI",
+        "SOC",
+        "DR",
+        "ECOS",
+        "DEM",
+        "HOR"
+      ]
+    },
+    {
+      "mesure": "report pour poursuivre les discussions",
+      "groupes": [
+        "EPR",
+        "SOC",
+        "DEM",
+        "ECOS"
+      ]
+    }
+  ],
+  "titre": "Reporter les élections provinciales en Nouvelle-Calédonie"
+}

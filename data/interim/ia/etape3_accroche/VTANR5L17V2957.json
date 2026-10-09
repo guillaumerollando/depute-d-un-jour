@@ -1,0 +1,42 @@
+{
+  "uid": "VTANR5L17V2957",
+  "consigne": "etape3_accroche v1",
+  "modifie": true,
+  "mesures_citees": [
+    {
+      "mesure": "dérogation pour les néonicotinoïdes",
+      "groupes": [
+        "UDR",
+        "RN",
+        "EPR",
+        "SOC",
+        "DEM",
+        "HOR",
+        "ECOS"
+      ]
+    },
+    {
+      "mesure": "élevages : seuils et démarches allégés",
+      "groupes": [
+        "UDR",
+        "EPR",
+        "LFI",
+        "SOC",
+        "DEM",
+        "HOR",
+        "ECOS"
+      ]
+    },
+    {
+      "mesure": "réserves d'eau présumées d'intérêt général majeur",
+      "groupes": [
+        "UDR",
+        "EPR",
+        "SOC",
+        "DEM",
+        "HOR"
+      ]
+    }
+  ],
+  "titre": "Permettre d'autoriser à titre exceptionnel les néonicotinoïdes, insecticides interdits"
+}

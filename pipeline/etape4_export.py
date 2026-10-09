@@ -98,6 +98,19 @@ def coherence(carte):
     return carte
 
 
+def accroche(carte):
+    """Titre d'accroche d'un texte entier (consigne etape3_accroche) : appliqué seulement si le contrôle le valide."""
+    f_acc = INTERIM / "ia/etape3_accroche" / f"{carte['uid']}.json"
+    f_ver = INTERIM / "ia/etape3_accroche_verif" / f"{carte['uid']}.json"
+    if not f_acc.exists() or not f_ver.exists():
+        return carte
+    acc, ver = charger_json(f_acc), charger_json(f_ver)
+    titre = acc.get("titre") or ""
+    if acc.get("modifie") and ver.get("verdict") == "valide" and 0 < len(titre) <= 90 and not NOMS_INTERDITS.search(titre):
+        carte["titre"] = titre
+    return carte
+
+
 def main():
     cartes = charger_json(RACINE / "data/publie/cartes.json")
     bruts = {}
@@ -142,7 +155,7 @@ def main():
         sortie.append({k: c[k] for k in ("uid", "numero", "date", "type", "theme", "titre", "ce_que_ca_change",
                                           "contexte", "resultat", "positions", "neutralises", "citations", "liens")}
                       | {"socle": c.get("socle", False), "deputes": votes} | complements(c))
-        sortie[-1] = coherence(sortie[-1])
+        sortie[-1] = accroche(coherence(sortie[-1]))
 
     meta = {"date_donnees": dernier["dateScrutin"], "scrutins_analyses": len(bruts), "cartes": len(sortie), "depot": DEPOT}
     for nom, contenu in (("groupes", groupes), ("cartes", sortie), ("deputes", deputes), ("meta", meta)):

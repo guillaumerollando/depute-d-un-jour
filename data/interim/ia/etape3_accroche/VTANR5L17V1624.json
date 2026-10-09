@@ -1,0 +1,38 @@
+{
+  "uid": "VTANR5L17V1624",
+  "consigne": "etape3_accroche v1",
+  "modifie": false,
+  "mesures_citees": [
+    {
+      "mesure": "peine plus réduite par principe en raison de l'âge pour certaines récidives",
+      "groupes": [
+        "ECOS",
+        "DEM",
+        "HOR",
+        "LIOT",
+        "GDR",
+        "UDR"
+      ]
+    },
+    {
+      "mesure": "procès rapide pour les mineurs d'au moins 16 ans",
+      "groupes": [
+        "ECOS",
+        "DEM",
+        "LIOT",
+        "GDR",
+        "UDR"
+      ]
+    },
+    {
+      "mesure": "sanctions pénales des parents défaillants",
+      "groupes": [
+        "ECOS",
+        "DEM",
+        "HOR",
+        "UDR"
+      ]
+    }
+  ],
+  "titre": "Renforcer les sanctions envers les mineurs délinquants et leurs parents"
+}

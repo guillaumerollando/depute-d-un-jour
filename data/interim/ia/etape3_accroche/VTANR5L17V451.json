@@ -1,0 +1,26 @@
+{
+  "uid": "VTANR5L17V451",
+  "consigne": "etape3_accroche v1",
+  "modifie": false,
+  "mesures_citees": [
+    {
+      "mesure": "Part d'impôt versée à l'audiovisuel public",
+      "groupes": [
+        "DR",
+        "EPR",
+        "GDR",
+        "UDR"
+      ]
+    },
+    {
+      "mesure": "Financement hors budget annuel, indépendance",
+      "groupes": [
+        "ECOS",
+        "EPR",
+        "GDR",
+        "LIOT"
+      ]
+    }
+  ],
+  "titre": "Permettre de financer l'audiovisuel public par une part d'impôt qui lui est réservée"
+}

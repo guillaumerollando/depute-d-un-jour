@@ -1,0 +1,53 @@
+{
+  "uid": "VTANR5L17V3056",
+  "consigne": "etape3_accroche v1",
+  "modifie": true,
+  "mesures_citees": [
+    {
+      "mesure": "Procédures d'évolution des plans locaux d'urbanisme",
+      "groupes": [
+        "EPR",
+        "SOC",
+        "DR",
+        "DEM",
+        "HOR"
+      ]
+    },
+    {
+      "mesure": "Logement des travailleurs (résidences hôtelières à vocation sociale)",
+      "groupes": [
+        "LFI",
+        "SOC",
+        "DR",
+        "ECOS",
+        "HOR"
+      ]
+    },
+    {
+      "mesure": "Délais de recours contre les décisions d'urbanisme",
+      "groupes": [
+        "LFI",
+        "DEM",
+        "HOR"
+      ]
+    },
+    {
+      "mesure": "Consultation en ligne à la place de l'enquête publique",
+      "groupes": [
+        "EPR",
+        "LFI",
+        "ECOS"
+      ]
+    },
+    {
+      "mesure": "Logements dans les zones d'activité",
+      "groupes": [
+        "EPR",
+        "DEM",
+        "HOR"
+      ]
+    }
+  ],
+  "titre": "Alléger les procédures pour modifier les plans d'urbanisme des communes",
+  "remarque": "Une seule mesure retenue : la seconde à égalité (logement des travailleurs) ne figure pas dans le résumé."
+}

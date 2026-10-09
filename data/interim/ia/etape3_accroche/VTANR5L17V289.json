@@ -1,0 +1,52 @@
+{
+  "uid": "VTANR5L17V289",
+  "consigne": "etape3_accroche v1",
+  "modifie": false,
+  "mesures_citees": [
+    {
+      "mesure": "Avantage fiscal des meublés classés",
+      "groupes": [
+        "DEM",
+        "DR",
+        "GDR",
+        "HOR",
+        "SOC",
+        "UDR"
+      ]
+    },
+    {
+      "mesure": "Seuils énergétiques des meublés",
+      "groupes": [
+        "DEM",
+        "DR",
+        "GDR",
+        "HOR",
+        "LIOT"
+      ]
+    },
+    {
+      "mesure": "Location de la résidence principale réduite à 90 jours",
+      "groupes": [
+        "DR",
+        "GDR",
+        "HOR"
+      ]
+    },
+    {
+      "mesure": "Enregistrement des meublés",
+      "groupes": [
+        "GDR",
+        "HOR",
+        "SOC"
+      ]
+    },
+    {
+      "mesure": "Quotas et zones réservées",
+      "groupes": [
+        "DEM",
+        "SOC"
+      ]
+    }
+  ],
+  "titre": "Donner aux maires de nouveaux outils pour encadrer les locations de meublés de tourisme"
+}

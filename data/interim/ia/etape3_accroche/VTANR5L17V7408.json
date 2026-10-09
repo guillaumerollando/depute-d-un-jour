@@ -1,0 +1,29 @@
+{
+  "uid": "VTANR5L17V7408",
+  "consigne": "etape3_accroche v1",
+  "modifie": false,
+  "mesures_citees": [
+    {
+      "mesure": "Logement des agents publics",
+      "groupes": [
+        "DEM",
+        "DR",
+        "ECOS",
+        "GDR",
+        "HOR",
+        "LIOT",
+        "UDR"
+      ]
+    },
+    {
+      "mesure": "Logement social lié à l'emploi, fin du bail",
+      "groupes": [
+        "ECOS",
+        "GDR",
+        "LIOT",
+        "RN"
+      ]
+    }
+  ],
+  "titre": "Faciliter le logement des agents publics près de leur lieu de travail"
+}

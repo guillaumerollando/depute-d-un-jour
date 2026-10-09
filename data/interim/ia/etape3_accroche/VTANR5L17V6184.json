@@ -1,0 +1,37 @@
+{
+  "uid": "VTANR5L17V6184",
+  "consigne": "etape3_accroche v1",
+  "modifie": true,
+  "mesures_citees": [
+    {
+      "mesure": "suppression des zones à faibles émissions",
+      "groupes": [
+        "DR",
+        "ECOS",
+        "DEM",
+        "HOR",
+        "RN",
+        "LFI",
+        "SOC",
+        "EPR"
+      ]
+    },
+    {
+      "mesure": "grands projets industriels hors limite de consommation d'espaces",
+      "groupes": [
+        "DR",
+        "ECOS",
+        "DEM",
+        "LIOT"
+      ]
+    },
+    {
+      "mesure": "centres de données",
+      "groupes": [
+        "ECOS",
+        "DEM"
+      ]
+    }
+  ],
+  "titre": "Supprimer les zones à faibles émissions (ZFE)"
+}
