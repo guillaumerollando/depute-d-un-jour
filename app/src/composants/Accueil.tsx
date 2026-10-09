@@ -24,8 +24,9 @@ export function Accueil({ donnees, onCommencer, onMethode }: Props) {
       <ol className="regles">
         <li><span className="geste pour">→</span> <span>Glisse à droite si tu votes <strong>pour</strong></span></li>
         <li><span className="geste contre">←</span> <span>Glisse à gauche si tu votes <strong>contre</strong></span></li>
-        <li><span className="geste passe">↓</span> <span>Glisse vers le bas si <strong>tu ne sais pas</strong></span></li>
+        <li><span className="geste passe">?</span> <span>Touche « Je ne sais pas » si <strong>tu n'as pas d'avis</strong></span></li>
         <li><span className="geste etoile">★</span> <span>Touche l'étoile si le sujet <strong>compte beaucoup</strong> pour toi</span></li>
+        <li><span className="geste arguments">⚖</span> <span>Pas sûr ? Lis <strong>les arguments</strong> des deux camps</span></li>
       </ol>
 
       <button className="btn-principal grand" onClick={onCommencer}>Commencer · 15 votes</button>

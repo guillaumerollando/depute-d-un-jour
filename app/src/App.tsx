@@ -22,6 +22,19 @@ function ecrireSauvegarde(s: Sauvegarde) {
   try { localStorage.setItem(CLE, JSON.stringify(s)); } catch { /* stockage indisponible : tant pis */ }
 }
 
+// Cartes vues lors des parties précédentes (pour proposer autre chose la fois suivante)
+const CLE_VUES = 'depute-d-un-jour:vues';
+function lireVues(): Set<string> {
+  try { return new Set(JSON.parse(localStorage.getItem(CLE_VUES) ?? '[]')); } catch { return new Set(); }
+}
+function memoriserVue(uid: string) {
+  try {
+    const v = lireVues();
+    v.add(uid);
+    localStorage.setItem(CLE_VUES, JSON.stringify([...v]));
+  } catch { /* stockage indisponible */ }
+}
+
 async function charger(): Promise<Donnees> {
   const base = import.meta.env.BASE_URL;
   const [groupes, cartes, deputes, meta] = await Promise.all(
@@ -50,7 +63,7 @@ export default function App() {
         if (s && recente && s.ecran === 'jeu' && s.votes.every((v) => connues.has(v.uid))) {
           setVotes(s.votes);
           setObjectif(s.objectif);
-          const c = d.cartes.find((x) => x.uid === s.carte) ?? carteSuivante(d, s.votes);
+          const c = d.cartes.find((x) => x.uid === s.carte) ?? carteSuivante(d, s.votes, lireVues());
           setCarte(c);
           setEcran(c ? 'jeu' : 'resultat');
         }
@@ -73,23 +86,24 @@ export default function App() {
     setVotes([]);
     setObjectif(PARTIE);
     setImportant(false);
-    setCarte(carteSuivante(donnees, []));
+    setCarte(carteSuivante(donnees, [], lireVues()));
     setEcran('jeu');
   };
 
   const repondre = (r: Reponse) => {
     if (!carte) return;
+    memoriserVue(carte.uid);
     const nouveaux = [...votes, { uid: carte.uid, reponse: r, important }];
     setVotes(nouveaux);
     setImportant(false);
-    const suivante = nouveaux.length < objectif ? carteSuivante(donnees, nouveaux) : null;
+    const suivante = nouveaux.length < objectif ? carteSuivante(donnees, nouveaux, lireVues()) : null;
     if (suivante) setCarte(suivante);
     else setEcran('resultat');
   };
 
   const continuer = () => {
     setObjectif(votes.length + RALLONGE);
-    setCarte(carteSuivante(donnees, votes));
+    setCarte(carteSuivante(donnees, votes, lireVues()));
     setEcran('jeu');
   };
 

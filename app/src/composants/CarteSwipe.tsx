@@ -2,7 +2,6 @@ import { useEffect, useRef, useState } from 'react';
 import type { Carte, Reponse } from '../types';
 
 const SEUIL_X = 90;
-const SEUIL_Y = 110;
 
 interface Props {
   carte: Carte;
@@ -25,6 +24,15 @@ export function CarteSwipe({ carte, important, onImportant, onReponse }: Props) 
   const [complet, setComplet] = useState(false);
   const [sortie, setSortie] = useState<Reponse | null>(null);
   const depart = useRef<{ x: number; y: number } | null>(null);
+  const defilement = useRef<HTMLDivElement>(null);
+  const zoneArguments = useRef<HTMLDivElement>(null);
+
+  const basculerArguments = () => {
+    const ouvrir = !arguments_;
+    setArguments(ouvrir);
+    if (ouvrir) setTimeout(() => zoneArguments.current?.scrollIntoView({ behavior: 'smooth', block: 'start' }), 50);
+    else defilement.current?.scrollTo({ top: 0, behavior: 'smooth' });
+  };
 
   const repondre = (r: Reponse) => {
     if (sortie) return;
@@ -55,25 +63,26 @@ export function CarteSwipe({ carte, important, onImportant, onReponse }: Props) 
   };
   const onMove = (e: React.PointerEvent) => {
     if (!depart.current) return;
-    setDelta({ x: e.clientX - depart.current.x, y: Math.max(0, e.clientY - depart.current.y) });
+    // Seul le geste horizontal est suivi : le vertical sert à faire défiler le contenu de la carte
+    setDelta({ x: e.clientX - depart.current.x, y: 0 });
   };
   const onUp = () => {
     if (!depart.current) return;
     depart.current = null;
     if (delta.x > SEUIL_X) repondre('pour');
     else if (delta.x < -SEUIL_X) repondre('contre');
-    else if (delta.y > SEUIL_Y) repondre('passe');
     else setDelta({ x: 0, y: 0 });
   };
+  // Le navigateur a pris la main pour faire défiler : on annule le glissement en cours
+  const onCancel = () => { depart.current = null; setDelta({ x: 0, y: 0 }); };
 
-  const indice: Reponse | null =
-    delta.x > 40 ? 'pour' : delta.x < -40 ? 'contre' : delta.y > 60 ? 'passe' : null;
+  const indice: Reponse | null = delta.x > 40 ? 'pour' : delta.x < -40 ? 'contre' : null;
 
   const transform = sortie
     ? sortie === 'pour' ? 'translateX(130%) rotate(18deg)'
       : sortie === 'contre' ? 'translateX(-130%) rotate(-18deg)'
-      : 'translateY(120%)'
-    : `translate(${delta.x}px, ${delta.y}px) rotate(${delta.x / 18}deg)`;
+      : 'translateY(40px) scale(.96)'
+    : `translateX(${delta.x}px) rotate(${delta.x / 18}deg)`;
 
   return (
     <div className="zone-carte">
@@ -83,52 +92,36 @@ export function CarteSwipe({ carte, important, onImportant, onReponse }: Props) 
         onPointerDown={onDown}
         onPointerMove={onMove}
         onPointerUp={onUp}
-        onPointerCancel={onUp}
+        onPointerCancel={onCancel}
         aria-live="polite"
       >
         <div className="tampon tampon-pour">POUR</div>
         <div className="tampon tampon-contre">CONTRE</div>
-        <div className="tampon tampon-passe">JE NE SAIS PAS</div>
 
-        <div className="carte-entete">
-          <span className="puce-theme">{carte.theme}</span>
-          <span className="type-vote">{TYPES[carte.type] ?? carte.type}</span>
-        </div>
-        <h2 className="carte-titre">{carte.titre}</h2>
-        {carte.aujourdhui && (
-          <p className="aujourdhui"><strong>Aujourd'hui</strong> {carte.aujourdhui}</p>
-        )}
-        <p className="carte-resume">
-          {complet || !carte.resume_court ? carte.ce_que_ca_change : carte.resume_court}
-          {carte.resume_court && (
-            <button className="lien en-savoir" onClick={() => setComplet(!complet)}>
-              {complet ? ' Moins' : ' En savoir plus'}
-            </button>
+        <div className="carte-defilement" ref={defilement}>
+          <div className="carte-entete">
+            <span className="puce-theme">{carte.theme}</span>
+            <span className="type-vote">{TYPES[carte.type] ?? carte.type}</span>
+          </div>
+          <h2 className="carte-titre">{carte.titre}</h2>
+          {carte.aujourdhui && (
+            <p className="aujourdhui"><strong>Aujourd'hui</strong> {carte.aujourdhui}</p>
           )}
-        </p>
-        <p className="carte-contexte">{carte.contexte}</p>
-        <div className="carte-pied">
-          <a href={carte.liens.texte ?? carte.liens.dossier} target="_blank" rel="noreferrer">
+          <p className="carte-resume">
+            {complet || !carte.resume_court ? carte.ce_que_ca_change : carte.resume_court}
+            {carte.resume_court && (
+              <button className="lien en-savoir" onClick={() => setComplet(!complet)}>
+                {complet ? 'Moins' : 'En savoir plus'}
+              </button>
+            )}
+          </p>
+          <p className="carte-contexte">{carte.contexte}</p>
+          <a className="lien-texte" href={carte.liens.texte ?? carte.liens.dossier} target="_blank" rel="noreferrer">
             Lire le texte officiel ↗
           </a>
-          <button
-            className={`etoile ${important ? 'active' : ''}`}
-            onClick={onImportant}
-            aria-pressed={important}
-            title="Ce sujet compte beaucoup pour moi : la carte compte double"
-          >
-            {important ? '★' : '☆'} <span>Important pour moi</span>
-          </button>
-        </div>
-      </article>
 
-      {carte.arguments && (
-        <div className={`arguments ${arguments_ ? 'ouverts' : ''}`}>
-          <button className="btn-arguments" onClick={() => setArguments(!arguments_)} aria-expanded={arguments_}>
-            ⚖ {arguments_ ? 'Masquer les arguments' : 'Pas sûr ? Voir les arguments et ce qui s’est dit'}
-          </button>
-          {arguments_ && (
-            <div className="arguments-corps">
+          {carte.arguments && arguments_ && (
+            <div className="arguments-corps" ref={zoneArguments}>
               <div className="argument pour">
                 <span>Pour</span>{carte.arguments.pour}
                 <blockquote className="bulle">« {carte.arguments.citation_pour} »<cite>Un député ayant voté pour</cite></blockquote>
@@ -140,19 +133,39 @@ export function CarteSwipe({ carte, important, onImportant, onReponse }: Props) 
               <p className="note">Paroles réellement prononcées dans l'hémicycle. Les groupes sont révélés à la fin, pour ne pas influencer ton vote.</p>
             </div>
           )}
+          {!carte.arguments && (
+            <p className="note sans-arguments">Pour ce vote, l'un des deux camps ne s'est pas exprimé sur le fond pendant le débat : pas d'arguments à afficher.</p>
+          )}
         </div>
-      )}
+      </article>
 
+      <div className="barre-bas">
+        <div className="actions-carte">
+          {carte.arguments && (
+            <button className={`btn-arguments ${arguments_ ? 'actif' : ''}`} onClick={basculerArguments} aria-expanded={arguments_}>
+              ⚖ {arguments_ ? 'Masquer les arguments' : 'Pas sûr ? Les arguments'}
+            </button>
+          )}
+          <button
+            className={`etoile ${important ? 'active' : ''}`}
+            onClick={onImportant}
+            aria-pressed={important}
+            title="Ce sujet compte beaucoup pour moi : la carte compte double"
+          >
+            {important ? '★' : '☆'} Important
+          </button>
+        </div>
       <div className="boutons-vote">
         <button className="btn-vote contre" onClick={() => repondre('contre')} aria-label="Contre">
           <span>✕</span>Contre
         </button>
         <button className="btn-vote passe" onClick={() => repondre('passe')} aria-label="Je ne sais pas">
-          <span>↓</span>Je ne sais pas
+          <span>?</span>Je ne sais pas
         </button>
         <button className="btn-vote pour" onClick={() => repondre('pour')} aria-label="Pour">
           <span>✓</span>Pour
         </button>
+      </div>
       </div>
     </div>
   );
