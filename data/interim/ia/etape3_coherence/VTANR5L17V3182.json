@@ -1,7 +1,11 @@
 {
   "uid": "VTANR5L17V3182",
-  "consigne": "etape3_coherence v1",
-  "modifie": false,
-  "problemes": [],
-  "corrections": {}
+  "consigne": "etape3_coherence v2",
+  "modifie": true,
+  "problemes": [
+    "Le titre contient une date limite : une fois la date passée, la mesure paraît périmée. La date reste dans le résumé."
+  ],
+  "corrections": {
+    "titre": "Reporter les élections provinciales en Nouvelle-Calédonie"
+  }
 }

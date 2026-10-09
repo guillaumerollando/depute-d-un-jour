@@ -35,6 +35,13 @@ function memoriserVue(uid: string) {
   } catch { /* stockage indisponible */ }
 }
 
+/** « 1er février 2026 », « 28 octobre 2025 » */
+function dateVote(iso: string) {
+  const d = new Date(iso);
+  const texte = d.toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' });
+  return d.getDate() === 1 ? texte.replace(/^1 /, '1er ') : texte;
+}
+
 async function charger(): Promise<Donnees> {
   const base = import.meta.env.BASE_URL;
   const [groupes, cartes, deputes, meta] = await Promise.all(
@@ -135,7 +142,9 @@ export default function App() {
             </div>
             <span className="compteur">{progression + 1}/{objectif}</span>
           </header>
-          <p className="consigne">Tu es député : votes-tu ce texte ?</p>
+          <p className="consigne">
+            Le <strong>{dateVote(carte.date)}</strong>, votes-tu ce texte ?
+          </p>
           <CarteSwipe
             key={carte.uid}
             carte={carte}

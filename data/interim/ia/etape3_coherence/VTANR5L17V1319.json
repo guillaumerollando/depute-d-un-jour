@@ -1,12 +1,14 @@
 {
   "uid": "VTANR5L17V1319",
-  "consigne": "etape3_coherence v1",
+  "consigne": "etape3_coherence v2",
   "modifie": true,
   "problemes": [
-    "Le résumé et la situation actuelle disent « supermarchés », le texte et l'argument pour disent « distributeurs »."
+    "Le résumé et la situation actuelle disent « supermarchés », le texte et l'argument pour disent « distributeurs ».",
+    "Le titre contient une date limite : une fois la date passée, la mesure paraît périmée. La date reste dans le résumé."
   ],
   "corrections": {
     "ce_que_ca_change": "Les distributeurs doivent revendre les produits alimentaires avec une marge minimale. Les promotions sont aussi limitées. Ces règles seraient prolongées jusqu'au 15 avril 2028. Pour les autres produits, les promotions pourraient atteindre 40 % du prix. Un distributeur qui ne donne pas à l'État les informations demandées pourrait payer une amende.",
-    "aujourdhui": "Depuis 2018, à titre d'essai, les distributeurs doivent revendre les produits alimentaires avec une marge minimale de 10 %, et leurs promotions sont limitées."
+    "aujourdhui": "Depuis 2018, à titre d'essai, les distributeurs doivent revendre les produits alimentaires avec une marge minimale de 10 %, et leurs promotions sont limitées.",
+    "titre": "Prolonger l'encadrement des prix et des promotions en magasin"
   }
 }

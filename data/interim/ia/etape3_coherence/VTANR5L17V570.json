@@ -1,13 +1,14 @@
 {
   "uid": "VTANR5L17V570",
-  "consigne": "etape3_coherence v1, second essai",
+  "consigne": "etape3_coherence v2",
   "modifie": true,
   "problemes": [
     "Le titre et la situation actuelle parlent des « aides sociales », le résumé et la source des « droits et aides (prestations) sociales ».",
-    "Second essai : le titre garde « automatique » ; « jusqu'au » devient « au » pour tenir en 90 caractères."
+    "Second essai : le titre garde « automatique » ; « jusqu'au » devient « au » pour tenir en 90 caractères.",
+    "Le titre contient une date limite : une fois la date passée, la mesure paraît périmée. La date reste dans le résumé."
   ],
   "corrections": {
-    "titre": "Prolonger au 30 juin 2025 le maintien automatique des droits et aides sociales à Mayotte",
+    "titre": "Prolonger le maintien automatique des droits et aides sociales à Mayotte",
     "aujourdhui": "Après le cyclone, les droits et aides sociales des habitants de Mayotte qui arrivent à terme sont maintenus sans démarche, jusqu'au 31 mars 2025."
   }
 }

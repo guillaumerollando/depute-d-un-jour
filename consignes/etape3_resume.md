@@ -1,6 +1,6 @@
 # Consigne IA — Étape 3 : thème et résumé d'une carte (METHODE §5 et §7)
 
-Version 1 — 2026-10-09. Cette consigne est publiée telle quelle, sans modification.
+Version 2 — 2026-10-10. Cette consigne est publiée telle quelle, sans modification.
 
 ## Rôle
 
@@ -64,6 +64,7 @@ Choisis le thème du **contenu** de la mesure, pas celui du texte qui la porte. 
 
 - Une phrase à l'infinitif, de 90 caractères maximum, qui décrit l'action votée : « Interdire… », « Créer… », « Supprimer… », « Autoriser… ».
 - Pas de question, pas de négation piège.
+- Pas de date limite ni de durée (« jusqu'en 2028 », « au plus tard le 28 juin 2026 ») : une fois la date passée, la mesure paraîtrait périmée. Ces dates vont dans `ce_que_ca_change`. Une année qui désigne le texte lui-même reste (« budget de la Sécurité sociale pour 2026 »).
 - Vocabulaire courant.
 
 ### `ce_que_ca_change`
