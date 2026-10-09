@@ -121,10 +121,13 @@ main:has(.jeu) { padding-bottom: 0; }
 .tampon-contre { right: 18px; color: var(--contre); transform: rotate(12deg); }
 .indice-pour .tampon-pour, .indice-contre .tampon-contre { opacity: 1; }
 .barre-bas { flex: none; padding-top: 10px; display: grid; gap: 8px; }
-.actions-carte { display: flex; gap: 8px; }
-.btn-arguments { flex: 1; background: var(--surface); border: 2px solid var(--or); border-radius: 14px; padding: 10px; font-size: 1rem; font-weight: 700; color: var(--encre); }
+.actions-carte { display: grid; grid-template-columns: minmax(0, 1fr) 124px; gap: 8px; }
+.btn-arguments { flex: 1; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; background: var(--surface); border: 2px solid var(--or); border-radius: 14px; padding: 10px; font-size: 1rem; font-weight: 700; color: var(--encre); }
 .btn-arguments.actif { background: var(--or); color: #fff; }
-.etoile { flex: none; background: var(--surface); border: 2px solid var(--trait); border-radius: 14px; padding: 10px 14px; font-size: 1rem; color: var(--encre-douce); }
+.btn-arguments:disabled { border-color: var(--trait); color: var(--encre-douce); font-weight: 500; cursor: default; opacity: .7; }
+.btn-arguments:disabled:active { transform: none; }
+.actions-carte > button { height: 52px; width: 100%; padding-top: 0; padding-bottom: 0; }
+.etoile { flex: none; width: 124px; background: var(--surface); border: 2px solid var(--trait); border-radius: 14px; padding: 10px 14px; font-size: 1rem; color: var(--encre-douce); }
 .etoile.active { border-color: var(--or); color: var(--or); font-weight: 700; }
 .boutons-vote { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 8px; }
 .btn-vote { display: flex; flex-direction: column; align-items: center; gap: 2px; padding: 8px 4px; border-radius: 16px; background: var(--surface); border: 2px solid var(--trait); font-size: .95rem; font-weight: 600; }
