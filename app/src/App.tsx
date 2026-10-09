@@ -10,6 +10,17 @@ type Ecran = 'accueil' | 'jeu' | 'resultat' | 'methode';
 const PARTIE = 15;
 const RALLONGE = 10;
 
+// Sauvegarde de la partie sur l'appareil : quitter la page (lien externe, rechargement) ne fait rien perdre
+const CLE = 'depute-d-un-jour:partie';
+interface Sauvegarde { ecran: Ecran; votes: Vote[]; objectif: number; carte: string | null }
+
+function lireSauvegarde(): Sauvegarde | null {
+  try { return JSON.parse(localStorage.getItem(CLE) ?? 'null'); } catch { return null; }
+}
+function ecrireSauvegarde(s: Sauvegarde) {
+  try { localStorage.setItem(CLE, JSON.stringify(s)); } catch { /* stockage indisponible : tant pis */ }
+}
+
 async function charger(): Promise<Donnees> {
   const base = import.meta.env.BASE_URL;
   const [groupes, cartes, deputes, meta] = await Promise.all(
@@ -28,7 +39,25 @@ export default function App() {
   const [carte, setCarte] = useState<Carte | null>(null);
   const [important, setImportant] = useState(false);
 
-  useEffect(() => { charger().then(setDonnees).catch(() => setErreur(true)); }, []);
+  useEffect(() => {
+    charger()
+      .then((d) => {
+        const s = lireSauvegarde();
+        const connues = new Set(d.cartes.map((c) => c.uid));
+        if (s && s.votes.every((v) => connues.has(v.uid)) && (s.ecran === 'jeu' || s.ecran === 'resultat')) {
+          setVotes(s.votes);
+          setObjectif(s.objectif);
+          const c = d.cartes.find((x) => x.uid === s.carte) ?? carteSuivante(d, s.votes);
+          setCarte(c);
+          setEcran(s.ecran === 'jeu' && c ? 'jeu' : 'resultat');
+        }
+        setDonnees(d);
+      })
+      .catch(() => setErreur(true));
+  }, []);
+  useEffect(() => {
+    if (donnees && ecran !== 'methode') ecrireSauvegarde({ ecran, votes, objectif, carte: carte?.uid ?? null });
+  }, [donnees, ecran, votes, objectif, carte]);
   useEffect(() => { window.scrollTo(0, 0); }, [ecran]);
 
   const total = donnees?.cartes.length ?? 0;
