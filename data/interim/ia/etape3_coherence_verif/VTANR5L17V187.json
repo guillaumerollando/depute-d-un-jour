@@ -1,0 +1,12 @@
+{
+  "uid": "VTANR5L17V187",
+  "consigne": "etape3_coherence_verification v1",
+  "verdict": "valide",
+  "champs_acceptes": [
+    "titre",
+    "ce_que_ca_change",
+    "aujourdhui",
+    "argument_contre"
+  ],
+  "problemes": []
+}

@@ -1,0 +1,12 @@
+{
+  "uid": "VTANR5L17V3268",
+  "consigne": "etape3_coherence v1",
+  "modifie": true,
+  "problemes": [
+    "Le titre et la situation actuelle disent « cultivés avec », le résumé et la source « produits avec » (produits agricoles ou alimentaires, pas seulement cultivés)."
+  ],
+  "corrections": {
+    "titre": "Indiquer sur l'étiquette si un produit importé a été produit avec des néonicotinoïdes",
+    "aujourdhui": "Le texte prévoit déjà de signaler sur l'étiquette l'usage de pesticides interdits en Europe pour les produits importés, mais pas de ceux qui y restent autorisés."
+  }
+}

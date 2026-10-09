@@ -1,0 +1,12 @@
+{
+  "uid": "VTANR5L17V5363",
+  "consigne": "etape3_coherence v1",
+  "modifie": true,
+  "problemes": [
+    "Le résumé dit « schémas d'aménagement de l'eau », la situation actuelle « schémas d'aménagement et de gestion de l'eau » ; la source dit « schémas d'aménagement et de gestion des eaux »."
+  ],
+  "corrections": {
+    "ce_que_ca_change": "Les passages supprimés prévoient de planifier la gestion et la préservation de la ressource en eau. Cette planification doit tenir compte des projets locaux de gestion de l'eau. Ces projets respectent eux-mêmes les schémas d'aménagement et de gestion des eaux, des plans qui existent déjà pour les bassins et les territoires.",
+    "aujourdhui": "Des schémas d'aménagement et de gestion des eaux existent déjà pour les grands bassins et pour les territoires, ainsi que des projets locaux de gestion de l'eau."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "uid": "VTANR5L17V951",
+  "consigne": "etape3_coherence v1, second essai",
+  "modifie": true,
+  "problemes": [
+    "Le titre et l'argument pour disent « droit d'achat », le résumé et la source « droit de préemption » ; la même opération (cession de droits démembrés) est appelée « vente à part de certains droits sur une terre », « vente découpée » et « vente qui sépare la terre de son usage ».",
+    "Second essai : une seule formule, « la vente d'une partie des droits sur une terre », dans le résumé, la situation actuelle et l'argument pour."
+  ],
+  "corrections": {
+    "titre": "Permettre à la Safer de faire annuler des ventes qui contournent son droit de préemption",
+    "ce_que_ca_change": "La Safer est un organisme qui régule les terres agricoles. Elle peut acheter en priorité certaines terres en vente : c'est son droit de préemption. Elle pourrait demander au juge d'annuler la vente d'une partie des droits sur une terre. Exemple : la terre sans son usage. Cela vaut si les informations transmises sont incomplètes, ou si des indices montrent un but surtout d'échapper à ce droit.",
+    "aujourdhui": "La Safer peut acheter en priorité des terres agricoles en vente ; les ventes d'une partie des droits sur une terre ont atteint un record en 2022.",
+    "argument_pour": "La Safer manque aujourd'hui de temps et de moyens pour prouver qu'une vente d'une partie des droits sur une terre sert à contourner son droit de préemption."
+  }
+}

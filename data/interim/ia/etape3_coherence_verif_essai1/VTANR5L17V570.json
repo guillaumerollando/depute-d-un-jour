@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V570",
+  "consigne": "etape3_coherence_verification v1",
+  "verdict": "partiel",
+  "champs_acceptes": [
+    "aujourdhui"
+  ],
+  "problemes": [
+    "Le titre corrigé retire « automatique » (« maintien automatique » devient « maintien ») : il perd le fait que le maintien se fait sans démarche, qui est l'objet même de la mesure. Champ refusé ; la correction de la situation actuelle (« droits et aides sociales », comme le résumé et l'exposé) est acceptée."
+  ]
+}

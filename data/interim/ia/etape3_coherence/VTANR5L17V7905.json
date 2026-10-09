@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V7905",
+  "consigne": "etape3_coherence v1",
+  "modifie": true,
+  "problemes": [
+    "Le titre dit « budget des armées », le contexte « budget militaire »."
+  ],
+  "corrections": {
+    "contexte": "Vote sur toute la loi qui met à jour le budget des armées 2024-2030, texte commun Assemblée-Sénat, le 1er juillet 2026."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "uid": "VTANR5L17V2256",
+  "consigne": "etape3_coherence v1, second essai",
+  "modifie": true,
+  "problemes": [
+    "Le titre ne vise que les salariés, alors que le résumé et le texte visent les salariés et les agents publics.",
+    "Second essai : titre en phrase complète avec articles ; « en gardant leur salaire » devient « une absence payée » pour tenir en 90 caractères."
+  ],
+  "corrections": {
+    "titre": "Permettre aux salariés et aux agents publics une absence payée pour donner leur sang"
+  }
+}

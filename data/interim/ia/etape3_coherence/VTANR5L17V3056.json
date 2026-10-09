@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V3056",
+  "consigne": "etape3_coherence v1",
+  "modifie": true,
+  "problemes": [
+    "Le résumé dit « consultation par internet », l'argument contre « consultation en ligne »."
+  ],
+  "corrections": {
+    "argument_contre": "Remplacer l'enquête publique par une simple consultation par internet affaiblit la participation des habitants et leur droit de contester les projets."
+  }
+}

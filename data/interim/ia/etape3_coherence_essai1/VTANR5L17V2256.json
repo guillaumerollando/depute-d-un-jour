@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V2256",
+  "consigne": "etape3_coherence v1",
+  "modifie": true,
+  "problemes": [
+    "Le titre ne vise que les salariés, alors que le résumé et le texte visent les salariés et les agents publics."
+  ],
+  "corrections": {
+    "titre": "Autoriser salariés et agents publics à s'absenter pour donner leur sang, salaire maintenu"
+  }
+}

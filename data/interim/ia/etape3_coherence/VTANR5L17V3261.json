@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V3261",
+  "consigne": "etape3_coherence v1",
+  "modifie": true,
+  "problemes": [
+    "Le résumé dit « resté en France sans autorisation », la situation actuelle « sans titre de séjour » (terme de la source, article L. 411-1)."
+  ],
+  "corrections": {
+    "ce_que_ca_change": "L'article supprimé punissait d'une amende de 3 750 euros tout étranger majeur resté en France sans titre de séjour. Cela visait aussi celui resté après la fin de son visa. Le juge pouvait aussi lui interdire le territoire français pendant trois ans. C'est le seul article du texte. Le supprimer revient donc à écarter la création de ce délit."
+  }
+}

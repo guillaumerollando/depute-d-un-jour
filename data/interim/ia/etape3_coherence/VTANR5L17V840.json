@@ -1,0 +1,12 @@
+{
+  "uid": "VTANR5L17V840",
+  "consigne": "etape3_coherence v1",
+  "modifie": true,
+  "problemes": [
+    "Le titre parle des « écoles de la haute fonction publique », la source et le contexte de « certaines écoles de service public » (y compris des écoles militaires) ; « prépa » et « classe préparatoire » désignent la même chose."
+  ],
+  "corrections": {
+    "titre": "Prolonger jusqu'en 2028 les concours « talents » de certaines écoles de service public",
+    "aujourdhui": "Depuis 2021, une expérimentation prévue jusqu'à fin 2024 réserve des places de concours à des étudiants de milieux modestes passés par une classe préparatoire « talents »."
+  }
+}

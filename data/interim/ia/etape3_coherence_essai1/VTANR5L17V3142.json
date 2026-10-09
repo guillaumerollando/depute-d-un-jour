@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V3142",
+  "consigne": "etape3_coherence v1",
+  "modifie": true,
+  "problemes": [
+    "Le titre parle de « surtaxe » et d'un seul taux, le résumé et la source de « contribution exceptionnelle » à deux taux."
+  ],
+  "corrections": {
+    "titre": "Maintenir en 2026 les taux 2025 de la contribution exceptionnelle des grandes entreprises"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V4707",
+  "consigne": "etape3_coherence v1",
+  "modifie": true,
+  "problemes": [
+    "Le résumé parle d'« une commune ou un département », alors que le titre, la situation actuelle et la source visent toutes les collectivités."
+  ],
+  "corrections": {
+    "ce_que_ca_change": "Une collectivité peut conclure un contrat collectif d'assurance. Il couvre la perte de salaire en cas d'arrêt de travail, d'invalidité ou de décès. Dans ce cas, ses agents devront y adhérer, sauf dispense. L'employeur paiera au moins la moitié de la cotisation. L'assureur ne pourra pas refuser de couvrir une maladie antérieure. Ces règles s'appliquent au plus tard à partir de 2029."
+  }
+}

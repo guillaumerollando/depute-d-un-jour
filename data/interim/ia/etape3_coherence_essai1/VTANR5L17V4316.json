@@ -1,0 +1,12 @@
+{
+  "uid": "VTANR5L17V4316",
+  "consigne": "etape3_coherence v1",
+  "modifie": true,
+  "problemes": [
+    "Le titre dit « ArcelorMittal » et le résumé « l'entreprise », la situation actuelle et le contexte « la société ArcelorMittal France »."
+  ],
+  "corrections": {
+    "titre": "Remplacer la nationalisation d'ArcelorMittal France par une participation publique de 20 %",
+    "ce_que_ca_change": "L'État ne rachèterait pas toute la société : il en détiendrait 20 % du capital. Un accord lierait toute aide publique à la société au respect d'objectifs de maintien de l'emploi et d'investissement en France."
+  }
+}

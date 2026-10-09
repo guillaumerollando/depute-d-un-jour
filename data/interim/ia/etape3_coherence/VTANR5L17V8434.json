@@ -1,0 +1,12 @@
+{
+  "uid": "VTANR5L17V8434",
+  "consigne": "etape3_coherence v1",
+  "modifie": true,
+  "problemes": [
+    "Le titre dit « organisme public », le résumé « établissement public » ; le résumé présente l'agence comme gérant les bâtiments de l'État, ce qui contredit la situation actuelle (gestion par chaque ministère) : on la désigne par son nom officiel."
+  ],
+  "corrections": {
+    "titre": "Transformer l'Agence de gestion de l'immobilier de l'État en établissement public",
+    "ce_que_ca_change": "L'Agence de gestion de l'immobilier de l'État est aujourd'hui une société. Elle deviendrait un établissement public. L'État pourrait lui transférer gratuitement des bâtiments. Elle les entretiendrait et les mettrait à disposition des services publics. Elle pourrait les vendre, après avoir informé les collectivités. Elle pourrait emprunter et créer des filiales, avec 30 % de capital privé au plus."
+  }
+}

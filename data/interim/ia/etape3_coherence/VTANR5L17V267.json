@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V267",
+  "consigne": "etape3_coherence v1",
+  "modifie": true,
+  "problemes": [
+    "Le titre parle de la part des « ventes », le résumé et la source de la part du « chiffre d'affaires »."
+  ],
+  "corrections": {
+    "titre": "Imposer les multinationales selon la part de leur chiffre d'affaires réalisée en France"
+  }
+}
