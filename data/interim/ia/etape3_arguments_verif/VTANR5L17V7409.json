@@ -1,0 +1,9 @@
+{
+  "uid": "VTANR5L17V7409",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "sans_arguments",
+  "problemes": [
+    "Aucune intervention du camp contre dans l'extrait : pas d'argument possible. aujourdhui et resume_court sont exacts."
+  ],
+  "corrections": {}
+}

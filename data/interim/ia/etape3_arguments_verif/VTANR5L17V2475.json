@@ -1,0 +1,12 @@
+{
+  "uid": "VTANR5L17V2475",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "sans_arguments",
+  "problemes": [
+    "Aucune intervention dans l'extrait du débat : arguments à null.",
+    "aujourdhui : « le texte n'en contient plus » est inexact, le texte de la commission parle encore du nucléaire (article 1er A, article 4) ; seuls les objectifs chiffrés de l'article 3 ont disparu."
+  ],
+  "corrections": {
+    "aujourdhui": "Dans le texte issu de la commission, l'article qui fixait des objectifs chiffrés pour le nucléaire (centrales, nouveaux réacteurs) a été supprimé."
+  }
+}

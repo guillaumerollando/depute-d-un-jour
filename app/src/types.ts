@@ -31,6 +31,9 @@ export interface Carte {
   citations: Record<string, Citation>;
   liens: { scrutin: string; dossier: string; texte: string | null; compte_rendu: string | null };
   deputes: { p: number[]; c: number[] };
+  aujourdhui?: string;
+  resume_court?: string;
+  arguments?: { pour: string; contre: string };
 }
 
 export interface Depute {

@@ -1,0 +1,13 @@
+{
+  "uid": "VTANR5L17V2880",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "aujourdhui : « Seuls 55 % » ajoute une nuance de jugement.",
+    "resume_court : l'interdiction d'accès aux locaux vaut « pendant la procédure » selon ce_que_ca_change ; l'omettre et parler d'« auteurs » durcit la portée."
+  ],
+  "corrections": {
+    "aujourdhui": "Aujourd'hui, 55 % des établissements du supérieur ont une structure dédiée à l'égalité et aux discriminations ; la seule obligation légale porte sur l'égalité femmes-hommes.",
+    "resume_court": "Chaque université aurait un référent et un moyen de signaler anonymement l'antisémitisme, le racisme ou la haine. Un étudiant pourrait être sanctionné pour ces faits, et interdit d'accès aux locaux pendant la procédure."
+  }
+}

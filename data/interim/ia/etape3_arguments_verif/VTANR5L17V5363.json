@@ -1,0 +1,9 @@
+{
+  "uid": "VTANR5L17V5363",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "sans_arguments",
+  "problemes": [
+    "Le seul groupe du camp contre (LFI) ne s'exprime que par interjections, sans argument de fond : arguments laissés à null à juste titre."
+  ],
+  "corrections": {}
+}

@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V7408",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "argument_contre : « aucun droit sur le bail » va au-delà de la citation, qui dit seulement que le conjoint ne sera jamais cotitulaire du bail."
+  ],
+  "corrections": {
+    "argument_contre": "Lier le logement social à l'emploi risque de mettre en difficulté l'agent qui quitte son poste et sa famille, son conjoint n'étant jamais cotitulaire du bail."
+  }
+}

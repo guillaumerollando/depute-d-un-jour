@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V844",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "resume_court affaiblit la portée : « ne vont plus en justice » laisse croire à une absence de sanction, alors que ce_que_ca_change précise une amende de l'administration ou un stage."
+  ],
+  "corrections": {
+    "resume_court": "L'agriculture devient d'« intérêt général majeur » et un guichet aide à s'installer. Certaines atteintes involontaires à la nature seraient punies d'une amende administrative ou d'un stage, sans procès."
+  }
+}

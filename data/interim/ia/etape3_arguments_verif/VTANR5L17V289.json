@@ -1,0 +1,13 @@
+{
+  "uid": "VTANR5L17V289",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "aujourdhui : « les maires ont peu d'outils » est une appréciation d'un camp, pas un fait ; remplacé par deux faits sourcés (120 jours, abattement de 71 %).",
+    "argument_contre : « impôts » et « freinerait le marché » ne figurent pas dans la citation, qui parle seulement de rentabilité contre contrainte pour rénover et construire."
+  ],
+  "corrections": {
+    "aujourdhui": "Une résidence principale peut être louée aux touristes jusqu'à 120 jours par an, et 71 % des revenus des meublés classés ne sont pas imposés.",
+    "argument_contre": "Pour rénover et construire davantage de logements, il faut miser sur leur rentabilité plutôt que sur de nouvelles contraintes."
+  }
+}

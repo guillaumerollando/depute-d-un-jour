@@ -1,0 +1,9 @@
+{
+  "uid": "VTANR5L17V7000",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "sans_arguments",
+  "problemes": [
+    "Aucune intervention dans l'extrait : arguments laissés à null à juste titre."
+  ],
+  "corrections": {}
+}

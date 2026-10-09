@@ -1,0 +1,9 @@
+{
+  "uid": "VTANR5L17V7987",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "valide",
+  "problemes": [
+    "Aucune intervention d'un groupe du camp « pour » dans l'extrait (seuls le rapporteur et le ministre, sans groupe) : les arguments sont à juste titre à null."
+  ],
+  "corrections": {}
+}

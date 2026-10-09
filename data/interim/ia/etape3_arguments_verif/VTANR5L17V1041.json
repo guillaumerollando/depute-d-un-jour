@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V1041",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "resume_court : « les agents porteraient des caméras » présente comme une obligation ce que ce_que_ca_change décrit comme une possibilité."
+  ],
+  "corrections": {
+    "resume_court": "Les agents de sécurité de la SNCF et de la RATP pourraient inspecter les bagages et, avec l'accord du voyageur, les fouiller. Ils pourraient porter des caméras, et abandonner un bagage serait puni d'amende."
+  }
+}

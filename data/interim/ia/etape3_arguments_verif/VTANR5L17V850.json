@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V850",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "argument_pour ajoute que la redevance « pèserait sur l'industrie chimique française », absent de la citation (qui ne porte que sur le faible rendement face au coût de dépollution)."
+  ],
+  "corrections": {
+    "argument_pour": "Cette redevance rapporterait à peine 2 millions d'euros, très peu face aux 847 milliards estimés pour dépolluer les eaux souterraines."
+  }
+}

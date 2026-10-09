@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V2957",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "argument_pour : formule redondante « dans un cadre encadré » ; reprise plus fidèle du « cadre rigoureusement réglementé » de la citation."
+  ],
+  "corrections": {
+    "argument_pour": "Cela permettrait aux agriculteurs, dans un cadre strictement réglementé, de ne pas perdre leurs cultures face à des menaces imprévues."
+  }
+}

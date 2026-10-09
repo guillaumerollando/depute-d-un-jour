@@ -9,8 +9,45 @@ import glob
 import json
 import os
 
-from commun import ALIAS, GROUPES, ORDRE, RACINE, RAW, charger_json, ecrire_json
+from commun import ALIAS, GROUPES, INTERIM, ORDRE, RACINE, RAW, charger_json, ecrire_json
+from etape2_controle import canon
 from etape2_extraits import appartenances, groupe_a_la_date
+from etape3_selection import CAMPS_POLITIQUES, NOMS_INTERDITS
+
+LIMITES = {"aujourdhui": 180, "resume_court": 220, "argument_pour": 160, "argument_contre": 160}
+
+
+def complements(c):
+    """Situation actuelle, résumé court et arguments (consignes etape3_arguments), après vérification
+    IA puis contrôle mécanique : citations exactes, du bon camp, sans nom de parti, longueurs respectées."""
+    f_arg = INTERIM / "ia/etape3_arguments" / f"{c['uid']}.json"
+    f_ver = INTERIM / "ia/etape3_arguments_verif" / f"{c['uid']}.json"
+    if not f_arg.exists() or not f_ver.exists():
+        return {}
+    arg, ver = charger_json(f_arg), charger_json(f_ver)
+    if ver.get("verdict") == "rejete":
+        return {}
+    arg.update(ver.get("corrections") or {})
+    if ver.get("verdict") == "sans_arguments":
+        arg["argument_pour"] = arg["argument_contre"] = None
+    sortie = {}
+    for champ in ("aujourdhui", "resume_court"):
+        t = arg.get(champ)
+        if t and len(t) <= LIMITES[champ] and not NOMS_INTERDITS.search(t) and not CAMPS_POLITIQUES.search(t):
+            sortie[champ] = t
+    extrait = charger_json(INTERIM / "extraits" / f"{c['uid']}.json")
+
+    def valide(camp):
+        texte, groupe, cit = arg.get(f"argument_{camp}"), arg.get(f"groupe_{camp}"), canon(arg.get(f"citation_{camp}"))
+        if not texte or len(texte) > LIMITES[f"argument_{camp}"] or NOMS_INTERDITS.search(texte):
+            return False
+        if c["positions"].get(groupe) != camp or not cit:
+            return False
+        return any(cit in canon(i["texte"]) for i in extrait["interventions"] if i.get("groupe") == groupe)
+
+    if valide("pour") and valide("contre"):  # jamais un seul camp
+        sortie["arguments"] = {"pour": arg["argument_pour"], "contre": arg["argument_contre"]}
+    return sortie
 
 SORTIE = RACINE / "app" / "public" / "data"
 DEPOT = os.environ.get("DEPOT", "https://github.com/guillaumerollando/depute-d-un-jour")
@@ -78,7 +115,7 @@ def main():
                     votes[cle].append(idx(x["acteurRef"], c["date"]))
         sortie.append({k: c[k] for k in ("uid", "numero", "date", "type", "theme", "titre", "ce_que_ca_change",
                                           "contexte", "resultat", "positions", "neutralises", "citations", "liens")}
-                      | {"socle": c.get("socle", False), "deputes": votes})
+                      | {"socle": c.get("socle", False), "deputes": votes} | complements(c))
 
     meta = {"date_donnees": dernier["dateScrutin"], "scrutins_analyses": len(bruts), "cartes": len(sortie), "depot": DEPOT}
     for nom, contenu in (("groupes", groupes), ("cartes", sortie), ("deputes", deputes), ("meta", meta)):

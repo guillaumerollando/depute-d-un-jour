@@ -1,0 +1,10 @@
+{
+  "uid": "VTANR5L17V3268",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "sans_arguments",
+  "problemes": [
+    "Aucune intervention dans l'extrait du débat : arguments à null.",
+    "aujourdhui confirmé par l'article 1er bis du texte (produits non autorisés dans l'Union)."
+  ],
+  "corrections": {}
+}

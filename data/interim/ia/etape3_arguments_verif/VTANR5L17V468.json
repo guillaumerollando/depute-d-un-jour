@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V468",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "aujourdhui : attribue à la seule réforme de 2023 la durée de cotisation de 43 années, alors que les sources rattachent aussi cette hausse à une réforme antérieure (2014, citée par la ministre et un député) ; reformulé sans attribution."
+  ],
+  "corrections": {
+    "aujourdhui": "Une réforme de 2023 a reporté l'âge légal de départ à la retraite de 62 à 64 ans ; la durée de cotisation exigée est portée à 43 années."
+  }
+}

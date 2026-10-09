@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V8427",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "argument_contre : plus court et moins relié à la mesure que l'argument pour (simple constat sur les substances) ; rééquilibré en le reliant à la réautorisation par dérogation, comme dans la citation."
+  ],
+  "corrections": {
+    "argument_contre": "Réautoriser ces deux substances, même par dérogation, ignorerait leurs effets nocifs bien documentés sur la santé humaine et l'environnement."
+  }
+}

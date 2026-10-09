@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V6319",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "argument_contre : « avant que la personne ait pu s'expliquer » ne figure pas dans la citation retenue ; argument recentré sur ce que dit la citation."
+  ],
+  "corrections": {
+    "argument_contre": "Des allocations pourraient être suspendues sur la base de simples indices de fraude, et non de preuves."
+  }
+}

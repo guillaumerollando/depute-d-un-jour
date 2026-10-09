@@ -21,6 +21,8 @@ const TYPES: Record<string, string> = {
 
 export function CarteSwipe({ carte, important, onImportant, onReponse }: Props) {
   const [delta, setDelta] = useState({ x: 0, y: 0 });
+  const [arguments_, setArguments] = useState(false);
+  const [complet, setComplet] = useState(false);
   const [sortie, setSortie] = useState<Reponse | null>(null);
   const depart = useRef<{ x: number; y: number } | null>(null);
 
@@ -93,7 +95,17 @@ export function CarteSwipe({ carte, important, onImportant, onReponse }: Props) 
           <span className="type-vote">{TYPES[carte.type] ?? carte.type}</span>
         </div>
         <h2 className="carte-titre">{carte.titre}</h2>
-        <p className="carte-resume">{carte.ce_que_ca_change}</p>
+        {carte.aujourdhui && (
+          <p className="aujourdhui"><strong>Aujourd'hui</strong> {carte.aujourdhui}</p>
+        )}
+        <p className="carte-resume">
+          {complet || !carte.resume_court ? carte.ce_que_ca_change : carte.resume_court}
+          {carte.resume_court && (
+            <button className="lien en-savoir" onClick={() => setComplet(!complet)}>
+              {complet ? ' Moins' : ' En savoir plus'}
+            </button>
+          )}
+        </p>
         <p className="carte-contexte">{carte.contexte}</p>
         <div className="carte-pied">
           <a href={carte.liens.texte ?? carte.liens.dossier} target="_blank" rel="noreferrer">
@@ -109,6 +121,21 @@ export function CarteSwipe({ carte, important, onImportant, onReponse }: Props) 
           </button>
         </div>
       </article>
+
+      {carte.arguments && (
+        <div className={`arguments ${arguments_ ? 'ouverts' : ''}`}>
+          <button className="btn-arguments" onClick={() => setArguments(!arguments_)} aria-expanded={arguments_}>
+            ⚖ {arguments_ ? 'Masquer les arguments' : 'Voir les arguments pour et contre'}
+          </button>
+          {arguments_ && (
+            <div className="arguments-corps">
+              <p className="argument pour"><span>Pour</span>{carte.arguments.pour}</p>
+              <p className="argument contre"><span>Contre</span>{carte.arguments.contre}</p>
+              <p className="note">Arguments réellement avancés dans l'hémicycle par des députés de chaque camp, reformulés.</p>
+            </div>
+          )}
+        </div>
+      )}
 
       <div className="boutons-vote">
         <button className="btn-vote contre" onClick={() => repondre('contre')} aria-label="Contre">

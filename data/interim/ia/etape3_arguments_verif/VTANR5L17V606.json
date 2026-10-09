@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V606",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "argument_pour ajoute l'amélioration de la « réussite » des étudiants, absente de la citation (qui ne porte que sur l'aide alimentaire et les repas sautés)."
+  ],
+  "corrections": {
+    "argument_pour": "Beaucoup d'étudiants recourent à l'aide alimentaire ou sautent des repas faute d'argent : le repas à 1 euro doit être ouvert à tous."
+  }
+}
