@@ -128,7 +128,7 @@ Les paires que les données ne départagent pas, parce que les groupes votent pa
 
 ## 7. Résultat
 
-**Gestes.** Swipe à droite pour **pour**, à gauche pour **contre**, vers le bas pour **je ne sais pas** (la carte ne compte pas). L'**étoile** fait compter une carte double.
+**Gestes.** Swipe à droite pour **pour**, à gauche pour **contre**. Le bouton **je ne sais pas** passe la carte sans qu'elle compte. L'**étoile** fait compter une carte double.
 
 **Accord avec un groupe.** C'est la somme des poids des cartes où l'utilisateur et le groupe ont la même position, divisée par la somme des poids des cartes où tous deux ont une position. Deux groupes à moins de 10 points d'écart sont annoncés **ex aequo**.
 
@@ -136,7 +136,8 @@ Les paires que les données ne départagent pas, parce que les groupes votent pa
 
 **Ordre des cartes.**
 - Les quatre premières viennent du socle, sur des thèmes tous différents.
-- Ensuite, la carte suivante est celle qui départage le plus de paires parmi les groupes encore en tête.
+- Ensuite, la carte suivante est celle qui départage le plus de paires parmi les groupes encore en tête. Un tirage au sort départage les cartes de valeur proche.
+- Les cartes déjà vues lors des parties précédentes, mémorisées sur l'appareil, passent après les autres : deux parties de suite proposent des votes différents.
 - Une partie compte 15 cartes, et on peut en ajouter par séries de 10.
 
 **Député jumeau.** C'est le député dont les votes nominatifs ressemblent le plus aux tiens, parmi ceux qui ont voté sur au moins 60 % de tes cartes.
