@@ -1,6 +1,6 @@
 # Consigne IA — Étape 3 : cohérence d'une carte (METHODE §5)
 
-Version 1 — 2026-10-10. Cette consigne est publiée telle quelle, sans modification.
+Version 2 — 2026-10-10. Cette consigne est publiée telle quelle, sans modification.
 
 ## Rôle
 
@@ -23,6 +23,7 @@ Lus ensemble, ces textes doivent **se répondre** : mêmes mots pour les mêmes 
 1. **Un même objet désigné de plusieurs façons.** Par exemple, « agents des services publics de transport » dans le résumé, mais « fonctionnaires » dans un argument. Choisis le terme **exact**, celui des sources, et emploie-le partout. Un terme plus large ou plus étroit que la réalité est une erreur.
 2. **Des contradictions** entre les textes : chiffre, date, public concerné, obligation ou possibilité.
 3. **Un texte qui ne répond pas aux autres.** Par exemple, une situation « aujourd'hui » qui parle d'autre chose que ce que la mesure change, ou un argument qui vise une autre mesure que celle du titre.
+4. **Une date limite dans le titre** (« jusqu'en 2028 », « au plus tard le 28 juin 2026 ») : retire-la du titre, à condition que le résumé la donne. Une année qui désigne le texte lui-même reste (« budget pour 2026 »).
 
 ## Ce que tu ne fais pas
 

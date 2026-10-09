@@ -1,10 +1,1 @@
-{
-  "uid": "VTANR5L17V570",
-  "consigne": "etape3_coherence_verification v1",
-  "verdict": "valide",
-  "champs_acceptes": [
-    "titre",
-    "aujourdhui"
-  ],
-  "problemes": []
-}
+{ "uid": "VTANR5L17V570", "consigne": "etape3_coherence_verification v1", "verdict": "valide", "champs_acceptes": [], "problemes": [] }

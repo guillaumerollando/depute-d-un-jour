@@ -87,7 +87,7 @@ Les citations des groupes sont affichées dans l'application, mais jamais compt�
 
 **Rédaction.** Une IA rédige chaque carte selon la consigne [`consignes/etape3_resume.md`](consignes/etape3_resume.md). La carte contient :
 - un thème, choisi dans une liste fermée de 13 ;
-- un titre à l'infinitif, qui dit exactement ce que signifie voter « pour » ;
+- un titre à l'infinitif, qui dit exactement ce que signifie voter « pour ». Il ne contient pas de date limite, qui ferait paraître la mesure périmée une fois passée : les dates sont dans le résumé ;
 - deux ou trois phrases factuelles ;
 - le contexte du vote.
 
@@ -129,6 +129,8 @@ Chaque argument reformule une intervention **réellement prononcée** dans l'hé
 Les paires que les données ne départagent pas, parce que les groupes votent pareil, ne sont pas départagées artificiellement.
 
 ## 7. Résultat
+
+**Date.** Chaque carte rappelle la date du vote : on vote comme un député ce jour-là, avec ce qu'on savait alors.
 
 **Gestes.** Boutons **pour** et **contre** ; à la souris, on peut aussi glisser la carte à droite ou à gauche. Le bouton **je ne sais pas** passe la carte sans qu'elle compte. L'**étoile** fait compter une carte double.
 
