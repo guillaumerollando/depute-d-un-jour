@@ -2,6 +2,8 @@
 
 **Vote sur de vrais textes de l'Assemblée nationale, et découvre de quels groupes tu es le plus proche, d'après ce qu'ils ont réellement voté.**
 
+👉 **[deputedunjour.fr](https://deputedunjour.fr)**
+
 Les tests politiques habituels comparent tes opinions à des programmes, c'est-à-dire à des promesses. *Député d'un jour* compare tes réponses à des **votes réels**. Tu votes pour ou contre des mesures votées à l'Assemblée, puis tu vois ton taux d'accord avec chaque groupe, ton siège dans l'hémicycle et ton « député jumeau ».
 
 - 🗳️ Des cartes tirées de 8 609 scrutins publics de la 17e législature.
@@ -27,7 +29,7 @@ npm install
 npm run dev
 ```
 
-Pour publier sous un sous-chemin : `BASE=/depute-d-un-jour/ npm run build`. Pour GitHub Pages, il suffit d'activer Pages (Settings → Pages → Source : GitHub Actions), puis de lancer le workflow « Publication » depuis l'onglet Actions.
+L'application est publiée automatiquement sur [deputedunjour.fr](https://deputedunjour.fr) par GitHub Pages à chaque modification de la branche `main` (workflow « Publication »).
 
 ## Régénérer les données
 

@@ -1,8 +1,9 @@
-# Publie l'application sur GitHub Pages.
-# Déclenchement manuel (onglet Actions). Une fois le dépôt public et Pages activé
-# (Settings → Pages → Source : GitHub Actions), on peut ajouter « push: branches: [main] ».
+# Publie l'application sur https://deputedunjour.fr (GitHub Pages) à chaque modification de la branche principale.
+# Prérequis : dépôt public et Settings → Pages → Source : GitHub Actions.
 name: Publication
 on:
+  push:
+    branches: [main]
   workflow_dispatch:
 permissions:
   contents: read
@@ -26,7 +27,7 @@ jobs:
       - run: npm run build
         working-directory: app
         env:
-          BASE: /${{ github.event.repository.name }}/
+          BASE: / # domaine personnalisé : l'appli est servie à la racine
       - uses: actions/upload-pages-artifact@v3
         with:
           path: app/dist
