@@ -13,7 +13,7 @@ const RALLONGE = 10;
 // Sauvegarde de la partie sur l'appareil : quitter la page (lien externe, rechargement) ne fait rien perdre
 const CLE = 'depute-d-un-jour:partie';
 interface Sauvegarde { ecran: Ecran; votes: Vote[]; objectif: number; carte: string | null; date?: number }
-const DUREE_REPRISE = 2 * 60 * 60 * 1000; // une partie abandonnée depuis plus de 2 h repart de zéro
+const DUREE_REPRISE = 7 * 24 * 60 * 60 * 1000; // une partie reste proposée à la reprise pendant 7 jours
 
 function lireSauvegarde(): Sauvegarde | null {
   try { return JSON.parse(localStorage.getItem(CLE) ?? 'null'); } catch { return null; }
@@ -53,26 +53,25 @@ export default function App() {
   const [carte, setCarte] = useState<Carte | null>(null);
   const [important, setImportant] = useState(false);
 
+  const [reprise, setReprise] = useState<Sauvegarde | null>(null);
+
   useEffect(() => {
     charger()
       .then((d) => {
+        // On ne reprend jamais tout seul : l'accueil propose de reprendre, et recommencer reste un choix
         const s = lireSauvegarde();
         const connues = new Set(d.cartes.map((c) => c.uid));
-        // Seule une partie EN COURS et récente est reprise ; un résultat déjà vu n'est jamais rouvert
         const recente = s?.date && Date.now() - s.date < DUREE_REPRISE;
-        if (s && recente && s.ecran === 'jeu' && s.votes.every((v) => connues.has(v.uid))) {
-          setVotes(s.votes);
-          setObjectif(s.objectif);
-          const c = d.cartes.find((x) => x.uid === s.carte) ?? carteSuivante(d, s.votes, lireVues());
-          setCarte(c);
-          setEcran(c ? 'jeu' : 'resultat');
-        }
+        if (s && recente && s.votes.length > 0 && s.votes.every((v) => connues.has(v.uid))
+            && (s.ecran === 'jeu' || s.ecran === 'resultat')) setReprise(s);
         setDonnees(d);
       })
       .catch(() => setErreur(true));
   }, []);
   useEffect(() => {
-    if (donnees && ecran !== 'methode') ecrireSauvegarde({ ecran, votes, objectif, carte: carte?.uid ?? null, date: Date.now() });
+    // Seuls la partie en cours et le résultat sont sauvegardés (l'accueil n'écrase rien)
+    if (donnees && (ecran === 'jeu' || ecran === 'resultat'))
+      ecrireSauvegarde({ ecran, votes, objectif, carte: carte?.uid ?? null, date: Date.now() });
   }, [donnees, ecran, votes, objectif, carte]);
   useEffect(() => { window.scrollTo(0, 0); }, [ecran]);
 
@@ -82,7 +81,18 @@ export default function App() {
   if (erreur) return <main className="ecran"><p>Impossible de charger les données. Vérifie ta connexion puis recharge la page.</p></main>;
   if (!donnees) return <main className="ecran chargement"><p>Chargement des votes…</p></main>;
 
+  const reprendre = () => {
+    if (!reprise) return;
+    setVotes(reprise.votes);
+    setObjectif(reprise.objectif);
+    const c = donnees.cartes.find((x) => x.uid === reprise.carte) ?? carteSuivante(donnees, reprise.votes, lireVues());
+    setCarte(c);
+    setEcran(reprise.ecran === 'jeu' && c ? 'jeu' : 'resultat');
+    setReprise(null);
+  };
+
   const commencer = () => {
+    setReprise(null);
     setVotes([]);
     setObjectif(PARTIE);
     setImportant(false);
@@ -111,12 +121,15 @@ export default function App() {
 
   return (
     <main>
-      {ecran === 'accueil' && <Accueil donnees={donnees} onCommencer={commencer} onMethode={methode} />}
+      {ecran === 'accueil' && <Accueil donnees={donnees} reprise={reprise} onReprendre={reprendre} onCommencer={commencer} onMethode={methode} />}
 
       {ecran === 'jeu' && carte && (
         <section className="ecran jeu">
           <header className="barre-jeu">
-            <button className="lien" onClick={() => setEcran('accueil')} aria-label="Quitter">✕</button>
+            <button className="lien" onClick={() => {
+              setReprise({ ecran: 'jeu', votes, objectif, carte: carte.uid, date: Date.now() });
+              setEcran('accueil');
+            }} aria-label="Quitter">✕</button>
             <div className="progression" aria-label={`Vote ${progression + 1} sur ${objectif}`}>
               <span style={{ width: `${(100 * progression) / objectif}%` }} />
             </div>

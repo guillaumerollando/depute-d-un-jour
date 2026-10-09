@@ -38,7 +38,29 @@ h1 { font-size: 1.75rem; line-height: 1.2; margin: .4em 0 .5em; letter-spacing: 
 h2 { font-size: 1.15rem; margin: 2em 0 .6em; }
 p { line-height: 1.55; }
 a { color: inherit; }
-button { font: inherit; color: inherit; cursor: pointer; }
+button { font: inherit; color: inherit; cursor: pointer; -webkit-tap-highlight-color: transparent; }
+a { -webkit-tap-highlight-color: transparent; }
+/* Retour d'appui sobre, qui épouse les arrondis ; contour visible uniquement au clavier */
+button, .btn-vote, .btn-arguments, .etoile, .btn-principal, .btn-secondaire {
+  transition: transform .12s ease, background-color .15s ease, border-color .15s ease, box-shadow .15s ease;
+}
+button:active:not(.lien) { transform: scale(.96); }
+button:focus { outline: none; }
+button:focus-visible, a:focus-visible { outline: 3px solid var(--or); outline-offset: 2px; }
+.btn-vote:active { background: var(--papier); }
+.btn-vote.pour:active { border-color: var(--pour); }
+.btn-vote.contre:active { border-color: var(--contre); }
+@media (hover: hover) {
+  .btn-vote:hover, .etoile:hover, .btn-arguments:hover, .btn-secondaire:hover { border-color: var(--encre-douce); }
+  .btn-principal:hover { box-shadow: 0 6px 18px rgba(29, 43, 79, .25); }
+}
+/* Entrée de chaque nouvelle carte */
+@keyframes entree-carte { from { opacity: 0; transform: translateY(10px) scale(.985); } to { opacity: 1; transform: none; } }
+.carte.entree { animation: entree-carte .25s ease-out; }
+@media (prefers-reduced-motion: reduce) {
+  .carte.entree { animation: none; }
+  button:active:not(.lien) { transform: none; }
+}
 
 .ecran { padding-top: 20px; }
 .chargement { text-align: center; padding-top: 30vh; color: var(--encre-douce); }
@@ -51,6 +73,8 @@ button { font: inherit; color: inherit; cursor: pointer; }
 }
 .btn-principal { background: var(--encre); color: var(--papier); }
 .btn-secondaire { background: transparent; }
+.reprise { display: grid; gap: 4px; }
+.btn-secondaire.grand { width: 100%; font-size: 1.05rem; padding: 16px; margin-bottom: 18px; }
 .btn-principal.grand { width: 100%; font-size: 1.1rem; padding: 18px; margin: 8px 0 18px; }
 
 /* Accueil */
