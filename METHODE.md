@@ -95,6 +95,8 @@ Elle ne contient ni nom de parti, ni argument, ni adjectif de jugement, ni infor
 
 **Vérification.** Une **seconde IA, indépendante**, contrôle chaque carte selon la consigne [`consignes/etape3_verification.md`](consignes/etape3_verification.md) : sens du vote, fidélité, neutralité et lisibilité. Pour un texte adopté, la référence est le **texte adopté en séance le jour du vote**, c'est-à-dire la version exacte mise aux voix.
 
+**Français clair.** Une troisième IA reformule chaque carte pour qu'elle se lise du premier coup (phrases courtes, ordre naturel, jargon expliqué), selon [`consignes/etape3_clarte.md`](consignes/etape3_clarte.md). Une quatrième IA, indépendante, compare l'ancienne et la nouvelle version ([`consignes/etape3_equivalence.md`](consignes/etape3_equivalence.md)). La reformulation n'est retenue que si elle dit exactement la même chose : même sens, mêmes chiffres, même portée.
+
 **Cartes écartées :**
 - les cartes trop techniques ;
 - celles dont le contenu voté ne peut pas être établi (c'est le cas de certains textes rejetés) ;
