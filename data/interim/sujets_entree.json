@@ -1,8 +1,8 @@
 [
  {
   "uid": "VTANR5L17V4453",
-  "titre": "Approuver les comptes rectifiés de la Sécurité sociale pour l'année 2025",
-  "ce_que_ca_change": "Cette partie du budget de la Sécurité sociale corrige les prévisions de recettes et de dépenses de l'année 2025 en cours. Elle fixe le déficit des régimes de base (retraite, maladie, famille, etc.) à environ 23 milliards d'euros pour 2025.",
+  "titre": "Approuver les comptes corrigés de la Sécurité sociale pour l'année 2025",
+  "ce_que_ca_change": "Cette partie du budget de la Sécurité sociale corrige les prévisions pour 2025, l'année en cours. Elle porte sur les recettes et les dépenses. Elle fixe le déficit des régimes de base à environ 23 milliards d'euros pour 2025. Ces régimes couvrent notamment la retraite, la maladie et la famille.",
   "dossier": "DLR5L17N52922"
  },
  {
@@ -13,14 +13,14 @@
  },
  {
   "uid": "VTANR5L17V3290",
-  "titre": "Taxer à 20 % les seuls biens non professionnels des holdings familiales",
-  "ce_que_ca_change": "Le budget crée une taxe de 2 % sur certains biens et placements des sociétés gérant le patrimoine d'une famille (holdings). L'amendement ne taxerait plus que des biens sans usage professionnel (avions, voitures, biens de chasse ou de pêche, bijoux et objets d'art non exposés au public, logements), mais à 20 %. Seules les sociétés détenues à 50 % par une famille seraient visées, au lieu d'un tiers.",
+  "titre": "Limiter la taxe sur les holdings familiales aux biens non professionnels, taxés à 20 %",
+  "ce_que_ca_change": "Le budget crée une taxe de 2 % sur certains biens et placements des sociétés gérant un patrimoine familial (holdings). L'amendement ne taxerait plus que des biens sans usage professionnel : avions, voitures, biens de chasse ou de pêche, bijoux et objets d'art non exposés au public, logements, mais à 20 %. Seules les sociétés détenues à 50 % par une famille seraient visées, au lieu d'un tiers.",
   "dossier": "DLR5L17N52428"
  },
  {
   "uid": "VTANR5L17V3142",
   "titre": "Maintenir en 2026 le taux 2025 de la surtaxe sur les bénéfices des grandes entreprises",
-  "ce_que_ca_change": "Le budget prolonge en 2026 une contribution exceptionnelle sur les bénéfices des entreprises réalisant au moins 1 milliard d'euros de chiffre d'affaires en France, mais en divisant ses taux par deux. L'amendement supprime cette baisse : les taux resteraient ceux de 2025, soit 20,6 % ou 41,2 % selon la taille de l'entreprise, au lieu de 10,3 % ou 20,6 %.",
+  "ce_que_ca_change": "Le budget prolonge en 2026 une contribution exceptionnelle sur les bénéfices des grandes entreprises. Elle vise celles qui réalisent au moins 1 milliard d'euros de chiffre d'affaires en France. Le budget divise ses taux par deux. L'amendement supprime cette baisse. Les taux resteraient ceux de 2025 : 20,6 % ou 41,2 % selon la taille de l'entreprise, au lieu de 10,3 % ou 20,6 %.",
   "dossier": "DLR5L17N52428"
  },
  {
@@ -44,7 +44,7 @@
  {
   "uid": "VTANR5L17V267",
   "titre": "Imposer les multinationales en France selon la part de leurs ventes réalisée en France",
-  "ce_que_ca_change": "Une entreprise active en France serait imposée sur une part de ses bénéfices mondiaux égale à la part de son chiffre d'affaires réalisée en France. Si elle paie moins de 25 % d'impôt sur ses bénéfices dans le monde, son impôt en France serait augmenté d'autant. Une exception est prévue si l'écart ne vient pas d'un montage destiné à éviter l'impôt français.",
+  "ce_que_ca_change": "Une entreprise active en France serait imposée sur une part de ses bénéfices mondiaux. Cette part serait égale à la part de son chiffre d'affaires réalisée en France. Si elle paie moins de 25 % d'impôt sur ses bénéfices dans le monde, son impôt en France monterait d'autant. Une exception est prévue si l'écart ne vient pas d'un montage pour éviter l'impôt français.",
   "dossier": "DLR5L17N50198"
  },
  {
@@ -56,25 +56,25 @@
  {
   "uid": "VTANR5L17V5449",
   "titre": "Créer un droit aux soins palliatifs que les malades peuvent faire valoir devant le juge",
-  "ce_que_ca_change": "Toute personne dont l'état de santé le requiert aurait un droit garanti aux soins palliatifs et à un accompagnement, dont les agences régionales de santé devraient assurer le respect. Sans proposition de prise en charge dans un délai fixé par décret, le malade, ou avec son accord un proche, pourrait saisir en urgence le juge administratif pour l'obtenir.",
+  "ce_que_ca_change": "Toute personne dont l'état de santé le demande aurait un droit garanti aux soins palliatifs et à un accompagnement. Les agences régionales de santé devraient faire respecter ce droit. Un délai serait fixé par décret. Sans proposition de prise en charge dans ce délai, le malade pourrait saisir en urgence le juge administratif. Un proche pourrait aussi le faire, avec l'accord du malade.",
   "dossier": "DLR5L17N51672"
  },
  {
   "uid": "VTANR5L17V3878",
   "titre": "Réduire de 500 000 euros la hausse du financement de l'audiovisuel public pour 2025",
-  "ce_que_ca_change": "Le texte augmente de 10,4 millions d'euros la part de TVA versée à l'audiovisuel public pour 2025. L'amendement réduit cette hausse de 500 000 euros, soit l'écart entre une hausse de 700 000 euros pour TV5 Monde et une baisse de 200 000 euros pour Arte, dues à une taxe sur les salaires différente de celle prévue.",
+  "ce_que_ca_change": "Le texte augmente de 10,4 millions d'euros la part de TVA versée à l'audiovisuel public pour 2025. L'amendement réduit cette hausse de 500 000 euros. Ce montant vient de deux ajustements : TV5 Monde +700 000 euros, Arte −200 000 euros. Ils sont dus à une taxe sur les salaires différente de celle prévue.",
   "dossier": "DLR5L17N53135"
  },
  {
   "uid": "VTANR5L17V6917",
   "titre": "Fixer la méthode de comptage des loups après concertation avec les acteurs concernés",
-  "ce_que_ca_change": "Le nombre de loups pouvant être abattus dépend de l'estimation de leur population. L'amendement prévoit que l'arrêté des ministres sur la gestion du loup fixe aussi la méthode de cette estimation. Elle serait définie après concertation avec les collectivités, les agriculteurs et forestiers, les chambres d'agriculture, les associations de protection de l'environnement et les chasseurs.",
+  "ce_que_ca_change": "Le nombre de loups pouvant être abattus dépend de l'estimation de leur population. Un arrêté des ministres fixe les règles de gestion du loup. Cet arrêté fixerait aussi la méthode de cette estimation. Elle serait définie après concertation avec : les collectivités, les agriculteurs et forestiers, les chambres d'agriculture, les associations de protection de l'environnement et les chasseurs.",
   "dossier": "DLR5L17N54085"
  },
  {
   "uid": "VTANR5L17V8433",
   "titre": "Adopter la loi sur les réponses rapides aux troubles à l'ordre public",
-  "ce_que_ca_change": "Le texte impose de déclarer les fêtes musicales de plus de 250 personnes, étend l'expulsion rapide des squats aux locaux professionnels, commerciaux ou agricoles et porte de 200 à 500 euros l'amende forfaitaire pour usage de drogue. Il interdit aux particuliers de détenir du protoxyde d'azote au-delà d'un seuil et autorise des appareils photographiant les véhicules et leurs occupants.",
+  "ce_que_ca_change": "Les fêtes musicales de plus de 250 personnes devront être déclarées. L'expulsion rapide des squats s'étendra aux locaux professionnels, commerciaux ou agricoles. L'amende fixe pour usage de drogue passera de 200 à 500 euros. Les particuliers ne pourront pas détenir de protoxyde d'azote (gaz hilarant) au-delà d'un seuil. Des appareils pourront photographier les véhicules et leurs occupants.",
   "dossier": "DLR5L17N53980"
  },
  {
@@ -86,7 +86,7 @@
  {
   "uid": "VTANR5L17V984",
   "titre": "Supprimer l'appel à étendre sans attendre les garanties de sécurité à l'Ukraine",
-  "ce_que_ca_change": "La résolution de soutien à l'Ukraine contient un paragraphe qui appelle à étendre immédiatement les garanties de sécurité des pays occidentaux envers l'Ukraine, éventuellement par de nouveaux accords, sans attendre une future adhésion de l'Ukraine à l'OTAN (l'alliance militaire de l'Atlantique Nord). Voter pour retire ce paragraphe du texte.",
+  "ce_que_ca_change": "La résolution de soutien à l'Ukraine contient un paragraphe. Il demande d'étendre tout de suite à l'Ukraine les garanties de sécurité des pays occidentaux. Cela pourrait passer par de nouveaux accords. Il ne faudrait pas attendre une future entrée de l'Ukraine dans l'OTAN (l'alliance militaire de l'Atlantique Nord). Voter pour retire ce paragraphe.",
   "dossier": "DLR5L17N51467"
  },
  {
@@ -104,55 +104,55 @@
  {
   "uid": "VTANR5L17V3260",
   "titre": "Demander que la France mette fin à l'accord de 1968 sur le séjour des Algériens",
-  "ce_que_ca_change": "L'accord franco-algérien de 1968 fixe des règles particulières pour l'entrée et le séjour en France des ressortissants algériens, distinctes de celles du code qui s'applique aux autres étrangers. La résolution invite les autorités compétentes à le dénoncer, c'est-à-dire à y mettre fin.",
+  "ce_que_ca_change": "Un accord signé en 1968 entre la France et l'Algérie fixe des règles à part pour les Algériens. Elles portent sur leur entrée et leur séjour en France. Elles diffèrent du code qui s'applique aux autres étrangers. La résolution invite les autorités compétentes à dénoncer cet accord, c'est-à-dire à y mettre fin.",
   "dossier": "DLR5L17N52719"
  },
  {
   "uid": "VTANR5L17V3182",
   "titre": "Reporter au plus tard au 28 juin 2026 les élections provinciales en Nouvelle-Calédonie",
-  "ce_que_ca_change": "Les élections du congrès et des assemblées de province de Nouvelle-Calédonie (les assemblées élues du territoire), prévues au plus tard le 30 novembre 2025, auraient lieu au plus tard le 28 juin 2026. Les élus actuels resteraient en fonction jusque-là. Le report est présenté comme destiné à poursuivre les discussions en vue d'un accord sur l'avenir institutionnel du territoire.",
+  "ce_que_ca_change": "La Nouvelle-Calédonie élit son congrès et ses assemblées de province, les assemblées élues du territoire. Ces élections, prévues au plus tard le 30 novembre 2025, auraient lieu au plus tard le 28 juin 2026. Les élus actuels resteraient en fonction jusque-là. Le report est présenté comme destiné à poursuivre les discussions en vue d'un accord sur l'avenir institutionnel du territoire.",
   "dossier": "DLR5L17N52655"
  },
  {
   "uid": "VTANR5L17V8421",
-  "titre": "Adopter la loi sur les territoires de montagne (écoles, santé, urbanisme, élevage)",
-  "ce_que_ca_change": "Le texte adapte plusieurs règles aux zones de montagne : prise en compte de l'isolement et des temps de trajet pour ouvrir ou fermer des classes, accès aux soins d'urgence avec transport aérien dans les zones très enclavées, règles d'urbanisme adaptées pour les chalets d'alpage et abris de bergers, maintien des petits abattoirs et des vétérinaires.",
+  "titre": "Adopter la loi sur la montagne : écoles, santé, constructions et élevage",
+  "ce_que_ca_change": "Le texte adapte plusieurs règles aux zones de montagne. L'isolement et les temps de trajet compteraient pour ouvrir ou fermer des classes. Les zones très isolées auraient accès aux urgences par transport aérien. Les règles de construction seraient adaptées pour les chalets d'alpage et les abris de bergers. Les petits abattoirs et les vétérinaires seraient maintenus.",
   "dossier": "DLR5L17N54006"
  },
  {
   "uid": "VTANR5L17V1900",
   "titre": "Prévoir que les médecins sollicités pour une aide à mourir soient formés à cette mission",
-  "ce_que_ca_change": "Le texte prévoit qu'une personne qui souhaite recourir à l'aide à mourir en fasse la demande à un médecin. L'amendement ajoute que ce médecin est, de droit, formé à ce type d'accompagnement. Selon son exposé, il s'agit d'ouvrir à ces médecins un droit à une formation continue dédiée.",
+  "ce_que_ca_change": "Le texte prévoit qu'une personne qui souhaite recourir à l'aide à mourir en fasse la demande à un médecin. L'amendement ajoute que ce médecin est « de droit » formé à ce type d'accompagnement. Selon son exposé, le but est de donner à ces médecins droit à une formation continue sur ce sujet.",
   "dossier": "DLR5L17N51670"
  },
  {
   "uid": "VTANR5L17V3018",
   "titre": "Élire séparément les conseils de ville et d'arrondissement à Paris, Lyon et Marseille",
-  "ce_que_ca_change": "À Paris, Lyon et Marseille, les électeurs voteraient lors de deux scrutins distincts : l'un pour le conseil de la ville, l'autre pour le conseil d'arrondissement. La prime de sièges accordée à la liste arrivée en tête au conseil de la ville serait d'un quart des sièges, et une conférence des maires serait créée. Ces règles s'appliqueraient dès les prochaines élections municipales.",
+  "ce_que_ca_change": "À Paris, Lyon et Marseille, les électeurs voteraient deux fois. Un vote élirait le conseil de la ville. L'autre élirait le conseil d'arrondissement. La liste arrivée en tête recevrait en bonus un quart des sièges du conseil de la ville. Une conférence des maires serait créée. Ces règles s'appliqueraient dès les prochaines élections municipales.",
   "dossier": "DLR5L17N50692"
  },
  {
   "uid": "VTANR5L17V7454",
   "titre": "Inscrire dans la Constitution un statut d'autonomie pour la Corse",
-  "ce_que_ca_change": "Le texte ajoute à la Constitution un article donnant à la Corse un statut d'autonomie au sein de la République. La Collectivité de Corse pourrait être autorisée à adapter des lois et règlements et à fixer ses propres règles dans ses domaines, dans les limites d'une loi organique (loi qui précise la Constitution). Les électeurs de Corse seraient consultés sur le projet de statut.",
+  "ce_que_ca_change": "Le texte ajoute à la Constitution un article qui donne à la Corse un statut d'autonomie dans la République. La Collectivité de Corse pourrait être autorisée à adapter des lois et règlements. Elle pourrait fixer ses propres règles dans ses domaines. Une loi organique, qui précise la Constitution, en fixerait les limites. Les électeurs de Corse seraient consultés sur le projet de statut.",
   "dossier": "DLR5L17N54218"
  },
  {
   "uid": "VTANR5L17V6753",
   "titre": "Permettre aux personnes nées en Nouvelle-Calédonie de voter aux élections provinciales",
-  "ce_que_ca_change": "En Nouvelle-Calédonie, seuls les électeurs inscrits sur une liste spéciale votent pour élire le congrès et les assemblées de province (les assemblées élues du territoire). Le texte ajoute à cette liste les personnes nées en Nouvelle-Calédonie et inscrites sur la liste électorale générale.",
+  "ce_que_ca_change": "En Nouvelle-Calédonie, seuls les électeurs inscrits sur une liste spéciale élisent le congrès et les assemblées de province. Ce sont les assemblées élues du territoire. Le texte ajoute à cette liste les personnes nées en Nouvelle-Calédonie et inscrites sur la liste électorale générale.",
   "dossier": "DLR5L17N52104"
  },
  {
   "uid": "VTANR5L17V2460",
   "titre": "Autoriser le transport de CO2 entre pays pour le stocker sous les fonds marins",
-  "ce_que_ca_change": "Le texte autorise la France à ratifier une modification d'un protocole international sur la pollution des mers par l'immersion de déchets. Cette modification permet d'exporter du dioxyde de carbone (CO2) vers un autre pays pour le stocker dans les couches géologiques sous les fonds marins, à condition qu'un accord soit conclu entre les pays concernés.",
+  "ce_que_ca_change": "Un protocole international porte sur la pollution des mers par les déchets qu'on y jette. Le texte autorise la France à ratifier une modification de ce protocole. Cette modification permet d'exporter du dioxyde de carbone (CO2) vers un autre pays. Il serait stocké dans les couches de roche sous les fonds marins. Il faut pour cela un accord entre les pays concernés.",
   "dossier": "DLR5L17N51362"
  },
  {
   "uid": "VTANR5L17V8609",
   "titre": "Demander à l'État d'agir sans délai pour garantir l'accès à l'eau potable en outre-mer",
-  "ce_que_ca_change": "La résolution invite le Gouvernement à mobiliser sans délai tous les moyens de l'État pour garantir à chaque habitant un accès effectif à l'eau potable dans les territoires d'outre-mer, en se substituant si besoin aux services locaux défaillants. Sont notamment cités Mayotte, la Guyane, la Guadeloupe, la Martinique, La Réunion et Saint-Martin.",
+  "ce_que_ca_change": "La résolution invite le Gouvernement à mobiliser sans délai tous les moyens de l'État. Le but : que chaque habitant des outre-mer ait un accès effectif à l'eau potable. Elle l'invite aussi, si besoin, à remplacer les services locaux défaillants. Sont notamment cités Mayotte, la Guyane, la Guadeloupe, la Martinique, La Réunion et Saint-Martin.",
   "dossier": "DLR5L17N54844"
  },
  {
@@ -176,7 +176,7 @@
  {
   "uid": "VTANR5L17V3261",
   "titre": "Supprimer la création d'un délit de séjour irrégulier en France",
-  "ce_que_ca_change": "L'article supprimé punissait d'une amende de 3 750 euros tout étranger majeur restant en France après la fin de son visa ou sans y être autorisé. Le juge pouvait aussi lui interdire le territoire français pendant trois ans. Cet article étant le seul du texte, le supprimer revient à écarter la création de ce délit.",
+  "ce_que_ca_change": "L'article supprimé punissait d'une amende de 3 750 euros tout étranger majeur resté en France sans autorisation. Cela visait aussi celui resté après la fin de son visa. Le juge pouvait aussi lui interdire le territoire français pendant trois ans. C'est le seul article du texte. Le supprimer revient donc à écarter la création de ce délit.",
   "dossier": "DLR5L17N52801"
  },
  {
@@ -187,44 +187,44 @@
  },
  {
   "uid": "VTANR5L17V2957",
-  "titre": "Adopter la loi assouplissant plusieurs règles encadrant le métier d'agriculteur",
-  "ce_que_ca_change": "Un décret pourrait, à titre exceptionnel, autoriser des insecticides interdits (néonicotinoïdes) en cas de menace grave pour une culture sans autre solution. Les réserves d'eau à usage agricole seraient présumées d'intérêt général majeur dans les zones en manque d'eau. Certaines consultations du public sur les projets d'élevage seraient allégées.",
+  "titre": "Adopter la loi assouplissant plusieurs règles du métier d'agriculteur",
+  "ce_que_ca_change": "Un décret pourrait, à titre exceptionnel, autoriser des insecticides interdits, les néonicotinoïdes. Il faudrait une menace grave pour une culture, sans autre solution. Dans les zones qui manquent d'eau, les réserves d'eau agricoles seraient présumées d'intérêt général majeur. Certaines consultations du public sur les projets d'élevage seraient allégées.",
   "dossier": "DLR5L17N50819"
  },
  {
   "uid": "VTANR5L17V7405",
   "titre": "Adopter la loi renforçant la prévention du terrorisme et la rétention des étrangers",
-  "ce_que_ca_change": "Le préfet pourrait imposer un examen psychiatrique à une personne très menaçante en raison de son adhésion à des thèses terroristes et de possibles troubles mentaux. Des condamnés pour terrorisme très dangereux pourraient, après leur peine, être placés dans un centre avec suivi médical. Des étrangers condamnés pour des faits graves pourraient être retenus jusqu'à 540 jours, en plusieurs fois.",
+  "ce_que_ca_change": "Le préfet pourrait imposer un examen psychiatrique à une personne très menaçante. La menace viendrait de thèses terroristes qu'elle partage et de possibles troubles mentaux. Après leur peine, des condamnés pour terrorisme très dangereux pourraient être placés en centre avec suivi médical. Des étrangers condamnés pour des faits graves pourraient être retenus jusqu'à 540 jours, en plusieurs fois.",
   "dossier": "DLR5L17N53284"
  },
  {
   "uid": "VTANR5L17V1319",
-  "titre": "Adopter la loi prolongeant jusqu'en 2028 l'encadrement des prix et promotions en magasin",
-  "ce_que_ca_change": "Les règles qui interdisent aux supermarchés de revendre les produits alimentaires sans une marge minimale et qui limitent les promotions seraient prolongées jusqu'au 15 avril 2028. Pour les produits non alimentaires, les promotions pourraient atteindre 40 % du prix. Les distributeurs qui ne transmettent pas les informations demandées par l'État pourraient payer une amende.",
+  "titre": "Prolonger jusqu'en 2028 l'encadrement des prix et des promotions en magasin",
+  "ce_que_ca_change": "Les supermarchés doivent revendre les produits alimentaires avec une marge minimale. Les promotions sont aussi limitées. Ces règles seraient prolongées jusqu'au 15 avril 2028. Pour les autres produits, les promotions pourraient atteindre 40 % du prix. Un distributeur qui ne donne pas à l'État les informations demandées pourrait payer une amende.",
   "dossier": "DLR5L17N51504"
  },
  {
   "uid": "VTANR5L17V7905",
-  "titre": "Adopter la mise à jour de la loi fixant le budget des armées jusqu'en 2030",
-  "ce_que_ca_change": "Les armées recevraient 36 milliards d'euros supplémentaires sur la période 2026-2030, ce qui porte le total prévu pour 2024-2030 à 435,7 milliards d'euros. Ces moyens financent notamment des équipements et un nouveau service national prévu dès l'été 2026.",
+  "titre": "Adopter la mise à jour de la loi qui fixe le budget des armées jusqu'en 2030",
+  "ce_que_ca_change": "Les armées recevraient 36 milliards d'euros de plus entre 2026 et 2030. Le total prévu pour 2024-2030 passerait ainsi à 435,7 milliards d'euros. Cet argent finance notamment des équipements. Il finance aussi un nouveau service national, prévu dès l'été 2026.",
   "dossier": "DLR5L17N54083"
  },
  {
   "uid": "VTANR5L17V7409",
-  "titre": "Adopter la loi changeant le régime juridique des grands barrages hydroélectriques",
-  "ce_que_ca_change": "Les contrats de concession des barrages de plus de 4 500 kilowatts seraient résiliés. Leurs exploitants actuels recevraient à la place un droit d'exploiter ces installations pendant 70 ans. EDF devrait vendre aux enchères à d'autres entreprises une partie de sa production (6 gigawatts au départ), pour qu'au moins 40 % des capacités hydroélectriques soient ouvertes à des entreprises autres qu'EDF.",
+  "titre": "Changer les règles d'exploitation des grands barrages hydroélectriques",
+  "ce_que_ca_change": "Les barrages de plus de 4 500 kilowatts sont exploités grâce à des contrats appelés concessions. Ces contrats prendraient fin. Les exploitants actuels auraient à la place le droit d'exploiter ces barrages pendant 70 ans. EDF devrait vendre aux enchères une partie de sa production (6 gigawatts au départ). Ainsi, 40 % au moins des capacités hydroélectriques s'ouvriraient à d'autres entreprises.",
   "dossier": "DLR5L17N53530"
  },
  {
   "uid": "VTANR5L17V468",
   "titre": "Supprimer le retour de l'âge légal de départ à la retraite de 64 à 62 ans",
-  "ce_que_ca_change": "L'article supprimé ramenait l'âge légal de départ à la retraite de 64 à 62 ans et annulait la hausse de la durée de cotisation à 43 années. Le supprimer revient à maintenir l'âge légal à 64 ans et les règles actuelles de durée de cotisation.",
+  "ce_que_ca_change": "L'article supprimé ramenait l'âge légal de départ à la retraite de 64 à 62 ans. Il annulait aussi la hausse de la durée de cotisation à 43 années. Le supprimer revient à garder l'âge légal à 64 ans. Les règles actuelles de durée de cotisation resteraient aussi en place.",
   "dossier": "DLR5L17N50684"
  },
  {
   "uid": "VTANR5L17V6751",
-  "titre": "Ouvrir le vote aux élections provinciales calédoniennes aux conjoints d'électeurs",
-  "ce_que_ca_change": "En Nouvelle-Calédonie, seules certaines personnes peuvent voter pour le congrès et les assemblées de province. Pourraient s'y ajouter, à leur demande, les personnes inscrites sur la liste électorale ordinaire mariées ou pacsées depuis au moins cinq ans avec un électeur remplissant déjà ces conditions.",
+  "titre": "Ouvrir les élections provinciales de Nouvelle-Calédonie aux conjoints d'électeurs",
+  "ce_que_ca_change": "En Nouvelle-Calédonie, seules certaines personnes peuvent voter pour le congrès et les assemblées de province. D'autres pourraient s'y ajouter, à leur demande. Elles doivent être inscrites sur la liste électorale ordinaire. Elles doivent aussi être mariées ou pacsées depuis cinq ans au moins avec un électeur ayant déjà ce droit.",
   "dossier": "DLR5L17N52104"
  },
  {
@@ -236,13 +236,13 @@
  {
   "uid": "VTANR5L17V1214",
   "titre": "Soumettre l'installation des médecins à une autorisation de l'agence régionale de santé",
-  "ce_que_ca_change": "Tout médecin, libéral ou salarié, devrait obtenir l'accord de l'agence régionale de santé (l'administration de la santé dans chaque région) avant de s'installer. L'accord serait automatique dans les zones où l'offre de soins est insuffisante. Ailleurs, il ne serait donné que si un médecin de la même spécialité cesse au même moment son activité dans la zone.",
+  "ce_que_ca_change": "Tout médecin, libéral ou salarié, devrait obtenir l'accord de l'agence régionale de santé avant de s'installer. C'est l'administration de la santé dans chaque région. L'accord serait automatique là où l'offre de soins est insuffisante. Ailleurs, il faudrait qu'un médecin de la même spécialité cesse au même moment son activité dans la zone.",
   "dossier": "DLR5L17N51516"
  },
  {
   "uid": "VTANR5L17V853",
   "titre": "Supprimer l'impôt minimum de 2 % sur les patrimoines de plus de 100 millions d'euros",
-  "ce_que_ca_change": "L'article supprimé crée un impôt pour les personnes dont le patrimoine dépasse 100 millions d'euros. Il serait égal à 2 % de ce patrimoine, diminué des impôts déjà payés dans l'année (impôt sur le revenu, impôt sur la fortune immobilière, CSG et autres prélèvements sociaux). C'est le seul article du texte.",
+  "ce_que_ca_change": "L'article supprimé crée un impôt pour les personnes dont le patrimoine dépasse 100 millions d'euros. Il serait égal à 2 % de ce patrimoine. On en déduirait les impôts déjà payés dans l'année : impôt sur le revenu, impôt sur la fortune immobilière, CSG et autres prélèvements sociaux. C'est le seul article du texte.",
   "dossier": "DLR5L17N51215"
  },
  {
@@ -260,13 +260,13 @@
  {
   "uid": "VTANR5L17V4720",
   "titre": "Supprimer la création d'un Observatoire national du sans-abrisme",
-  "ce_que_ca_change": "L'article supprimé crée un Observatoire national du sans-abrisme, réunissant l'État, les départements et d'autres organismes. Il rassemblerait les données sur les personnes sans domicile, suivrait leur nombre, notamment celui des mineurs privés de la protection de leur famille, et remettrait chaque année un rapport public au Gouvernement et au Parlement.",
+  "ce_que_ca_change": "L'article supprimé crée un Observatoire national du sans-abrisme. Il réunit l'État, les départements et d'autres organismes. Il rassemblerait les données sur les personnes sans domicile et suivrait leur nombre. Il suivrait notamment le nombre de mineurs privés de la protection de leur famille. Il remettrait chaque année un rapport public au Gouvernement et au Parlement.",
   "dossier": "DLR5L17N53051"
  },
  {
   "uid": "VTANR5L17V951",
   "titre": "Permettre à la Safer de faire annuler des ventes de terres contournant son droit d'achat",
-  "ce_que_ca_change": "La Safer, organisme de régulation des terres agricoles, peut acheter en priorité certaines terres mises en vente (droit de préemption). Elle pourrait demander au juge d'annuler la vente séparée d'une partie des droits sur une terre (par exemple sans l'usage de celle-ci) si les informations transmises sont incomplètes ou si des indices montrent que le but principal est d'échapper à ce droit.",
+  "ce_que_ca_change": "La Safer est un organisme qui régule les terres agricoles. Elle peut acheter en priorité certaines terres en vente : c'est son droit de préemption. Elle pourrait demander au juge d'annuler la vente à part de certains droits sur une terre. Exemple : la terre sans son usage. Cela vaut si les informations transmises sont incomplètes, ou si des indices montrent un but surtout d'échapper à ce droit.",
   "dossier": "DLR5L17N51312"
  },
  {
@@ -278,37 +278,37 @@
  {
   "uid": "VTANR5L17V570",
   "titre": "Prolonger jusqu'au 30 juin 2025 le maintien automatique des aides sociales à Mayotte",
-  "ce_que_ca_change": "Après le cyclone, les droits et prestations sociales des habitants de Mayotte qui arrivent à échéance sont maintenus sans démarche de renouvellement jusqu'au 31 mars 2025. Cette date serait repoussée au 30 juin 2025. Le texte permet déjà au Gouvernement de prolonger cette période par décret, au plus tard jusqu'au 31 décembre 2025.",
+  "ce_que_ca_change": "Après le cyclone, les droits et aides sociales des habitants de Mayotte qui arrivent à leur terme sont maintenus. Aucune démarche n'est nécessaire pour les renouveler. Cette règle vaut jusqu'au 31 mars 2025. Cette date serait repoussée au 30 juin 2025. Le texte permet déjà au Gouvernement de prolonger cette période par décret, au plus tard jusqu'au 31 décembre 2025.",
   "dossier": "DLR5L17N51222"
  },
  {
   "uid": "VTANR5L17V2131",
-  "titre": "Abroger le cadre national de l'objectif « zéro artificialisation nette » des sols",
-  "ce_que_ca_change": "L'article 194 de la loi climat de 2021 serait abrogé. Il organise dans les territoires la réduction de la consommation d'espaces naturels, agricoles et forestiers par les constructions et aménagements, en vue de l'objectif « zéro artificialisation nette » en 2050. Les règles qu'il fixe pour les documents d'urbanisme seraient supprimées.",
+  "titre": "Supprimer les règles nationales de l'objectif « zéro artificialisation nette » des sols",
+  "ce_que_ca_change": "L'article 194 de la loi climat de 2021 serait supprimé. Il vise à ce que les constructions et aménagements consomment moins d'espaces naturels, agricoles et forestiers. Il organise cette réduction dans les territoires, en vue de l'objectif « zéro artificialisation nette » en 2050. Les règles qu'il fixe pour les documents d'urbanisme seraient supprimées.",
   "dossier": "DLR5L16N49868"
  },
  {
   "uid": "VTANR5L17V2475",
   "titre": "Inscrire dans la loi des objectifs de maintien et de construction de réacteurs nucléaires",
-  "ce_que_ca_change": "Le code de l'énergie fixerait de nouveaux objectifs : plus de 60 % d'électricité produite par des moyens réglables à la demande en 2030, maintien de toutes les centrales nucléaires (au moins 63 gigawatts jusqu'en 2035), lancement de six nouveaux réacteurs d'ici fin 2026 et étude de huit autres d'ici 2030, et maintien du recyclage du combustible usé.",
+  "ce_que_ca_change": "Le code de l'énergie fixerait de nouveaux objectifs : plus de 60 % d'électricité produite en 2030 par des moyens réglables à la demande ; maintenir toutes les centrales nucléaires, avec au moins 63 gigawatts jusqu'en 2035 ; lancer six nouveaux réacteurs d'ici fin 2026 ; en étudier huit autres d'ici 2030 ; maintenir le recyclage du combustible usé.",
   "dossier": "DLR5L16N49849"
  },
  {
   "uid": "VTANR5L17V187",
   "titre": "Plafonner à 31,65 % la cotisation retraite payée par les collectivités et les hôpitaux",
-  "ce_que_ca_change": "À partir du 1er janvier 2025, la cotisation que versent les collectivités locales et les établissements de santé à la caisse de retraite de leurs fonctionnaires ne pourrait pas dépasser 31,65 % des salaires. La perte de recettes pour la Sécurité sociale serait compensée par une hausse de la taxe sur le tabac.",
+  "ce_que_ca_change": "Les collectivités locales et les établissements de santé versent une cotisation à la caisse de retraite de leurs fonctionnaires. À partir du 1er janvier 2025, elle ne pourrait pas dépasser 31,65 % des salaires. La Sécurité sociale perdrait des recettes. Cette perte serait compensée par une hausse de la taxe sur le tabac.",
   "dossier": "DLR5L17N50588"
  },
  {
   "uid": "VTANR5L17V8434",
-  "titre": "Transformer l'agence immobilière de l'État en établissement public gérant ses bâtiments",
-  "ce_que_ca_change": "L'agence qui gère l'immobilier de l'État, aujourd'hui une société, deviendrait un établissement public. Des bâtiments de l'État pourraient lui être transférés gratuitement. Il les entretiendrait, les mettrait à disposition des services publics, pourrait les vendre après avoir informé les collectivités, emprunter et créer des filiales, avec au plus 30 % de capital privé.",
+  "titre": "Transformer l'agence immobilière de l'État en organisme public gérant ses bâtiments",
+  "ce_que_ca_change": "L'agence qui gère les bâtiments de l'État est aujourd'hui une société. Elle deviendrait un établissement public. L'État pourrait lui transférer gratuitement des bâtiments. Elle les entretiendrait et les mettrait à disposition des services publics. Elle pourrait les vendre, après avoir informé les collectivités. Elle pourrait emprunter et créer des filiales, avec 30 % de capital privé au plus.",
   "dossier": "DLR5L17N52746"
  },
  {
   "uid": "VTANR5L17V3268",
   "titre": "Signaler sur l'étiquette les produits importés cultivés avec des néonicotinoïdes",
-  "ce_que_ca_change": "Les produits agricoles ou alimentaires importés, destinés aux humains ou aux animaux, devraient indiquer sur leur étiquette s'ils ont été produits avec des pesticides de la famille des néonicotinoïdes ou agissant de la même façon. Ne pas le faire serait puni de six mois de prison et 150 000 euros d'amende, voire 10 % du chiffre d'affaires annuel moyen.",
+  "ce_que_ca_change": "Les produits agricoles ou alimentaires importés devraient indiquer sur leur étiquette s'ils ont été produits avec des néonicotinoïdes. Ce sont des pesticides. Cela vaut aussi pour les pesticides qui agissent de la même façon. Les produits pour humains et pour animaux sont concernés. Sinon : six mois de prison et 150 000 euros d'amende, voire 10 % du chiffre d'affaires annuel moyen.",
   "dossier": "DLR5L17N52787"
  },
  {
@@ -344,7 +344,7 @@
  {
   "uid": "VTANR5L17V5103",
   "titre": "Affirmer l'« échec » de la commission d'enquête dont s'inspire la résolution",
-  "ce_que_ca_change": "La résolution invite l'Union européenne à inscrire la mouvance des Frères musulmans sur sa liste des organisations terroristes. L'amendement ajouterait à ses motifs un passage affirmant l'« échec » de la commission d'enquête de l'Assemblée sur les liens entre des mouvements politiques et des réseaux soutenant le terrorisme ou l'idéologie islamiste, présentée comme l'inspiratrice de la résolution.",
+  "ce_que_ca_change": "La résolution invite l'Union européenne à inscrire la mouvance des Frères musulmans sur sa liste d'organisations terroristes. Elle est présentée comme inspirée par une commission d'enquête de l'Assemblée. Cette enquête portait sur les liens entre mouvements politiques et réseaux soutenant le terrorisme ou l'idéologie islamiste. L'amendement ajouterait aux motifs l'affirmation de son « échec ».",
   "dossier": "DLR5L17N52132"
  },
  {
@@ -355,80 +355,80 @@
  },
  {
   "uid": "VTANR5L17V844",
-  "titre": "Adopter la loi d'orientation agricole sur la souveraineté alimentaire et l'installation",
-  "ce_que_ca_change": "Le texte déclare l'agriculture et la pêche d'« intérêt général majeur » pour la souveraineté alimentaire. Il crée un réseau France services agriculture pour aider à s'installer et à transmettre les fermes, soumet la destruction des haies à une déclaration unique, et remplace certaines poursuites pénales pour atteintes non intentionnelles à la nature par une amende administrative ou un stage.",
+  "titre": "Adopter la loi agricole sur la souveraineté alimentaire et l'installation des agriculteurs",
+  "ce_que_ca_change": "Le texte déclare l'agriculture et la pêche d'« intérêt général majeur » pour la souveraineté alimentaire. Il crée un réseau « France services agriculture » pour aider à s'installer et à transmettre les fermes. Détruire une haie demande une seule déclaration. Certaines atteintes involontaires à la nature ne vont plus en justice. Elles sont punies d'une amende de l'administration ou d'un stage.",
   "dossier": "DLR5L16N49726"
  },
  {
   "uid": "VTANR5L17V1308",
-  "titre": "Renforcer les conditions d'accès à la nationalité française pour les enfants nés à Mayotte",
-  "ce_que_ca_change": "Pour qu'un enfant né à Mayotte puisse devenir français par le droit du sol, ses deux parents (ou le seul parent connu) devraient résider régulièrement sur le territoire depuis au moins un an à sa naissance, contre un seul parent depuis trois mois auparavant. Cette résidence serait prouvée par un titre de séjour et un passeport biométrique.",
+  "titre": "Rendre plus strictes les conditions pour devenir français des enfants nés à Mayotte",
+  "ce_que_ca_change": "Un enfant né à Mayotte peut devenir français par le droit du sol. Jusqu'ici, un seul parent devait y vivre en situation régulière depuis trois mois à sa naissance. Il faudrait désormais que les deux parents y vivent en situation régulière depuis au moins un an à la naissance. Si un seul parent est connu, cela vaut pour lui. La preuve : un titre de séjour et un passeport biométrique.",
   "dossier": "DLR5L17N51039"
  },
  {
   "uid": "VTANR5L17V2958",
   "titre": "Allonger jusqu'à 210 jours la rétention des étrangers condamnés pour des faits graves",
-  "ce_que_ca_change": "La rétention longue (maintien dans un centre fermé en attendant l'expulsion, jusqu'à 210 jours), réservée aux cas liés au terrorisme, serait étendue aux étrangers condamnés pour des crimes ou délits graves (meurtre, viol, trafic de drogue…) ou très menaçants pour l'ordre public. Les empreintes et la photo d'un étranger retenu qui refuse pourraient être prises de force, sur accord du procureur.",
+  "ce_que_ca_change": "La rétention, c'est garder un étranger dans un centre fermé avant son expulsion. Elle peut durer jusqu'à 210 jours en cas de terrorisme. Cette durée viserait aussi les étrangers condamnés pour des faits graves (meurtre, viol, trafic de drogue…). Et ceux très menaçants pour l'ordre public. Si un retenu refuse, ses empreintes et sa photo pourraient être prises de force, sur accord du procureur.",
   "dossier": "DLR5L17N51429"
  },
  {
   "uid": "VTANR5L17V2880",
   "titre": "Renforcer la lutte contre l'antisémitisme et le racisme dans l'enseignement supérieur",
-  "ce_que_ca_change": "Chaque université créerait une mission « égalité et diversité » avec un référent et un dispositif de signalement anonyme des faits d'antisémitisme, de racisme ou de haine. Les étudiants pourraient être sanctionnés pour ces faits, même hors de l'établissement s'ils y sont liés, et interdits d'accès aux locaux pendant la procédure. Des sections disciplinaires régionales seraient créées.",
+  "ce_que_ca_change": "Chaque université aurait une mission « égalité et diversité », avec un référent. Elle aurait un moyen de signaler anonymement les faits d'antisémitisme, de racisme ou de haine. Un étudiant pourrait être sanctionné pour ces faits, même hors de l'établissement s'ils y sont liés. Il pourrait être interdit d'accès aux locaux pendant la procédure. Des instances régionales de sanction seraient créées.",
   "dossier": "DLR5L17N50724"
  },
  {
   "uid": "VTANR5L17V1041",
   "titre": "Renforcer les pouvoirs des agents de sécurité dans les transports en commun",
-  "ce_que_ca_change": "Les agents de sécurité de la SNCF et de la RATP pourraient inspecter visuellement les bagages et, avec l'accord du propriétaire, les fouiller. Les agents des transports pourraient filmer leurs interventions avec des caméras portées sur eux, et des caméras seraient testées pour les conducteurs de bus. L'abandon d'un bagage dans un transport serait puni d'une amende.",
+  "ce_que_ca_change": "Les agents de sécurité de la SNCF et de la RATP pourraient regarder dans les bagages. Avec l'accord du voyageur, ils pourraient les fouiller. Les agents des transports pourraient filmer leurs interventions avec des caméras portées sur eux. Des caméras seraient testées pour les conducteurs de bus. Abandonner un bagage dans un transport serait puni d'une amende.",
   "dossier": "DLR5L16N49176"
  },
  {
   "uid": "VTANR5L17V8042",
-  "titre": "Adopter la réforme de la justice criminelle et des droits des victimes",
-  "ce_que_ca_change": "Les victimes de violences conjugales, ou d'un parent sur un enfant de moins de 15 ans, seraient informées dès la plainte de leur droit à un avocat payé par l'aide juridictionnelle (aide publique aux frais de justice). Une affaire non jugeable dans un délai raisonnable pourrait passer à une autre cour d'assises. Dans les enquêtes pour crime, l'ADN d'un inconnu pourrait être analysé.",
+  "titre": "Adopter la réforme de la justice des crimes et des droits des victimes",
+  "ce_que_ca_change": "Certaines victimes sauraient dès leur plainte qu'elles ont droit à un avocat payé par l'aide publique aux frais de justice. Cela vise les violences conjugales, ou d'un parent sur un enfant de moins de 15 ans. Une affaire qui ne peut être jugée dans un délai raisonnable pourrait passer à une autre cour d'assises. Pour un crime, l'ADN d'un inconnu pourrait être analysé.",
   "dossier": "DLR5L17N53940"
  },
  {
   "uid": "VTANR5L17V8043",
   "titre": "Permettre à d'anciens avocats de juger dans les cours criminelles départementales",
-  "ce_que_ca_change": "D'anciens avocats ayant cessé d'exercer (avocats honoraires) pourront être nommés juges assesseurs dans les cours criminelles départementales, pour cinq ans renouvelables une fois, jusqu'à 75 ans. Les juges qui siègent dans ces cours devront suivre une formation sur les violences sexuelles et sexistes, et ceux qui traitent souvent de violences intrafamiliales une formation dédiée.",
+  "ce_que_ca_change": "Des avocats qui ont cessé d'exercer pourraient siéger comme juges dans les cours criminelles départementales. Ce serait pour cinq ans, renouvelables une fois, jusqu'à 75 ans. Les juges de ces cours seraient formés aux violences sexuelles et sexistes. Ceux qui jugent souvent des violences dans la famille auraient une formation sur ce sujet.",
   "dossier": "DLR5L17N53942"
  },
  {
   "uid": "VTANR5L17V289",
   "titre": "Donner aux maires de nouveaux outils pour encadrer les locations de meublés de tourisme",
-  "ce_que_ca_change": "Les maires pourront limiter le nombre de meublés de tourisme (quotas, zones réservées aux résidences principales) et réduire de 120 à 90 jours par an la location d'une résidence principale. L'enregistrement est généralisé, les meublés devront respecter les seuils énergétiques des logements loués (hors résidence principale) et la part non imposée des revenus des meublés classés passe de 71 à 50 %.",
+  "ce_que_ca_change": "Les maires pourront limiter les meublés de tourisme : quotas, zones réservées aux résidences principales. Ils pourront réduire de 120 à 90 jours par an la location d'une résidence principale. Tous les meublés devront être enregistrés. Hors résidence principale, ils respecteront les seuils énergétiques des logements loués. La part non imposée des revenus des meublés classés passe de 71 à 50 %.",
   "dossier": "DLR5L16N47722"
  },
  {
   "uid": "VTANR5L17V451",
   "titre": "Permettre de financer l'audiovisuel public par une part d'impôt qui lui est réservée",
-  "ce_que_ca_change": "La loi qui encadre le budget de l'État autorisera qu'un montant déterminé d'un impôt soit versé directement aux entreprises publiques de télévision et de radio. Leur financement ne dépendrait alors pas uniquement des crédits votés chaque année dans le budget général de l'État.",
+  "ce_que_ca_change": "La loi qui encadre le budget de l'État autorisera ceci : un montant déterminé d'un impôt pourra être versé directement aux entreprises publiques de télévision et de radio. Leur financement ne dépendrait alors pas uniquement des sommes votées chaque année dans le budget général de l'État.",
   "dossier": "DLR5L17N50168"
  },
  {
   "uid": "VTANR5L17V840",
   "titre": "Prolonger jusqu'en 2028 les concours « talents » des écoles de la haute fonction publique",
-  "ce_que_ca_change": "L'expérimentation lancée en 2021, qui réserve des places à des concours spéciaux pour des étudiants de milieux modestes passés par une classe préparatoire « talents », est prolongée jusqu'au 31 août 2028, dès les concours ouverts depuis le 1er août 2024. Elle est étendue aux écoles formant des militaires, et le bilan que le Gouvernement doit en faire est repoussé à mars 2028.",
+  "ce_que_ca_change": "Depuis 2021, une expérimentation réserve des places dans des concours spéciaux à des étudiants de milieux modestes. Ils doivent être passés par une classe préparatoire « talents ». L'expérimentation est prolongée jusqu'au 31 août 2028, dès les concours ouverts depuis le 1er août 2024. Elle s'étend aux écoles qui forment des militaires. Le bilan dû par le Gouvernement est repoussé à mars 2028.",
   "dossier": "DLR5L17N51161"
  },
  {
   "uid": "VTANR5L17V606",
   "titre": "Ouvrir le repas à 1 euro au restaurant universitaire à tous les étudiants",
-  "ce_que_ca_change": "Le prix du repas à tarif modéré servi par les Crous, organismes qui gèrent la restauration étudiante, ne pourra pas dépasser 1 euro dans tous leurs restaurants, pour tous les étudiants et non plus seulement les boursiers ou étudiants identifiés comme précaires. Tous les Crous devront aussi proposer ce repas à emporter.",
+  "ce_que_ca_change": "Les Crous gèrent la restauration des étudiants. Le prix de leur repas à tarif modéré ne pourra pas dépasser 1 euro, dans tous leurs restaurants. Ce prix vaudra pour tous les étudiants, et plus seulement pour les boursiers ou les étudiants identifiés comme précaires. Tous les Crous devront aussi proposer ce repas à emporter.",
   "dossier": "DLR5L17N50778"
  },
  {
   "uid": "VTANR5L17V4707",
   "titre": "Obliger les agents des collectivités à s'assurer collectivement contre l'arrêt de travail",
-  "ce_que_ca_change": "Quand une commune ou un département a conclu un contrat collectif couvrant la perte de salaire en cas d'arrêt de travail, d'invalidité ou de décès, ses agents devront y adhérer, sauf cas de dispense. L'employeur paiera au moins la moitié de la cotisation, et l'assureur ne pourra pas refuser de couvrir une maladie antérieure. Ces règles s'appliquent au plus tard à partir de 2029.",
+  "ce_que_ca_change": "Une commune ou un département peut conclure un contrat collectif d'assurance. Il couvre la perte de salaire en cas d'arrêt de travail, d'invalidité ou de décès. Dans ce cas, ses agents devront y adhérer, sauf dispense. L'employeur paiera au moins la moitié de la cotisation. L'assureur ne pourra pas refuser de couvrir une maladie antérieure. Ces règles s'appliquent au plus tard à partir de 2029.",
   "dossier": "DLR5L17N51457"
  },
  {
   "uid": "VTANR5L17V2272",
   "titre": "Verser les allocations familiales dès le premier enfant",
-  "ce_que_ca_change": "Les familles avec un seul enfant à charge recevraient les allocations familiales, aujourd'hui versées à partir du deuxième enfant. Pour financer la mesure, l'intéressement et la participation versés aux salariés seraient soumis aux cotisations sociales au-delà de deux smic par an, et des taux réduits d'une contribution payée par les employeurs sur ces sommes seraient supprimés.",
+  "ce_que_ca_change": "Les familles avec un seul enfant à charge recevraient les allocations familiales. Aujourd'hui, elles sont versées à partir du deuxième enfant. Pour financer la mesure, l'intéressement et la participation des salariés paieraient des cotisations sociales au-delà de deux smic par an. Des taux réduits d'une contribution payée par les employeurs sur ces sommes seraient aussi supprimés.",
   "dossier": "DLR5L17N51979"
  },
  {
@@ -440,7 +440,7 @@
  {
   "uid": "VTANR5L17V3264",
   "titre": "Obliger à indiquer sur l'étiquette le pays d'origine de tous les produits alimentaires",
-  "ce_que_ca_change": "L'étiquette de tout produit agricole, alimentaire ou de la mer, brut ou transformé, devra indiquer son pays d'origine. Pour les produits transformés, il faudra aussi indiquer l'origine de l'ingrédient principal et de chaque ingrédient représentant au moins 10 % du produit.",
+  "ce_que_ca_change": "L'étiquette devra indiquer le pays d'origine de tout produit agricole, alimentaire ou de la mer. Cela vaut pour les produits bruts comme pour les produits transformés. Pour un produit transformé, il faudra aussi donner l'origine de l'ingrédient principal. Il faudra aussi celle de chaque ingrédient qui représente au moins 10 % du produit.",
   "dossier": "DLR5L17N52787"
  },
  {
@@ -451,14 +451,14 @@
  },
  {
   "uid": "VTANR5L17V218",
-  "titre": "Supprimer l'article rendant obligatoire l'expulsion des étrangers menaçant l'ordre public",
-  "ce_que_ca_change": "L'article supprimé obligerait à expulser tout étranger représentant une menace grave pour l'ordre public, notamment s'il a été condamné pour un crime ou un délit puni d'au moins trois ans de prison. Il supprimerait les protections liées à la durée de séjour ou aux liens familiaux, et imposerait d'expulser les mineurs de plus de 16 ans liés au terrorisme ou menaçant les intérêts de l'État.",
+  "titre": "Supprimer l'article qui rend obligatoire l'expulsion des étrangers menaçant l'ordre public",
+  "ce_que_ca_change": "L'article supprimé obligerait à expulser tout étranger qui menace gravement l'ordre public. C'est notamment le cas s'il a été condamné pour un crime ou délit puni d'au moins trois ans de prison. Il supprimerait les protections liées à la durée du séjour ou aux liens familiaux. Il imposerait d'expulser les mineurs de plus de 16 ans liés au terrorisme ou menaçant les intérêts de l'État.",
   "dossier": "DLR5L17N50436"
  },
  {
   "uid": "VTANR5L17V520",
   "titre": "Maintenir la contribution de la France au budget européen à son niveau de 2024",
-  "ce_que_ca_change": "En attendant le budget 2025, la somme versée par la France au budget de l'Union européenne serait fixée à environ 21,6 milliards d'euros, soit le montant de 2024. Le rapporteur indiquait que l'accord européen de novembre 2024 prévoyait 23,1 milliards pour 2025.",
+  "ce_que_ca_change": "En attendant le budget 2025, la France verserait environ 21,6 milliards d'euros au budget de l'Union européenne. C'est le même montant qu'en 2024. Le rapporteur, député chargé du texte, indiquait un autre chiffre. Selon lui, l'accord européen de novembre 2024 prévoyait 23,1 milliards pour 2025.",
   "dossier": "DLR5L17N51079"
  },
  {
@@ -476,13 +476,13 @@
  {
   "uid": "VTANR5L17V4718",
   "titre": "Obliger le département à vérifier l'état civil d'un jeune avant de le déclarer majeur",
-  "ce_que_ca_change": "Quand une personne étrangère se déclare mineure et sans famille pour la protéger, le département ne pourrait la reconnaître majeure qu'après avoir mené toutes les démarches prévues pour retrouver ou reconstituer ses papiers d'état civil, y compris auprès du consulat de son pays d'origine.",
+  "ce_que_ca_change": "Une personne étrangère peut se déclarer mineure et sans famille pour être protégée. Le département ne pourrait alors la reconnaître majeure qu'après certaines démarches. Il devrait avoir mené toutes les démarches prévues pour retrouver ou refaire ses papiers d'état civil. Cela inclut une demande au consulat de son pays d'origine.",
   "dossier": "DLR5L17N53051"
  },
  {
   "uid": "VTANR5L17V4316",
   "titre": "Remplacer la nationalisation d'ArcelorMittal par une participation de l'État de 20 %",
-  "ce_que_ca_change": "Au lieu que l'État rachète toute l'entreprise, il en détiendrait 20 % du capital. Un accord conditionnerait toute aide publique à l'entreprise au respect d'objectifs de maintien de l'emploi et d'investissement en France.",
+  "ce_que_ca_change": "L'État ne rachèterait pas toute l'entreprise : il en détiendrait 20 % du capital. Un accord lierait toute aide publique à l'entreprise au respect d'objectifs de maintien de l'emploi et d'investissement en France.",
   "dossier": "DLR5L17N52977"
  },
  {
@@ -494,25 +494,25 @@
  {
   "uid": "VTANR5L17V5296",
   "titre": "Adopter la loi d'organisation des Jeux olympiques et paralympiques d'hiver de 2030",
-  "ce_que_ca_change": "Le texte prévoit des règles spéciales pour les Jeux de 2030 : consultation du public par internet pour les projets liés aux Jeux, ouverture possible des commerces le dimanche près des sites avec des salariés volontaires, centres de santé dans les villages des athlètes, et prolongation jusqu'à fin 2027 de l'essai de caméras analysées par logiciel.",
+  "ce_que_ca_change": "Le texte prévoit des règles spéciales pour les Jeux de 2030. Le public serait consulté par internet sur les projets liés aux Jeux. Près des sites, les commerces pourraient ouvrir le dimanche avec des salariés volontaires. Les villages des athlètes auraient des centres de santé. L'essai de caméras dont les images sont analysées par logiciel serait prolongé jusqu'à fin 2027.",
   "dossier": "DLR5L17N52100"
  },
  {
   "uid": "VTANR5L17V789",
-  "titre": "Adopter la loi sur le fonctionnement des chambres d'agriculture et de la MSA",
-  "ce_que_ca_change": "Le texte modifie les élections de la Mutualité sociale agricole (MSA), la sécurité sociale des agriculteurs : la métropole de Lyon y est découpée en circonscriptions, et les assurés en retard de cotisations peuvent voter mais doivent les avoir réglées pour être candidats. Il permet aussi aux dirigeants de coopératives vendant des pesticides de siéger au bureau des chambres d'agriculture.",
+  "titre": "Adopter la loi sur les chambres d'agriculture et la sécurité sociale des agriculteurs",
+  "ce_que_ca_change": "Le texte modifie les élections de la Mutualité sociale agricole, la sécurité sociale des agriculteurs. Pour ces élections, la métropole de Lyon est découpée en circonscriptions. Les assurés en retard de cotisations peuvent voter. Mais pour être candidats, ils doivent les avoir réglées. Les dirigeants de coopératives qui vendent des pesticides pourront siéger au bureau des chambres d'agriculture.",
   "dossier": "DLR5L17N50915"
  },
  {
   "uid": "VTANR5L17V3056",
   "titre": "Adopter la loi de simplification des règles d'urbanisme et de logement",
-  "ce_que_ca_change": "Le texte allège les procédures pour modifier les plans locaux d'urbanisme, qui fixent ce qu'on peut construire dans une commune. Il permet de remplacer l'enquête publique par une consultation par internet pour certains projets, autorise des logements dans les zones d'activité et raccourcit les délais de certains recours contre les permis de construire.",
+  "ce_que_ca_change": "Le texte allège les procédures pour modifier les plans locaux d'urbanisme. Ces plans fixent ce qu'on peut construire dans une commune. Pour certains projets, l'enquête publique pourra être remplacée par une consultation par internet. Le texte autorise des logements dans les zones d'activité. Il raccourcit aussi les délais de certains recours contre les permis de construire.",
   "dossier": "DLR5L17N51852"
  },
  {
   "uid": "VTANR5L17V4706",
   "titre": "Permettre aux communes de Polynésie française d'agir sans attendre une « loi du pays »",
-  "ce_que_ca_change": "Dans certains domaines, les communes polynésiennes ne pouvaient agir qu'après l'adoption d'une « loi du pays », un texte voté par l'assemblée de la Polynésie. Elles pourraient désormais décider elles-mêmes de leurs actions par une délibération, puis les lancer après un délai d'au moins six mois, en respectant les règles fixées par la Polynésie.",
+  "ce_que_ca_change": "Dans certains domaines, les communes de Polynésie ne pouvaient agir qu'après une « loi du pays ». C'est un texte voté par l'assemblée de la Polynésie. Les communes pourraient désormais décider elles-mêmes de leurs actions, par une délibération. Elles pourraient les lancer après un délai d'au moins six mois. Elles devraient respecter les règles fixées par la Polynésie.",
   "dossier": "DLR5L17N51173"
  },
  {
@@ -530,7 +530,7 @@
  {
   "uid": "VTANR5L17V850",
   "titre": "Supprimer la redevance sur les rejets de PFAS dans l'eau par les industriels",
-  "ce_que_ca_change": "L'article supprimé crée une redevance, une somme à payer, pour les sites industriels qui rejettent dans l'eau des PFAS, une famille de substances chimiques. Elle est due à partir de 100 grammes rejetés par an, au tarif de 100 euros par tranche de 100 grammes.",
+  "ce_que_ca_change": "L'article supprimé crée une redevance, c'est-à-dire une somme à payer. Elle vise les sites industriels qui rejettent des PFAS dans l'eau. Les PFAS sont une famille de substances chimiques. La redevance est due à partir de 100 grammes rejetés par an. Son tarif est de 100 euros par tranche de 100 grammes.",
   "dossier": "DLR5L16N49455"
  },
  {
@@ -542,13 +542,13 @@
  {
   "uid": "VTANR5L17V6901",
   "titre": "Exclure les 55 ans et plus de la baisse des droits chômage après rupture conventionnelle",
-  "ce_que_ca_change": "Le texte permet de prévoir une durée d'indemnisation chômage différente pour les personnes parties de leur emploi par rupture conventionnelle, c'est-à-dire un départ négocié avec l'employeur, afin de la réduire. Avec cet amendement, cette différence ne pourrait viser que les moins de 55 ans.",
+  "ce_que_ca_change": "Le texte permet de prévoir une durée d'indemnisation chômage différente après une rupture conventionnelle, afin de la réduire. La rupture conventionnelle est un départ négocié avec l'employeur. Avec cet amendement, cette différence ne pourrait viser que les moins de 55 ans.",
   "dossier": "DLR5L17N53981"
  },
  {
   "uid": "VTANR5L17V5363",
   "titre": "Supprimer l'obligation de planifier la gestion et la préservation de la ressource en eau",
-  "ce_que_ca_change": "Les passages supprimés prévoient que la gestion et la préservation de la ressource en eau fassent l'objet d'une planification. Celle-ci doit tenir compte des projets locaux de gestion de l'eau, eux-mêmes élaborés dans le respect des schémas d'aménagement de l'eau qui existent déjà au niveau des bassins et des territoires.",
+  "ce_que_ca_change": "Les passages supprimés prévoient de planifier la gestion et la préservation de la ressource en eau. Cette planification doit tenir compte des projets locaux de gestion de l'eau. Ces projets respectent eux-mêmes les schémas d'aménagement de l'eau, des plans qui existent déjà pour les bassins et les territoires.",
   "dossier": "DLR5L17N53425"
  },
  {
@@ -559,8 +559,8 @@
  },
  {
   "uid": "VTANR5L17V2708",
-  "titre": "Supprimer l'interdiction d'appliquer immédiatement une peine d'inéligibilité",
-  "ce_que_ca_change": "L'article supprimé empêche le juge de rendre applicable tout de suite, avant l'appel, une peine d'inéligibilité (interdiction de se présenter à une élection) ou d'interdiction du droit de vote. Sans cet article, le juge garde la possibilité de décider que ces peines s'appliquent dès le premier jugement.",
+  "titre": "Supprimer l'interdiction d'appliquer tout de suite une peine d'inéligibilité",
+  "ce_que_ca_change": "L'article supprimé empêche le juge d'appliquer certaines peines tout de suite, sans attendre l'appel. Il s'agit de l'inéligibilité, c'est-à-dire l'interdiction de se présenter à une élection, et de l'interdiction de voter. Sans cet article, le juge garde la possibilité d'appliquer ces peines dès le premier jugement.",
   "dossier": "DLR5L17N52087"
  },
  {
@@ -596,7 +596,7 @@
  {
   "uid": "VTANR5L17V7000",
   "titre": "Demander au Gouvernement des propositions de réparations financières liées à l'esclavage",
-  "ce_que_ca_change": "Le rapport prévu par le texte sur le droit colonial encore en vigueur outre-mer et sur l'héritage de l'esclavage traiterait aussi de la « justice réparatrice ». Il devrait formuler des propositions pour que le Gouvernement prenne des mesures collectives de réparation matérielle et financière.",
+  "ce_que_ca_change": "Le texte prévoit un rapport sur le droit colonial encore en vigueur outre-mer et sur l'héritage de l'esclavage. Avec l'amendement, ce rapport traiterait aussi de la « justice réparatrice ». Il devrait proposer des mesures collectives de réparation matérielle et financière, à prendre par le Gouvernement.",
   "dossier": "DLR5L17N52767"
  },
  {
@@ -620,31 +620,31 @@
  {
   "uid": "VTANR5L17V1624",
   "titre": "Renforcer les sanctions envers les mineurs délinquants et leurs parents",
-  "ce_que_ca_change": "Un parent qui manque à ses obligations au point que son enfant commette un crime ou plusieurs délits risquerait 3 ans de prison et 45 000 euros d'amende. Un mineur d'au moins 16 ans pourrait être jugé en comparution immédiate (procès rapide, le jour même ou sous cinq jours), et la réduction de peine liée à l'âge serait écartée par principe pour certaines récidives graves.",
+  "ce_que_ca_change": "Un parent qui manque à ses obligations risquerait 3 ans de prison et 45 000 euros d'amende. Cela vaut si ce manquement mène son enfant à commettre un crime ou plusieurs délits. Un mineur d'au moins 16 ans pourrait être jugé en procès rapide, le jour même ou sous cinq jours. Pour certaines récidives graves, la peine ne serait plus réduite, par principe, en raison de l'âge.",
   "dossier": "DLR5L17N50690"
  },
  {
   "uid": "VTANR5L17V2975",
   "titre": "Adopter le plan de reconstruction et de refondation de Mayotte",
-  "ce_que_ca_change": "Le texte programme les investissements de l'État à Mayotte pour 2025-2031, dont 730 millions d'euros pour l'eau et l'assainissement. Il rend plus strictes les conditions pour obtenir un titre de séjour sur l'île, facilite la démolition des habitations construites sans droit, et modifie le fonctionnement des institutions locales.",
+  "ce_que_ca_change": "Le texte programme les investissements de l'État à Mayotte de 2025 à 2031. Il prévoit 730 millions d'euros pour l'eau et le traitement des eaux usées. Il rend plus strictes les conditions pour obtenir un titre de séjour sur l'île. Il facilite la démolition des habitations construites sans droit. Il change aussi le fonctionnement des institutions locales.",
   "dossier": "DLR5L17N51985"
  },
  {
   "uid": "VTANR5L17V6319",
   "titre": "Renforcer les contrôles et les sanctions contre les fraudes sociales et fiscales",
-  "ce_que_ca_change": "Le texte permet aux administrations fiscales et sociales de mieux partager leurs informations et renforce leurs pouvoirs de contrôle et les sanctions. Par exemple, le renouvellement d'un arrêt de travail ne pourrait plus être prescrit en téléconsultation, et France Travail pourrait suspendre jusqu'à trois mois une allocation chômage en cas d'indices sérieux de fraude.",
+  "ce_que_ca_change": "Les administrations des impôts et de la protection sociale pourraient mieux partager leurs informations. Leurs pouvoirs de contrôle et les sanctions seraient renforcés. Par exemple, un arrêt de travail ne pourrait plus être renouvelé lors d'une consultation médicale à distance. France Travail pourrait suspendre une allocation chômage jusqu'à trois mois en cas d'indices sérieux de fraude.",
   "dossier": "DLR5L17N52985"
  },
  {
   "uid": "VTANR5L17V7408",
   "titre": "Faciliter le logement des agents publics près de leur lieu de travail",
-  "ce_que_ca_change": "Un logement social attribué à un agent public, ou à un salarié d'un service public de transport, pourrait être lié à son emploi : s'il quitte ce poste, son employeur pourrait demander la fin du bail, avec au moins six mois de préavis. Le texte permet aussi de déroger aux règles d'urbanisme pour construire des logements dont au moins la moitié est réservée à ces agents.",
+  "ce_que_ca_change": "Un agent public, ou un salarié d'un transport public, pourrait avoir un logement social lié à son emploi. S'il quitte ce poste, son employeur pourrait demander la fin du bail, avec six mois de préavis au moins. Le texte permet aussi d'écarter certaines règles de construction. Il faut alors que la moitié au moins des logements soit réservée à ces agents.",
   "dossier": "DLR5L17N51968"
  },
  {
   "uid": "VTANR5L17V8431",
   "titre": "Interdire les réseaux sociaux aux moins de 15 ans et les téléphones au lycée",
-  "ce_que_ca_change": "L'accès aux réseaux sociaux serait interdit aux moins de 15 ans à partir du 1er septembre 2026, ou quatre mois plus tard pour les comptes déjà ouverts ; les encyclopédies en ligne et sites éducatifs ne sont pas concernés. L'interdiction des téléphones portables, déjà prévue à l'école et au collège, serait étendue aux lycées à la rentrée 2026.",
+  "ce_que_ca_change": "Les moins de 15 ans ne pourraient plus utiliser les réseaux sociaux dès le 1er septembre 2026. Pour les comptes déjà ouverts, ce serait quatre mois plus tard. Les encyclopédies en ligne et les sites éducatifs restent permis. Les téléphones portables sont déjà interdits à l'école et au collège. Ils le seraient aussi au lycée à la rentrée 2026.",
   "dossier": "DLR5L17N53187"
  },
  {
@@ -740,61 +740,61 @@
  {
   "uid": "VTANR5L17V1473",
   "titre": "Adopter la loi renforçant la lutte contre le trafic de drogue et le crime organisé",
-  "ce_que_ca_change": "Le texte crée un procureur national, basé à Paris, chargé des affaires de criminalité organisée les plus complexes. Il prévoit en prison des quartiers réservés aux détenus liés à ces réseaux, avec fouilles systématiques et parloirs équipés d'une séparation. Il crée un statut de « collaborateur de justice » : une personne qui aide l'enquête peut obtenir une réduction ou une exemption de peine.",
+  "ce_que_ca_change": "Le texte crée un procureur national, basé à Paris, pour les affaires de crime organisé les plus complexes. Il prévoit des quartiers de prison réservés aux détenus liés à ces réseaux. Les fouilles y sont systématiques et les parloirs y sont équipés d'une séparation. Une personne qui aide l'enquête peut obtenir une réduction ou une dispense de peine : c'est le « collaborateur de justice ».",
   "dossier": "DLR5L17N50169"
  },
  {
   "uid": "VTANR5L17V1303",
   "titre": "Élire sur des listes paritaires les conseils des communes de moins de 1 000 habitants",
-  "ce_que_ca_change": "Dans les communes de moins de 1 000 habitants, les conseillers municipaux seraient élus sur des listes respectant la parité femmes-hommes, comme ailleurs, sans pouvoir rayer ou ajouter des noms sur le bulletin. Une liste pourrait compter jusqu'à deux candidats de moins que le nombre de sièges. Les adjoints au maire seraient élus selon les mêmes règles dans toutes les communes.",
+  "ce_que_ca_change": "Dans les communes de moins de 1 000 habitants, on voterait pour des listes, comme ailleurs. Ces listes respecteraient la parité entre femmes et hommes. On ne pourrait plus rayer ou ajouter des noms. Une liste pourrait avoir jusqu'à deux candidats de moins que de sièges. Partout, les adjoints au maire seraient élus selon les mêmes règles.",
   "dossier": "DLR5L15N43846"
  },
  {
   "uid": "VTANR5L17V8280",
   "titre": "Créer un droit à l'aide à mourir pour les malades en phase avancée ou terminale",
-  "ce_que_ca_change": "Un adulte français ou résidant en France, atteint d'une maladie grave et incurable en phase avancée ou terminale, qui souffre malgré les traitements (ou de façon insupportable s'il les refuse), pourrait demander une substance mortelle, à prendre seul ou, s'il ne le peut pas, donnée par un médecin ou un infirmier. Un médecin décide après avis d'autres soignants. Les soignants peuvent refuser.",
+  "ce_que_ca_change": "Un adulte français ou résidant en France pourrait demander une substance mortelle. Il doit avoir une maladie grave et incurable, en phase avancée ou terminale. Il souffre malgré les traitements, ou de façon insupportable s'il les refuse. Il la prend seul ou, s'il ne peut pas, un médecin ou un infirmier la lui donne. Un médecin décide après avis d'autres soignants. Les soignants peuvent refuser.",
   "dossier": "DLR5L17N51670"
  },
  {
   "uid": "VTANR5L17V6184",
   "titre": "Adopter la loi de simplification de la vie économique",
-  "ce_que_ca_change": "Le texte supprime les zones à faibles émissions (ZFE), où la circulation de certains véhicules peut être restreinte. Il permet de classer des centres de données en projets d'intérêt national majeur, et de ne pas compter certains grands projets industriels dans la limite de consommation d'espaces naturels et agricoles. Il supprime aussi une vingtaine de comités administratifs.",
+  "ce_que_ca_change": "Le texte supprime les zones à faibles émissions (ZFE), où la circulation de certains véhicules peut être limitée. Des centres de données pourraient être classés projets d'intérêt national majeur. Certains grands projets industriels pourraient ne pas compter dans la limite de consommation d'espaces naturels et agricoles. Le texte supprime aussi une vingtaine de comités administratifs.",
   "dossier": "DLR5L16N49868"
  },
  {
   "uid": "VTANR5L17V4442",
   "titre": "Adopter la loi qui ajuste le budget de l'État en fin d'année 2025",
-  "ce_que_ca_change": "Le texte révise les recettes et les dépenses de l'État pour 2025. Il ajoute environ 3,2 milliards d'euros de crédits à dépenser et en annule environ 10,3 milliards, avec un déficit à financer évalué à 131,6 milliards d'euros. Il relève le plafond des emplois de l'État de 402 489 à 402 812 postes.",
+  "ce_que_ca_change": "Le texte révise les recettes et les dépenses de l'État pour 2025. Il autorise environ 3,2 milliards d'euros de dépenses en plus et en annule environ 10,3 milliards. Le déficit à financer est évalué à 131,6 milliards d'euros. Le nombre maximal d'emplois de l'État passe de 402 489 à 402 812 postes.",
   "dossier": "DLR5L17N53135"
  },
  {
   "uid": "VTANR5L17V4758",
   "titre": "Adopter le budget de la Sécurité sociale pour 2026",
-  "ce_que_ca_change": "Le texte fixe les dépenses de la Sécurité sociale pour 2026, dont 274,4 milliards d'euros pour l'assurance maladie. Il crée un congé de naissance indemnisé d'un ou deux mois, après les congés de maternité, de paternité ou d'adoption. Il ralentit la hausse de l'âge de départ à la retraite prévue en 2023 : 62 ans et 9 mois pour les nés de 1963 à mars 1965, puis 63 ans et 9 mois pour les nés en 1968.",
+  "ce_que_ca_change": "Le texte fixe les dépenses de la Sécurité sociale pour 2026, dont 274,4 milliards d'euros pour l'assurance maladie. Il crée un congé de naissance indemnisé d'un ou deux mois, après le congé maternité, paternité ou adoption. Il freine la hausse de l'âge de retraite prévue en 2023. Cet âge serait de 62 ans et 9 mois pour les nés de 1963 à mars 1965. Il passerait à 63 ans et 9 mois pour ceux de 1968.",
   "dossier": "DLR5L17N52922"
  },
  {
   "uid": "VTANR5L17V8427",
   "titre": "Adopter la loi d'urgence agricole sur les pesticides, l'eau et les importations",
-  "ce_que_ca_change": "L'agence sanitaire nationale pourra autoriser, un an renouvelable deux fois, deux pesticides interdits pour les betteraves, cerises, pommes et noisettes, sans autre solution. L'État vise le doublement du stockage d'eau agricole d'ici 2035. Le ministre suspendra ou encadrera l'importation d'aliments contenant des résidus de substances retirées dans l'UE pour raisons de santé ou d'environnement.",
+  "ce_que_ca_change": "L'agence sanitaire nationale pourra autoriser deux pesticides interdits, sans autre solution, pour betteraves, cerises, pommes et noisettes. Ce sera pour un an, renouvelable deux fois. L'État vise à doubler le stockage d'eau agricole d'ici 2035. Le ministre suspendra ou encadrera l'importation d'aliments avec des résidus de substances retirées dans l'UE pour la santé ou l'environnement.",
   "dossier": "DLR5L17N54085"
  },
  {
   "uid": "VTANR5L17V7260",
   "titre": "Permettre une durée de chômage indemnisé plus courte après une rupture conventionnelle",
-  "ce_que_ca_change": "La rupture conventionnelle est une séparation négociée entre un employeur et un salarié. Le texte permet aux règles de l'assurance chômage, fixées par les syndicats et le patronat, de prévoir une durée d'indemnisation différente dans ce cas. D'après le débat, l'accord prévu la ramène de 18 à 15 mois pour les moins de 55 ans, et à 20 mois et demi au-delà.",
+  "ce_que_ca_change": "La rupture conventionnelle est une séparation négociée entre un employeur et un salarié. Dans ce cas, les règles de l'assurance chômage pourraient prévoir une durée d'indemnisation différente. Ces règles sont fixées par les syndicats et le patronat. D'après le débat, l'accord prévu la ramène de 18 à 15 mois avant 55 ans. Après 55 ans, il la ramène à 20 mois et demi.",
   "dossier": "DLR5L17N53981"
  },
  {
   "uid": "VTANR5L17V7987",
   "titre": "Présumer la légitime défense des policiers et gendarmes qui font usage de leur arme",
-  "ce_que_ca_change": "Quand un policier ou un gendarme utilise son arme, il est présumé avoir agi dans un cas autorisé, en cas d'absolue nécessité et de façon strictement proportionnée. Cette présomption peut être renversée à tout moment par une preuve contraire. Le texte réécrit aussi le cas de l'usage de l'arme pour empêcher qu'un ou plusieurs meurtres venant d'être commis se répètent.",
+  "ce_que_ca_change": "Quand un policier ou un gendarme utilise son arme, la loi suppose qu'il l'a fait dans un cas autorisé. Elle suppose aussi qu'il y avait une nécessité absolue et qu'il a agi de façon strictement proportionnée. Une preuve contraire peut toujours renverser cette présomption. Le texte réécrit aussi un cas : tirer pour empêcher que se répètent un ou plusieurs meurtres qui viennent d'être commis.",
   "dossier": "DLR5L17N51037"
  },
  {
   "uid": "VTANR5L17V988",
   "titre": "Appeler à renforcer le soutien à l'Ukraine face à la guerre menée par la Russie",
-  "ce_que_ca_change": "La résolution exprime la position de l'Assemblée, sans créer de loi. Elle condamne la guerre menée par la Russie et invite l'Union européenne et ses alliés à accroître leur aide politique, économique et militaire à l'Ukraine. Elle demande aussi d'utiliser les avoirs russes gelés pour l'Ukraine et d'associer l'Union européenne à toute négociation de paix.",
+  "ce_que_ca_change": "La résolution exprime la position de l'Assemblée. Elle ne crée pas de loi. Elle condamne la guerre menée par la Russie. Elle invite l'Union européenne et ses alliés à aider davantage l'Ukraine : politiquement, économiquement et militairement. Elle demande d'utiliser pour l'Ukraine les avoirs russes gelés. L'Union européenne devrait aussi participer à toute négociation de paix.",
   "dossier": "DLR5L17N51467"
  }
 ]

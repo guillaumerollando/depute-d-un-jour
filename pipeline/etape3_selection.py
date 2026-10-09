@@ -76,6 +76,11 @@ def main():
             continue
         texte = {k: res.get(k) for k in ("theme", "titre", "ce_que_ca_change", "contexte")}
         texte.update({k: v for k, v in (ver.get("corrections") or {}).items() if k in texte})
+        # Passe « français clair » : retenue seulement si le contrôle d'équivalence la valide
+        f_cla, f_eq = INTERIM / "ia/etape3_clarte" / f"{uid}.json", INTERIM / "ia/etape3_equivalence" / f"{uid}.json"
+        if f_cla.exists() and f_eq.exists() and charger_json(f_eq).get("verdict") == "equivalent":
+            cla = charger_json(f_cla)
+            texte.update({k: cla[k] for k in ("titre", "ce_que_ca_change", "contexte") if cla.get(k)})
         pb = controles_mecaniques(texte)
         if DEMANDE_RAPPORT.search(texte["titre"]):
             pb.append("demande de rapport, sans effet sur les règles")
