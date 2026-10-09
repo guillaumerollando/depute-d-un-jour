@@ -35,6 +35,10 @@ L'application est publiée automatiquement sur [deputedunjour.fr](https://depute
 
 Voir la section « Reproduire » de [METHODE.md](METHODE.md). Les étapes mécaniques ne demandent que Python 3, sans dépendance externe, et `pdftotext` pour quelques textes. Les étapes rédactionnelles (classement, résumés, vérifications) ont été faites par IA à partir des consignes de `consignes/`. Leurs sorties sont conservées dans `data/interim/ia/`.
 
+## Conception
+
+Projet développé avec l'assistance d'outils d'intelligence artificielle. Les résumés, les arguments et les analyses des débats ont été produits par IA selon les consignes publiées dans `consignes/`, puis vérifiés par une seconde IA et des contrôles automatiques (voir [METHODE.md](METHODE.md)).
+
 ## Licences
 
 - Code : MIT, voir [LICENSE](LICENSE).
