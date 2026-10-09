@@ -12,7 +12,8 @@ const RALLONGE = 10;
 
 // Sauvegarde de la partie sur l'appareil : quitter la page (lien externe, rechargement) ne fait rien perdre
 const CLE = 'depute-d-un-jour:partie';
-interface Sauvegarde { ecran: Ecran; votes: Vote[]; objectif: number; carte: string | null }
+interface Sauvegarde { ecran: Ecran; votes: Vote[]; objectif: number; carte: string | null; date?: number }
+const DUREE_REPRISE = 2 * 60 * 60 * 1000; // une partie abandonnée depuis plus de 2 h repart de zéro
 
 function lireSauvegarde(): Sauvegarde | null {
   try { return JSON.parse(localStorage.getItem(CLE) ?? 'null'); } catch { return null; }
@@ -44,19 +45,21 @@ export default function App() {
       .then((d) => {
         const s = lireSauvegarde();
         const connues = new Set(d.cartes.map((c) => c.uid));
-        if (s && s.votes.every((v) => connues.has(v.uid)) && (s.ecran === 'jeu' || s.ecran === 'resultat')) {
+        // Seule une partie EN COURS et récente est reprise ; un résultat déjà vu n'est jamais rouvert
+        const recente = s?.date && Date.now() - s.date < DUREE_REPRISE;
+        if (s && recente && s.ecran === 'jeu' && s.votes.every((v) => connues.has(v.uid))) {
           setVotes(s.votes);
           setObjectif(s.objectif);
           const c = d.cartes.find((x) => x.uid === s.carte) ?? carteSuivante(d, s.votes);
           setCarte(c);
-          setEcran(s.ecran === 'jeu' && c ? 'jeu' : 'resultat');
+          setEcran(c ? 'jeu' : 'resultat');
         }
         setDonnees(d);
       })
       .catch(() => setErreur(true));
   }, []);
   useEffect(() => {
-    if (donnees && ecran !== 'methode') ecrireSauvegarde({ ecran, votes, objectif, carte: carte?.uid ?? null });
+    if (donnees && ecran !== 'methode') ecrireSauvegarde({ ecran, votes, objectif, carte: carte?.uid ?? null, date: Date.now() });
   }, [donnees, ecran, votes, objectif, carte]);
   useEffect(() => { window.scrollTo(0, 0); }, [ecran]);
 
