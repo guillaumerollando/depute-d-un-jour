@@ -1,0 +1,32 @@
+{
+  "uid": "VTANR5L17V2460",
+  "consigne": "etape3_accroche v1",
+  "modifie": false,
+  "mesures_citees": [
+    {
+      "mesure": "Export de CO2 pour stockage sous les fonds marins",
+      "groupes": [
+        "DEM",
+        "DR",
+        "ECOS",
+        "GDR",
+        "HOR",
+        "LIOT",
+        "RN"
+      ]
+    },
+    {
+      "mesure": "Ratification de la modification du protocole",
+      "groupes": [
+        "DEM",
+        "DR",
+        "ECOS",
+        "GDR",
+        "HOR",
+        "LIOT",
+        "RN"
+      ]
+    }
+  ],
+  "titre": "Autoriser le transport de CO2 entre pays pour le stocker sous les fonds marins"
+}

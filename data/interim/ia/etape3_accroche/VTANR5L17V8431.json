@@ -1,0 +1,40 @@
+{
+  "uid": "VTANR5L17V8431",
+  "consigne": "etape3_accroche v1",
+  "modifie": false,
+  "mesures_citees": [
+    {
+      "mesure": "Réseaux sociaux interdits aux moins de 15 ans",
+      "groupes": [
+        "DEM",
+        "DR",
+        "ECOS",
+        "EPR",
+        "HOR",
+        "LFI",
+        "RN",
+        "SOC"
+      ]
+    },
+    {
+      "mesure": "Vérification de l'âge",
+      "groupes": [
+        "DEM",
+        "ECOS",
+        "HOR",
+        "LFI",
+        "RN",
+        "SOC"
+      ]
+    },
+    {
+      "mesure": "Portable interdit au lycée",
+      "groupes": [
+        "DR",
+        "HOR",
+        "RN"
+      ]
+    }
+  ],
+  "titre": "Interdire les réseaux sociaux aux moins de 15 ans et les téléphones au lycée"
+}

@@ -1,0 +1,20 @@
+{
+  "uid": "VTANR5L17V6753",
+  "consigne": "etape3_accroche v1",
+  "modifie": false,
+  "mesures_citees": [
+    {
+      "mesure": "ajout des natifs au corps électoral provincial",
+      "groupes": [
+        "EPR",
+        "DEM",
+        "HOR",
+        "LIOT",
+        "ECOS",
+        "LFI",
+        "SOC"
+      ]
+    }
+  ],
+  "titre": "Permettre aux personnes nées en Nouvelle-Calédonie de voter aux élections provinciales"
+}

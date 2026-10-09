@@ -1,0 +1,46 @@
+{
+  "uid": "VTANR5L17V1473",
+  "consigne": "etape3_accroche v1, second essai",
+  "modifie": true,
+  "mesures_citees": [
+    {
+      "mesure": "quartiers de prison réservés",
+      "groupes": [
+        "RN",
+        "EPR",
+        "SOC",
+        "DR",
+        "HOR"
+      ]
+    },
+    {
+      "mesure": "procureur national",
+      "groupes": [
+        "EPR",
+        "SOC",
+        "DR",
+        "DEM"
+      ]
+    },
+    {
+      "mesure": "collaborateur de justice",
+      "groupes": [
+        "SOC",
+        "DEM",
+        "HOR"
+      ]
+    },
+    {
+      "mesure": "lutte contre le blanchiment (absente du résumé, ignorée)",
+      "groupes": [
+        "EPR",
+        "SOC",
+        "DR",
+        "DEM",
+        "HOR",
+        "ECOS"
+      ]
+    }
+  ],
+  "titre": "Créer un procureur national et des quartiers de prison réservés au crime organisé"
+}

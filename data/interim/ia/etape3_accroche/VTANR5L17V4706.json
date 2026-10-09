@@ -1,0 +1,27 @@
+{
+  "uid": "VTANR5L17V4706",
+  "consigne": "etape3_accroche v1",
+  "modifie": false,
+  "mesures_citees": [
+    {
+      "mesure": "Action des communes par délibération sans loi du pays",
+      "groupes": [
+        "DEM",
+        "ECOS",
+        "GDR",
+        "HOR",
+        "LIOT",
+        "SOC"
+      ]
+    },
+    {
+      "mesure": "Délai de six mois",
+      "groupes": [
+        "ECOS",
+        "HOR",
+        "LIOT"
+      ]
+    }
+  ],
+  "titre": "Permettre aux communes de Polynésie française d'agir sans attendre une « loi du pays »"
+}

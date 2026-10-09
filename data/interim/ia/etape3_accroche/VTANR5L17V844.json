@@ -1,0 +1,47 @@
+{
+  "uid": "VTANR5L17V844",
+  "consigne": "etape3_accroche v1",
+  "modifie": true,
+  "mesures_citees": [
+    {
+      "mesure": "réseau France services agriculture",
+      "groupes": [
+        "SOC",
+        "DR",
+        "DEM",
+        "HOR",
+        "LIOT",
+        "GDR",
+        "UDR"
+      ]
+    },
+    {
+      "mesure": "agriculture et pêche d'intérêt général majeur",
+      "groupes": [
+        "DEM",
+        "HOR",
+        "LIOT",
+        "UDR"
+      ]
+    },
+    {
+      "mesure": "atteintes involontaires à la nature : amende ou stage",
+      "groupes": [
+        "DR",
+        "HOR",
+        "UDR"
+      ]
+    },
+    {
+      "mesure": "objectif d'agriculture biologique (absent du résumé, ignoré)",
+      "groupes": [
+        "DR",
+        "DEM",
+        "HOR",
+        "LIOT",
+        "GDR"
+      ]
+    }
+  ],
+  "titre": "Créer « France services agriculture » pour aider à s'installer et à transmettre les fermes"
+}

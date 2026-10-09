@@ -1,0 +1,25 @@
+{
+  "uid": "VTANR5L17V4442",
+  "consigne": "etape3_accroche v1",
+  "modifie": true,
+  "mesures_citees": [
+    {
+      "mesure": "annulation de crédits",
+      "groupes": [
+        "DR",
+        "GDR"
+      ]
+    },
+    {
+      "mesure": "chambres de commerce et d'industrie (absente du résumé, ignorée)",
+      "groupes": [
+        "DR",
+        "DEM",
+        "HOR",
+        "LIOT",
+        "UDR"
+      ]
+    }
+  ],
+  "titre": "Réviser le budget 2025 de l'État et annuler environ 10,3 milliards d'euros de dépenses"
+}

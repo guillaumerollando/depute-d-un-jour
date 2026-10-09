@@ -1,0 +1,38 @@
+{
+  "uid": "VTANR5L17V2958",
+  "consigne": "etape3_accroche v1",
+  "modifie": false,
+  "mesures_citees": [
+    {
+      "mesure": "Rétention jusqu'à 210 jours",
+      "groupes": [
+        "DEM",
+        "ECOS",
+        "EPR",
+        "GDR",
+        "HOR",
+        "LIOT",
+        "RN",
+        "UDR"
+      ]
+    },
+    {
+      "mesure": "Étrangers condamnés pour des faits graves",
+      "groupes": [
+        "DEM",
+        "EPR",
+        "HOR",
+        "LIOT",
+        "UDR"
+      ]
+    },
+    {
+      "mesure": "Empreintes et photo prises de force",
+      "groupes": [
+        "DEM",
+        "GDR"
+      ]
+    }
+  ],
+  "titre": "Allonger jusqu'à 210 jours la rétention des étrangers condamnés pour des faits graves"
+}

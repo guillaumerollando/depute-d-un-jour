@@ -1,0 +1,31 @@
+{
+  "uid": "VTANR5L17V606",
+  "consigne": "etape3_accroche v1",
+  "modifie": false,
+  "mesures_citees": [
+    {
+      "mesure": "Repas à 1 euro pour tous les étudiants",
+      "groupes": [
+        "DEM",
+        "ECOS",
+        "EPR",
+        "HOR",
+        "LFI",
+        "LIOT",
+        "RN",
+        "SOC"
+      ]
+    },
+    {
+      "mesure": "Fin de la réservation aux boursiers et précaires",
+      "groupes": [
+        "EPR",
+        "HOR",
+        "LFI",
+        "LIOT",
+        "SOC"
+      ]
+    }
+  ],
+  "titre": "Ouvrir le repas à 1 euro au restaurant universitaire à tous les étudiants"
+}

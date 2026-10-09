@@ -1,0 +1,32 @@
+{
+  "uid": "VTANR5L17V8421",
+  "consigne": "etape3_accroche v1",
+  "modifie": true,
+  "mesures_citees": [
+    {
+      "mesure": "classes : isolement et temps de trajet",
+      "groupes": [
+        "DR",
+        "ECOS",
+        "DEM",
+        "HOR",
+        "LIOT",
+        "GDR",
+        "UDR"
+      ]
+    },
+    {
+      "mesure": "urgences par transport aérien",
+      "groupes": [
+        "DR",
+        "ECOS",
+        "DEM",
+        "HOR",
+        "LIOT",
+        "GDR",
+        "UDR"
+      ]
+    }
+  ],
+  "titre": "Compter l'isolement et les temps de trajet pour ouvrir ou fermer des classes en montagne"
+}

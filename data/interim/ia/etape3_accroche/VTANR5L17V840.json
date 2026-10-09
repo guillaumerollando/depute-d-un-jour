@@ -1,0 +1,39 @@
+{
+  "uid": "VTANR5L17V840",
+  "consigne": "etape3_accroche v1",
+  "modifie": false,
+  "mesures_citees": [
+    {
+      "mesure": "Prolongation des concours « talents »",
+      "groupes": [
+        "DEM",
+        "DR",
+        "ECOS",
+        "EPR",
+        "GDR",
+        "HOR",
+        "LFI",
+        "LIOT",
+        "RN",
+        "SOC"
+      ]
+    },
+    {
+      "mesure": "Bilan de l'expérimentation",
+      "groupes": [
+        "DEM",
+        "ECOS",
+        "GDR",
+        "LFI",
+        "SOC"
+      ]
+    },
+    {
+      "mesure": "Extension aux écoles militaires",
+      "groupes": [
+        "EPR"
+      ]
+    }
+  ],
+  "titre": "Prolonger les concours « talents » de certaines écoles de service public"
+}

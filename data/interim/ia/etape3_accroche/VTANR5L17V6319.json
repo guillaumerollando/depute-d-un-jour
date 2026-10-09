@@ -1,0 +1,36 @@
+{
+  "uid": "VTANR5L17V6319",
+  "consigne": "etape3_accroche v1",
+  "modifie": false,
+  "mesures_citees": [
+    {
+      "mesure": "partage d'informations entre administrations",
+      "groupes": [
+        "UDR",
+        "DEM",
+        "ECOS"
+      ]
+    },
+    {
+      "mesure": "contrôles et sanctions renforcés",
+      "groupes": [
+        "UDR",
+        "DEM"
+      ]
+    },
+    {
+      "mesure": "suspension d'allocations sur indices de fraude",
+      "groupes": [
+        "ECOS",
+        "SOC"
+      ]
+    },
+    {
+      "mesure": "arrêt de travail en téléconsultation",
+      "groupes": [
+        "SOC"
+      ]
+    }
+  ],
+  "titre": "Renforcer les contrôles et les sanctions contre les fraudes sociales et fiscales"
+}

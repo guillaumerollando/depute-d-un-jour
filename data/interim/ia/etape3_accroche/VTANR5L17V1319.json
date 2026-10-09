@@ -1,0 +1,31 @@
+{
+  "uid": "VTANR5L17V1319",
+  "consigne": "etape3_accroche v1",
+  "modifie": true,
+  "mesures_citees": [
+    {
+      "mesure": "marge minimale sur l'alimentaire",
+      "groupes": [
+        "UDR",
+        "RN",
+        "EPR",
+        "LFI",
+        "SOC",
+        "DR",
+        "ECOS",
+        "DEM"
+      ]
+    },
+    {
+      "mesure": "limite des promotions",
+      "groupes": [
+        "RN",
+        "EPR",
+        "SOC",
+        "DR",
+        "DEM"
+      ]
+    }
+  ],
+  "titre": "Prolonger la marge minimale sur les produits alimentaires et la limite des promotions"
+}

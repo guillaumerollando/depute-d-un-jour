@@ -1,0 +1,43 @@
+{
+  "uid": "VTANR5L17V2975",
+  "consigne": "etape3_accroche v1",
+  "modifie": true,
+  "mesures_citees": [
+    {
+      "mesure": "conditions plus strictes pour le titre de séjour",
+      "groupes": [
+        "DR",
+        "LFI",
+        "HOR",
+        "LIOT",
+        "GDR"
+      ]
+    },
+    {
+      "mesure": "programmation des investissements de l'État",
+      "groupes": [
+        "DR",
+        "LIOT",
+        "UDR",
+        "GDR"
+      ]
+    },
+    {
+      "mesure": "démolition des habitations construites sans droit",
+      "groupes": [
+        "DR",
+        "LFI",
+        "HOR"
+      ]
+    },
+    {
+      "mesure": "institutions locales",
+      "groupes": [
+        "DEM",
+        "LIOT",
+        "UDR"
+      ]
+    }
+  ],
+  "titre": "Programmer les investissements à Mayotte et rendre plus strict l'accès au titre de séjour"
+}

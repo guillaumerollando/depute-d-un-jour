@@ -1,0 +1,39 @@
+{
+  "uid": "VTANR5L17V1303",
+  "consigne": "etape3_accroche v1",
+  "modifie": false,
+  "mesures_citees": [
+    {
+      "mesure": "Parité des listes",
+      "groupes": [
+        "DEM",
+        "ECOS",
+        "EPR",
+        "GDR",
+        "HOR",
+        "LFI",
+        "SOC",
+        "UDR"
+      ]
+    },
+    {
+      "mesure": "Scrutin de liste dans les communes de moins de 1 000 habitants",
+      "groupes": [
+        "DEM",
+        "LFI",
+        "LIOT",
+        "SOC",
+        "UDR"
+      ]
+    },
+    {
+      "mesure": "Fin du panachage",
+      "groupes": [
+        "EPR",
+        "LFI",
+        "RN"
+      ]
+    }
+  ],
+  "titre": "Élire sur des listes paritaires les conseils des communes de moins de 1 000 habitants"
+}

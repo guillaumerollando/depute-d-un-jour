@@ -1,0 +1,39 @@
+{
+  "uid": "VTANR5L17V1308",
+  "consigne": "etape3_accroche v1",
+  "modifie": true,
+  "mesures_citees": [
+    {
+      "mesure": "deux parents en situation régulière",
+      "groupes": [
+        "DEM",
+        "HOR",
+        "EPR",
+        "SOC"
+      ]
+    },
+    {
+      "mesure": "résidence régulière d'un an au lieu de trois mois",
+      "groupes": [
+        "DEM",
+        "HOR",
+        "EPR",
+        "SOC"
+      ]
+    },
+    {
+      "mesure": "exception si un seul parent est connu",
+      "groupes": [
+        "DEM",
+        "EPR"
+      ]
+    },
+    {
+      "mesure": "passeport biométrique",
+      "groupes": [
+        "SOC"
+      ]
+    }
+  ],
+  "titre": "Exiger des deux parents un an de situation régulière pour le droit du sol à Mayotte"
+}

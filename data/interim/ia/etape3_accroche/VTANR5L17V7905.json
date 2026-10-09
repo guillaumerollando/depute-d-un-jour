@@ -1,0 +1,29 @@
+{
+  "uid": "VTANR5L17V7905",
+  "consigne": "etape3_accroche v1, second essai",
+  "modifie": true,
+  "mesures_citees": [
+    {
+      "mesure": "36 milliards d'euros de plus",
+      "groupes": [
+        "HOR",
+        "LIOT",
+        "GDR",
+        "UDR",
+        "RN",
+        "LFI"
+      ]
+    },
+    {
+      "mesure": "équipements",
+      "groupes": [
+        "HOR",
+        "LIOT",
+        "UDR",
+        "RN",
+        "LFI"
+      ]
+    }
+  ],
+  "titre": "Ajouter 36 milliards d'euros sur cinq ans au budget des armées"
+}

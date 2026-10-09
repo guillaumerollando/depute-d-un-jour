@@ -1,0 +1,51 @@
+{
+  "uid": "VTANR5L17V2880",
+  "consigne": "etape3_accroche v1",
+  "modifie": false,
+  "mesures_citees": [
+    {
+      "mesure": "Mission égalité et référent dans chaque établissement",
+      "groupes": [
+        "DEM",
+        "DR",
+        "ECOS",
+        "EPR",
+        "HOR",
+        "LFI",
+        "LIOT",
+        "RN",
+        "UDR"
+      ]
+    },
+    {
+      "mesure": "Sanctions disciplinaires des étudiants",
+      "groupes": [
+        "DEM",
+        "DR",
+        "ECOS",
+        "EPR",
+        "HOR",
+        "LIOT",
+        "UDR"
+      ]
+    },
+    {
+      "mesure": "Signalement",
+      "groupes": [
+        "DEM",
+        "HOR",
+        "LIOT",
+        "UDR"
+      ]
+    },
+    {
+      "mesure": "Interdiction d'accès aux locaux",
+      "groupes": [
+        "ECOS",
+        "EPR",
+        "RN"
+      ]
+    }
+  ],
+  "titre": "Renforcer la lutte contre l'antisémitisme et le racisme dans l'enseignement supérieur"
+}

@@ -1,0 +1,38 @@
+{
+  "uid": "VTANR5L17V7405",
+  "consigne": "etape3_accroche v1",
+  "modifie": true,
+  "mesures_citees": [
+    {
+      "mesure": "rétention jusqu'à 540 jours des étrangers condamnés pour des faits graves",
+      "groupes": [
+        "ECOS",
+        "DEM",
+        "HOR",
+        "LIOT",
+        "GDR",
+        "UDR",
+        "RN"
+      ]
+    },
+    {
+      "mesure": "examen psychiatrique imposé par le préfet",
+      "groupes": [
+        "ECOS",
+        "DEM",
+        "HOR",
+        "LIOT",
+        "GDR"
+      ]
+    },
+    {
+      "mesure": "centre avec suivi médical après la peine pour terrorisme",
+      "groupes": [
+        "DEM",
+        "GDR",
+        "RN"
+      ]
+    }
+  ],
+  "titre": "Permettre de retenir jusqu'à 540 jours des étrangers condamnés pour des faits graves"
+}

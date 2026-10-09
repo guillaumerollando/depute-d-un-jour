@@ -106,6 +106,8 @@ Chaque argument reformule une intervention **réellement prononcée** dans l'hé
 
 **Cohérence.** Une dernière IA relit ensemble tous les textes d'une carte (titre, résumé, situation actuelle, contexte, arguments) pour qu'ils emploient les mêmes mots pour les mêmes choses : le terme exact des sources, ni plus large ni plus étroit ([`consignes/etape3_coherence.md`](consignes/etape3_coherence.md)). Elle n'ajoute ni ne retire aucune information. Une seconde IA, indépendante, n'accepte une correction que si le fond est intact ([`consignes/etape3_coherence_verification.md`](consignes/etape3_coherence_verification.md)). Une correction refusée peut être réécrite une seule fois, en tenant compte des remarques du contrôleur, puis contrôlée de nouveau ; sinon le texte d'origine reste affiché.
 
+**Titre d'un texte entier.** Quand on vote sur l'ensemble d'une loi, le titre dit en une phrase ce qu'elle fait, à partir de ses **mesures phares** : parmi les mesures présentées dans le résumé, les une ou deux dont les groupes ont le plus parlé dans le débat avant le vote, tous camps confondus ([`consignes/etape3_accroche.md`](consignes/etape3_accroche.md)). Une seconde IA recompte les mesures citées et vérifie l'exactitude du titre ([`consignes/etape3_accroche_verification.md`](consignes/etape3_accroche_verification.md)) ; s'il est refusé, l'ancien titre reste.
+
 **Cartes écartées :**
 - les cartes trop techniques ;
 - celles dont le contenu voté ne peut pas être établi (c'est le cas de certains textes rejetés) ;

@@ -1,0 +1,52 @@
+{
+  "uid": "VTANR5L17V8433",
+  "consigne": "etape3_accroche v1",
+  "modifie": true,
+  "mesures_citees": [
+    {
+      "mesure": "fêtes musicales",
+      "groupes": [
+        "DEM",
+        "HOR",
+        "LIOT",
+        "GDR"
+      ]
+    },
+    {
+      "mesure": "protoxyde d'azote",
+      "groupes": [
+        "EPR",
+        "DEM",
+        "LIOT",
+        "GDR"
+      ]
+    },
+    {
+      "mesure": "rodéos motorisés",
+      "groupes": [
+        "EPR",
+        "DEM",
+        "HOR",
+        "GDR"
+      ]
+    },
+    {
+      "mesure": "vidéosurveillance algorithmique / lecture des plaques",
+      "groupes": [
+        "GDR",
+        "SOC",
+        "LIOT",
+        "DEM"
+      ]
+    },
+    {
+      "mesure": "amende fixe pour usage de drogue",
+      "groupes": [
+        "HOR",
+        "EPR",
+        "GDR"
+      ]
+    }
+  ],
+  "titre": "Faire déclarer les fêtes musicales de plus de 250 personnes, limiter le protoxyde d'azote"
+}

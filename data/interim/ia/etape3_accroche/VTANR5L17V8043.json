@@ -1,0 +1,36 @@
+{
+  "uid": "VTANR5L17V8043",
+  "consigne": "etape3_accroche v1",
+  "modifie": false,
+  "mesures_citees": [
+    {
+      "mesure": "Cours criminelles départementales",
+      "groupes": [
+        "DR",
+        "ECOS",
+        "EPR",
+        "HOR",
+        "LFI",
+        "LIOT",
+        "SOC"
+      ]
+    },
+    {
+      "mesure": "Formation des juges aux violences",
+      "groupes": [
+        "DEM",
+        "HOR",
+        "LIOT",
+        "SOC"
+      ]
+    },
+    {
+      "mesure": "Anciens avocats juges",
+      "groupes": [
+        "HOR",
+        "LIOT"
+      ]
+    }
+  ],
+  "titre": "Permettre à d'anciens avocats de juger dans les cours criminelles départementales"
+}

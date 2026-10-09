@@ -1,0 +1,32 @@
+{
+  "uid": "VTANR5L17V5296",
+  "consigne": "etape3_accroche v1",
+  "modifie": true,
+  "mesures_citees": [
+    {
+      "mesure": "prolongation de l'essai de caméras analysées par logiciel",
+      "groupes": [
+        "ECOS",
+        "HOR",
+        "GDR",
+        "LFI",
+        "UDR"
+      ]
+    },
+    {
+      "mesure": "ouverture des commerces le dimanche",
+      "groupes": [
+        "GDR",
+        "LFI"
+      ]
+    },
+    {
+      "mesure": "consultation du public",
+      "groupes": [
+        "ECOS",
+        "GDR"
+      ]
+    }
+  ],
+  "titre": "Prolonger l'essai de caméras aux images analysées par logiciel pour les Jeux d'hiver 2030"
+}

@@ -1,0 +1,8 @@
+{
+  "uid": "VTANR5L17V8433",
+  "consigne": "etape3_accroche_verification v1",
+  "verdict": "refuse",
+  "problemes": [
+    "Lisibilité : le titre colle deux propositions avec une virgule (« …de plus de 250 personnes, limiter le protoxyde d'azote »). Ce n'est pas une phrase française complète, c'est du style télégraphique. Avec « et », il dépasse 90 caractères. Le choix des deux mesures est en revanche correct : il y a égalité à 4 groupes, et le résumé cite ces deux mesures en premier."
+  ]
+}

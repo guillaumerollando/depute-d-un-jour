@@ -1,0 +1,38 @@
+{
+  "uid": "VTANR5L17V4707",
+  "consigne": "etape3_accroche v1",
+  "modifie": false,
+  "mesures_citees": [
+    {
+      "mesure": "Participation de l'employeur à la moitié de la cotisation",
+      "groupes": [
+        "DEM",
+        "DR",
+        "ECOS",
+        "GDR",
+        "HOR",
+        "LIOT",
+        "RN"
+      ]
+    },
+    {
+      "mesure": "Adhésion obligatoire des agents",
+      "groupes": [
+        "DEM",
+        "DR",
+        "GDR",
+        "LIOT"
+      ]
+    },
+    {
+      "mesure": "Pas de refus pour maladie antérieure",
+      "groupes": [
+        "DEM",
+        "DR",
+        "GDR",
+        "LFI"
+      ]
+    }
+  ],
+  "titre": "Obliger les agents des collectivités à s'assurer collectivement contre l'arrêt de travail"
+}
