@@ -143,11 +143,16 @@ export function CarteSwipe({ carte, important, onImportant, onReponse }: Props) 
 
       <div className="barre-bas">
         <div className="actions-carte">
-          {carte.arguments && (
-            <button className={`btn-arguments ${arguments_ ? 'actif' : ''}`} onClick={basculerArguments} aria-expanded={arguments_}>
-              ⚖ {arguments_ ? 'Masquer les arguments' : 'Pas sûr ? Les arguments'}
-            </button>
-          )}
+          {/* Le bouton garde toujours la même place et la même taille, même sans arguments */}
+          <button
+            className={`btn-arguments ${arguments_ ? 'actif' : ''}`}
+            onClick={basculerArguments}
+            aria-expanded={arguments_}
+            disabled={!carte.arguments}
+            title={carte.arguments ? undefined : "Pas d'arguments de fond des deux camps pour ce vote"}
+          >
+            {!carte.arguments ? 'Aucun argument' : arguments_ ? '⚖ Masquer' : '⚖ Voir les arguments'}
+          </button>
           <button
             className={`etoile ${important ? 'active' : ''}`}
             onClick={onImportant}
