@@ -1,0 +1,13 @@
+{
+  "uid": "VTANR5L17V2708",
+  "consigne": "etape3_coherence v1, second essai",
+  "modifie": true,
+  "problemes": [
+    "Le résumé vise l'inéligibilité et l'interdiction de voter ; le titre et la situation actuelle ne parlent que de l'inéligibilité.",
+    "Second essai : titre avec articles et sans répétition d'« interdiction » ; « retarde jusqu'à l'appel » reprend le « sans attendre l'appel » du résumé."
+  ],
+  "corrections": {
+    "titre": "Supprimer la règle qui retarde jusqu'à l'appel l'inéligibilité et l'interdiction de voter",
+    "aujourdhui": "Le juge peut décider qu'une peine d'inéligibilité ou d'interdiction de voter s'applique dès le premier jugement, sans attendre l'appel."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V951",
+  "consigne": "etape3_coherence_verification v1",
+  "verdict": "partiel",
+  "champs_acceptes": [
+    "titre"
+  ],
+  "problemes": [
+    "La formule « vente(s) à part de droits sur une terre » introduite dans la situation actuelle et l'argument pour est peu française et moins compréhensible que les formules d'origine (« ventes qui séparent la terre de son usage », « vente découpée ») : problème de lisibilité, champs aujourdhui et argument_pour refusés. Le titre (« droit de préemption », terme du dispositif et expliqué dans le résumé) est accepté."
+  ]
+}

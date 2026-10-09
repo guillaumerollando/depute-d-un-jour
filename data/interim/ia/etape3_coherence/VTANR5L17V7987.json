@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V7987",
+  "consigne": "etape3_coherence v1",
+  "modifie": true,
+  "problemes": [
+    "Le résumé et le texte disent « strictement proportionnée », la situation actuelle dit seulement « proportionnée » pour la même condition légale."
+  ],
+  "corrections": {
+    "aujourdhui": "Depuis 2017, policiers et gendarmes peuvent utiliser leur arme dans cinq cas précis, en cas d'absolue nécessité et de façon strictement proportionnée, sous le contrôle du juge."
+  }
+}

@@ -104,6 +104,8 @@ Elle ne contient ni nom de parti, ni argument, ni adjectif de jugement, ni infor
 
 Chaque argument reformule une intervention **réellement prononcée** dans l'hémicycle par un député d'un groupe ayant voté dans ce sens. La citation exacte est conservée, et un contrôle automatique vérifie qu'elle figure mot pour mot dans les paroles d'un groupe du bon camp. Une seconde IA vérifie l'exactitude et l'**équilibre** des deux arguments ([`consignes/etape3_arguments_verification.md`](consignes/etape3_arguments_verification.md)). Si l'un des deux camps n'a avancé aucun argument de fond dans le débat, la carte n'affiche aucun argument : on ne présente jamais un seul camp. Les arguments restent derrière un bouton et ne comptent pas dans le score.
 
+**Cohérence.** Une dernière IA relit ensemble tous les textes d'une carte (titre, résumé, situation actuelle, contexte, arguments) pour qu'ils emploient les mêmes mots pour les mêmes choses : le terme exact des sources, ni plus large ni plus étroit ([`consignes/etape3_coherence.md`](consignes/etape3_coherence.md)). Elle n'ajoute ni ne retire aucune information. Une seconde IA, indépendante, n'accepte une correction que si le fond est intact ([`consignes/etape3_coherence_verification.md`](consignes/etape3_coherence_verification.md)). Une correction refusée peut être réécrite une seule fois, en tenant compte des remarques du contrôleur, puis contrôlée de nouveau ; sinon le texte d'origine reste affiché.
+
 **Cartes écartées :**
 - les cartes trop techniques ;
 - celles dont le contenu voté ne peut pas être établi (c'est le cas de certains textes rejetés) ;

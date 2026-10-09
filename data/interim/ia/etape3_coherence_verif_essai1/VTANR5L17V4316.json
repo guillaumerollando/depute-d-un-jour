@@ -1,0 +1,11 @@
+{
+ "uid": "VTANR5L17V4316",
+ "consigne": "etape3_coherence_verification v1",
+ "verdict": "partiel",
+ "champs_acceptes": [
+  "ce_que_ca_change"
+ ],
+ "problemes": [
+  "Titre refusé : « participation publique » est plus large que le dispositif (« contrôle renforcé de l'État à hauteur de 20 % de son capital ») et ne reprend plus le terme « l'État » du résumé ; ce changement n'était pas demandé par le problème relevé."
+ ]
+}

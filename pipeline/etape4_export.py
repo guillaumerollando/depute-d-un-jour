@@ -77,6 +77,27 @@ def acteurs():
     return res
 
 
+def coherence(carte):
+    """Passe de cohérence (consigne etape3_coherence) : corrections appliquées seulement si le contrôle les accepte."""
+    f_cor = INTERIM / "ia/etape3_coherence" / f"{carte['uid']}.json"
+    f_ver = INTERIM / "ia/etape3_coherence_verif" / f"{carte['uid']}.json"
+    if not f_cor.exists() or not f_ver.exists():
+        return carte
+    cor, ver = charger_json(f_cor).get("corrections") or {}, charger_json(f_ver)
+    acceptes = set(cor) if ver.get("verdict") == "valide" else set(ver.get("champs_acceptes") or []) if ver.get("verdict") == "partiel" else set()
+    limites = {"titre": 90, "ce_que_ca_change": 450, "contexte": 300, **LIMITES}
+    for champ in acceptes & set(cor):
+        texte = cor[champ]
+        if not texte or len(texte) > limites.get(champ, 400) or NOMS_INTERDITS.search(texte):
+            continue
+        if champ in ("argument_pour", "argument_contre"):
+            if carte.get("arguments"):
+                carte["arguments"][champ.split("_")[1]] = texte
+        else:
+            carte[champ] = texte
+    return carte
+
+
 def main():
     cartes = charger_json(RACINE / "data/publie/cartes.json")
     bruts = {}
@@ -121,6 +142,7 @@ def main():
         sortie.append({k: c[k] for k in ("uid", "numero", "date", "type", "theme", "titre", "ce_que_ca_change",
                                           "contexte", "resultat", "positions", "neutralises", "citations", "liens")}
                       | {"socle": c.get("socle", False), "deputes": votes} | complements(c))
+        sortie[-1] = coherence(sortie[-1])
 
     meta = {"date_donnees": dernier["dateScrutin"], "scrutins_analyses": len(bruts), "cartes": len(sortie), "depot": DEPOT}
     for nom, contenu in (("groupes", groupes), ("cartes", sortie), ("deputes", deputes), ("meta", meta)):

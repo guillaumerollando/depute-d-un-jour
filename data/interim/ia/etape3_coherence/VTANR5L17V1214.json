@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V1214",
+  "consigne": "etape3_coherence v1",
+  "modifie": true,
+  "problemes": [
+    "Le titre et la source parlent d'« autorisation » de l'agence régionale de santé, le résumé d'« accord »."
+  ],
+  "corrections": {
+    "ce_que_ca_change": "Tout médecin, libéral ou salarié, devrait obtenir l'autorisation de l'agence régionale de santé avant de s'installer. C'est l'administration de la santé dans chaque région. L'autorisation serait automatique là où l'offre de soins est insuffisante. Ailleurs, il faudrait qu'un médecin de la même spécialité cesse au même moment son activité dans la zone."
+  }
+}

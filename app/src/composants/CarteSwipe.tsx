@@ -21,7 +21,6 @@ const TYPES: Record<string, string> = {
 export function CarteSwipe({ carte, important, onImportant, onReponse }: Props) {
   const [delta, setDelta] = useState({ x: 0, y: 0 });
   const [arguments_, setArguments] = useState(false);
-  const [complet, setComplet] = useState(false);
   const [sortie, setSortie] = useState<Reponse | null>(null);
   const depart = useRef<{ x: number; y: number } | null>(null);
   const defilement = useRef<HTMLDivElement>(null);
@@ -106,17 +105,10 @@ export function CarteSwipe({ carte, important, onImportant, onReponse }: Props) 
             <span className="type-vote">{TYPES[carte.type] ?? carte.type}</span>
           </div>
           <h2 className="carte-titre">{carte.titre}</h2>
+          <p className="carte-resume">{carte.ce_que_ca_change}</p>
           {carte.aujourdhui && (
             <p className="aujourdhui"><strong>Aujourd'hui</strong> {carte.aujourdhui}</p>
           )}
-          <p className="carte-resume">
-            {complet || !carte.resume_court ? carte.ce_que_ca_change : carte.resume_court}
-            {carte.resume_court && (
-              <button className="lien en-savoir" onClick={() => setComplet(!complet)}>
-                {complet ? 'Moins' : 'En savoir plus'}
-              </button>
-            )}
-          </p>
           <p className="carte-contexte">{carte.contexte}</p>
           <a className="lien-texte" href={carte.liens.texte ?? carte.liens.dossier} target="_blank" rel="noreferrer">
             Lire le texte officiel ↗

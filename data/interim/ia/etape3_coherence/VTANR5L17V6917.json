@@ -1,0 +1,12 @@
+{
+  "uid": "VTANR5L17V6917",
+  "consigne": "etape3_coherence v1",
+  "modifie": true,
+  "problemes": [
+    "Le titre parle de « méthode de comptage » et la situation actuelle de loups « comptés », alors que le résumé et la source parlent d'« estimation de la population de loups »."
+  ],
+  "corrections": {
+    "titre": "Fixer après concertation la méthode d'estimation de la population de loups",
+    "aujourdhui": "Depuis 2025, la population de loups est estimée par une seule méthode, dont le résultat définitif n'est connu que plusieurs années après."
+  }
+}

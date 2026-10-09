@@ -1,0 +1,13 @@
+{
+  "uid": "VTANR5L17V951",
+  "consigne": "etape3_coherence_verification v1",
+  "verdict": "partiel",
+  "champs_acceptes": [
+    "titre",
+    "aujourdhui",
+    "argument_pour"
+  ],
+  "problemes": [
+    "ce_que_ca_change refusé : il garde la phrase télégraphique « Exemple : la terre sans son usage. », qui n'est pas une phrase française complète (problème de lisibilité)."
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "uid": "VTANR5L17V3260",
+  "consigne": "etape3_coherence v1",
+  "modifie": true,
+  "problemes": [
+    "Les sources parlent « des accords » de 1968 (contexte au pluriel), les autres textes d'« un accord » ; le titre et la situation actuelle ne parlent que du séjour alors que le résumé et la source visent l'entrée et le séjour."
+  ],
+  "corrections": {
+    "titre": "Demander de mettre fin aux accords de 1968 sur l'entrée et le séjour des Algériens",
+    "ce_que_ca_change": "Des accords signés en 1968 entre la France et l'Algérie fixent des règles à part pour les Algériens. Elles portent sur leur entrée et leur séjour en France. Elles diffèrent du code qui s'applique aux autres étrangers. La résolution invite les autorités compétentes à dénoncer ces accords, c'est-à-dire à y mettre fin.",
+    "aujourdhui": "Depuis 1968, des accords franco-algériens fixent des règles d'entrée et de séjour propres aux Algériens, différentes de celles des autres étrangers.",
+    "argument_pour": "Ces accords sont dépassés et n'ont aucune limite dans le temps : y mettre fin permettrait de les moderniser.",
+    "argument_contre": "Mieux vaut renégocier vite ces accords, déjà révisés trois fois, plutôt que d'y mettre fin."
+  }
+}

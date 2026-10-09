@@ -1,0 +1,14 @@
+{
+  "uid": "VTANR5L17V187",
+  "consigne": "etape3_coherence v1",
+  "modifie": true,
+  "problemes": [
+    "Le titre et la situation actuelle parlent des « hôpitaux », le résumé des « établissements de santé » (source : établissements sanitaires) ; les cotisations portent sur les agents, que le résumé et la situation actuelle appellent « fonctionnaires »."
+  ],
+  "corrections": {
+    "titre": "Plafonner à 31,65 % la cotisation retraite des collectivités et établissements de santé",
+    "ce_que_ca_change": "Les collectivités locales et les établissements de santé versent une cotisation à la caisse de retraite de leurs agents. À partir du 1er janvier 2025, elle ne pourrait pas dépasser 31,65 % des salaires. La Sécurité sociale perdrait des recettes. Cette perte serait compensée par une hausse de la taxe sur le tabac.",
+    "aujourdhui": "Le Gouvernement prévoit de relever de 4 points la cotisation retraite que les collectivités et les établissements de santé versent pour leurs agents.",
+    "argument_contre": "Il faut financer la retraite des agents des collectivités et établissements de santé : leur caisse est très déficitaire et le restera dans les années à venir."
+  }
+}

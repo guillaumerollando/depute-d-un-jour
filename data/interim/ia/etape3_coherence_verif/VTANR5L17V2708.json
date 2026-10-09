@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V2708",
+  "consigne": "etape3_coherence_verification v1",
+  "verdict": "partiel",
+  "champs_acceptes": [
+    "aujourdhui"
+  ],
+  "problemes": [
+    "Titre refusé : « retarde jusqu'à l'appel » est inexact. La règle supprimée interdit l'exécution provisoire : la peine attendrait que le jugement soit définitif, donc la fin de l'appel, et non le moment de l'appel. La phrase est aussi lourde à lire (complément « jusqu'à l'appel » intercalé avant l'objet)."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "uid": "VTANR5L17V3142",
+  "consigne": "etape3_coherence v1, second essai",
+  "modifie": false,
+  "problemes": [
+    "Le titre parle de « surtaxe » et d'un seul taux, le résumé et la source de « contribution exceptionnelle sur les bénéfices des grandes entreprises » à deux taux.",
+    "Second essai : renoncement. Aucune formulation complète gardant « en 2026 », les taux de 2025 et « sur les bénéfices » ne tient en 90 caractères ; titre laissé tel quel, à revoir par un humain."
+  ],
+  "corrections": {}
+}

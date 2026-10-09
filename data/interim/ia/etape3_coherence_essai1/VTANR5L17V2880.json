@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V2880",
+  "consigne": "etape3_coherence v1",
+  "modifie": true,
+  "problemes": [
+    "Le résumé dit « chaque université », plus étroit que les établissements publics d'enseignement supérieur visés par le texte et cités dans la situation actuelle."
+  ],
+  "corrections": {
+    "ce_que_ca_change": "Chaque établissement public d'enseignement supérieur aurait une mission « égalité et diversité », avec un référent et un signalement anonyme des faits d'antisémitisme, de racisme ou de haine. Un étudiant pourrait être sanctionné pour ces faits, même hors de l'établissement s'ils y sont liés, et interdit d'accès aux locaux pendant la procédure. Des instances régionales de sanction seraient créées."
+  }
+}
