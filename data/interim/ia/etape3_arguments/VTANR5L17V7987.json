@@ -3,10 +3,10 @@
   "consigne": "etape3_arguments v1",
   "aujourdhui": "Depuis 2017, policiers et gendarmes peuvent utiliser leur arme dans cinq cas précis, en cas d'absolue nécessité et de façon proportionnée, sous le contrôle du juge.",
   "resume_court": "Quand un policier ou un gendarme utilise son arme, la loi supposerait qu'il l'a fait dans un cas autorisé et de façon nécessaire et proportionnée. Une preuve contraire pourrait toujours renverser cette présomption.",
-  "argument_pour": null,
-  "groupe_pour": null,
-  "citation_pour": null,
-  "argument_contre": null,
-  "groupe_contre": null,
-  "citation_contre": null
+  "argument_pour": "Cela protégerait en justice les policiers et gendarmes qui tirent dans le cadre fixé par la loi, sans élargir les cas où ils peuvent utiliser leur arme.",
+  "groupe_pour": "UDR",
+  "citation_pour": "face au sentiment d’insécurité juridique largement exprimé par les agents sur le terrain, nous devons impérativement, non pas élargir les conditions légales d’usage des armes, mais sécuriser juridiquement les agents lorsqu’ils font usage de leur arme dans un cadre défini par la loi.",
+  "argument_contre": "Présumer le tir légal rendrait plus difficile de faire condamner un tir abusif, surtout quand aucune image ne vient contredire la version de l'agent.",
+  "groupe_contre": "GDR",
+  "citation_contre": "Combien d’affaires comparables auraient été conclues sans condamnation s’il n’y avait pas eu d’images et si la loi avait commencé par présumer la légalité du tir ?"
 }

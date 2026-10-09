@@ -1,9 +1,18 @@
 {
-  "uid": "VTANR5L17V7987",
-  "consigne": "etape3_arguments_verification v1",
-  "verdict": "valide",
-  "problemes": [
-    "Aucune intervention d'un groupe du camp « pour » dans l'extrait (seuls le rapporteur et le ministre, sans groupe) : les arguments sont à juste titre à null."
-  ],
-  "corrections": {}
+ "uid": "VTANR5L17V7987",
+ "consigne": "etape3_arguments_verification v1",
+ "verdict": "corrige",
+ "problemes": [
+  "Résumé court : « nécessaire et proportionnée » affaiblissait les termes de la carte (« nécessité absolue », « strictement proportionnée ») ; correction reportée par le coordinateur."
+ ],
+ "remarques": [
+  "aujourdhui (164 car.) : conforme à l'intervention qui décrit la loi de 2017 (cinq cas, absolue nécessité, proportionnalité, contrôle du juge) ; décrit bien la situation avant la mesure.",
+  "resume_court (214 car.) : reprend la présomption et sa réfutabilité sans durcir ; « nécessaire et proportionnée » allège un peu « absolue nécessité / strictement proportionnée » sans changer le sens ; le cas réécrit (empêcher la répétition de meurtres) est omis, ce qu'admet un résumé léger.",
+  "argument_pour (152 car.) : fidèle à la citation (sécuriser juridiquement les agents sans élargir les conditions d'usage des armes) ; citation retrouvée mot pour mot dans une intervention UDR, groupe du camp pour ; porte sur le fond.",
+  "argument_contre (149 car.) : fidèle à la citation (sans images, des affaires se seraient conclues sans condamnation si la loi présumait la légalité du tir) ; citation retrouvée mot pour mot dans une intervention GDR, groupe du camp contre ; porte sur le fond.",
+  "Équilibre : longueurs, ton mesuré et degré de force comparables ; aucun nom de parti ou de député, aucun jugement ajouté, rien sur le résultat du vote."
+ ],
+ "corrections": {
+  "resume_court": "Quand un policier ou un gendarme tire, la loi supposerait qu'il l'a fait dans un cas autorisé, par nécessité absolue et de façon strictement proportionnée. Une preuve contraire pourrait renverser cette présomption."
+ }
 }
