@@ -50,11 +50,11 @@ const PREMIERES_CARTES = 4;
  * - les premières cartes viennent du socle des votes solennels, sur des thèmes tous différents ;
  * - ensuite, la carte qui départage le plus de paires parmi les groupes encore en tête.
  * Un vote solennel vaut un départage et demi de plus : une carte mineure ne passe devant que si elle
- * départage nettement mieux. À égalité, le hasard (pour varier les parties).
+ * départage nettement mieux. À égalité, le hasard (pour varier les sessions).
  */
 export function carteSuivante(d: Donnees, votes: Vote[], dejaVues: Set<string> = new Set()): Carte | null {
   const vues = new Set(votes.map((v) => v.uid));
-  // Les cartes jamais vues lors des parties précédentes passent devant, pour varier les parties
+  // Les cartes jamais vues lors des sessions précédentes passent devant, pour varier les sessions
   const melangees = melanger(d.cartes.filter((c) => !vues.has(c.uid)));
   const restantes = [...melangees.filter((c) => !dejaVues.has(c.uid)), ...melangees.filter((c) => dejaVues.has(c.uid))];
   if (!restantes.length) return null;
@@ -85,7 +85,7 @@ export function carteSuivante(d: Donnees, votes: Vote[], dejaVues: Set<string> =
       }
     notes.push({ c, score: gain * 2 + (c.socle ? 3 : 0) - (dejaVues.has(c.uid) ? 4 : 0) });
   }
-  // Un peu de hasard parmi les meilleures cartes (à 2 points près), pour que deux parties diffèrent
+  // Un peu de hasard parmi les meilleures cartes (à 2 points près), pour que deux sessions diffèrent
   const max = Math.max(...notes.map((n) => n.score));
   const meilleures = notes.filter((n) => n.score >= max - 2);
   return meilleures[Math.floor(Math.random() * meilleures.length)].c;

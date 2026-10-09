@@ -137,8 +137,8 @@ Les paires que les données ne départagent pas, parce que les groupes votent pa
 **Ordre des cartes.**
 - Les quatre premières viennent du socle, sur des thèmes tous différents.
 - Ensuite, la carte suivante est celle qui départage le plus de paires parmi les groupes encore en tête. Un tirage au sort départage les cartes de valeur proche.
-- Les cartes déjà vues lors des parties précédentes, mémorisées sur l'appareil, passent après les autres : deux parties de suite proposent des votes différents.
-- Une partie compte 15 cartes, et on peut en ajouter par séries de 10.
+- Les cartes déjà vues lors des sessions précédentes, mémorisées sur l'appareil, passent après les autres : deux sessions de suite proposent des votes différents.
+- Une session compte 15 cartes, et on peut en ajouter par séries de 10.
 
 **Député jumeau.** C'est le député dont les votes nominatifs ressemblent le plus aux tiens, parmi ceux qui ont voté sur au moins 60 % de tes cartes.
 

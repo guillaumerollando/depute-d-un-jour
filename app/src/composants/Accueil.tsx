@@ -47,10 +47,10 @@ export function Accueil({ donnees, reprise, onReprendre, onCommencer, onMethode 
         <div className="reprise">
           <button className="btn-principal grand" onClick={onReprendre}>
             {reprise.ecran === 'jeu'
-              ? `Reprendre ma partie · ${reprise.votes.length}/${reprise.objectif}`
+              ? `Reprendre mes votes · ${reprise.votes.length}/${reprise.objectif}`
               : 'Revoir mon dernier résultat'}
           </button>
-          <button className="btn-secondaire grand" onClick={onCommencer}>Nouvelle partie · 15 votes</button>
+          <button className="btn-secondaire grand" onClick={onCommencer}>Recommencer · 15 votes</button>
         </div>
       ) : (
         <button className="btn-principal grand" onClick={onCommencer}>Commencer · 15 votes</button>
