@@ -36,6 +36,9 @@ def complements(c):
         if t and len(t) <= LIMITES[champ] and not NOMS_INTERDITS.search(t) and not CAMPS_POLITIQUES.search(t):
             sortie[champ] = t
     extrait = charger_json(INTERIM / "extraits" / f"{c['uid']}.json")
+    f_elargi = INTERIM / "debats_elargis" / f"{c['uid']}.json"
+    if f_elargi.exists():  # débat élargi aux autres séances consacrées au texte (etape3_debat_elargi)
+        extrait = {**extrait, "interventions": extrait["interventions"] + charger_json(f_elargi)["interventions"]}
 
     def valide(camp):
         texte, groupe, cit = arg.get(f"argument_{camp}"), arg.get(f"groupe_{camp}"), canon(arg.get(f"citation_{camp}"))

@@ -17,7 +17,7 @@ Tu complètes une carte déjà vérifiée pour aider l'utilisateur à décider, 
 - le document source (`document`).
 
 Lis aussi :
-- la fiche du vote, `data/interim/extraits/<uid>.json`, et surtout ses `interventions` (orateur, `groupe`, texte) ;
+- la fiche du vote, `data/interim/extraits/<uid>.json`, et surtout ses `interventions` (orateur, `groupe`, texte). S'il existe un **débat élargi**, `data/interim/debats_elargis/<uid>.json` (les autres séances consacrées au même texte), utilise aussi ses `interventions` ;
 - le texte officiel, `data/interim/textes/<document>.txt`.
 
 ## 1. `aujourdhui` : la situation actuelle
