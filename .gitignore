@@ -8,3 +8,4 @@ node_modules/
 app/dist/
 app/dev-dist/
 .claude/
+SYNTHESE.md
