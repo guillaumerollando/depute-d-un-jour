@@ -87,7 +87,7 @@ button:focus-visible, a:focus-visible { outline: 3px solid var(--or); outline-of
 .regles li { display: flex; align-items: center; gap: 12px; background: var(--surface); border: 1px solid var(--trait); border-radius: 14px; padding: 10px 14px; }
 .geste { display: inline-grid; place-items: center; width: 34px; height: 34px; border-radius: 50%; font-weight: 800; color: #fff; flex: none; }
 .geste.pour { background: var(--pour); } .geste.contre { background: var(--contre); }
-.geste.passe { background: var(--passe); } .geste.etoile { background: var(--or); } .geste.arguments { background: var(--encre); }
+.geste.passe { background: var(--passe); } .geste.g-etoile { background: var(--or); } .geste.g-arguments { background: #4a5a86; }
 .garanties { font-size: .98rem; color: var(--encre-douce); }
 .source { font-size: .88rem; color: var(--encre-douce); margin-top: 24px; }
 
