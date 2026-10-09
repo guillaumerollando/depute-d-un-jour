@@ -46,7 +46,9 @@ def complements(c):
         return any(cit in canon(i["texte"]) for i in extrait["interventions"] if i.get("groupe") == groupe)
 
     if valide("pour") and valide("contre"):  # jamais un seul camp
-        sortie["arguments"] = {"pour": arg["argument_pour"], "contre": arg["argument_contre"]}
+        sortie["arguments"] = {"pour": arg["argument_pour"], "contre": arg["argument_contre"],
+                               # citations exactes, affichées anonymement pendant le jeu
+                               "citation_pour": arg["citation_pour"], "citation_contre": arg["citation_contre"]}
     return sortie
 
 SORTIE = RACINE / "app" / "public" / "data"
