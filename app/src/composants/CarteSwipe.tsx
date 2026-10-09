@@ -125,13 +125,19 @@ export function CarteSwipe({ carte, important, onImportant, onReponse }: Props) 
       {carte.arguments && (
         <div className={`arguments ${arguments_ ? 'ouverts' : ''}`}>
           <button className="btn-arguments" onClick={() => setArguments(!arguments_)} aria-expanded={arguments_}>
-            ⚖ {arguments_ ? 'Masquer les arguments' : 'Voir les arguments pour et contre'}
+            ⚖ {arguments_ ? 'Masquer les arguments' : 'Pas sûr ? Voir les arguments et ce qui s’est dit'}
           </button>
           {arguments_ && (
             <div className="arguments-corps">
-              <p className="argument pour"><span>Pour</span>{carte.arguments.pour}</p>
-              <p className="argument contre"><span>Contre</span>{carte.arguments.contre}</p>
-              <p className="note">Arguments réellement avancés dans l'hémicycle par des députés de chaque camp, reformulés.</p>
+              <div className="argument pour">
+                <span>Pour</span>{carte.arguments.pour}
+                <blockquote className="bulle">« {carte.arguments.citation_pour} »<cite>Un député ayant voté pour</cite></blockquote>
+              </div>
+              <div className="argument contre">
+                <span>Contre</span>{carte.arguments.contre}
+                <blockquote className="bulle">« {carte.arguments.citation_contre} »<cite>Un député ayant voté contre</cite></blockquote>
+              </div>
+              <p className="note">Paroles réellement prononcées dans l'hémicycle. Les groupes sont révélés à la fin, pour ne pas influencer ton vote.</p>
             </div>
           )}
         </div>

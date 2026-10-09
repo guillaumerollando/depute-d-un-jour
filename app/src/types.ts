@@ -33,7 +33,7 @@ export interface Carte {
   deputes: { p: number[]; c: number[] };
   aujourdhui?: string;
   resume_court?: string;
-  arguments?: { pour: string; contre: string };
+  arguments?: { pour: string; contre: string; citation_pour: string; citation_contre: string };
 }
 
 export interface Depute {
