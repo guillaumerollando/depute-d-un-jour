@@ -128,7 +128,7 @@ Les paires que les données ne départagent pas, parce que les groupes votent pa
 
 ## 7. Résultat
 
-**Gestes.** Swipe à droite pour **pour**, à gauche pour **contre**. Le bouton **je ne sais pas** passe la carte sans qu'elle compte. L'**étoile** fait compter une carte double.
+**Gestes.** Boutons **pour** et **contre** ; à la souris, on peut aussi glisser la carte à droite ou à gauche. Le bouton **je ne sais pas** passe la carte sans qu'elle compte. L'**étoile** fait compter une carte double.
 
 **Accord avec un groupe.** C'est la somme des poids des cartes où l'utilisateur et le groupe ont la même position, divisée par la somme des poids des cartes où tous deux ont une position. Deux groupes à moins de 10 points d'écart sont annoncés **ex aequo**.
 

@@ -11,6 +11,9 @@ interface Props {
 const date = (iso: string) =>
   new Date(iso).toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' });
 
+// Écran tactile : on touche les boutons ; à la souris, on peut aussi glisser la carte
+const tactile = typeof window !== 'undefined' && window.matchMedia?.('(pointer: coarse)').matches;
+
 export function Accueil({ donnees, reprise, onReprendre, onCommencer, onMethode }: Props) {
   return (
     <section className="ecran accueil">
@@ -24,8 +27,17 @@ export function Accueil({ donnees, reprise, onReprendre, onCommencer, onMethode 
       </p>
 
       <ol className="regles">
-        <li><span className="geste pour">→</span> <span>Glisse à droite si tu votes <strong>pour</strong></span></li>
-        <li><span className="geste contre">←</span> <span>Glisse à gauche si tu votes <strong>contre</strong></span></li>
+        {tactile ? (
+          <>
+            <li><span className="geste pour">✓</span> <span>Touche <strong>Pour</strong> si tu votes pour</span></li>
+            <li><span className="geste contre">✕</span> <span>Touche <strong>Contre</strong> si tu votes contre</span></li>
+          </>
+        ) : (
+          <>
+            <li><span className="geste pour">→</span> <span>Glisse la carte à droite ou clique <strong>Pour</strong></span></li>
+            <li><span className="geste contre">←</span> <span>Glisse la carte à gauche ou clique <strong>Contre</strong></span></li>
+          </>
+        )}
         <li><span className="geste passe">?</span> <span>Touche « Je ne sais pas » si <strong>tu n'as pas d'avis</strong></span></li>
         <li><span className="geste etoile">★</span> <span>Touche l'étoile si le sujet <strong>compte beaucoup</strong> pour toi</span></li>
         <li><span className="geste arguments">⚖</span> <span>Pas sûr ? Lis <strong>les arguments</strong> des deux camps</span></li>
