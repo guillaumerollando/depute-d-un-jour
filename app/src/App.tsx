@@ -7,13 +7,13 @@ import { Resultat } from './composants/Resultat';
 import { Methode } from './composants/Methode';
 
 type Ecran = 'accueil' | 'jeu' | 'resultat' | 'methode';
-const PARTIE = 15;
+const SERIE = 15; // nombre de votes proposés au départ
 const RALLONGE = 10;
 
-// Sauvegarde de la partie sur l'appareil : quitter la page (lien externe, rechargement) ne fait rien perdre
+// Sauvegarde des votes en cours sur l'appareil : quitter la page (lien externe, rechargement) ne fait rien perdre
 const CLE = 'depute-d-un-jour:partie';
 interface Sauvegarde { ecran: Ecran; votes: Vote[]; objectif: number; carte: string | null; date?: number }
-const DUREE_REPRISE = 7 * 24 * 60 * 60 * 1000; // une partie reste proposée à la reprise pendant 7 jours
+const DUREE_REPRISE = 7 * 24 * 60 * 60 * 1000; // des votes en cours restent proposés à la reprise pendant 7 jours
 
 function lireSauvegarde(): Sauvegarde | null {
   try { return JSON.parse(localStorage.getItem(CLE) ?? 'null'); } catch { return null; }
@@ -22,7 +22,7 @@ function ecrireSauvegarde(s: Sauvegarde) {
   try { localStorage.setItem(CLE, JSON.stringify(s)); } catch { /* stockage indisponible : tant pis */ }
 }
 
-// Cartes vues lors des parties précédentes (pour proposer autre chose la fois suivante)
+// Cartes vues lors des sessions précédentes (pour proposer autre chose la fois suivante)
 const CLE_VUES = 'depute-d-un-jour:vues';
 function lireVues(): Set<string> {
   try { return new Set(JSON.parse(localStorage.getItem(CLE_VUES) ?? '[]')); } catch { return new Set(); }
@@ -49,7 +49,7 @@ export default function App() {
   const [ecran, setEcran] = useState<Ecran>('accueil');
   const [retour, setRetour] = useState<Ecran>('accueil');
   const [votes, setVotes] = useState<Vote[]>([]);
-  const [objectif, setObjectif] = useState(PARTIE);
+  const [objectif, setObjectif] = useState(SERIE);
   const [carte, setCarte] = useState<Carte | null>(null);
   const [important, setImportant] = useState(false);
 
@@ -69,7 +69,7 @@ export default function App() {
       .catch(() => setErreur(true));
   }, []);
   useEffect(() => {
-    // Seuls la partie en cours et le résultat sont sauvegardés (l'accueil n'écrase rien)
+    // Seuls les votes en cours et le résultat sont sauvegardés (l'accueil n'écrase rien)
     if (donnees && (ecran === 'jeu' || ecran === 'resultat'))
       ecrireSauvegarde({ ecran, votes, objectif, carte: carte?.uid ?? null, date: Date.now() });
   }, [donnees, ecran, votes, objectif, carte]);
@@ -94,7 +94,7 @@ export default function App() {
   const commencer = () => {
     setReprise(null);
     setVotes([]);
-    setObjectif(PARTIE);
+    setObjectif(SERIE);
     setImportant(false);
     setCarte(carteSuivante(donnees, [], lireVues()));
     setEcran('jeu');
