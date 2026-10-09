@@ -1,5 +1,5 @@
 import { useMemo, useState } from 'react';
-import type { Carte, Donnees, Vote } from '../types';
+import type { Carte, Donnees, Groupe, Vote } from '../types';
 import { deputeJumeau, paliers, scores } from '../score';
 import { Hemicycle } from './Hemicycle';
 
@@ -27,14 +27,15 @@ export function Resultat({ donnees, votes, onContinuer, onRecommencer, onMethode
   const derniers = niveaux.length > 1 ? niveaux[niveaux.length - 1] : [];
   const proches = new Set(premiers.map((s) => s.groupe.id));
   const [copie, setCopie] = useState(false);
+  const [ouvert, setOuvert] = useState<string | null>(null);
 
+  // On partage le test, jamais le résultat : chacun garde ses positions pour lui
   const partager = async () => {
-    const texte =
-      `Député d'un jour : sur ${repondus} votes réels de l'Assemblée, j'ai voté comme ` +
-      `${listeNoms(premiers.map((s) => s.groupe.sigle))} dans ${premiers[0]?.pourcentage ?? 0} % des cas. Et toi ?`;
+    const texte = "Député d'un jour : vote sur de vrais textes de l'Assemblée nationale et découvre de quels groupes tu es le plus proche.";
+    const url = `${location.origin}${import.meta.env.BASE_URL}`;
     try {
-      if (navigator.share) await navigator.share({ title: "Député d'un jour", text: texte, url: location.href });
-      else { await navigator.clipboard.writeText(`${texte} ${location.href}`); setCopie(true); }
+      if (navigator.share) await navigator.share({ title: "Député d'un jour", text: texte, url });
+      else { await navigator.clipboard.writeText(`${texte} ${url}`); setCopie(true); }
     } catch { /* partage annulé */ }
   };
 
@@ -70,24 +71,33 @@ export function Resultat({ donnees, votes, onContinuer, onRecommencer, onMethode
       <h2>Ton accord avec chaque groupe</h2>
       <ol className="classement">
         {liste.map((s) => (
-          <li key={s.groupe.id}>
-            <span className="pastille" style={{ background: s.groupe.couleur }} />
-            <span className="nom-groupe">
-              <strong>{s.groupe.sigle}</strong> <small>{s.groupe.nom}</small>
-            </span>
-            <span className="barre">
-              <span style={{ width: `${s.pourcentage ?? 0}%`, background: s.groupe.couleur }} />
-            </span>
-            <span className="valeur">
-              {s.pourcentage === null ? '—' : `${s.pourcentage} %`}
-              <small>{s.cartes} carte{s.cartes > 1 ? 's' : ''}</small>
-            </span>
+          <li key={s.groupe.id} className={ouvert === s.groupe.id ? 'ouvert' : ''}>
+            <button
+              className="ligne-groupe"
+              onClick={() => setOuvert(ouvert === s.groupe.id ? null : s.groupe.id)}
+              aria-expanded={ouvert === s.groupe.id}
+              disabled={s.pourcentage === null}
+            >
+              <span className="pastille" style={{ background: s.groupe.couleur }} />
+              <span className="nom-groupe">
+                <strong>{s.groupe.sigle}</strong> <small>{s.groupe.nom}</small>
+              </span>
+              <span className="barre">
+                <span style={{ width: `${s.pourcentage ?? 0}%`, background: s.groupe.couleur }} />
+              </span>
+              <span className="valeur">
+                {s.pourcentage === null ? '—' : `${s.pourcentage} %`}
+                <small>{s.cartes} carte{s.cartes > 1 ? 's' : ''}</small>
+              </span>
+              {s.pourcentage !== null && <span className="chevron">{ouvert === s.groupe.id ? '−' : '+'}</span>}
+            </button>
+            {ouvert === s.groupe.id && <Desaccords groupe={s.groupe} votes={votes} index={index} />}
           </li>
         ))}
       </ol>
       <p className="note">
         Pourcentage de cartes où ce groupe a voté comme toi, parmi celles où il avait une position claire.
-        Les cartes marquées d'une étoile comptent double.
+        Les cartes marquées d'une étoile comptent double. Touche un groupe pour voir où vous n'avez pas voté pareil.
       </p>
 
       {jumeau && (
@@ -103,7 +113,7 @@ export function Resultat({ donnees, votes, onContinuer, onRecommencer, onMethode
 
       <div className="actions">
         {onContinuer && <button className="btn-principal" onClick={onContinuer}>Affiner avec 10 votes de plus</button>}
-        <button className="btn-secondaire" onClick={partager}>{copie ? 'Lien copié !' : 'Partager'}</button>
+        <button className="btn-secondaire" onClick={partager}>{copie ? 'Lien copié !' : 'Partager le test'}</button>
         <button className="btn-secondaire" onClick={onRecommencer}>Recommencer</button>
       </div>
 
@@ -121,6 +131,35 @@ export function Resultat({ donnees, votes, onContinuer, onRecommencer, onMethode
         <button className="lien" onClick={onMethode}>Comment c'est calculé ?</button>
       </p>
     </section>
+  );
+}
+
+/** Les cartes où le groupe a voté autrement que toi */
+function Desaccords({ groupe, votes, index }: { groupe: Groupe; votes: Vote[]; index: Map<string, Carte> }) {
+  const comparables = votes.filter((v) => v.reponse !== 'passe' && index.get(v.uid)?.positions[groupe.id]);
+  const differents = comparables.filter((v) => index.get(v.uid)!.positions[groupe.id] !== v.reponse);
+  if (!differents.length)
+    return <p className="desaccords-vide">Le groupe {groupe.sigle} a voté comme toi sur toutes vos cartes communes.</p>;
+  return (
+    <div className="desaccords">
+      <p className="note">
+        Pas le même vote sur {differents.length} carte{differents.length > 1 ? 's' : ''} sur {comparables.length} :
+      </p>
+      <ul>
+        {differents.map((v) => {
+          const c = index.get(v.uid)!;
+          return (
+            <li key={v.uid}>
+              <span className="desaccord-titre">{c.titre}{v.important ? ' ★' : ''}</span>
+              <span className="desaccord-votes">
+                Toi : <strong className={v.reponse}>{REPONSES[v.reponse]}</strong> · {groupe.sigle} :{' '}
+                <strong className={c.positions[groupe.id]}>{REPONSES[c.positions[groupe.id]]}</strong>
+              </span>
+            </li>
+          );
+        })}
+      </ul>
+    </div>
   );
 }
 
