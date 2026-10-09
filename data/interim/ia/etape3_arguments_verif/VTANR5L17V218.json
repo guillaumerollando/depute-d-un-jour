@@ -1,0 +1,13 @@
+{
+  "uid": "VTANR5L17V218",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "argument_pour traduit « inconventionnel » par « engagements européens » : il s'agit des conventions internationales.",
+    "argument_contre ajoute « les expulser protège les Français », absent de la citation."
+  ],
+  "corrections": {
+    "argument_pour": "Cet article serait contraire à la Constitution et aux conventions internationales signées par la France, notamment parce qu'il viserait aussi des mineurs.",
+    "argument_contre": "Rien ne justifie de garder en France des étrangers qui ont enfreint la loi, fait des victimes, commis des délits graves, voire des crimes."
+  }
+}

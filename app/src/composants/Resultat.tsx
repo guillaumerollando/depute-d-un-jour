@@ -152,7 +152,14 @@ function DetailVote({ carte, vote, donnees }: { carte: Carte; vote: Vote; donnee
       </div>
       {ouvert && (
         <div className="detail-corps">
+          {carte.aujourdhui && <p className="aujourdhui"><strong>Aujourd'hui</strong> {carte.aujourdhui}</p>}
           <p>{carte.ce_que_ca_change}</p>
+          {carte.arguments && (
+            <div className="arguments-corps">
+              <p className="argument pour"><span>Pour</span>{carte.arguments.pour}</p>
+              <p className="argument contre"><span>Contre</span>{carte.arguments.contre}</p>
+            </div>
+          )}
           <p className="carte-contexte">
             {carte.contexte} Résultat à l'Assemblée : <strong>{carte.resultat === 'adopté' ? 'adopté' : 'rejeté'}</strong>.
           </p>

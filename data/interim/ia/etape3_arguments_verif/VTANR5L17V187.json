@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V187",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "argument_pour ajoute que les crédits de l'hôpital « ne suffisent déjà pas aux besoins de soins », ce que la citation ne dit pas."
+  ],
+  "corrections": {
+    "argument_pour": "Le coût de cette hausse de cotisation retraite ne doit pas être pris sur les crédits destinés à l'hôpital."
+  }
+}

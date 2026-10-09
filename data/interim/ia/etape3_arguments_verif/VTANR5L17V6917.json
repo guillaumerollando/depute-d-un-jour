@@ -1,0 +1,10 @@
+{
+  "uid": "VTANR5L17V6917",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "sans_arguments",
+  "problemes": [
+    "Aucune intervention d'un groupe du camp contre (RN, EPR, ECOS, HOR) dans l'extrait : équilibre impossible, arguments à null.",
+    "aujourdhui et resume_court conformes à l'exposé et à ce_que_ca_change."
+  ],
+  "corrections": {}
+}

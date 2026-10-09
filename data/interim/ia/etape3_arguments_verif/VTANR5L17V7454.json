@@ -1,0 +1,13 @@
+{
+  "uid": "VTANR5L17V7454",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "Déséquilibre : l'argument pour porte sur le fond (confiance, spécificités, pas de séparation), l'argument contre sur une question de méthode (consultation sur le principe). Remplacé par l'argument de fond du même orateur sur la notion de « communauté » inscrite dans la Constitution, qui répond directement à l'argument pour."
+  ],
+  "corrections": {
+    "argument_contre": "Mentionner une « communauté » corse dans la Constitution serait inutile, ou créerait une catégorie à part au sein du peuple français.",
+    "groupe_contre": "UDR",
+    "citation_contre": "Mais soit cette communauté désigne tous les habitants, et alors la mention ne sert à rien car ils sont déjà des citoyens français comme les autres ; soit elle désigne autre chose, et alors elle crée dans notre loi suprême une catégorie à part au sein du peuple français."
+  }
+}

@@ -97,6 +97,13 @@ Elle ne contient ni nom de parti, ni argument, ni adjectif de jugement, ni infor
 
 **Français clair.** Une troisième IA reformule chaque carte pour qu'elle se lise du premier coup (phrases courtes, ordre naturel, jargon expliqué), selon [`consignes/etape3_clarte.md`](consignes/etape3_clarte.md). Une quatrième IA, indépendante, compare l'ancienne et la nouvelle version ([`consignes/etape3_equivalence.md`](consignes/etape3_equivalence.md)). La reformulation n'est retenue que si elle dit exactement la même chose : même sens, mêmes chiffres, même portée.
 
+**Situation actuelle, résumé court et arguments.** Selon [`consignes/etape3_arguments.md`](consignes/etape3_arguments.md), chaque carte reçoit trois compléments :
+- une phrase « Aujourd'hui » sur la situation avant la mesure ;
+- un résumé court ;
+- quand c'est possible, **l'argument principal de chaque camp**.
+
+Chaque argument reformule une intervention **réellement prononcée** dans l'hémicycle par un député d'un groupe ayant voté dans ce sens. La citation exacte est conservée, et un contrôle automatique vérifie qu'elle figure mot pour mot dans les paroles d'un groupe du bon camp. Une seconde IA vérifie l'exactitude et l'**équilibre** des deux arguments ([`consignes/etape3_arguments_verification.md`](consignes/etape3_arguments_verification.md)). Si l'un des deux camps n'a avancé aucun argument de fond dans le débat, la carte n'affiche aucun argument : on ne présente jamais un seul camp. Les arguments restent derrière un bouton et ne comptent pas dans le score.
+
 **Cartes écartées :**
 - les cartes trop techniques ;
 - celles dont le contenu voté ne peut pas être établi (c'est le cas de certains textes rejetés) ;

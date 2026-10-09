@@ -1,0 +1,12 @@
+{
+  "uid": "VTANR5L17V4720",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "sans_arguments",
+  "problemes": [
+    "Le camp pour n'avance aucun argument de fond venant d'un groupe (le rapporteur n'a pas de groupe ; l'intervention du camp pour est une formule polémique) : arguments à null.",
+    "aujourdhui : « les chiffres viennent surtout de l'Insee » n'est pas dans les sources ; le rapporteur cite l'Insee et la Drees et dit que des statistiques précises sont difficiles à obtenir."
+  ],
+  "corrections": {
+    "aujourdhui": "Aucun observatoire national du sans-abrisme n'existe ; l'Insee et la Drees fournissent des chiffres, mais des statistiques précises restent difficiles à obtenir."
+  }
+}

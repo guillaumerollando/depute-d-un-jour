@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V840",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "aujourdhui affirme que l'expérimentation « a pris fin le 31 décembre 2024 » ; les sources disent seulement qu'elle était prévue jusqu'à cette date (et le texte la prolonge pour les concours ouverts depuis le 1er août 2024)."
+  ],
+  "corrections": {
+    "aujourdhui": "Depuis 2021, une expérimentation réserve des places de concours à des étudiants de milieux modestes passés par une prépa « talents ». Elle était prévue jusqu'à fin 2024."
+  }
+}

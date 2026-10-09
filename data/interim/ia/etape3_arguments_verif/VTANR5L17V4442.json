@@ -1,0 +1,13 @@
+{
+  "uid": "VTANR5L17V4442",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "argument_contre : les exemples « emploi et recherche » ne figurent pas dans la citation. Citation étendue à la phrase suivante (crédits Travail et emploi) et argument ajusté."
+  ],
+  "corrections": {
+    "argument_contre": "Annuler des milliards d'euros de crédits, comme ceux du travail et de l'emploi, prive l'économie de moyens qui lui seraient utiles.",
+    "groupe_contre": "GDR",
+    "citation_contre": "en annulant plus de 7 milliards d’euros de crédits qui auraient été bien utiles à notre économie. Je pense aux crédits de la mission Travail et emploi – sujet qui tient à cœur à beaucoup d’entre vous –, drastiquement baissés cette année"
+  }
+}

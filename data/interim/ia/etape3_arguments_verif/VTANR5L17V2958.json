@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V2958",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "resume_court : la catégorie « très menaçants pour l'ordre public » est rattachée à tort aux condamnés, et la prise forcée des empreintes omet sa condition (refus du retenu), ce qui durcit la portée."
+  ],
+  "corrections": {
+    "resume_court": "Les étrangers condamnés pour des faits graves, ou très menaçants pour l'ordre public, pourraient être retenus jusqu'à 210 jours avant expulsion. S'ils refusent, empreintes et photo pourraient être prises de force."
+  }
+}

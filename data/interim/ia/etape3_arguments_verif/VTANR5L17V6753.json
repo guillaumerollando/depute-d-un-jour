@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V6753",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "argument_contre : « sans accord » ne figure pas dans la citation, et « laisser d'abord les élections se tenir » est ambigu (ces élections sont celles visées par le texte). Reformulé fidèlement : tenir les élections pour redonner une légitimité aux élus."
+  ],
+  "corrections": {
+    "argument_contre": "Toucher maintenant au corps électoral risque d'attiser les tensions ; mieux vaut tenir les élections pour redonner une légitimité aux élus."
+  }
+}

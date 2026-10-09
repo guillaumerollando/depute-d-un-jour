@@ -1,0 +1,9 @@
+{
+  "uid": "VTANR5L17V1900",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "sans_arguments",
+  "problemes": [
+    "Aucune intervention du camp contre ne porte sur le fond de l'amendement (l'intervention citée traite d'une liste de médecins volontaires) : arguments laissés à null à juste titre."
+  ],
+  "corrections": {}
+}

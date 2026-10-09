@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V4707",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "resume_court : omet « sauf dispense », ce qui durcit l'obligation d'adhésion, et la tournure « au moins la moitié, au plus tard dès 2029 » est ambiguë."
+  ],
+  "corrections": {
+    "resume_court": "Si leur commune ou département signe un contrat d'assurance collectif (arrêt, invalidité, décès), les agents devront y adhérer, sauf dispense. L'employeur paiera au moins la moitié. Au plus tard en 2029."
+  }
+}

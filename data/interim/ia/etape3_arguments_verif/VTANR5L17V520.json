@@ -1,0 +1,9 @@
+{
+  "uid": "VTANR5L17V520",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "sans_arguments",
+  "problemes": [
+    "Le camp contre ne s'exprime que par le rapporteur (hors groupe) et par une question de procédure : aucun argument de fond d'un groupe contre, arguments laissés à null à juste titre."
+  ],
+  "corrections": {}
+}

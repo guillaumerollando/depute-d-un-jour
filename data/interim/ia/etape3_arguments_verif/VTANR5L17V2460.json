@@ -1,0 +1,13 @@
+{
+  "uid": "VTANR5L17V2460",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "Déséquilibre : l'argument pour ne fait que constater des émissions difficiles à éviter, sans dire pourquoi le stockage du CO2 est utile, alors que l'argument contre vise directement le stockage. Nouvelle citation du même orateur, qui relie le constat au stockage."
+  ],
+  "corrections": {
+    "argument_pour": "La sobriété et l'électrification ne suffisent pas pour les émissions restantes : capter et stocker le CO2 permet de les traiter.",
+    "groupe_pour": "HOR",
+    "citation_pour": "nous devons activer tous les leviers : la sobriété, l’électrification, la préservation des puits naturels sont essentielles, mais ne suffisent pas à traiter les émissions résiduelles. C’est là que le procédé de captage et de stockage du carbone prend tout son sens."
+  }
+}

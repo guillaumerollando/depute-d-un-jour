@@ -1,0 +1,13 @@
+{
+  "uid": "VTANR5L17V4453",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "argument_contre ajoute le creusement du déficit des hôpitaux, absent de la citation (qui porte sur l'utilité des hausses et baisses de dépenses).",
+    "resume_court restreint le déficit à « la retraite, la maladie et la famille » alors que ce_que_ca_change parle des régimes de base, qui couvrent « notamment » ces risques."
+  ],
+  "corrections": {
+    "resume_court": "Cette partie corrige les prévisions de recettes et de dépenses de la Sécurité sociale pour 2025. Elle fixe le déficit des régimes de base (retraite, maladie, famille…) à environ 23 milliards d'euros.",
+    "argument_contre": "Ces comptes alignent des chiffres sans dire s'ils répondent aux besoins : ces hausses et ces baisses de dépenses ne semblent pas utiles."
+  }
+}

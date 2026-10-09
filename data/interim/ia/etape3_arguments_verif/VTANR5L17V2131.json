@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V2131",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "argument_contre ajoute « il faut revoir l'objectif avec les élus locaux, pas le supprimer », qui ne figure pas dans la citation (phrase ultérieure, séparée par une interruption)."
+  ],
+  "corrections": {
+    "argument_contre": "Bétonner les sols menace le potentiel agricole de la France, qui repose sur ses 28 millions d'hectares de terres agricoles."
+  }
+}

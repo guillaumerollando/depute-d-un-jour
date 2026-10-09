@@ -1,0 +1,12 @@
+{
+  "uid": "VTANR5L17V3142",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "sans_arguments",
+  "problemes": [
+    "Aucune intervention dans l'extrait du débat : arguments à null.",
+    "aujourdhui : « s'applique aux bénéfices … à 20,6 % ou 41,2 % » laisse croire à un prélèvement de 20,6 % ou 41,2 % des bénéfices ; les sources donnent le taux de la contribution, selon la taille de l'entreprise."
+  ],
+  "corrections": {
+    "aujourdhui": "En 2025, les entreprises ayant au moins 1 milliard d'euros de chiffre d'affaires en France paient une contribution exceptionnelle, au taux de 20,6 % ou 41,2 % selon leur taille."
+  }
+}

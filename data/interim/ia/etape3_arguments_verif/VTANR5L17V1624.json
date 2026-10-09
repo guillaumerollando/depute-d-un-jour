@@ -1,0 +1,12 @@
+{
+  "uid": "VTANR5L17V1624",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "resume_court affaiblit la portée : omet « ou plusieurs délits » (ce_que_ca_change : un crime ou plusieurs délits).",
+    "resume_court durcit la portée : « perdraient la réduction de peine » alors que ce_que_ca_change dit seulement que la peine ne serait plus réduite par principe."
+  ],
+  "corrections": {
+    "resume_court": "Un parent dont les manquements mènent son enfant à un crime ou plusieurs délits risquerait 3 ans de prison. Un mineur dès 16 ans pourrait être jugé vite ; certains récidivistes n'auraient plus d'office de peine réduite."
+  }
+}

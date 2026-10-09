@@ -1,0 +1,10 @@
+{
+  "uid": "VTANR5L17V8609",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "sans_arguments",
+  "problemes": [
+    "Aucune intervention dans l'extrait du débat : arguments à null.",
+    "aujourdhui tiré de l'exposé des motifs, resume_court conforme."
+  ],
+  "corrections": {}
+}
