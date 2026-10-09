@@ -57,6 +57,8 @@ export function CarteSwipe({ carte, important, onImportant, onReponse }: Props) 
   });
 
   const onDown = (e: React.PointerEvent) => {
+    // Sur écran tactile, le doigt sert à faire défiler la carte : le glissement n'est actif qu'à la souris
+    if (e.pointerType !== 'mouse') return;
     if ((e.target as HTMLElement).closest('a,button')) return;
     depart.current = { x: e.clientX, y: e.clientY };
     (e.currentTarget as HTMLElement).setPointerCapture(e.pointerId);
@@ -87,7 +89,7 @@ export function CarteSwipe({ carte, important, onImportant, onReponse }: Props) 
   return (
     <div className="zone-carte">
       <article
-        className={`carte ${indice ? 'indice-' + indice : ''}`}
+        className={`carte entree ${indice ? 'indice-' + indice : ''}`}
         style={{ transform, transition: depart.current ? 'none' : 'transform .22s ease' }}
         onPointerDown={onDown}
         onPointerMove={onMove}

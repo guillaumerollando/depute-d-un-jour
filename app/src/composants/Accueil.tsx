@@ -1,7 +1,9 @@
-import type { Donnees } from '../types';
+import type { Donnees, Vote } from '../types';
 
 interface Props {
   donnees: Donnees;
+  reprise: { ecran: string; votes: Vote[]; objectif: number } | null;
+  onReprendre: () => void;
   onCommencer: () => void;
   onMethode: () => void;
 }
@@ -9,7 +11,7 @@ interface Props {
 const date = (iso: string) =>
   new Date(iso).toLocaleDateString('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' });
 
-export function Accueil({ donnees, onCommencer, onMethode }: Props) {
+export function Accueil({ donnees, reprise, onReprendre, onCommencer, onMethode }: Props) {
   return (
     <section className="ecran accueil">
       <div className="logo" aria-hidden="true">
@@ -29,7 +31,18 @@ export function Accueil({ donnees, onCommencer, onMethode }: Props) {
         <li><span className="geste arguments">⚖</span> <span>Pas sûr ? Lis <strong>les arguments</strong> des deux camps</span></li>
       </ol>
 
-      <button className="btn-principal grand" onClick={onCommencer}>Commencer · 15 votes</button>
+      {reprise ? (
+        <div className="reprise">
+          <button className="btn-principal grand" onClick={onReprendre}>
+            {reprise.ecran === 'jeu'
+              ? `Reprendre ma partie · ${reprise.votes.length}/${reprise.objectif}`
+              : 'Revoir mon dernier résultat'}
+          </button>
+          <button className="btn-secondaire grand" onClick={onCommencer}>Nouvelle partie · 15 votes</button>
+        </div>
+      ) : (
+        <button className="btn-principal grand" onClick={onCommencer}>Commencer · 15 votes</button>
+      )}
 
       <p className="garanties">
         Aucun compte, aucune donnée collectée : tout se passe sur ton téléphone.
