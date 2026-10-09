@@ -39,8 +39,8 @@ export function Accueil({ donnees, reprise, onReprendre, onCommencer, onMethode 
           </>
         )}
         <li><span className="geste passe">?</span> <span>Touche « Je ne sais pas » si <strong>tu n'as pas d'avis</strong></span></li>
-        <li><span className="geste etoile">★</span> <span>Touche l'étoile si le sujet <strong>compte beaucoup</strong> pour toi</span></li>
-        <li><span className="geste arguments">⚖</span> <span>Pas sûr ? Lis <strong>les arguments</strong> des deux camps</span></li>
+        <li><span className="geste g-etoile">★</span> <span>Touche l'étoile si le sujet <strong>compte beaucoup</strong> pour toi</span></li>
+        <li><span className="geste g-arguments">⚖</span> <span>Pas sûr ? Lis <strong>les arguments</strong> des deux camps</span></li>
       </ol>
 
       {reprise ? (
