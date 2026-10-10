@@ -1,0 +1,8 @@
+{
+  "uid": "VTANR5L17V3300",
+  "consigne": "etape3_equivalence v1",
+  "verdict": "different",
+  "ecarts": [
+    "L'ancienne version disait « Sans les exonérations des droits de succession », c'est-à-dire pour le calcul de cet impôt. La nouvelle dit « Les exonérations des droits de succession ne s'appliqueraient pas », sans préciser à quoi. On peut lire que ces exonérations seraient supprimées pour les successions elles-mêmes. Or le dispositif dit seulement qu'elles « ne s'appliquent pas à l'impôt plancher sur la fortune » : la portée de la règle change."
+  ]
+}

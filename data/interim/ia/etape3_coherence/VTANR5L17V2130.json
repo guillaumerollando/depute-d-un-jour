@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V2130",
+  "consigne": "etape3_coherence v2",
+  "modifie": true,
+  "problemes": [
+    "Le titre parle de « limitation de l'urbanisation », le résumé, la situation actuelle et la source parlent de réduction de l'artificialisation (règle « zéro artificialisation nette »)."
+  ],
+  "corrections": {
+    "titre": "Supprimer la marge de 30 % sur les objectifs locaux de réduction de l'artificialisation"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "uid": "VTANR5L17V851",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "resume_court : « les analyses ne seraient plus rendues publiques » durcit la portée. L'article 2 bis, encore en discussion, crée une obligation de publier le programme d'analyse et des bilans ; sa suppression retire cette obligation, sans établir que les analyses deviendraient secrètes.",
+    "aujourdhui exact (l'article 1er du texte inclut les PFAS dans le contrôle sanitaire des eaux potables). Arguments conformes : citations exactes (UDR pour, DEM contre), de fond, équilibrés."
+  ],
+  "corrections": {
+    "resume_court": "Le texte n'obligerait plus les agences régionales de santé à publier leur programme d'analyse des PFAS dans l'eau du robinet et en bouteille, ni de bilan régional et national chaque année."
+  }
+}

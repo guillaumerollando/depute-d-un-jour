@@ -6,6 +6,7 @@
   "type": "ensemble",
   "votants": 569,
   "socle": true,
+  "solennel": true,
   "theme": "Santé et protection sociale",
   "titre": "Adopter le budget de la Sécurité sociale pour 2026",
   "ce_que_ca_change": "Le texte fixe les dépenses de la Sécurité sociale pour 2026, dont 274,4 milliards d'euros pour l'assurance maladie. Il crée un congé de naissance indemnisé d'un ou deux mois, après le congé maternité, paternité ou adoption. Il freine la hausse de l'âge de retraite prévue en 2023. Cet âge serait de 62 ans et 9 mois pour les nés de 1963 à mars 1965. Il passerait à 63 ans et 9 mois pour ceux de 1968.",
@@ -138,6 +139,7 @@
   "type": "ensemble",
   "votants": 564,
   "socle": true,
+  "solennel": true,
   "theme": "Agriculture et alimentation",
   "titre": "Adopter la loi assouplissant plusieurs règles du métier d'agriculteur",
   "ce_que_ca_change": "Un décret pourrait, à titre exceptionnel, autoriser des insecticides interdits, les néonicotinoïdes. Il faudrait une menace grave pour une culture, sans autre solution. Dans les zones qui manquent d'eau, les réserves d'eau agricoles seraient présumées d'intérêt général majeur. Certaines consultations du public sur les projets d'élevage seraient allégées.",
@@ -272,6 +274,7 @@
   "type": "ensemble",
   "votants": 561,
   "socle": true,
+  "solennel": true,
   "theme": "Agriculture et alimentation",
   "titre": "Adopter la loi d'urgence agricole sur les pesticides, l'eau et les importations",
   "ce_que_ca_change": "L'agence sanitaire nationale pourra autoriser deux pesticides interdits, sans autre solution, pour betteraves, cerises, pommes et noisettes. Ce sera pour un an, renouvelable deux fois. L'État vise à doubler le stockage d'eau agricole d'ici 2035. Le ministre suspendra ou encadrera l'importation d'aliments avec des résidus de substances retirées dans l'UE pour la santé ou l'environnement.",
@@ -394,6 +397,7 @@
   "type": "ensemble",
   "votants": 561,
   "socle": true,
+  "solennel": true,
   "theme": "Société et éthique",
   "titre": "Créer un droit à l'aide à mourir pour les malades en phase avancée ou terminale",
   "ce_que_ca_change": "Un adulte français ou résidant en France pourrait demander une substance mortelle. Il doit avoir une maladie grave et incurable, en phase avancée ou terminale. Il souffre malgré les traitements, ou de façon insupportable s'il les refuse. Il la prend seul ou, s'il ne peut pas, un médecin ou un infirmier la lui donne. Un médecin décide après avis d'autres soignants. Les soignants peuvent refuser.",
@@ -515,6 +519,7 @@
   "type": "ensemble",
   "votants": 537,
   "socle": true,
+  "solennel": true,
   "theme": "Sécurité et justice",
   "titre": "Adopter la loi sur les réponses rapides aux troubles à l'ordre public",
   "ce_que_ca_change": "Les fêtes musicales de plus de 250 personnes devront être déclarées. L'expulsion rapide des squats s'étendra aux locaux professionnels, commerciaux ou agricoles. L'amende fixe pour usage de drogue passera de 200 à 500 euros. Les particuliers ne pourront pas détenir de protoxyde d'azote (gaz hilarant) au-delà d'un seuil. Des appareils pourront photographier les véhicules et leurs occupants.",
@@ -660,6 +665,7 @@
   "type": "ensemble",
   "votants": 537,
   "socle": true,
+  "solennel": true,
   "theme": "Territoires et outre-mer",
   "titre": "Inscrire dans la Constitution un statut d'autonomie pour la Corse",
   "ce_que_ca_change": "Le texte ajoute à la Constitution un article qui donne à la Corse un statut d'autonomie dans la République. La Collectivité de Corse pourrait être autorisée à adapter des lois et règlements. Elle pourrait fixer ses propres règles dans ses domaines. Une loi organique, qui précise la Constitution, en fixerait les limites. Les électeurs de Corse seraient consultés sur le projet de statut.",
@@ -789,6 +795,7 @@
   "type": "ensemble",
   "votants": 536,
   "socle": true,
+  "solennel": true,
   "theme": "Sécurité et justice",
   "titre": "Renforcer les sanctions envers les mineurs délinquants et leurs parents",
   "ce_que_ca_change": "Un parent qui manque à ses obligations risquerait 3 ans de prison et 45 000 euros d'amende. Cela vaut si ce manquement mène son enfant à commettre un crime ou plusieurs délits. Un mineur d'au moins 16 ans pourrait être jugé en procès rapide, le jour même ou sous cinq jours. Pour certaines récidives graves, la peine ne serait plus réduite, par principe, en raison de l'âge.",
@@ -913,6 +920,7 @@
   "type": "ensemble",
   "votants": 535,
   "socle": true,
+  "solennel": true,
   "theme": "Territoires et outre-mer",
   "titre": "Reporter au plus tard au 28 juin 2026 les élections provinciales en Nouvelle-Calédonie",
   "ce_que_ca_change": "La Nouvelle-Calédonie élit son congrès et ses assemblées de province, les assemblées élues du territoire. Ces élections, prévues au plus tard le 30 novembre 2025, auraient lieu au plus tard le 28 juin 2026. Les élus actuels resteraient en fonction jusque-là. Le report est présenté comme destiné à poursuivre les discussions en vue d'un accord sur l'avenir institutionnel du territoire.",
@@ -1042,6 +1050,7 @@
   "type": "ensemble",
   "votants": 533,
   "socle": true,
+  "solennel": true,
   "theme": "Sécurité et justice",
   "titre": "Adopter la loi renforçant la prévention du terrorisme et la rétention des étrangers",
   "ce_que_ca_change": "Le préfet pourrait imposer un examen psychiatrique à une personne très menaçante. La menace viendrait de thèses terroristes qu'elle partage et de possibles troubles mentaux. Après leur peine, des condamnés pour terrorisme très dangereux pourraient être placés en centre avec suivi médical. Des étrangers condamnés pour des faits graves pourraient être retenus jusqu'à 540 jours, en plusieurs fois.",
@@ -1182,6 +1191,7 @@
   "type": "ensemble",
   "votants": 531,
   "socle": true,
+  "solennel": true,
   "theme": "Agriculture et alimentation",
   "titre": "Adopter la loi agricole sur la souveraineté alimentaire et l'installation des agriculteurs",
   "ce_que_ca_change": "Le texte déclare l'agriculture et la pêche d'« intérêt général majeur » pour la souveraineté alimentaire. Il crée un réseau « France services agriculture » pour aider à s'installer et à transmettre les fermes. Détruire une haie demande une seule déclaration. Certaines atteintes involontaires à la nature ne vont plus en justice. Elles sont punies d'une amende de l'administration ou d'un stage.",
@@ -1317,6 +1327,7 @@
   "type": "ensemble",
   "votants": 530,
   "socle": true,
+  "solennel": true,
   "theme": "Économie et impôts",
   "titre": "Adopter la loi de simplification de la vie économique",
   "ce_que_ca_change": "Le texte supprime les zones à faibles émissions (ZFE), où la circulation de certains véhicules peut être limitée. Des centres de données pourraient être classés projets d'intérêt national majeur. Certains grands projets industriels pourraient ne pas compter dans la limite de consommation d'espaces naturels et agricoles. Le texte supprime aussi une vingtaine de comités administratifs.",
@@ -1430,6 +1441,7 @@
   "type": "ensemble",
   "votants": 527,
   "socle": true,
+  "solennel": true,
   "theme": "Territoires et outre-mer",
   "titre": "Adopter le plan de reconstruction et de refondation de Mayotte",
   "ce_que_ca_change": "Le texte programme les investissements de l'État à Mayotte de 2025 à 2031. Il prévoit 730 millions d'euros pour l'eau et le traitement des eaux usées. Il rend plus strictes les conditions pour obtenir un titre de séjour sur l'île. Il facilite la démolition des habitations construites sans droit. Il change aussi le fonctionnement des institutions locales.",
@@ -1553,6 +1565,7 @@
   "type": "ensemble",
   "votants": 524,
   "socle": true,
+  "solennel": true,
   "theme": "Immigration et nationalité",
   "titre": "Rendre plus strictes les conditions pour devenir français des enfants nés à Mayotte",
   "ce_que_ca_change": "Un enfant né à Mayotte peut devenir français par le droit du sol. Jusqu'ici, un seul parent devait y vivre en situation régulière depuis trois mois à sa naissance. Il faudrait désormais que les deux parents y vivent en situation régulière depuis au moins un an à la naissance. Si un seul parent est connu, cela vaut pour lui. La preuve : un titre de séjour et un passeport biométrique.",
@@ -1688,6 +1701,7 @@
   "type": "ensemble",
   "votants": 522,
   "socle": true,
+  "solennel": true,
   "theme": "Santé et protection sociale",
   "titre": "Renforcer les contrôles et les sanctions contre les fraudes sociales et fiscales",
   "ce_que_ca_change": "Les administrations des impôts et de la protection sociale pourraient mieux partager leurs informations. Leurs pouvoirs de contrôle et les sanctions seraient renforcés. Par exemple, un arrêt de travail ne pourrait plus être renouvelé lors d'une consultation médicale à distance. France Travail pourrait suspendre une allocation chômage jusqu'à trois mois en cas d'indices sérieux de fraude.",
@@ -1817,6 +1831,7 @@
   "type": "ensemble",
   "votants": 517,
   "socle": true,
+  "solennel": true,
   "theme": "Sécurité et justice",
   "titre": "Présumer la légitime défense des policiers et gendarmes qui font usage de leur arme",
   "ce_que_ca_change": "Quand un policier ou un gendarme utilise son arme, la loi suppose qu'il l'a fait dans un cas autorisé. Elle suppose aussi qu'il y avait une nécessité absolue et qu'il a agi de façon strictement proportionnée. Une preuve contraire peut toujours renverser cette présomption. Le texte réécrit aussi un cas : tirer pour empêcher que se répètent un ou plusieurs meurtres qui viennent d'être commis.",
@@ -1926,6 +1941,7 @@
   "type": "ensemble",
   "votants": 516,
   "socle": true,
+  "solennel": true,
   "theme": "Territoires et outre-mer",
   "titre": "Permettre aux personnes nées en Nouvelle-Calédonie de voter aux élections provinciales",
   "ce_que_ca_change": "En Nouvelle-Calédonie, seuls les électeurs inscrits sur une liste spéciale élisent le congrès et les assemblées de province. Ce sont les assemblées élues du territoire. Le texte ajoute à cette liste les personnes nées en Nouvelle-Calédonie et inscrites sur la liste électorale générale.",
@@ -2071,6 +2087,7 @@
   "type": "ensemble",
   "votants": 514,
   "socle": true,
+  "solennel": true,
   "theme": "Économie et impôts",
   "titre": "Adopter la loi qui ajuste le budget de l'État en fin d'année 2025",
   "ce_que_ca_change": "Le texte révise les recettes et les dépenses de l'État pour 2025. Il autorise environ 3,2 milliards d'euros de dépenses en plus et en annule environ 10,3 milliards. Le déficit à financer est évalué à 131,6 milliards d'euros. Le nombre maximal d'emplois de l'État passe de 402 489 à 402 812 postes.",
@@ -2194,6 +2211,7 @@
   "type": "ensemble",
   "votants": 508,
   "socle": true,
+  "solennel": true,
   "theme": "Société et éthique",
   "titre": "Adopter la loi d'organisation des Jeux olympiques et paralympiques d'hiver de 2030",
   "ce_que_ca_change": "Le texte prévoit des règles spéciales pour les Jeux de 2030. Le public serait consulté par internet sur les projets liés aux Jeux. Près des sites, les commerces pourraient ouvrir le dimanche avec des salariés volontaires. Les villages des athlètes auraient des centres de santé. L'essai de caméras dont les images sont analysées par logiciel serait prolongé jusqu'à fin 2027.",
@@ -2328,6 +2346,7 @@
   "type": "ensemble",
   "votants": 504,
   "socle": true,
+  "solennel": true,
   "theme": "Travail et retraites",
   "titre": "Permettre une durée de chômage indemnisé plus courte après une rupture conventionnelle",
   "ce_que_ca_change": "La rupture conventionnelle est une séparation négociée entre un employeur et un salarié. Dans ce cas, les règles de l'assurance chômage pourraient prévoir une durée d'indemnisation différente. Ces règles sont fixées par les syndicats et le patronat. D'après le débat, l'accord prévu la ramène de 18 à 15 mois avant 55 ans. Après 55 ans, il la ramène à 20 mois et demi.",
@@ -2472,6 +2491,7 @@
   "type": "ensemble",
   "votants": 498,
   "socle": true,
+  "solennel": true,
   "theme": "Sécurité et justice",
   "titre": "Adopter la loi renforçant la lutte contre le trafic de drogue et le crime organisé",
   "ce_que_ca_change": "Le texte crée un procureur national, basé à Paris, pour les affaires de crime organisé les plus complexes. Il prévoit des quartiers de prison réservés aux détenus liés à ces réseaux. Les fouilles y sont systématiques et les parloirs y sont équipés d'une séparation. Une personne qui aide l'enquête peut obtenir une réduction ou une dispense de peine : c'est le « collaborateur de justice ».",
@@ -2600,6 +2620,7 @@
   "type": "ensemble",
   "votants": 496,
   "socle": true,
+  "solennel": true,
   "theme": "Agriculture et alimentation",
   "titre": "Prolonger jusqu'en 2028 l'encadrement des prix et des promotions en magasin",
   "ce_que_ca_change": "Les supermarchés doivent revendre les produits alimentaires avec une marge minimale. Les promotions sont aussi limitées. Ces règles seraient prolongées jusqu'au 15 avril 2028. Pour les autres produits, les promotions pourraient atteindre 40 % du prix. Un distributeur qui ne donne pas à l'État les informations demandées pourrait payer une amende.",
@@ -2723,6 +2744,7 @@
   "type": "ensemble",
   "votants": 490,
   "socle": true,
+  "solennel": true,
   "theme": "Défense et international",
   "titre": "Adopter la mise à jour de la loi qui fixe le budget des armées jusqu'en 2030",
   "ce_que_ca_change": "Les armées recevraient 36 milliards d'euros de plus entre 2026 et 2030. Le total prévu pour 2024-2030 passerait ainsi à 435,7 milliards d'euros. Cet argent finance notamment des équipements. Il finance aussi un nouveau service national, prévu dès l'été 2026.",
@@ -2853,6 +2875,7 @@
   "type": "ensemble",
   "votants": 472,
   "socle": true,
+  "solennel": true,
   "theme": "Territoires et outre-mer",
   "titre": "Adopter la loi sur la montagne : écoles, santé, constructions et élevage",
   "ce_que_ca_change": "Le texte adapte plusieurs règles aux zones de montagne. L'isolement et les temps de trajet compteraient pour ouvrir ou fermer des classes. Les zones très isolées auraient accès aux urgences par transport aérien. Les règles de construction seraient adaptées pour les chalets d'alpage et les abris de bergers. Les petits abattoirs et les vétérinaires seraient maintenus.",
@@ -2983,6 +3006,7 @@
   "type": "ensemble",
   "votants": 472,
   "socle": true,
+  "solennel": true,
   "theme": "Immigration et nationalité",
   "titre": "Allonger jusqu'à 210 jours la rétention des étrangers condamnés pour des faits graves",
   "ce_que_ca_change": "La rétention, c'est garder un étranger dans un centre fermé avant son expulsion. Elle peut durer jusqu'à 210 jours en cas de terrorisme. Cette durée viserait aussi les étrangers condamnés pour des faits graves (meurtre, viol, trafic de drogue…). Et ceux très menaçants pour l'ordre public. Si un retenu refuse, ses empreintes et sa photo pourraient être prises de force, sur accord du procureur.",
@@ -3118,6 +3142,7 @@
   "type": "ensemble",
   "votants": 466,
   "socle": true,
+  "solennel": true,
   "theme": "Logement",
   "titre": "Faciliter le logement des agents publics près de leur lieu de travail",
   "ce_que_ca_change": "Un agent public, ou un salarié d'un transport public, pourrait avoir un logement social lié à son emploi. S'il quitte ce poste, son employeur pourrait demander la fin du bail, avec six mois de préavis au moins. Le texte permet aussi d'écarter certaines règles de construction. Il faut alors que la moitié au moins des logements soit réservée à ces agents.",
@@ -3242,6 +3267,7 @@
   "type": "ensemble",
   "votants": 465,
   "socle": true,
+  "solennel": true,
   "theme": "Environnement et énergie",
   "titre": "Changer les règles d'exploitation des grands barrages hydroélectriques",
   "ce_que_ca_change": "Les barrages de plus de 4 500 kilowatts sont exploités grâce à des contrats appelés concessions. Ces contrats prendraient fin. Les exploitants actuels auraient à la place le droit d'exploiter ces barrages pendant 70 ans. EDF devrait vendre aux enchères une partie de sa production (6 gigawatts au départ). Ainsi, 40 % au moins des capacités hydroélectriques s'ouvriraient à d'autres entreprises.",
@@ -3365,6 +3391,7 @@
   "type": "ensemble",
   "votants": 461,
   "socle": true,
+  "solennel": true,
   "theme": "Éducation, culture et numérique",
   "titre": "Renforcer la lutte contre l'antisémitisme et le racisme dans l'enseignement supérieur",
   "ce_que_ca_change": "Chaque université aurait une mission « égalité et diversité », avec un référent. Elle aurait un moyen de signaler anonymement les faits d'antisémitisme, de racisme ou de haine. Un étudiant pourrait être sanctionné pour ces faits, même hors de l'établissement s'ils y sont liés. Il pourrait être interdit d'accès aux locaux pendant la procédure. Des instances régionales de sanction seraient créées.",
@@ -3509,6 +3536,7 @@
   "type": "ensemble",
   "votants": 445,
   "socle": true,
+  "solennel": true,
   "theme": "Sécurité et justice",
   "titre": "Renforcer les pouvoirs des agents de sécurité dans les transports en commun",
   "ce_que_ca_change": "Les agents de sécurité de la SNCF et de la RATP pourraient regarder dans les bagages. Avec l'accord du voyageur, ils pourraient les fouiller. Les agents des transports pourraient filmer leurs interventions avec des caméras portées sur eux. Des caméras seraient testées pour les conducteurs de bus. Abandonner un bagage dans un transport serait puni d'une amende.",
@@ -3644,6 +3672,7 @@
   "type": "ensemble",
   "votants": 440,
   "socle": true,
+  "solennel": true,
   "theme": "Sécurité et justice",
   "titre": "Adopter la réforme de la justice des crimes et des droits des victimes",
   "ce_que_ca_change": "Certaines victimes sauraient dès leur plainte qu'elles ont droit à un avocat payé par l'aide publique aux frais de justice. Cela vise les violences conjugales, ou d'un parent sur un enfant de moins de 15 ans. Une affaire qui ne peut être jugée dans un délai raisonnable pourrait passer à une autre cour d'assises. Pour un crime, l'ADN d'un inconnu pourrait être analysé.",
@@ -3789,6 +3818,7 @@
   "type": "ensemble",
   "votants": 440,
   "socle": true,
+  "solennel": true,
   "theme": "Sécurité et justice",
   "titre": "Permettre à d'anciens avocats de juger dans les cours criminelles départementales",
   "ce_que_ca_change": "Des avocats qui ont cessé d'exercer pourraient siéger comme juges dans les cours criminelles départementales. Ce serait pour cinq ans, renouvelables une fois, jusqu'à 75 ans. Les juges de ces cours seraient formés aux violences sexuelles et sexistes. Ceux qui jugent souvent des violences dans la famille auraient une formation sur ce sujet.",
@@ -3934,6 +3964,7 @@
   "type": "ensemble",
   "votants": 426,
   "socle": true,
+  "solennel": true,
   "theme": "Éducation, culture et numérique",
   "titre": "Interdire les réseaux sociaux aux moins de 15 ans et les téléphones au lycée",
   "ce_que_ca_change": "Les moins de 15 ans ne pourraient plus utiliser les réseaux sociaux dès le 1er septembre 2026. Pour les comptes déjà ouverts, ce serait quatre mois plus tard. Les encyclopédies en ligne et les sites éducatifs restent permis. Les téléphones portables sont déjà interdits à l'école et au collège. Ils le seraient aussi au lycée à la rentrée 2026.",
@@ -4055,6 +4086,7 @@
   "type": "ensemble",
   "votants": 412,
   "socle": true,
+  "solennel": true,
   "theme": "Institutions et démocratie",
   "titre": "Élire sur des listes paritaires les conseils des communes de moins de 1 000 habitants",
   "ce_que_ca_change": "Dans les communes de moins de 1 000 habitants, on voterait pour des listes, comme ailleurs. Ces listes respecteraient la parité entre femmes et hommes. On ne pourrait plus rayer ou ajouter des noms. Une liste pourrait avoir jusqu'à deux candidats de moins que de sièges. Partout, les adjoints au maire seraient élus selon les mêmes règles.",
@@ -4193,6 +4225,7 @@
   "type": "ensemble",
   "votants": 408,
   "socle": true,
+  "solennel": true,
   "theme": "Environnement et énergie",
   "titre": "Autoriser le transport de CO2 entre pays pour le stocker sous les fonds marins",
   "ce_que_ca_change": "Un protocole international porte sur la pollution des mers par les déchets qu'on y jette. Le texte autorise la France à ratifier une modification de ce protocole. Cette modification permet d'exporter du dioxyde de carbone (CO2) vers un autre pays. Il serait stocké dans les couches de roche sous les fonds marins. Il faut pour cela un accord entre les pays concernés.",
@@ -4323,6 +4356,7 @@
   "type": "ensemble",
   "votants": 364,
   "socle": true,
+  "solennel": true,
   "theme": "Économie et impôts",
   "titre": "Transformer l'agence immobilière de l'État en organisme public gérant ses bâtiments",
   "ce_que_ca_change": "L'agence qui gère les bâtiments de l'État est aujourd'hui une société. Elle deviendrait un établissement public. L'État pourrait lui transférer gratuitement des bâtiments. Elle les entretiendrait et les mettrait à disposition des services publics. Elle pourrait les vendre, après avoir informé les collectivités. Elle pourrait emprunter et créer des filiales, avec 30 % de capital privé au plus.",
@@ -4463,6 +4497,7 @@
   "type": "article",
   "votants": 474,
   "socle": true,
+  "solennel": true,
   "theme": "Défense et international",
   "titre": "Appeler à renforcer le soutien à l'Ukraine face à la guerre menée par la Russie",
   "ce_que_ca_change": "La résolution exprime la position de l'Assemblée. Elle ne crée pas de loi. Elle condamne la guerre menée par la Russie. Elle invite l'Union européenne et ses alliés à aider davantage l'Ukraine : politiquement, économiquement et militairement. Elle demande d'utiliser pour l'Ukraine les avoirs russes gelés. L'Union européenne devrait aussi participer à toute négociation de paix.",
@@ -4590,12 +4625,692 @@
   }
  },
  {
+  "uid": "VTANR5L17V3684",
+  "numero": 3684,
+  "date": "2025-11-12",
+  "type": "article",
+  "votants": 505,
+  "socle": true,
+  "solennel": false,
+  "theme": "Travail et retraites",
+  "titre": "Geler l'âge légal à 62 ans et 9 mois et la durée d'assurance requise à 170 trimestres",
+  "ce_que_ca_change": "La hausse de l'âge de départ, issue de la réforme de 2023, s'arrête jusqu'en janvier 2028. Dès septembre 2026, les personnes nées en 1964 ou début 1965 ont un âge légal de 62 ans 9 mois. La durée d'assurance requise est de 170 trimestres. Cela vaut aussi pour les départs anticipés et certains fonctionnaires et militaires. Puis la hausse reprend : 64 ans pour les gens nés en 1969, et non 1968.",
+  "contexte": "Vote sur l'article 45 bis du budget de la Sécurité sociale pour 2026, en première lecture, le 12 novembre 2025.",
+  "resultat": "adopté",
+  "positions": {
+   "RN": "pour",
+   "LFI": "contre",
+   "SOC": "pour",
+   "ECOS": "pour",
+   "HOR": "contre",
+   "LIOT": "pour",
+   "GDR": "contre",
+   "UDR": "contre"
+  },
+  "neutralises": [],
+  "voix": {
+   "RN": {
+    "pour": 112,
+    "contre": 0,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 3,
+    "contre": 5,
+    "abstention": 67
+   },
+   "LFI": {
+    "pour": 0,
+    "contre": 60,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 67,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 8,
+    "contre": 25,
+    "abstention": 9
+   },
+   "ECOS": {
+    "pour": 30,
+    "contre": 0,
+    "abstention": 4
+   },
+   "DEM": {
+    "pour": 11,
+    "contre": 1,
+    "abstention": 18
+   },
+   "HOR": {
+    "pour": 0,
+    "contre": 29,
+    "abstention": 1
+   },
+   "LIOT": {
+    "pour": 17,
+    "contre": 0,
+    "abstention": 3
+   },
+   "GDR": {
+    "pour": 1,
+    "contre": 11,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 0,
+    "contre": 14,
+    "abstention": 0
+   }
+  },
+  "citations": {
+   "RN": {
+    "orateur": "M. Thomas Ménagé",
+    "citation": "Nous, nous ne faisons pas de la politique du pire ; lorsqu’une mesure va dans le bon sens, même si elle ne vient pas de nous, nous la soutenons. Parce que chaque trimestre rendu aux Français compte",
+    "categorie": "A"
+   },
+   "LFI": {
+    "orateur": "M. Hadrien Clouet",
+    "citation": "Dans tous les cas, les gens partiront à 64 ans, c’est le résultat global.",
+    "categorie": "A"
+   },
+   "SOC": {
+    "orateur": "M. Jérôme Guedj",
+    "citation": "Est-ce qu’en 2026 et en 2027, ceux qui auraient été pénalisés par la réforme Borne pourront bénéficier de sa suspension ? Honnêtement, la réponse est oui !",
+    "categorie": "A"
+   },
+   "ECOS": {
+    "orateur": "M. François Ruffin",
+    "citation": "500 000 travailleurs vont en profiter, partir trois mois ou six mois plus tôt : nous prenons.",
+    "categorie": "A"
+   },
+   "LIOT": {
+    "orateur": "M. Charles de Courson",
+    "citation": "cet article donne raison à ceux qui ont combattu la réforme des retraites de 2023",
+    "categorie": "A"
+   },
+   "GDR": {
+    "orateur": "M. Nicolas Sansu",
+    "citation": "cela veut dire que nous acceptons le départ à la retraite à 64 ans, et ça, ce n’est pas possible !",
+    "categorie": "A"
+   },
+   "UDR": {
+    "orateur": "M. Matthieu Bloch",
+    "citation": "nous refusons la solution de facilité qui consiste à la suspendre sans cap, sans courage, sans projet et surtout sans financement.",
+    "categorie": "A"
+   }
+  },
+  "verification": "corrige",
+  "dossier": "DLR5L17N52922",
+  "dossier_titre": "Projet de loi de financement de la sécurité sociale pour 2026",
+  "liens": {
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3684",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52922",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1907_projet-loi",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N046"
+  }
+ },
+ {
+  "uid": "VTANR5L17V518",
+  "numero": 518,
+  "date": "2024-12-04",
+  "type": "ensemble",
+  "votants": 476,
+  "socle": true,
+  "solennel": false,
+  "theme": "Économie et impôts",
+  "titre": "Adopter les ajustements de fin d'année du budget de l'État pour 2024",
+  "ce_que_ca_change": "Le texte corrige le budget 2024 en fin d'année. Il réduit d'environ 25,2 milliards d'euros les recettes d'impôts prévues. Il autorise 11,5 milliards d'euros de dépenses en plus et en annule 6,5 milliards. Le déficit de l'État à financer en 2024 est évalué à 162,4 milliards d'euros.",
+  "contexte": "Vote sur toute la loi qui corrige le budget 2024, version commune aux deux assemblées, le 4 décembre 2024.",
+  "resultat": "adopté",
+  "positions": {
+   "RN": "pour",
+   "EPR": "pour",
+   "LFI": "contre",
+   "DR": "pour",
+   "ECOS": "contre",
+   "DEM": "pour",
+   "HOR": "pour",
+   "LIOT": "pour",
+   "GDR": "contre",
+   "UDR": "pour"
+  },
+  "neutralises": [],
+  "voix": {
+   "RN": {
+    "pour": 116,
+    "contre": 0,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 81,
+    "contre": 0,
+    "abstention": 0
+   },
+   "LFI": {
+    "pour": 0,
+    "contre": 61,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 0,
+    "contre": 0,
+    "abstention": 51
+   },
+   "DR": {
+    "pour": 38,
+    "contre": 0,
+    "abstention": 0
+   },
+   "ECOS": {
+    "pour": 0,
+    "contre": 29,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 25,
+    "contre": 0,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 28,
+    "contre": 0,
+    "abstention": 0
+   },
+   "LIOT": {
+    "pour": 13,
+    "contre": 0,
+    "abstention": 3
+   },
+   "GDR": {
+    "pour": 0,
+    "contre": 13,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 14,
+    "contre": 0,
+    "abstention": 0
+   }
+  },
+  "citations": {
+   "RN": {
+    "orateur": "M. Matthias Renault",
+    "citation": "Ensuite, ce texte ouvre des crédits indispensables pour la Nouvelle-Calédonie, dont la situation nécessite une réponse urgente, au-delà des différences partisanes.",
+    "categorie": "A"
+   },
+   "EPR": {
+    "orateur": "M. Jean-René Cazeneuve",
+    "citation": "Ce texte est indispensable pour nos policiers, nos gendarmes, nos AESH – accompagnants d’élèves en situation de handicap –, nos viticulteurs et nos compatriotes néo-calédoniens.",
+    "categorie": "A"
+   },
+   "LFI": {
+    "orateur": "M. Aurélien Le Coq",
+    "citation": "Si vous votez pour, vous acceptez sciemment un nouveau plan d’austérité d’une rare violence.",
+    "categorie": "A"
+   },
+   "DR": {
+    "orateur": "M. Corentin Le Fur",
+    "citation": "il comporte des mesures d’urgence indispensables pour la Nouvelle-Calédonie. Les députés du groupe Droite républicaine le voteront",
+    "categorie": "A"
+   },
+   "DEM": {
+    "orateur": "M. Didier Padey",
+    "citation": "il est essentiel car il doit permettre de financer des dépenses urgentes et nécessaires pour aborder avec sérénité la fin de l’année 2024 tout en évitant de creuser davantage le déficit public",
+    "categorie": "A"
+   },
+   "HOR": {
+    "orateur": "Mme Félicie Gérard",
+    "citation": "Malgré une situation budgétaire très particulière et fragile, ce texte permet un ajustement réfléchi, notamment sur des sujets régaliens, afin de soutenir la Nouvelle-Calédonie ou les forces de l’ordre qui nous ont protégés lors des JOP.",
+    "categorie": "A"
+   },
+   "LIOT": {
+    "orateur": "M. Charles de Courson",
+    "citation": "En premier lieu, celui-ci doit permettre de répondre à des besoins urgents de la fin de gestion 2024.",
+    "categorie": "A"
+   },
+   "GDR": {
+    "orateur": "M. Emmanuel Maurel",
+    "citation": "Parce que, dans ce projet de loi, il n’y a « rien qui va »",
+    "categorie": "A"
+   }
+  },
+  "verification": "corrige",
+  "dossier": "DLR5L17N50838",
+  "dossier_titre": "Projet de loi de finances de fin de gestion pour 2024",
+  "liens": {
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/518",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50838",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0017_texte-adopte-seance",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N063"
+  }
+ },
+ {
+  "uid": "VTANR5L17V182",
+  "numero": 182,
+  "date": "2024-10-29",
+  "type": "amendement",
+  "votants": 416,
+  "socle": true,
+  "solennel": false,
+  "theme": "Travail et retraites",
+  "titre": "Créer des cotisations retraite sur les hauts revenus et préparer un retour à 62 ans",
+  "ce_que_ca_change": "Une cotisation retraite s'appliquerait aux salaires au-delà de deux fois le plafond de la Sécurité sociale. Ce plafond est un montant de référence fixé chaque année. Le salarié paierait 2 % et l'employeur 3,8 %. Indépendants et agriculteurs seraient aussi concernés. Syndicats, employeurs et État se réuniraient sous six mois. Ils chercheraient comment financer un départ possible à 62 ans.",
+  "contexte": "Amendement au budget de la Sécurité sociale pour 2025, en première lecture, voté le 29 octobre 2024.",
+  "resultat": "rejeté",
+  "positions": {
+   "EPR": "contre",
+   "LFI": "pour",
+   "SOC": "pour",
+   "DR": "contre",
+   "ECOS": "pour",
+   "DEM": "contre",
+   "HOR": "contre",
+   "GDR": "pour",
+   "UDR": "contre"
+  },
+  "neutralises": [
+   "RN"
+  ],
+  "voix": {
+   "RN": {
+    "pour": 0,
+    "contre": 91,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 0,
+    "contre": 60,
+    "abstention": 0
+   },
+   "LFI": {
+    "pour": 63,
+    "contre": 0,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 61,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 0,
+    "contre": 27,
+    "abstention": 0
+   },
+   "ECOS": {
+    "pour": 36,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 0,
+    "contre": 24,
+    "abstention": 1
+   },
+   "HOR": {
+    "pour": 0,
+    "contre": 20,
+    "abstention": 0
+   },
+   "LIOT": {
+    "pour": 6,
+    "contre": 3,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 16,
+    "contre": 0,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 0,
+    "contre": 5,
+    "abstention": 0
+   }
+  },
+  "citations": {
+   "RN": {
+    "orateur": "M. Gaëtan Dussausaye",
+    "citation": "Rendez-vous jeudi à la niche parlementaire du RN pour abroger définitivement la réforme des retraites !",
+    "categorie": "B"
+   },
+   "EPR": {
+    "orateur": "M. Éric Woerth",
+    "citation": "J’ai porté la réforme des retraites de 2010 et je peux vous assurer qu’en cette matière, comme en d’autres, l’augmentation des cotisations est une impasse totale.",
+    "categorie": "A"
+   },
+   "LFI": {
+    "orateur": "M. Louis Boyard",
+    "citation": "Nous pouvons, avec cet amendement, créer une surcotisation pour les revenus supérieurs à 8 000 euros, afin de financer l’abrogation de la réforme.",
+    "categorie": "A"
+   },
+   "SOC": {
+    "orateur": "M. Boris Vallaud",
+    "citation": "nous avons aujourd’hui à réparer une injustice sociale et une brutalité politique.",
+    "categorie": "A"
+   },
+   "ECOS": {
+    "orateur": "Mme Clémentine Autain",
+    "citation": "Il y a une majorité dans notre pays qui ne veut pas de votre réforme.",
+    "categorie": "A"
+   },
+   "DEM": {
+    "orateur": "M. Philippe Vigier",
+    "citation": "Il faut expliquer aux Français qu’ils auront une retraite digne et décente à condition de maintenir la réforme.",
+    "categorie": "A"
+   },
+   "GDR": {
+    "orateur": "M. Jean-Paul Lecoq",
+    "citation": "On les a trouvées !",
+    "categorie": "A"
+   }
+  },
+  "verification": "corrige",
+  "dossier": "DLR5L17N50588",
+  "dossier_titre": "Projet de loi de financement de la sécurité sociale pour 2025",
+  "liens": {
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/182",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50588",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0325_projet-loi",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N025"
+  }
+ },
+ {
+  "uid": "VTANR5L17V3295",
+  "numero": 3295,
+  "date": "2025-10-31",
+  "type": "amendement",
+  "votants": 408,
+  "socle": true,
+  "solennel": false,
+  "theme": "Économie et impôts",
+  "titre": "Rétablir l'impôt sur la fortune au-delà de 1 million d'euros, minimum 2 % dès 50 millions",
+  "ce_que_ca_change": "L'impôt sur la fortune immobilière serait remplacé par un impôt sur tout le patrimoine net au-delà de 1 million d'euros. Le taux serait de 0,5 %, hors biens professionnels, plus 1 % à 3 % au-delà de 10 millions. Dès 50 millions, si on paie moins de 2 % du patrimoine en impôts, on paie la différence. Logements mal isolés, jets et grands yachts compteraient jusqu'à 50 % de plus.",
+  "contexte": "Amendement au budget de l'État pour 2026, en première lecture, le 31 octobre 2025.",
+  "resultat": "rejeté",
+  "positions": {
+   "RN": "contre",
+   "EPR": "contre",
+   "LFI": "pour",
+   "SOC": "pour",
+   "DR": "contre",
+   "ECOS": "pour",
+   "DEM": "contre",
+   "HOR": "contre",
+   "GDR": "pour",
+   "UDR": "contre"
+  },
+  "neutralises": [],
+  "voix": {
+   "RN": {
+    "pour": 0,
+    "contre": 88,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 0,
+    "contre": 62,
+    "abstention": 1
+   },
+   "LFI": {
+    "pour": 60,
+    "contre": 0,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 61,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 0,
+    "contre": 28,
+    "abstention": 0
+   },
+   "ECOS": {
+    "pour": 34,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 0,
+    "contre": 21,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 0,
+    "contre": 21,
+    "abstention": 1
+   },
+   "LIOT": {
+    "pour": 5,
+    "contre": 5,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 12,
+    "contre": 0,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 0,
+    "contre": 5,
+    "abstention": 0
+   }
+  },
+  "citations": {
+   "RN": {
+    "orateur": "M. Jean-Philippe Tanguy",
+    "citation": "La taxe Zucman n’existe pas. Faire croire que c’est la poule aux œufs d’or et qu’elle rapportera 15 milliards dans les placards de Bercy est une absurdité.",
+    "categorie": "A"
+   },
+   "EPR": {
+    "orateur": "M. Paul Midy",
+    "citation": "Cette taxe est 100 % sucre ajouté et 0 % croissance ; pour nous, ce sera donc 100 % non !",
+    "categorie": "A"
+   },
+   "LFI": {
+    "orateur": "Mme Aurélie Trouvé",
+    "citation": "La taxe Zucman ne fait que rétablir la fiscalité pour que les milliardaires contribuent à hauteur de 50 % de leurs revenus.",
+    "categorie": "A"
+   },
+   "SOC": {
+    "orateur": "M. Boris Vallaud",
+    "citation": "Ceux-là savent la valeur de la cohésion sociale d’une nation comme la nôtre, la valeur de la justice sociale et fiscale.",
+    "categorie": "A"
+   },
+   "DR": {
+    "orateur": "M. Laurent Wauquiez",
+    "citation": "La position des députés de la Droite républicaine est très simple : nous sommes contre la folie fiscale et contre la « taxe mania ».",
+    "categorie": "A"
+   },
+   "ECOS": {
+    "orateur": "M. Tristan Lahais",
+    "citation": "Le compromis n’est possible qu’à la condition d’écouter l’aspiration du pays à l’équité et à la justice fiscale.",
+    "categorie": "A"
+   },
+   "DEM": {
+    "orateur": "M. Jean-Paul Mattei",
+    "citation": "La taxe Zucman est un leurre et, pour moi, c’est un non-sens juridique.",
+    "categorie": "A"
+   },
+   "HOR": {
+    "orateur": "M. Sylvain Berrios",
+    "citation": "Tout a été dit, ou presque, sur l’ineptie économique que représente la taxe Zucman, une impasse économique autant qu’une impasse juridique.",
+    "categorie": "A"
+   },
+   "GDR": {
+    "orateur": "M. Nicolas Sansu",
+    "citation": "C’est la finance que nous devons aller chercher et mieux imposer pour ne pas pénaliser les travailleurs, les retraités ou les jeunes.",
+    "categorie": "A"
+   },
+   "UDR": {
+    "orateur": "M. Alexandre Allegret-Pilot",
+    "citation": "Coupez dans l’impôt, coupez dans la dépense, libérez les Français !",
+    "categorie": "A"
+   }
+  },
+  "verification": "corrige",
+  "dossier": "DLR5L17N52428",
+  "dossier_titre": "Projet de loi de finances pour 2026",
+  "liens": {
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3295",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52428",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1906_projet-loi",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N025"
+  }
+ },
+ {
+  "uid": "VTANR5L17V3300",
+  "numero": 3300,
+  "date": "2025-10-31",
+  "type": "amendement",
+  "votants": 406,
+  "socle": true,
+  "solennel": false,
+  "theme": "Économie et impôts",
+  "titre": "Créer un impôt minimum de 2 % sur les patrimoines de plus de 100 millions d'euros",
+  "ce_que_ca_change": "Au-delà de 100 millions d'euros de patrimoine, on paierait chaque année au moins 2 % de sa valeur en impôts. Si l'impôt sur le revenu, la taxe foncière ou les autres impôts font moins, on paie la différence. Pour cet impôt, les exonérations des droits de succession ne s'appliqueraient pas. On pourrait payer en parts de sociétés. Partir vivre à l'étranger rendrait dû dix fois ce montant.",
+  "contexte": "Amendement au budget de l'État pour 2026, en première lecture, le 31 octobre 2025.",
+  "resultat": "rejeté",
+  "positions": {
+   "RN": "contre",
+   "EPR": "contre",
+   "LFI": "pour",
+   "SOC": "pour",
+   "DR": "contre",
+   "ECOS": "pour",
+   "DEM": "contre",
+   "HOR": "contre",
+   "GDR": "pour",
+   "UDR": "contre"
+  },
+  "neutralises": [],
+  "voix": {
+   "RN": {
+    "pour": 0,
+    "contre": 88,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 0,
+    "contre": 60,
+    "abstention": 3
+   },
+   "LFI": {
+    "pour": 60,
+    "contre": 0,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 61,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 0,
+    "contre": 28,
+    "abstention": 0
+   },
+   "ECOS": {
+    "pour": 33,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 0,
+    "contre": 18,
+    "abstention": 2
+   },
+   "HOR": {
+    "pour": 0,
+    "contre": 21,
+    "abstention": 1
+   },
+   "LIOT": {
+    "pour": 5,
+    "contre": 5,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 12,
+    "contre": 0,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 0,
+    "contre": 5,
+    "abstention": 0
+   }
+  },
+  "citations": {
+   "RN": {
+    "orateur": "M. Jean-Philippe Tanguy",
+    "citation": "La taxe Zucman n’existe pas. Faire croire que c’est la poule aux œufs d’or et qu’elle rapportera 15 milliards dans les placards de Bercy est une absurdité.",
+    "categorie": "A"
+   },
+   "LFI": {
+    "orateur": "Mme Aurélie Trouvé",
+    "citation": "La taxe Zucman ne fait que rétablir la fiscalité pour que les milliardaires contribuent à hauteur de 50 % de leurs revenus.",
+    "categorie": "A"
+   },
+   "SOC": {
+    "orateur": "M. Boris Vallaud",
+    "citation": "Je constate par ailleurs que certains chefs d’entreprise – des entrepreneurs de la tech, ceux-là mêmes que vous nous accusez de vouloir sacrifier – se sont dits disposés à payer la taxe Zucman.",
+    "categorie": "A"
+   },
+   "DR": {
+    "orateur": "M. Laurent Wauquiez",
+    "citation": "Or votre taxe Zucman, c’est simplement de la taxe mania.",
+    "categorie": "A"
+   },
+   "ECOS": {
+    "orateur": "M. Tristan Lahais",
+    "citation": "C’est la raison pour laquelle nous défendons la taxe Zucman, qui est à la fois un symbole et un outil efficace – peut-être le seul – pour que les riches prennent leur juste part à l’effort national.",
+    "categorie": "A"
+   },
+   "DEM": {
+    "orateur": "M. Jean-Paul Mattei",
+    "citation": "La taxe Zucman est un leurre et, pour moi, c’est un non-sens juridique.",
+    "categorie": "A"
+   },
+   "HOR": {
+    "orateur": "M. Sylvain Berrios",
+    "citation": "Tout a été dit, ou presque, sur l’ineptie économique que représente la taxe Zucman, une impasse économique autant qu’une impasse juridique.",
+    "categorie": "A"
+   },
+   "GDR": {
+    "orateur": "M. Nicolas Sansu",
+    "citation": "L’institution de cet impôt plancher n’est qu’une question de temps. Ne perdons pas de temps.",
+    "categorie": "A"
+   },
+   "UDR": {
+    "orateur": "M. Alexandre Allegret-Pilot",
+    "citation": "le projet Zucman – c’est ainsi qu’il faut l’appeler – est assumé : c’est celui de la collectivisation de l’économie française ou de sa prédation par des fonds étrangers.",
+    "categorie": "A"
+   }
+  },
+  "verification": "valide",
+  "dossier": "DLR5L17N52428",
+  "dossier_titre": "Projet de loi de finances pour 2026",
+  "liens": {
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3300",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52428",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1906_projet-loi",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N025"
+  }
+ },
+ {
   "uid": "VTANR5L17V2256",
   "numero": 2256,
   "date": "2025-06-04",
   "type": "ensemble",
   "votants": 145,
   "socle": false,
+  "solennel": false,
   "theme": "Travail et retraites",
   "titre": "Autoriser les salariés à s'absenter pour donner leur sang en gardant leur salaire",
   "ce_que_ca_change": "Les salariés et agents publics pourraient s'absenter pour donner leur sang, leurs plaquettes ou leur plasma près de leur travail ou de leur domicile, dans la limite de huit absences par an, en prévenant leur employeur au moins trois jours ouvrés avant. Leur salaire serait maintenu pendant le trajet et le don. L'employeur pourrait refuser pour des raisons d'organisation.",
@@ -4719,106 +5434,13 @@
   }
  },
  {
-  "uid": "VTANR5L17V3290",
-  "numero": 3290,
-  "date": "2025-10-31",
-  "type": "amendement",
-  "votants": 395,
-  "socle": false,
-  "theme": "Économie et impôts",
-  "titre": "Limiter la taxe sur les holdings familiales aux biens non professionnels, taxés à 20 %",
-  "ce_que_ca_change": "Le budget crée une taxe de 2 % sur certains biens et placements des sociétés gérant un patrimoine familial (holdings). L'amendement ne taxerait plus que des biens sans usage professionnel : avions, voitures, biens de chasse ou de pêche, bijoux et objets d'art non exposés au public, logements, mais à 20 %. Seules les sociétés détenues à 50 % par une famille seraient visées, au lieu d'un tiers.",
-  "contexte": "Amendement à l'article 3 du budget de l'État pour 2026, voté le 31 octobre 2025.",
-  "resultat": "adopté",
-  "positions": {
-   "RN": "pour",
-   "EPR": "pour",
-   "LFI": "contre",
-   "SOC": "contre",
-   "DR": "pour",
-   "ECOS": "contre",
-   "DEM": "contre",
-   "HOR": "pour",
-   "LIOT": "contre",
-   "GDR": "contre",
-   "UDR": "pour"
-  },
-  "neutralises": [],
-  "voix": {
-   "RN": {
-    "pour": 94,
-    "contre": 0,
-    "abstention": 0
-   },
-   "EPR": {
-    "pour": 61,
-    "contre": 0,
-    "abstention": 2
-   },
-   "LFI": {
-    "pour": 0,
-    "contre": 61,
-    "abstention": 0
-   },
-   "SOC": {
-    "pour": 0,
-    "contre": 55,
-    "abstention": 0
-   },
-   "DR": {
-    "pour": 23,
-    "contre": 0,
-    "abstention": 0
-   },
-   "ECOS": {
-    "pour": 0,
-    "contre": 36,
-    "abstention": 0
-   },
-   "DEM": {
-    "pour": 0,
-    "contre": 17,
-    "abstention": 0
-   },
-   "HOR": {
-    "pour": 20,
-    "contre": 0,
-    "abstention": 0
-   },
-   "LIOT": {
-    "pour": 1,
-    "contre": 7,
-    "abstention": 0
-   },
-   "GDR": {
-    "pour": 0,
-    "contre": 8,
-    "abstention": 0
-   },
-   "UDR": {
-    "pour": 6,
-    "contre": 0,
-    "abstention": 0
-   }
-  },
-  "citations": {},
-  "verification": "corrige",
-  "dossier": "DLR5L17N52428",
-  "dossier_titre": "Projet de loi de finances pour 2026",
-  "liens": {
-   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3290",
-   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52428",
-   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1906_projet-loi",
-   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N024"
-  }
- },
- {
   "uid": "VTANR5L17V3878",
   "numero": 3878,
   "date": "2025-11-18",
   "type": "amendement",
   "votants": 225,
   "socle": false,
+  "solennel": false,
   "theme": "Éducation, culture et numérique",
   "titre": "Réduire de 500 000 euros la hausse du financement de l'audiovisuel public pour 2025",
   "ce_que_ca_change": "Le texte augmente de 10,4 millions d'euros la part de TVA versée à l'audiovisuel public pour 2025. L'amendement réduit cette hausse de 500 000 euros. Ce montant vient de deux ajustements : TV5 Monde +700 000 euros, Arte −200 000 euros. Ils sont dus à une taxe sur les salaires différente de celle prévue.",
@@ -4923,6 +5545,7 @@
   "type": "ensemble",
   "votants": 142,
   "socle": false,
+  "solennel": false,
   "theme": "Institutions et démocratie",
   "titre": "Élire séparément les conseils de ville et d'arrondissement à Paris, Lyon et Marseille",
   "ce_que_ca_change": "À Paris, Lyon et Marseille, les électeurs voteraient deux fois. Un vote élirait le conseil de la ville. L'autre élirait le conseil d'arrondissement. La liste arrivée en tête recevrait en bonus un quart des sièges du conseil de la ville. Une conférence des maires serait créée. Ces règles s'appliqueraient dès les prochaines élections municipales.",
@@ -5032,225 +5655,123 @@
   }
  },
  {
-  "uid": "VTANR5L17V984",
-  "numero": 984,
-  "date": "2025-03-12",
+  "uid": "VTANR5L17V6751",
+  "numero": 6751,
+  "date": "2026-05-20",
   "type": "amendement",
-  "votants": 276,
+  "votants": 337,
   "socle": false,
-  "theme": "Défense et international",
-  "titre": "Supprimer l'appel à étendre sans attendre les garanties de sécurité à l'Ukraine",
-  "ce_que_ca_change": "La résolution de soutien à l'Ukraine contient un paragraphe. Il demande d'étendre tout de suite à l'Ukraine les garanties de sécurité des pays occidentaux. Cela pourrait passer par de nouveaux accords. Il ne faudrait pas attendre une future entrée de l'Ukraine dans l'OTAN (l'alliance militaire de l'Atlantique Nord). Voter pour retire ce paragraphe.",
-  "contexte": "Amendement à une résolution européenne appelant à renforcer le soutien à l'Ukraine, soumis au vote le 12 mars 2025.",
+  "solennel": false,
+  "theme": "Territoires et outre-mer",
+  "titre": "Ouvrir les élections provinciales de Nouvelle-Calédonie aux conjoints d'électeurs",
+  "ce_que_ca_change": "En Nouvelle-Calédonie, seules certaines personnes peuvent voter pour le congrès et les assemblées de province. D'autres pourraient s'y ajouter, à leur demande. Elles doivent être inscrites sur la liste électorale ordinaire. Elles doivent aussi être mariées ou pacsées depuis cinq ans au moins avec un électeur ayant déjà ce droit.",
+  "contexte": "Amendement du Gouvernement à la proposition de loi organique sur la liste électorale des élections provinciales en Nouvelle-Calédonie, voté le 20 mai 2026.",
   "resultat": "rejeté",
   "positions": {
    "RN": "pour",
-   "EPR": "contre",
-   "LFI": "pour",
+   "EPR": "pour",
+   "LFI": "contre",
    "SOC": "contre",
-   "DR": "contre",
-   "ECOS": "contre",
-   "DEM": "contre",
-   "HOR": "contre",
-   "LIOT": "contre",
-   "GDR": "pour",
-   "UDR": "pour"
-  },
-  "neutralises": [],
-  "voix": {
-   "RN": {
-    "pour": 71,
-    "contre": 0,
-    "abstention": 0
-   },
-   "EPR": {
-    "pour": 0,
-    "contre": 46,
-    "abstention": 0
-   },
-   "LFI": {
-    "pour": 24,
-    "contre": 0,
-    "abstention": 1
-   },
-   "SOC": {
-    "pour": 0,
-    "contre": 24,
-    "abstention": 0
-   },
-   "DR": {
-    "pour": 0,
-    "contre": 14,
-    "abstention": 0
-   },
-   "ECOS": {
-    "pour": 0,
-    "contre": 23,
-    "abstention": 0
-   },
-   "DEM": {
-    "pour": 0,
-    "contre": 23,
-    "abstention": 1
-   },
-   "HOR": {
-    "pour": 0,
-    "contre": 20,
-    "abstention": 0
-   },
-   "LIOT": {
-    "pour": 0,
-    "contre": 8,
-    "abstention": 2
-   },
-   "GDR": {
-    "pour": 9,
-    "contre": 0,
-    "abstention": 0
-   },
-   "UDR": {
-    "pour": 6,
-    "contre": 0,
-    "abstention": 0
-   }
-  },
-  "citations": {
-   "RN": {
-    "orateur": "M. Marc de Fleurian",
-    "citation": "Quant aux garanties de sécurité de cette Union européenne impuissante, puisque c’est ce que vous entendez par « occidentales », elles existent encore moins.",
-    "categorie": "A"
-   },
-   "EPR": {
-    "orateur": "M. Pierre Cazeneuve",
-    "citation": "Voter cet amendement reviendrait à acter le désengagement total de la France et de l’Europe en la matière, et donc, évidemment, notre affaiblissement.",
-    "categorie": "A"
-   },
-   "LFI": {
-    "orateur": "M. Aurélien Saintoul",
-    "citation": "Vous ne pouvez pas dire, assumant des décisions prises dans notre dos, que nous serons les garants d’un accord que nous n’avons même pas négocié !",
-    "categorie": "A"
-   },
-   "DEM": {
-    "orateur": "M. Frédéric Petit",
-    "citation": "Garantir la fin du pilonnage des civils au-delà du front, l’Europe sait le faire et peut le faire immédiatement ; c’est une garantie que l’on peut étendre.",
-    "categorie": "A"
-   },
-   "GDR": {
-    "orateur": "M. Jean-Paul Lecoq",
-    "citation": "Cela reviendrait à dire que nous entrons immédiatement en guerre",
-    "categorie": "A"
-   },
-   "UDR": {
-    "orateur": "M. Maxime Michelet",
-    "citation": "Une telle disposition est tout simplement dangereuse : une extension « immédiate », en plein conflit, de ces garanties reviendrait tout simplement à nous faire basculer dans la guerre.",
-    "categorie": "A"
-   }
-  },
-  "verification": "valide",
-  "dossier": "DLR5L17N51467",
-  "dossier_titre": "Renforcement du soutien à l'Ukraine",
-  "liens": {
-   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/984",
-   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51467",
-   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1001_texte-adopte-commission",
-   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N128"
-  }
- },
- {
-  "uid": "VTANR5L17V6917",
-  "numero": 6917,
-  "date": "2026-05-26",
-  "type": "amendement",
-  "votants": 217,
-  "socle": false,
-  "theme": "Environnement et énergie",
-  "titre": "Fixer la méthode de comptage des loups après concertation avec les acteurs concernés",
-  "ce_que_ca_change": "Le nombre de loups pouvant être abattus dépend de l'estimation de leur population. Un arrêté des ministres fixe les règles de gestion du loup. Cet arrêté fixerait aussi la méthode de cette estimation. Elle serait définie après concertation avec : les collectivités, les agriculteurs et forestiers, les chambres d'agriculture, les associations de protection de l'environnement et les chasseurs.",
-  "contexte": "Amendement à l'article 14 du projet de loi d'urgence pour la protection et la souveraineté agricoles, voté le 26 mai 2026.",
-  "resultat": "rejeté",
-  "positions": {
-   "RN": "contre",
-   "EPR": "contre",
-   "SOC": "pour",
    "DR": "pour",
    "ECOS": "contre",
-   "HOR": "contre",
-   "LIOT": "pour",
+   "DEM": "contre",
+   "LIOT": "contre",
+   "GDR": "contre",
    "UDR": "pour"
   },
   "neutralises": [],
   "voix": {
    "RN": {
-    "pour": 0,
-    "contre": 75,
+    "pour": 73,
+    "contre": 0,
     "abstention": 0
    },
    "EPR": {
-    "pour": 1,
-    "contre": 20,
-    "abstention": 2
+    "pour": 52,
+    "contre": 0,
+    "abstention": 0
    },
    "LFI": {
     "pour": 0,
-    "contre": 0,
-    "abstention": 12
+    "contre": 50,
+    "abstention": 0
    },
    "SOC": {
-    "pour": 19,
-    "contre": 0,
+    "pour": 0,
+    "contre": 41,
     "abstention": 0
    },
    "DR": {
-    "pour": 26,
-    "contre": 0,
-    "abstention": 0
+    "pour": 20,
+    "contre": 2,
+    "abstention": 3
    },
    "ECOS": {
     "pour": 0,
-    "contre": 19,
+    "contre": 26,
     "abstention": 0
    },
    "DEM": {
     "pour": 2,
-    "contre": 6,
+    "contre": 16,
     "abstention": 4
    },
    "HOR": {
-    "pour": 1,
-    "contre": 12,
-    "abstention": 0
+    "pour": 5,
+    "contre": 10,
+    "abstention": 3
    },
    "LIOT": {
-    "pour": 5,
-    "contre": 1,
-    "abstention": 1
+    "pour": 1,
+    "contre": 7,
+    "abstention": 0
    },
    "GDR": {
-    "pour": 1,
-    "contre": 0,
+    "pour": 0,
+    "contre": 9,
     "abstention": 0
    },
    "UDR": {
-    "pour": 7,
-    "contre": 1,
+    "pour": 9,
+    "contre": 0,
     "abstention": 0
    }
   },
   "citations": {
+   "EPR": {
+    "orateur": "M. Nicolas Metzdorf",
+    "citation": "j’appelle solennellement cette assemblée à autoriser des maris et des femmes en Nouvelle-Calédonie à voter, comme leur mari et comme leur femme – et comme leurs enfants –, aux élections locales.",
+    "categorie": "A"
+   },
+   "LFI": {
+    "orateur": "M. Bastien Lachaud",
+    "citation": "Ouvrir le vote aux conjoints, c’est ouvrir une brèche dans l’accord de Nouméa en dépit du bon sens.",
+    "categorie": "A"
+   },
    "SOC": {
-    "orateur": "Mme Marie-José Allemand",
-    "citation": "Nous avons assez attendu et j’invite nos collègues à voter cet amendement pour faire bouger les choses.",
+    "orateur": "M. Arthur Delaporte",
+    "citation": "Nous sommes sur un équilibre très fragile ; ne le remettons pas en cause.",
+    "categorie": "A"
+   },
+   "DR": {
+    "orateur": "M. Patrick Hetzel",
+    "citation": "Le groupe de la Droite républicaine tient à soutenir cet amendement du gouvernement relatif aux conjoints mariés ou pacsés, parce qu’il répond à une logique de cohérence démocratique et d’enracinement dans la communauté calédonienne.",
+    "categorie": "A"
+   },
+   "GDR": {
+    "orateur": "M. Emmanuel Tjibaou",
+    "citation": "le principe « un homme, une voix » ne marche pas pour l’exercice du droit à l’autodétermination et du droit des peuples à disposer d’eux-mêmes.",
     "categorie": "A"
    }
   },
   "verification": "valide",
-  "dossier": "DLR5L17N54085",
-  "dossier_titre": "Projet de loi d’urgence pour la protection et la souveraineté agricoles",
+  "dossier": "DLR5L17N52104",
+  "dossier_titre": "Proposition de loi organique portant actualisation du corps électoral pour les élections au congrès et aux assemblées de province de la Nouvelle-Calédonie",
   "liens": {
-   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6917",
-   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54085",
-   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2765_texte-adopte-commission",
-   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N247"
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6751",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52104",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2807_texte-adopte-commission",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N238"
   }
  },
  {
@@ -5260,6 +5781,7 @@
   "type": "resolution",
   "votants": 374,
   "socle": false,
+  "solennel": false,
   "theme": "Immigration et nationalité",
   "titre": "Demander que la France mette fin à l'accord de 1968 sur le séjour des Algériens",
   "ce_que_ca_change": "Un accord signé en 1968 entre la France et l'Algérie fixe des règles à part pour les Algériens. Elles portent sur leur entrée et leur séjour en France. Elles diffèrent du code qui s'applique aux autres étrangers. La résolution invite les autorités compétentes à dénoncer cet accord, c'est-à-dire à y mettre fin.",
@@ -5388,12 +5910,111 @@
   }
  },
  {
+  "uid": "VTANR5L17V6912",
+  "numero": 6912,
+  "date": "2026-05-26",
+  "type": "amendement",
+  "votants": 215,
+  "socle": false,
+  "solennel": false,
+  "theme": "Environnement et énergie",
+  "titre": "Fonder aussi les abattages de loups sur des données scientifiques actualisées chaque année",
+  "ce_que_ca_change": "Le projet de loi charge l'État d'encadrer la gestion du loup pour protéger les troupeaux. Cette gestion comprend des « prélèvements », c'est-à-dire des abattages de loups autorisés. Elle doit reposer sur des données scientifiques mises à jour chaque année. L'amendement précise que les décisions d'abattage reposent elles aussi sur ces données.",
+  "contexte": "Amendement à l'article 14 du projet de loi d'urgence sur l'agriculture, soumis au vote le 26 mai 2026.",
+  "resultat": "rejeté",
+  "positions": {
+   "RN": "contre",
+   "EPR": "contre",
+   "LFI": "contre",
+   "SOC": "pour",
+   "DR": "pour",
+   "ECOS": "contre",
+   "HOR": "contre",
+   "UDR": "contre"
+  },
+  "neutralises": [],
+  "voix": {
+   "RN": {
+    "pour": 0,
+    "contre": 72,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 1,
+    "contre": 21,
+    "abstention": 0
+   },
+   "LFI": {
+    "pour": 0,
+    "contre": 20,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 24,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 23,
+    "contre": 0,
+    "abstention": 0
+   },
+   "ECOS": {
+    "pour": 0,
+    "contre": 11,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 8,
+    "contre": 3,
+    "abstention": 3
+   },
+   "HOR": {
+    "pour": 0,
+    "contre": 9,
+    "abstention": 3
+   },
+   "LIOT": {
+    "pour": 2,
+    "contre": 2,
+    "abstention": 3
+   },
+   "UDR": {
+    "pour": 0,
+    "contre": 8,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 0,
+    "contre": 0,
+    "abstention": 0
+   }
+  },
+  "citations": {
+   "SOC": {
+    "orateur": "Mme Valérie Rossi",
+    "citation": "Il vise à préciser que les mesures de gestion du loup incluent explicitement des prélèvements, afin de renforcer la lisibilité et l’efficacité du dispositif.",
+    "categorie": "A"
+   }
+  },
+  "verification": "valide",
+  "dossier": "DLR5L17N54085",
+  "dossier_titre": "Projet de loi d’urgence pour la protection et la souveraineté agricoles",
+  "liens": {
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6912",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54085",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2765_texte-adopte-commission",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N247"
+  }
+ },
+ {
   "uid": "VTANR5L17V8609",
   "numero": 8609,
   "date": "2026-10-08",
   "type": "resolution",
   "votants": 322,
   "socle": false,
+  "solennel": false,
   "theme": "Territoires et outre-mer",
   "titre": "Demander à l'État d'agir sans délai pour garantir l'accès à l'eau potable en outre-mer",
   "ce_que_ca_change": "La résolution invite le Gouvernement à mobiliser sans délai tous les moyens de l'État. Le but : que chaque habitant des outre-mer ait un accès effectif à l'eau potable. Elle l'invite aussi, si besoin, à remplacer les services locaux défaillants. Sont notamment cités Mayotte, la Guyane, la Guadeloupe, la Martinique, La Réunion et Saint-Martin.",
@@ -5481,122 +6102,95 @@
   }
  },
  {
-  "uid": "VTANR5L17V6751",
-  "numero": 6751,
-  "date": "2026-05-20",
+  "uid": "VTANR5L17V1214",
+  "numero": 1214,
+  "date": "2025-04-02",
   "type": "amendement",
-  "votants": 337,
+  "votants": 243,
   "socle": false,
-  "theme": "Territoires et outre-mer",
-  "titre": "Ouvrir les élections provinciales de Nouvelle-Calédonie aux conjoints d'électeurs",
-  "ce_que_ca_change": "En Nouvelle-Calédonie, seules certaines personnes peuvent voter pour le congrès et les assemblées de province. D'autres pourraient s'y ajouter, à leur demande. Elles doivent être inscrites sur la liste électorale ordinaire. Elles doivent aussi être mariées ou pacsées depuis cinq ans au moins avec un électeur ayant déjà ce droit.",
-  "contexte": "Amendement du Gouvernement à la proposition de loi organique sur la liste électorale des élections provinciales en Nouvelle-Calédonie, voté le 20 mai 2026.",
-  "resultat": "rejeté",
+  "solennel": false,
+  "theme": "Santé et protection sociale",
+  "titre": "Soumettre l'installation des médecins à une autorisation de l'agence régionale de santé",
+  "ce_que_ca_change": "Tout médecin, libéral ou salarié, devrait obtenir l'accord de l'agence régionale de santé avant de s'installer. C'est l'administration de la santé dans chaque région. L'accord serait automatique là où l'offre de soins est insuffisante. Ailleurs, il faudrait qu'un médecin de la même spécialité cesse au même moment son activité dans la zone.",
+  "contexte": "Amendement qui remet dans le texte l'article 1er de la proposition de loi visant à lutter contre les déserts médicaux, voté le 2 avril 2025.",
+  "resultat": "adopté",
   "positions": {
-   "RN": "pour",
-   "EPR": "pour",
-   "LFI": "contre",
-   "SOC": "contre",
-   "DR": "pour",
-   "ECOS": "contre",
-   "DEM": "contre",
-   "LIOT": "contre",
-   "GDR": "contre",
-   "UDR": "pour"
+   "RN": "contre",
+   "EPR": "contre",
+   "LFI": "pour",
+   "SOC": "pour",
+   "ECOS": "pour",
+   "DEM": "pour",
+   "LIOT": "pour",
+   "GDR": "pour"
   },
   "neutralises": [],
   "voix": {
    "RN": {
-    "pour": 73,
-    "contre": 0,
-    "abstention": 0
-   },
-   "EPR": {
-    "pour": 52,
-    "contre": 0,
-    "abstention": 0
-   },
-   "LFI": {
     "pour": 0,
     "contre": 50,
     "abstention": 0
    },
+   "EPR": {
+    "pour": 4,
+    "contre": 18,
+    "abstention": 1
+   },
+   "LFI": {
+    "pour": 40,
+    "contre": 0,
+    "abstention": 0
+   },
    "SOC": {
-    "pour": 0,
-    "contre": 41,
+    "pour": 50,
+    "contre": 1,
     "abstention": 0
    },
    "DR": {
-    "pour": 20,
-    "contre": 2,
-    "abstention": 3
+    "pour": 8,
+    "contre": 6,
+    "abstention": 0
    },
    "ECOS": {
-    "pour": 0,
-    "contre": 26,
+    "pour": 19,
+    "contre": 0,
     "abstention": 0
    },
    "DEM": {
-    "pour": 2,
-    "contre": 16,
-    "abstention": 4
+    "pour": 7,
+    "contre": 1,
+    "abstention": 2
    },
    "HOR": {
-    "pour": 5,
-    "contre": 10,
-    "abstention": 3
+    "pour": 8,
+    "contre": 5,
+    "abstention": 0
    },
    "LIOT": {
-    "pour": 1,
-    "contre": 7,
+    "pour": 6,
+    "contre": 1,
     "abstention": 0
    },
    "GDR": {
-    "pour": 0,
-    "contre": 9,
+    "pour": 10,
+    "contre": 0,
     "abstention": 0
    },
    "UDR": {
-    "pour": 9,
-    "contre": 0,
+    "pour": 2,
+    "contre": 2,
     "abstention": 0
    }
   },
-  "citations": {
-   "EPR": {
-    "orateur": "M. Nicolas Metzdorf",
-    "citation": "j’appelle solennellement cette assemblée à autoriser des maris et des femmes en Nouvelle-Calédonie à voter, comme leur mari et comme leur femme – et comme leurs enfants –, aux élections locales.",
-    "categorie": "A"
-   },
-   "LFI": {
-    "orateur": "M. Bastien Lachaud",
-    "citation": "Ouvrir le vote aux conjoints, c’est ouvrir une brèche dans l’accord de Nouméa en dépit du bon sens.",
-    "categorie": "A"
-   },
-   "SOC": {
-    "orateur": "M. Arthur Delaporte",
-    "citation": "Nous sommes sur un équilibre très fragile ; ne le remettons pas en cause.",
-    "categorie": "A"
-   },
-   "DR": {
-    "orateur": "M. Patrick Hetzel",
-    "citation": "Le groupe de la Droite républicaine tient à soutenir cet amendement du gouvernement relatif aux conjoints mariés ou pacsés, parce qu’il répond à une logique de cohérence démocratique et d’enracinement dans la communauté calédonienne.",
-    "categorie": "A"
-   },
-   "GDR": {
-    "orateur": "M. Emmanuel Tjibaou",
-    "citation": "le principe « un homme, une voix » ne marche pas pour l’exercice du droit à l’autodétermination et du droit des peuples à disposer d’eux-mêmes.",
-    "categorie": "A"
-   }
-  },
+  "citations": {},
   "verification": "valide",
-  "dossier": "DLR5L17N52104",
-  "dossier_titre": "Proposition de loi organique portant actualisation du corps électoral pour les élections au congrès et aux assemblées de province de la Nouvelle-Calédonie",
+  "dossier": "DLR5L17N51516",
+  "dossier_titre": "Contre les déserts médicaux, d'initiative transpartisane",
   "liens": {
-   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6751",
-   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52104",
-   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2807_texte-adopte-commission",
-   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N238"
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1214",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51516",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1180_texte-adopte-commission",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N158"
   }
  },
  {
@@ -5606,6 +6200,7 @@
   "type": "amendement",
   "votants": 206,
   "socle": false,
+  "solennel": false,
   "theme": "Santé et protection sociale",
   "titre": "Prolonger jusqu'au 30 juin 2025 le maintien automatique des aides sociales à Mayotte",
   "ce_que_ca_change": "Après le cyclone, les droits et aides sociales des habitants de Mayotte qui arrivent à leur terme sont maintenus. Aucune démarche n'est nécessaire pour les renouveler. Cette règle vaut jusqu'au 31 mars 2025. Cette date serait repoussée au 30 juin 2025. Le texte permet déjà au Gouvernement de prolonger cette période par décret, au plus tard jusqu'au 31 décembre 2025.",
@@ -5694,12 +6289,232 @@
   }
  },
  {
+  "uid": "VTANR5L17V984",
+  "numero": 984,
+  "date": "2025-03-12",
+  "type": "amendement",
+  "votants": 276,
+  "socle": false,
+  "solennel": false,
+  "theme": "Défense et international",
+  "titre": "Supprimer l'appel à étendre sans attendre les garanties de sécurité à l'Ukraine",
+  "ce_que_ca_change": "La résolution de soutien à l'Ukraine contient un paragraphe. Il demande d'étendre tout de suite à l'Ukraine les garanties de sécurité des pays occidentaux. Cela pourrait passer par de nouveaux accords. Il ne faudrait pas attendre une future entrée de l'Ukraine dans l'OTAN (l'alliance militaire de l'Atlantique Nord). Voter pour retire ce paragraphe.",
+  "contexte": "Amendement à une résolution européenne appelant à renforcer le soutien à l'Ukraine, soumis au vote le 12 mars 2025.",
+  "resultat": "rejeté",
+  "positions": {
+   "RN": "pour",
+   "EPR": "contre",
+   "LFI": "pour",
+   "SOC": "contre",
+   "DR": "contre",
+   "ECOS": "contre",
+   "DEM": "contre",
+   "HOR": "contre",
+   "LIOT": "contre",
+   "GDR": "pour",
+   "UDR": "pour"
+  },
+  "neutralises": [],
+  "voix": {
+   "RN": {
+    "pour": 71,
+    "contre": 0,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 0,
+    "contre": 46,
+    "abstention": 0
+   },
+   "LFI": {
+    "pour": 24,
+    "contre": 0,
+    "abstention": 1
+   },
+   "SOC": {
+    "pour": 0,
+    "contre": 24,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 0,
+    "contre": 14,
+    "abstention": 0
+   },
+   "ECOS": {
+    "pour": 0,
+    "contre": 23,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 0,
+    "contre": 23,
+    "abstention": 1
+   },
+   "HOR": {
+    "pour": 0,
+    "contre": 20,
+    "abstention": 0
+   },
+   "LIOT": {
+    "pour": 0,
+    "contre": 8,
+    "abstention": 2
+   },
+   "GDR": {
+    "pour": 9,
+    "contre": 0,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 6,
+    "contre": 0,
+    "abstention": 0
+   }
+  },
+  "citations": {
+   "RN": {
+    "orateur": "M. Marc de Fleurian",
+    "citation": "Quant aux garanties de sécurité de cette Union européenne impuissante, puisque c’est ce que vous entendez par « occidentales », elles existent encore moins.",
+    "categorie": "A"
+   },
+   "EPR": {
+    "orateur": "M. Pierre Cazeneuve",
+    "citation": "Voter cet amendement reviendrait à acter le désengagement total de la France et de l’Europe en la matière, et donc, évidemment, notre affaiblissement.",
+    "categorie": "A"
+   },
+   "LFI": {
+    "orateur": "M. Aurélien Saintoul",
+    "citation": "Vous ne pouvez pas dire, assumant des décisions prises dans notre dos, que nous serons les garants d’un accord que nous n’avons même pas négocié !",
+    "categorie": "A"
+   },
+   "DEM": {
+    "orateur": "M. Frédéric Petit",
+    "citation": "Garantir la fin du pilonnage des civils au-delà du front, l’Europe sait le faire et peut le faire immédiatement ; c’est une garantie que l’on peut étendre.",
+    "categorie": "A"
+   },
+   "GDR": {
+    "orateur": "M. Jean-Paul Lecoq",
+    "citation": "Cela reviendrait à dire que nous entrons immédiatement en guerre",
+    "categorie": "A"
+   },
+   "UDR": {
+    "orateur": "M. Maxime Michelet",
+    "citation": "Une telle disposition est tout simplement dangereuse : une extension « immédiate », en plein conflit, de ces garanties reviendrait tout simplement à nous faire basculer dans la guerre.",
+    "categorie": "A"
+   }
+  },
+  "verification": "valide",
+  "dossier": "DLR5L17N51467",
+  "dossier_titre": "Renforcement du soutien à l'Ukraine",
+  "liens": {
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/984",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51467",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1001_texte-adopte-commission",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N128"
+  }
+ },
+ {
+  "uid": "VTANR5L17V2475",
+  "numero": 2475,
+  "date": "2025-06-18",
+  "type": "amendement",
+  "votants": 253,
+  "socle": false,
+  "solennel": false,
+  "theme": "Environnement et énergie",
+  "titre": "Inscrire dans la loi des objectifs de maintien et de construction de réacteurs nucléaires",
+  "ce_que_ca_change": "Le code de l'énergie fixerait de nouveaux objectifs : plus de 60 % d'électricité produite en 2030 par des moyens réglables à la demande ; maintenir toutes les centrales nucléaires, avec au moins 63 gigawatts jusqu'en 2035 ; lancer six nouveaux réacteurs d'ici fin 2026 ; en étudier huit autres d'ici 2030 ; maintenir le recyclage du combustible usé.",
+  "contexte": "Amendement qui remet dans le texte l'article 3 de la proposition de loi sur la programmation de l'énergie et du climat pour 2025 à 2035, voté le 18 juin 2025.",
+  "resultat": "rejeté",
+  "positions": {
+   "RN": "contre",
+   "EPR": "contre",
+   "LFI": "contre",
+   "DR": "contre",
+   "ECOS": "contre",
+   "DEM": "contre",
+   "HOR": "contre",
+   "LIOT": "pour",
+   "UDR": "contre"
+  },
+  "neutralises": [],
+  "voix": {
+   "RN": {
+    "pour": 0,
+    "contre": 85,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 0,
+    "contre": 31,
+    "abstention": 0
+   },
+   "LFI": {
+    "pour": 0,
+    "contre": 41,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 0,
+    "contre": 3,
+    "abstention": 26
+   },
+   "DR": {
+    "pour": 0,
+    "contre": 13,
+    "abstention": 0
+   },
+   "ECOS": {
+    "pour": 0,
+    "contre": 19,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 0,
+    "contre": 11,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 0,
+    "contre": 9,
+    "abstention": 0
+   },
+   "LIOT": {
+    "pour": 4,
+    "contre": 0,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 1,
+    "contre": 0,
+    "abstention": 1
+   },
+   "UDR": {
+    "pour": 1,
+    "contre": 5,
+    "abstention": 0
+   }
+  },
+  "citations": {},
+  "verification": "valide",
+  "dossier": "DLR5L16N49849",
+  "dossier_titre": "Programmation nationale et simplification normative dans le secteur économique de l’énergie",
+  "liens": {
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2475",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N49849",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1522_texte-adopte-commission",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N246"
+  }
+ },
+ {
   "uid": "VTANR5L17V3261",
   "numero": 3261,
   "date": "2025-10-30",
   "type": "amendement",
   "votants": 379,
   "socle": false,
+  "solennel": false,
   "theme": "Immigration et nationalité",
   "titre": "Supprimer la création d'un délit de séjour irrégulier en France",
   "ce_que_ca_change": "L'article supprimé punissait d'une amende de 3 750 euros tout étranger majeur resté en France sans autorisation. Cela visait aussi celui resté après la fin de son visa. Le juge pouvait aussi lui interdire le territoire français pendant trois ans. C'est le seul article du texte. Le supprimer revient donc à écarter la création de ce délit.",
@@ -5834,6 +6649,7 @@
   "type": "amendement",
   "votants": 305,
   "socle": false,
+  "solennel": false,
   "theme": "Agriculture et alimentation",
   "titre": "Signaler sur l'étiquette les produits importés cultivés avec des néonicotinoïdes",
   "ce_que_ca_change": "Les produits agricoles ou alimentaires importés devraient indiquer sur leur étiquette s'ils ont été produits avec des néonicotinoïdes. Ce sont des pesticides. Cela vaut aussi pour les pesticides qui agissent de la même façon. Les produits pour humains et pour animaux sont concernés. Sinon : six mois de prison et 150 000 euros d'amende, voire 10 % du chiffre d'affaires annuel moyen.",
@@ -5925,6 +6741,7 @@
   "type": "amendement",
   "votants": 222,
   "socle": false,
+  "solennel": false,
   "theme": "Logement",
   "titre": "Supprimer la création d'un Observatoire national du sans-abrisme",
   "ce_que_ca_change": "L'article supprimé crée un Observatoire national du sans-abrisme. Il réunit l'État, les départements et d'autres organismes. Il rassemblerait les données sur les personnes sans domicile et suivrait leur nombre. Il suivrait notamment le nombre de mineurs privés de la protection de leur famille. Il remettrait chaque année un rapport public au Gouvernement et au Parlement.",
@@ -6029,6 +6846,7 @@
   "type": "amendement",
   "votants": 213,
   "socle": false,
+  "solennel": false,
   "theme": "Agriculture et alimentation",
   "titre": "Permettre à la Safer de faire annuler des ventes de terres contournant son droit d'achat",
   "ce_que_ca_change": "La Safer est un organisme qui régule les terres agricoles. Elle peut acheter en priorité certaines terres en vente : c'est son droit de préemption. Elle pourrait demander au juge d'annuler la vente à part de certains droits sur une terre. Exemple : la terre sans son usage. Cela vaut si les informations transmises sont incomplètes, ou si des indices montrent un but surtout d'échapper à ce droit.",
@@ -6132,6 +6950,7 @@
   "type": "ensemble",
   "votants": 222,
   "socle": false,
+  "solennel": false,
   "theme": "Logement",
   "titre": "Donner aux maires de nouveaux outils pour encadrer les locations de meublés de tourisme",
   "ce_que_ca_change": "Les maires pourront limiter les meublés de tourisme : quotas, zones réservées aux résidences principales. Ils pourront réduire de 120 à 90 jours par an la location d'une résidence principale. Tous les meublés devront être enregistrés. Hors résidence principale, ils respecteront les seuils énergétiques des logements loués. La part non imposée des revenus des meublés classés passe de 71 à 50 %.",
@@ -6266,278 +7085,13 @@
   }
  },
  {
-  "uid": "VTANR5L17V451",
-  "numero": 451,
-  "date": "2024-11-20",
-  "type": "ensemble",
-  "votants": 189,
-  "socle": false,
-  "theme": "Éducation, culture et numérique",
-  "titre": "Permettre de financer l'audiovisuel public par une part d'impôt qui lui est réservée",
-  "ce_que_ca_change": "La loi qui encadre le budget de l'État autorisera ceci : un montant déterminé d'un impôt pourra être versé directement aux entreprises publiques de télévision et de radio. Leur financement ne dépendrait alors pas uniquement des sommes votées chaque année dans le budget général de l'État.",
-  "contexte": "Vote sur l'ensemble de la proposition de loi organique réformant le financement de l'audiovisuel public, en première lecture, le 20 novembre 2024.",
-  "resultat": "adopté",
-  "positions": {
-   "EPR": "pour",
-   "SOC": "pour",
-   "DR": "pour",
-   "ECOS": "pour",
-   "DEM": "pour",
-   "HOR": "pour",
-   "LIOT": "pour",
-   "GDR": "pour",
-   "UDR": "contre"
-  },
-  "neutralises": [],
-  "voix": {
-   "RN": {
-    "pour": 0,
-    "contre": 0,
-    "abstention": 52
-   },
-   "EPR": {
-    "pour": 28,
-    "contre": 0,
-    "abstention": 0
-   },
-   "LFI": {
-    "pour": 0,
-    "contre": 0,
-    "abstention": 11
-   },
-   "SOC": {
-    "pour": 24,
-    "contre": 0,
-    "abstention": 0
-   },
-   "DR": {
-    "pour": 17,
-    "contre": 0,
-    "abstention": 0
-   },
-   "ECOS": {
-    "pour": 14,
-    "contre": 0,
-    "abstention": 0
-   },
-   "DEM": {
-    "pour": 16,
-    "contre": 0,
-    "abstention": 0
-   },
-   "HOR": {
-    "pour": 12,
-    "contre": 0,
-    "abstention": 0
-   },
-   "LIOT": {
-    "pour": 3,
-    "contre": 0,
-    "abstention": 0
-   },
-   "GDR": {
-    "pour": 4,
-    "contre": 0,
-    "abstention": 0
-   },
-   "UDR": {
-    "pour": 0,
-    "contre": 6,
-    "abstention": 1
-   }
-  },
-  "citations": {
-   "EPR": {
-    "orateur": "Mme Céline Calvez (EPR)",
-    "citation": "Dans quelques instants, nous nous prononcerons en faveur de son indépendance en adoptant, par un vote conforme, la proposition de loi organique du Sénat qui vise à affecter à l’audiovisuel public un montant déterminé d’imposition.",
-    "categorie": "A"
-   },
-   "SOC": {
-    "orateur": "M. Emmanuel Grégoire (SOC)",
-    "citation": "c’est le seul moyen d’éviter une budgétisation qui ferait peser une grande menace non seulement financière mais aussi juridique sur la poursuite des activités de plusieurs acteurs de l’audiovisuel public",
-    "categorie": "A"
-   },
-   "DR": {
-    "orateur": "Mme Virginie Duby-Muller",
-    "citation": "Il permet de sanctuariser le financement de l’audiovisuel public et d’éviter sa budgétisation.",
-    "categorie": "A"
-   },
-   "ECOS": {
-    "orateur": "M. Emmanuel Duplessy (EcoS)",
-    "citation": "nous voterons la proposition de loi organique, afin de préserver l’indépendance des médias publics.",
-    "categorie": "A"
-   },
-   "DEM": {
-    "orateur": "M. Erwan Balanant",
-    "citation": "C’est pourquoi le groupe Les Démocrates votera ce texte et nous ne pouvons que nous féliciter d’un tel vote conforme.",
-    "categorie": "A"
-   },
-   "HOR": {
-    "orateur": "M. Jérémie Patrier-Leitus (HOR)",
-    "citation": "Nous voterons la proposition de loi organique car il faut donner de la visibilité aux acteurs de l’audiovisuel public, assurer un financement pérenne",
-    "categorie": "A"
-   },
-   "GDR": {
-    "orateur": "Mme Soumya Bourouaha",
-    "citation": "Or, étant responsables, nous voterons la proposition de loi organique, afin d’éviter la budgétisation, laquelle mettrait en danger ce service public.",
-    "categorie": "A"
-   },
-   "UDR": {
-    "orateur": "Mme Hanane Mansouri (UDR)",
-    "citation": "Sans suspense, le groupe UDR votera contre ce texte : nous refusons de pérenniser le financement de l’audiovisuel public, en allouant une fraction de la TVA ou au moyen de tout autre impôt.",
-    "categorie": "A"
-   }
-  },
-  "verification": "valide",
-  "dossier": "DLR5L17N50168",
-  "dossier_titre": "Proposition de loi organique portant réforme du financement de l'audiovisuel public",
-  "liens": {
-   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/451",
-   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50168",
-   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0010_texte-adopte-seance",
-   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N049"
-  }
- },
- {
-  "uid": "VTANR5L17V4707",
-  "numero": 4707,
-  "date": "2025-12-11",
-  "type": "ensemble",
-  "votants": 143,
-  "socle": false,
-  "theme": "Travail et retraites",
-  "titre": "Obliger les agents des collectivités à s'assurer collectivement contre l'arrêt de travail",
-  "ce_que_ca_change": "Une commune ou un département peut conclure un contrat collectif d'assurance. Il couvre la perte de salaire en cas d'arrêt de travail, d'invalidité ou de décès. Dans ce cas, ses agents devront y adhérer, sauf dispense. L'employeur paiera au moins la moitié de la cotisation. L'assureur ne pourra pas refuser de couvrir une maladie antérieure. Ces règles s'appliquent au plus tard à partir de 2029.",
-  "contexte": "Vote sur l'ensemble de la proposition de loi relative à la protection sociale complémentaire des agents des collectivités territoriales, en première lecture, le 11 décembre 2025.",
-  "resultat": "adopté",
-  "positions": {
-   "EPR": "pour",
-   "LFI": "contre",
-   "SOC": "pour",
-   "DR": "pour",
-   "ECOS": "pour",
-   "DEM": "pour",
-   "HOR": "pour",
-   "LIOT": "pour",
-   "UDR": "pour"
-  },
-  "neutralises": [],
-  "voix": {
-   "RN": {
-    "pour": 1,
-    "contre": 0,
-    "abstention": 19
-   },
-   "EPR": {
-    "pour": 9,
-    "contre": 0,
-    "abstention": 0
-   },
-   "LFI": {
-    "pour": 0,
-    "contre": 17,
-    "abstention": 1
-   },
-   "SOC": {
-    "pour": 57,
-    "contre": 0,
-    "abstention": 0
-   },
-   "DR": {
-    "pour": 6,
-    "contre": 0,
-    "abstention": 0
-   },
-   "ECOS": {
-    "pour": 9,
-    "contre": 0,
-    "abstention": 0
-   },
-   "DEM": {
-    "pour": 6,
-    "contre": 0,
-    "abstention": 0
-   },
-   "HOR": {
-    "pour": 9,
-    "contre": 0,
-    "abstention": 0
-   },
-   "LIOT": {
-    "pour": 4,
-    "contre": 0,
-    "abstention": 0
-   },
-   "GDR": {
-    "pour": 2,
-    "contre": 0,
-    "abstention": 0
-   },
-   "UDR": {
-    "pour": 3,
-    "contre": 0,
-    "abstention": 0
-   }
-  },
-  "citations": {
-   "EPR": {
-    "orateur": "M. Guillaume Gouffier Valente (EPR)",
-    "citation": "Le groupe Ensemble pour la République votera évidemment en faveur de la présente proposition de loi, avec conviction et engagement.",
-    "categorie": "A"
-   },
-   "LFI": {
-    "orateur": "M. Hadrien Clouet",
-    "citation": "Faute de pouvoir protéger les agents et éliminer les capitalistes de nos affaires, nous prenons rendez-vous pour 2029. En attendant, nous voterons contre la proposition de loi.",
-    "categorie": "A"
-   },
-   "DR": {
-    "orateur": "Mme Élisabeth de Maistre (DR)",
-    "citation": "Pour toutes ces raisons, tout en demeurant pleinement vigilant sur les conséquences financières pour les collectivités locales, le groupe Droite républicaine votera en faveur de ce texte et soutiendra son adoption conforme.",
-    "categorie": "A"
-   },
-   "ECOS": {
-    "orateur": "M. Emmanuel Duplessy (EcoS)",
-    "citation": "Nous voterons donc conforme ce texte qui permet, dans un contexte de fortes contraintes, une avancée sociale dans un cadre néanmoins très limité.",
-    "categorie": "A"
-   },
-   "DEM": {
-    "orateur": "Mme Josy Poueyto (Dem)",
-    "citation": "C’est un texte de justice sociale, c’est un texte de responsabilité territoriale. Il aura évidemment notre plein et entier soutien.",
-    "categorie": "A"
-   },
-   "HOR": {
-    "orateur": "Mme Agnès Firmin Le Bodo (HOR)",
-    "citation": "Pour toutes ces raisons, nous voterons en faveur de ce texte, qui permet de franchir un pas supplémentaire, petit mais très important.",
-    "categorie": "A"
-   },
-   "LIOT": {
-    "orateur": "M. Stéphane Viry (LIOT)",
-    "citation": "Saluons ces avancées en adoptant le présent texte, qui remet de l’ordre, sécurise et protège.",
-    "categorie": "A"
-   },
-   "UDR": {
-    "orateur": "M. Olivier Fayssat (UDR)",
-    "citation": "Ce texte adresse un vrai message de reconnaissance aux agents territoriaux. Il permettra de réduire la précarité et de renforcer l’attractivité de la fonction publique territoriale.",
-    "categorie": "A"
-   }
-  },
-  "verification": "valide",
-  "dossier": "DLR5L17N51457",
-  "dossier_titre": "Proposition de loi relative à la protection sociale complémentaire des agents publics territoriaux",
-  "liens": {
-   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4707",
-   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51457",
-   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0193_texte-adopte-seance",
-   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N090"
-  }
- },
- {
   "uid": "VTANR5L17V2272",
   "numero": 2272,
   "date": "2025-06-05",
   "type": "ensemble",
   "votants": 125,
   "socle": false,
+  "solennel": false,
   "theme": "Santé et protection sociale",
   "titre": "Verser les allocations familiales dès le premier enfant",
   "ce_que_ca_change": "Les familles avec un seul enfant à charge recevraient les allocations familiales. Aujourd'hui, elles sont versées à partir du deuxième enfant. Pour financer la mesure, l'intéressement et la participation des salariés paieraient des cotisations sociales au-delà de deux smic par an. Des taux réduits d'une contribution payée par les employeurs sur ces sommes seraient aussi supprimés.",
@@ -6666,6 +7220,7 @@
   "type": "article",
   "votants": 315,
   "socle": false,
+  "solennel": false,
   "theme": "Agriculture et alimentation",
   "titre": "Obliger à indiquer sur l'étiquette le pays d'origine de tous les produits alimentaires",
   "ce_que_ca_change": "L'étiquette devra indiquer le pays d'origine de tout produit agricole, alimentaire ou de la mer. Cela vaut pour les produits bruts comme pour les produits transformés. Pour un produit transformé, il faudra aussi donner l'origine de l'ingrédient principal. Il faudra aussi celle de chaque ingrédient qui représente au moins 10 % du produit.",
@@ -6763,106 +7318,13 @@
   }
  },
  {
-  "uid": "VTANR5L17V3142",
-  "numero": 3142,
-  "date": "2025-10-27",
-  "type": "amendement",
-  "votants": 379,
-  "socle": false,
-  "theme": "Économie et impôts",
-  "titre": "Maintenir en 2026 le taux 2025 de la surtaxe sur les bénéfices des grandes entreprises",
-  "ce_que_ca_change": "Le budget prolonge en 2026 une contribution exceptionnelle sur les bénéfices des grandes entreprises. Elle vise celles qui réalisent au moins 1 milliard d'euros de chiffre d'affaires en France. Le budget divise ses taux par deux. L'amendement supprime cette baisse. Les taux resteraient ceux de 2025 : 20,6 % ou 41,2 % selon la taille de l'entreprise, au lieu de 10,3 % ou 20,6 %.",
-  "contexte": "Amendement à l'article 4 du projet de loi de finances (budget de l'État) pour 2026, voté le 27 octobre 2025.",
-  "resultat": "rejeté",
-  "positions": {
-   "RN": "contre",
-   "EPR": "contre",
-   "LFI": "pour",
-   "SOC": "pour",
-   "DR": "contre",
-   "ECOS": "pour",
-   "DEM": "contre",
-   "HOR": "contre",
-   "LIOT": "pour",
-   "GDR": "pour",
-   "UDR": "contre"
-  },
-  "neutralises": [],
-  "voix": {
-   "RN": {
-    "pour": 0,
-    "contre": 93,
-    "abstention": 0
-   },
-   "EPR": {
-    "pour": 0,
-    "contre": 47,
-    "abstention": 1
-   },
-   "LFI": {
-    "pour": 56,
-    "contre": 0,
-    "abstention": 0
-   },
-   "SOC": {
-    "pour": 56,
-    "contre": 0,
-    "abstention": 0
-   },
-   "DR": {
-    "pour": 0,
-    "contre": 25,
-    "abstention": 0
-   },
-   "ECOS": {
-    "pour": 33,
-    "contre": 0,
-    "abstention": 0
-   },
-   "DEM": {
-    "pour": 0,
-    "contre": 20,
-    "abstention": 0
-   },
-   "HOR": {
-    "pour": 0,
-    "contre": 18,
-    "abstention": 0
-   },
-   "LIOT": {
-    "pour": 8,
-    "contre": 1,
-    "abstention": 1
-   },
-   "GDR": {
-    "pour": 9,
-    "contre": 0,
-    "abstention": 0
-   },
-   "UDR": {
-    "pour": 0,
-    "contre": 7,
-    "abstention": 0
-   }
-  },
-  "citations": {},
-  "verification": "valide",
-  "dossier": "DLR5L17N52428",
-  "dossier_titre": "Projet de loi de finances pour 2026",
-  "liens": {
-   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3142",
-   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52428",
-   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1906_projet-loi",
-   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N015"
-  }
- },
- {
   "uid": "VTANR5L17V468",
   "numero": 468,
   "date": "2024-11-28",
   "type": "amendement",
   "votants": 342,
   "socle": false,
+  "solennel": false,
   "theme": "Travail et retraites",
   "titre": "Supprimer le retour de l'âge légal de départ à la retraite de 64 à 62 ans",
   "ce_que_ca_change": "L'article supprimé ramenait l'âge légal de départ à la retraite de 64 à 62 ans. Il annulait aussi la hausse de la durée de cotisation à 43 années. Le supprimer revient à garder l'âge légal à 64 ans. Les règles actuelles de durée de cotisation resteraient aussi en place.",
@@ -6986,319 +7448,108 @@
   }
  },
  {
-  "uid": "VTANR5L17V2475",
-  "numero": 2475,
-  "date": "2025-06-18",
+  "uid": "VTANR5L17V187",
+  "numero": 187,
+  "date": "2024-10-29",
   "type": "amendement",
-  "votants": 253,
+  "votants": 241,
   "socle": false,
-  "theme": "Environnement et énergie",
-  "titre": "Inscrire dans la loi des objectifs de maintien et de construction de réacteurs nucléaires",
-  "ce_que_ca_change": "Le code de l'énergie fixerait de nouveaux objectifs : plus de 60 % d'électricité produite en 2030 par des moyens réglables à la demande ; maintenir toutes les centrales nucléaires, avec au moins 63 gigawatts jusqu'en 2035 ; lancer six nouveaux réacteurs d'ici fin 2026 ; en étudier huit autres d'ici 2030 ; maintenir le recyclage du combustible usé.",
-  "contexte": "Amendement qui remet dans le texte l'article 3 de la proposition de loi sur la programmation de l'énergie et du climat pour 2025 à 2035, voté le 18 juin 2025.",
-  "resultat": "rejeté",
-  "positions": {
-   "RN": "contre",
-   "EPR": "contre",
-   "LFI": "contre",
-   "DR": "contre",
-   "ECOS": "contre",
-   "DEM": "contre",
-   "HOR": "contre",
-   "LIOT": "pour",
-   "UDR": "contre"
-  },
-  "neutralises": [],
-  "voix": {
-   "RN": {
-    "pour": 0,
-    "contre": 85,
-    "abstention": 0
-   },
-   "EPR": {
-    "pour": 0,
-    "contre": 31,
-    "abstention": 0
-   },
-   "LFI": {
-    "pour": 0,
-    "contre": 41,
-    "abstention": 0
-   },
-   "SOC": {
-    "pour": 0,
-    "contre": 3,
-    "abstention": 26
-   },
-   "DR": {
-    "pour": 0,
-    "contre": 13,
-    "abstention": 0
-   },
-   "ECOS": {
-    "pour": 0,
-    "contre": 19,
-    "abstention": 0
-   },
-   "DEM": {
-    "pour": 0,
-    "contre": 11,
-    "abstention": 0
-   },
-   "HOR": {
-    "pour": 0,
-    "contre": 9,
-    "abstention": 0
-   },
-   "LIOT": {
-    "pour": 4,
-    "contre": 0,
-    "abstention": 0
-   },
-   "GDR": {
-    "pour": 1,
-    "contre": 0,
-    "abstention": 1
-   },
-   "UDR": {
-    "pour": 1,
-    "contre": 5,
-    "abstention": 0
-   }
-  },
-  "citations": {},
-  "verification": "valide",
-  "dossier": "DLR5L16N49849",
-  "dossier_titre": "Programmation nationale et simplification normative dans le secteur économique de l’énergie",
-  "liens": {
-   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2475",
-   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N49849",
-   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1522_texte-adopte-commission",
-   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N246"
-  }
- },
- {
-  "uid": "VTANR5L17V1214",
-  "numero": 1214,
-  "date": "2025-04-02",
-  "type": "amendement",
-  "votants": 243,
-  "socle": false,
-  "theme": "Santé et protection sociale",
-  "titre": "Soumettre l'installation des médecins à une autorisation de l'agence régionale de santé",
-  "ce_que_ca_change": "Tout médecin, libéral ou salarié, devrait obtenir l'accord de l'agence régionale de santé avant de s'installer. C'est l'administration de la santé dans chaque région. L'accord serait automatique là où l'offre de soins est insuffisante. Ailleurs, il faudrait qu'un médecin de la même spécialité cesse au même moment son activité dans la zone.",
-  "contexte": "Amendement qui remet dans le texte l'article 1er de la proposition de loi visant à lutter contre les déserts médicaux, voté le 2 avril 2025.",
+  "solennel": false,
+  "theme": "Travail et retraites",
+  "titre": "Plafonner à 31,65 % la cotisation retraite payée par les collectivités et les hôpitaux",
+  "ce_que_ca_change": "Les collectivités locales et les établissements de santé versent une cotisation à la caisse de retraite de leurs fonctionnaires. À partir du 1er janvier 2025, elle ne pourrait pas dépasser 31,65 % des salaires. La Sécurité sociale perdrait des recettes. Cette perte serait compensée par une hausse de la taxe sur le tabac.",
+  "contexte": "Amendement ajoutant un article au budget de la Sécurité sociale pour 2025, voté le 29 octobre 2024.",
   "resultat": "adopté",
   "positions": {
-   "RN": "contre",
+   "RN": "pour",
    "EPR": "contre",
    "LFI": "pour",
    "SOC": "pour",
+   "DR": "contre",
    "ECOS": "pour",
-   "DEM": "pour",
+   "DEM": "contre",
+   "HOR": "contre",
    "LIOT": "pour",
    "GDR": "pour"
   },
   "neutralises": [],
   "voix": {
    "RN": {
-    "pour": 0,
-    "contre": 50,
+    "pour": 70,
+    "contre": 0,
     "abstention": 0
    },
    "EPR": {
-    "pour": 4,
-    "contre": 18,
-    "abstention": 1
+    "pour": 0,
+    "contre": 36,
+    "abstention": 0
    },
    "LFI": {
-    "pour": 40,
+    "pour": 36,
     "contre": 0,
     "abstention": 0
    },
    "SOC": {
-    "pour": 50,
-    "contre": 1,
+    "pour": 41,
+    "contre": 0,
     "abstention": 0
    },
    "DR": {
-    "pour": 8,
-    "contre": 6,
-    "abstention": 0
+    "pour": 0,
+    "contre": 5,
+    "abstention": 1
    },
    "ECOS": {
-    "pour": 19,
+    "pour": 15,
     "contre": 0,
     "abstention": 0
    },
    "DEM": {
-    "pour": 7,
-    "contre": 1,
-    "abstention": 2
+    "pour": 1,
+    "contre": 8,
+    "abstention": 1
    },
    "HOR": {
-    "pour": 8,
-    "contre": 5,
+    "pour": 0,
+    "contre": 10,
     "abstention": 0
    },
    "LIOT": {
-    "pour": 6,
-    "contre": 1,
-    "abstention": 0
-   },
-   "GDR": {
-    "pour": 10,
-    "contre": 0,
-    "abstention": 0
-   },
-   "UDR": {
-    "pour": 2,
-    "contre": 2,
-    "abstention": 0
-   }
-  },
-  "citations": {},
-  "verification": "valide",
-  "dossier": "DLR5L17N51516",
-  "dossier_titre": "Contre les déserts médicaux, d'initiative transpartisane",
-  "liens": {
-   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1214",
-   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51516",
-   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1180_texte-adopte-commission",
-   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N158"
-  }
- },
- {
-  "uid": "VTANR5L17V853",
-  "numero": 853,
-  "date": "2025-02-20",
-  "type": "amendement",
-  "votants": 241,
-  "socle": false,
-  "theme": "Économie et impôts",
-  "titre": "Supprimer l'impôt minimum de 2 % sur les patrimoines de plus de 100 millions d'euros",
-  "ce_que_ca_change": "L'article supprimé crée un impôt pour les personnes dont le patrimoine dépasse 100 millions d'euros. Il serait égal à 2 % de ce patrimoine. On en déduirait les impôts déjà payés dans l'année : impôt sur le revenu, impôt sur la fortune immobilière, CSG et autres prélèvements sociaux. C'est le seul article du texte.",
-  "contexte": "Amendement qui supprime l'article unique de la proposition de loi instaurant un impôt minimum de 2 % sur les très grands patrimoines, voté le 20 février 2025.",
-  "resultat": "rejeté",
-  "positions": {
-   "RN": "contre",
-   "EPR": "pour",
-   "LFI": "contre",
-   "SOC": "contre",
-   "DR": "pour",
-   "ECOS": "contre",
-   "DEM": "pour",
-   "GDR": "contre",
-   "UDR": "pour"
-  },
-  "neutralises": [],
-  "voix": {
-   "RN": {
-    "pour": 0,
-    "contre": 47,
-    "abstention": 0
-   },
-   "EPR": {
-    "pour": 23,
-    "contre": 0,
-    "abstention": 0
-   },
-   "LFI": {
-    "pour": 0,
-    "contre": 44,
-    "abstention": 0
-   },
-   "SOC": {
-    "pour": 0,
-    "contre": 46,
-    "abstention": 0
-   },
-   "DR": {
     "pour": 3,
     "contre": 0,
-    "abstention": 1
-   },
-   "ECOS": {
-    "pour": 0,
-    "contre": 38,
-    "abstention": 0
-   },
-   "DEM": {
-    "pour": 12,
-    "contre": 0,
-    "abstention": 0
-   },
-   "HOR": {
-    "pour": 7,
-    "contre": 3,
-    "abstention": 0
-   },
-   "LIOT": {
-    "pour": 1,
-    "contre": 1,
     "abstention": 0
    },
    "GDR": {
-    "pour": 0,
-    "contre": 8,
+    "pour": 5,
+    "contre": 0,
     "abstention": 0
    },
    "UDR": {
-    "pour": 7,
+    "pour": 0,
     "contre": 0,
-    "abstention": 0
+    "abstention": 7
    }
   },
   "citations": {
    "EPR": {
-    "orateur": "M. Daniel Labaronne",
-    "citation": "Il me semble que le taux progressif sur les revenus du capital est déjà très élevé, conduisant à des taux effectifs très importants.",
-    "categorie": "A"
-   },
-   "LFI": {
-    "orateur": "Mme Gabrielle Cathala",
-    "citation": "Alors vive l’imposition des plus fortunés, principal outil pour redistribuer les richesses et financer nos services publics !",
+    "orateur": "Mme Stéphanie Rist",
+    "citation": "Nous sommes opposés à cet amendement. Il faut bien prévoir les retraites des agents hospitaliers et de ceux des collectivités territoriales.",
     "categorie": "A"
    },
    "SOC": {
-    "orateur": "M. Mickaël Bouloux",
-    "citation": "Cette proposition de loi répond à une urgence sociale et économique. Nous soutiendrons la version défendue par Mme la rapporteure.",
-    "categorie": "A"
-   },
-   "DR": {
-    "orateur": "M. Fabien Di Filippo",
-    "citation": "S’il faut supprimer l’article unique instaurant un nouvel impôt sur le patrimoine, c’est parce que, parmi les pays de l’OCDE, la France détient déjà le record des prélèvements obligatoires.",
-    "categorie": "A"
-   },
-   "ECOS": {
-    "orateur": "Mme Clémentine Autain",
-    "citation": "Oui, il faut investir dans le bien commun et, pour y parvenir, il faut de la justice fiscale.",
-    "categorie": "A"
-   },
-   "DEM": {
-    "orateur": "M. Jean-Paul Mattei",
-    "citation": "Votre idée est intéressante mais le dispositif ne fonctionne pas. Si un tel texte était adopté, il provoquerait des effets pervers.",
-    "categorie": "A"
-   },
-   "GDR": {
-    "orateur": "M. Nicolas Sansu",
-    "citation": "le groupe de la Gauche démocrate et républicaine soutient pleinement cette initiative et votera le texte sans aucune réserve.",
-    "categorie": "A"
-   },
-   "UDR": {
-    "orateur": "M. Olivier Fayssat",
-    "citation": "Nous ne voterons pas cette folie fiscale",
+    "orateur": "M. Jérôme Guedj",
+    "citation": "Notre assemblée doit marquer son opposition ferme à ce tour de passe-passe – j’aurais pu parler de hold-up. Les crédits alloués à l’hôpital ne doivent pas être amputés de l’équivalent du financement – légitime – de la CNRACL.",
     "categorie": "A"
    }
   },
   "verification": "valide",
-  "dossier": "DLR5L17N51215",
-  "dossier_titre": "Impôt plancher de 2 % sur le patrimoine des ultra riches",
+  "dossier": "DLR5L17N50588",
+  "dossier_titre": "Projet de loi de financement de la sécurité sociale pour 2025",
   "liens": {
-   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/853",
-   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51215",
-   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0930_texte-adopte-commission",
-   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N111"
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/187",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50588",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0325_projet-loi",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N025"
   }
  },
  {
@@ -7308,6 +7559,7 @@
   "type": "amendement",
   "votants": 231,
   "socle": false,
+  "solennel": false,
   "theme": "Économie et impôts",
   "titre": "Imposer les multinationales en France selon la part de leurs ventes réalisée en France",
   "ce_que_ca_change": "Une entreprise active en France serait imposée sur une part de ses bénéfices mondiaux. Cette part serait égale à la part de son chiffre d'affaires réalisée en France. Si elle paie moins de 25 % d'impôt sur ses bénéfices dans le monde, son impôt en France monterait d'autant. Une exception est prévue si l'écart ne vient pas d'un montage pour éviter l'impôt français.",
@@ -7432,81 +7684,79 @@
   }
  },
  {
-  "uid": "VTANR5L17V4453",
-  "numero": 4453,
-  "date": "2025-12-02",
-  "type": "partie",
-  "votants": 314,
+  "uid": "VTANR5L17V2130",
+  "numero": 2130,
+  "date": "2025-05-27",
+  "type": "amendement",
+  "votants": 219,
   "socle": false,
-  "theme": "Santé et protection sociale",
-  "titre": "Approuver les comptes corrigés de la Sécurité sociale pour l'année 2025",
-  "ce_que_ca_change": "Cette partie du budget de la Sécurité sociale corrige les prévisions pour 2025, l'année en cours. Elle porte sur les recettes et les dépenses. Elle fixe le déficit des régimes de base à environ 23 milliards d'euros pour 2025. Ces régimes couvrent notamment la retraite, la maladie et la famille.",
-  "contexte": "Vote sur la première partie du budget de la Sécurité sociale pour 2026, lors de son nouvel examen, le 2 décembre 2025.",
-  "resultat": "adopté",
+  "solennel": false,
+  "theme": "Environnement et énergie",
+  "titre": "Supprimer la marge de 30 % sur les objectifs locaux de limitation de l'urbanisation",
+  "ce_que_ca_change": "La disposition supprimée permettrait aux plans d'urbanisme locaux d'ouvrir à la construction, sans justification, jusqu'à 30 % de terrains naturels, agricoles ou forestiers de plus que l'objectif local de réduction fixé pour 2024 à 2034, et davantage avec l'accord du préfet. Ces objectifs découlent de la règle dite « zéro artificialisation nette » des sols.",
+  "contexte": "Amendement du Gouvernement à l'article 15 du projet de loi de simplification de la vie économique, examiné le 27 mai 2025.",
+  "resultat": "rejeté",
   "positions": {
    "RN": "contre",
-   "EPR": "pour",
-   "LFI": "contre",
+   "LFI": "pour",
    "SOC": "pour",
-   "DR": "pour",
-   "ECOS": "contre",
+   "DR": "contre",
+   "ECOS": "pour",
    "DEM": "pour",
-   "HOR": "pour",
-   "LIOT": "pour",
-   "GDR": "contre",
+   "HOR": "contre",
    "UDR": "contre"
   },
   "neutralises": [],
   "voix": {
    "RN": {
     "pour": 0,
-    "contre": 80,
+    "contre": 88,
     "abstention": 0
    },
    "EPR": {
-    "pour": 52,
+    "pour": 9,
+    "contre": 6,
+    "abstention": 5
+   },
+   "LFI": {
+    "pour": 33,
     "contre": 0,
     "abstention": 0
    },
-   "LFI": {
-    "pour": 0,
-    "contre": 40,
-    "abstention": 0
-   },
    "SOC": {
-    "pour": 53,
+    "pour": 17,
     "contre": 0,
     "abstention": 0
    },
    "DR": {
+    "pour": 0,
+    "contre": 14,
+    "abstention": 0
+   },
+   "ECOS": {
     "pour": 24,
     "contre": 0,
     "abstention": 0
    },
-   "ECOS": {
-    "pour": 0,
-    "contre": 12,
-    "abstention": 1
-   },
    "DEM": {
-    "pour": 21,
+    "pour": 3,
     "contre": 0,
     "abstention": 0
    },
    "HOR": {
-    "pour": 15,
-    "contre": 0,
-    "abstention": 0
+    "pour": 1,
+    "contre": 6,
+    "abstention": 2
    },
    "LIOT": {
-    "pour": 5,
-    "contre": 0,
+    "pour": 1,
+    "contre": 2,
     "abstention": 0
    },
    "GDR": {
-    "pour": 0,
-    "contre": 3,
-    "abstention": 2
+    "pour": 1,
+    "contre": 0,
+    "abstention": 0
    },
    "UDR": {
     "pour": 0,
@@ -7516,50 +7766,56 @@
   },
   "citations": {
    "RN": {
-    "orateur": "M. Christophe Bentz",
-    "citation": "Du macronisme, nous contestons tout : votre politique, votre gouvernement, votre trajectoire budgétaire. Ce n’est pas par amusement que nous voulons supprimer ces articles, mais parce que c’est notre position politique",
+    "orateur": "M. Matthias Renault",
+    "citation": "Nous voterons contre ces amendements identiques pour une raison simple, rappelée par le rapporteur : s’ils sont adoptés, nous ne pourrons pas voter pour la suppression du ZAN !",
     "categorie": "A"
    },
    "LFI": {
-    "orateur": "M. Damien Maudet",
-    "citation": "L’article 3 diminue le montant du fonds susceptible d’augmenter les capacités de réanimation néonatale.",
+    "orateur": "Mme Claire Lejeune",
+    "citation": "Le ZAN apportait une réponse, peut-être imparfaite et critiquable sur certains points, mais une réponse tout de même. Nous ne pouvons plus continuer à foncer droit dans le mur en accélérant sans cesse l’artificialisation des sols.",
     "categorie": "A"
    },
-   "ECOS": {
-    "orateur": "Mme Sandrine Rousseau",
-    "citation": "Je ne comprends pas l’objet de cette diminution et vous invite à revenir dessus.",
+   "SOC": {
+    "orateur": "M. Peio Dufau",
+    "citation": "L’objectif ZAN vise précisément à préserver celles que nous avons réussi à sauver pour les agriculteurs.",
     "categorie": "A"
    },
-   "GDR": {
-    "orateur": "M. Yannick Monnet",
-    "citation": "En l’occurrence, ils ne nous semblent pas utiles, c’est pourquoi nous votons contre cette photographie qu’est la première partie du PLFSS, ou que nous nous abstenons.",
+   "DR": {
+    "orateur": "M. Ian Boucard",
+    "citation": "Il existe bien des positions différentes sur le ZAN. Nous sommes un certain nombre à penser qu’il doit être supprimé.",
+    "categorie": "A"
+   },
+   "UDR": {
+    "orateur": "Mme Brigitte Barèges",
+    "citation": "Le groupe UDR votera contre l’ensemble de ces amendements, car nous ne comptons pas attendre l’adoption de la proposition de loi Trace pour supprimer le ZAN.",
     "categorie": "A"
    }
   },
   "verification": "valide",
-  "dossier": "DLR5L17N52922",
-  "dossier_titre": "Projet de loi de financement de la sécurité sociale pour 2026",
+  "dossier": "DLR5L16N49868",
+  "dossier_titre": "Projet de loi de simplification de la vie économique",
   "liens": {
-   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4453",
-   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52922",
-   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2141_projet-loi",
-   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N076"
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2130",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N49868",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1191_texte-adopte-commission",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N218"
   }
  },
  {
-  "uid": "VTANR5L17V187",
-  "numero": 187,
-  "date": "2024-10-29",
+  "uid": "VTANR5L17V5449",
+  "numero": 5449,
+  "date": "2026-02-17",
   "type": "amendement",
-  "votants": 241,
+  "votants": 224,
   "socle": false,
-  "theme": "Travail et retraites",
-  "titre": "Plafonner à 31,65 % la cotisation retraite payée par les collectivités et les hôpitaux",
-  "ce_que_ca_change": "Les collectivités locales et les établissements de santé versent une cotisation à la caisse de retraite de leurs fonctionnaires. À partir du 1er janvier 2025, elle ne pourrait pas dépasser 31,65 % des salaires. La Sécurité sociale perdrait des recettes. Cette perte serait compensée par une hausse de la taxe sur le tabac.",
-  "contexte": "Amendement ajoutant un article au budget de la Sécurité sociale pour 2025, voté le 29 octobre 2024.",
-  "resultat": "adopté",
+  "solennel": false,
+  "theme": "Santé et protection sociale",
+  "titre": "Créer un droit aux soins palliatifs que les malades peuvent faire valoir devant le juge",
+  "ce_que_ca_change": "Toute personne dont l'état de santé le demande aurait un droit garanti aux soins palliatifs et à un accompagnement. Les agences régionales de santé devraient faire respecter ce droit. Un délai serait fixé par décret. Sans proposition de prise en charge dans ce délai, le malade pourrait saisir en urgence le juge administratif. Un proche pourrait aussi le faire, avec l'accord du malade.",
+  "contexte": "Amendement à l'article 4 de la proposition de loi sur l'accès de tous aux soins palliatifs, lors de son deuxième examen, voté le 17 février 2026.",
+  "resultat": "rejeté",
   "positions": {
-   "RN": "pour",
+   "RN": "contre",
    "EPR": "contre",
    "LFI": "pour",
    "SOC": "pour",
@@ -7568,86 +7824,76 @@
    "DEM": "contre",
    "HOR": "contre",
    "LIOT": "pour",
-   "GDR": "pour"
+   "GDR": "pour",
+   "UDR": "contre"
   },
   "neutralises": [],
   "voix": {
    "RN": {
-    "pour": 70,
-    "contre": 0,
+    "pour": 1,
+    "contre": 52,
     "abstention": 0
    },
    "EPR": {
     "pour": 0,
-    "contre": 36,
-    "abstention": 0
+    "contre": 21,
+    "abstention": 2
    },
    "LFI": {
-    "pour": 36,
+    "pour": 34,
     "contre": 0,
     "abstention": 0
    },
    "SOC": {
-    "pour": 41,
-    "contre": 0,
-    "abstention": 0
+    "pour": 34,
+    "contre": 1,
+    "abstention": 1
    },
    "DR": {
     "pour": 0,
-    "contre": 5,
-    "abstention": 1
+    "contre": 10,
+    "abstention": 3
    },
    "ECOS": {
-    "pour": 15,
+    "pour": 18,
     "contre": 0,
     "abstention": 0
    },
    "DEM": {
     "pour": 1,
-    "contre": 8,
+    "contre": 9,
     "abstention": 1
    },
    "HOR": {
     "pour": 0,
-    "contre": 10,
-    "abstention": 0
+    "contre": 11,
+    "abstention": 2
    },
    "LIOT": {
-    "pour": 3,
+    "pour": 6,
     "contre": 0,
-    "abstention": 0
+    "abstention": 1
    },
    "GDR": {
-    "pour": 5,
+    "pour": 4,
     "contre": 0,
     "abstention": 0
    },
    "UDR": {
     "pour": 0,
-    "contre": 0,
-    "abstention": 7
+    "contre": 8,
+    "abstention": 0
    }
   },
-  "citations": {
-   "EPR": {
-    "orateur": "Mme Stéphanie Rist",
-    "citation": "Nous sommes opposés à cet amendement. Il faut bien prévoir les retraites des agents hospitaliers et de ceux des collectivités territoriales.",
-    "categorie": "A"
-   },
-   "SOC": {
-    "orateur": "M. Jérôme Guedj",
-    "citation": "Notre assemblée doit marquer son opposition ferme à ce tour de passe-passe – j’aurais pu parler de hold-up. Les crédits alloués à l’hôpital ne doivent pas être amputés de l’équivalent du financement – légitime – de la CNRACL.",
-    "categorie": "A"
-   }
-  },
+  "citations": {},
   "verification": "valide",
-  "dossier": "DLR5L17N50588",
-  "dossier_titre": "Projet de loi de financement de la sécurité sociale pour 2025",
+  "dossier": "DLR5L17N51672",
+  "dossier_titre": "Soins palliatifs et d’accompagnement",
   "liens": {
-   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/187",
-   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50588",
-   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0325_projet-loi",
-   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N025"
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5449",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51672",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2457_texte-adopte-commission",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N153"
   }
  },
  {
@@ -7657,6 +7903,7 @@
   "type": "amendement",
   "votants": 283,
   "socle": false,
+  "solennel": false,
   "theme": "Santé et protection sociale",
   "titre": "Prévoir que les médecins sollicités pour une aide à mourir soient formés à cette mission",
   "ce_que_ca_change": "Le texte prévoit qu'une personne qui souhaite recourir à l'aide à mourir en fasse la demande à un médecin. L'amendement ajoute que ce médecin est « de droit » formé à ce type d'accompagnement. Selon son exposé, le but est de donner à ces médecins droit à une formation continue sur ce sujet.",
@@ -7754,6 +8001,7 @@
   "type": "ensemble",
   "votants": 247,
   "socle": false,
+  "solennel": false,
   "theme": "Agriculture et alimentation",
   "titre": "Adopter la loi sur les chambres d'agriculture et la sécurité sociale des agriculteurs",
   "ce_que_ca_change": "Le texte modifie les élections de la Mutualité sociale agricole, la sécurité sociale des agriculteurs. Pour ces élections, la métropole de Lyon est découpée en circonscriptions. Les assurés en retard de cotisations peuvent voter. Mais pour être candidats, ils doivent les avoir réglées. Les dirigeants de coopératives qui vendent des pesticides pourront siéger au bureau des chambres d'agriculture.",
@@ -7872,12 +8120,147 @@
   }
  },
  {
+  "uid": "VTANR5L17V451",
+  "numero": 451,
+  "date": "2024-11-20",
+  "type": "ensemble",
+  "votants": 189,
+  "socle": false,
+  "solennel": false,
+  "theme": "Éducation, culture et numérique",
+  "titre": "Permettre de financer l'audiovisuel public par une part d'impôt qui lui est réservée",
+  "ce_que_ca_change": "La loi qui encadre le budget de l'État autorisera ceci : un montant déterminé d'un impôt pourra être versé directement aux entreprises publiques de télévision et de radio. Leur financement ne dépendrait alors pas uniquement des sommes votées chaque année dans le budget général de l'État.",
+  "contexte": "Vote sur l'ensemble de la proposition de loi organique réformant le financement de l'audiovisuel public, en première lecture, le 20 novembre 2024.",
+  "resultat": "adopté",
+  "positions": {
+   "EPR": "pour",
+   "SOC": "pour",
+   "DR": "pour",
+   "ECOS": "pour",
+   "DEM": "pour",
+   "HOR": "pour",
+   "LIOT": "pour",
+   "GDR": "pour",
+   "UDR": "contre"
+  },
+  "neutralises": [],
+  "voix": {
+   "RN": {
+    "pour": 0,
+    "contre": 0,
+    "abstention": 52
+   },
+   "EPR": {
+    "pour": 28,
+    "contre": 0,
+    "abstention": 0
+   },
+   "LFI": {
+    "pour": 0,
+    "contre": 0,
+    "abstention": 11
+   },
+   "SOC": {
+    "pour": 24,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 17,
+    "contre": 0,
+    "abstention": 0
+   },
+   "ECOS": {
+    "pour": 14,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 16,
+    "contre": 0,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 12,
+    "contre": 0,
+    "abstention": 0
+   },
+   "LIOT": {
+    "pour": 3,
+    "contre": 0,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 4,
+    "contre": 0,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 0,
+    "contre": 6,
+    "abstention": 1
+   }
+  },
+  "citations": {
+   "EPR": {
+    "orateur": "Mme Céline Calvez (EPR)",
+    "citation": "Dans quelques instants, nous nous prononcerons en faveur de son indépendance en adoptant, par un vote conforme, la proposition de loi organique du Sénat qui vise à affecter à l’audiovisuel public un montant déterminé d’imposition.",
+    "categorie": "A"
+   },
+   "SOC": {
+    "orateur": "M. Emmanuel Grégoire (SOC)",
+    "citation": "c’est le seul moyen d’éviter une budgétisation qui ferait peser une grande menace non seulement financière mais aussi juridique sur la poursuite des activités de plusieurs acteurs de l’audiovisuel public",
+    "categorie": "A"
+   },
+   "DR": {
+    "orateur": "Mme Virginie Duby-Muller",
+    "citation": "Il permet de sanctuariser le financement de l’audiovisuel public et d’éviter sa budgétisation.",
+    "categorie": "A"
+   },
+   "ECOS": {
+    "orateur": "M. Emmanuel Duplessy (EcoS)",
+    "citation": "nous voterons la proposition de loi organique, afin de préserver l’indépendance des médias publics.",
+    "categorie": "A"
+   },
+   "DEM": {
+    "orateur": "M. Erwan Balanant",
+    "citation": "C’est pourquoi le groupe Les Démocrates votera ce texte et nous ne pouvons que nous féliciter d’un tel vote conforme.",
+    "categorie": "A"
+   },
+   "HOR": {
+    "orateur": "M. Jérémie Patrier-Leitus (HOR)",
+    "citation": "Nous voterons la proposition de loi organique car il faut donner de la visibilité aux acteurs de l’audiovisuel public, assurer un financement pérenne",
+    "categorie": "A"
+   },
+   "GDR": {
+    "orateur": "Mme Soumya Bourouaha",
+    "citation": "Or, étant responsables, nous voterons la proposition de loi organique, afin d’éviter la budgétisation, laquelle mettrait en danger ce service public.",
+    "categorie": "A"
+   },
+   "UDR": {
+    "orateur": "Mme Hanane Mansouri (UDR)",
+    "citation": "Sans suspense, le groupe UDR votera contre ce texte : nous refusons de pérenniser le financement de l’audiovisuel public, en allouant une fraction de la TVA ou au moyen de tout autre impôt.",
+    "categorie": "A"
+   }
+  },
+  "verification": "valide",
+  "dossier": "DLR5L17N50168",
+  "dossier_titre": "Proposition de loi organique portant réforme du financement de l'audiovisuel public",
+  "liens": {
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/451",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50168",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0010_texte-adopte-seance",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N049"
+  }
+ },
+ {
   "uid": "VTANR5L17V840",
   "numero": 840,
   "date": "2025-02-18",
   "type": "ensemble",
   "votants": 184,
   "socle": false,
+  "solennel": false,
   "theme": "Éducation, culture et numérique",
   "titre": "Prolonger jusqu'en 2028 les concours « talents » des écoles de la haute fonction publique",
   "ce_que_ca_change": "Depuis 2021, une expérimentation réserve des places dans des concours spéciaux à des étudiants de milieux modestes. Ils doivent être passés par une classe préparatoire « talents ». L'expérimentation est prolongée jusqu'au 31 août 2028, dès les concours ouverts depuis le 1er août 2024. Elle s'étend aux écoles qui forment des militaires. Le bilan dû par le Gouvernement est repoussé à mars 2028.",
@@ -7994,646 +8377,13 @@
   }
  },
  {
-  "uid": "VTANR5L17V2131",
-  "numero": 2131,
-  "date": "2025-05-28",
-  "type": "amendement",
-  "votants": 311,
-  "socle": false,
-  "theme": "Environnement et énergie",
-  "titre": "Supprimer les règles nationales de l'objectif « zéro artificialisation nette » des sols",
-  "ce_que_ca_change": "L'article 194 de la loi climat de 2021 serait supprimé. Il vise à ce que les constructions et aménagements consomment moins d'espaces naturels, agricoles et forestiers. Il organise cette réduction dans les territoires, en vue de l'objectif « zéro artificialisation nette » en 2050. Les règles qu'il fixe pour les documents d'urbanisme seraient supprimées.",
-  "contexte": "Amendement à l'article 15 du projet de loi de simplification de la vie économique, voté le 28 mai 2025.",
-  "resultat": "rejeté",
-  "positions": {
-   "RN": "pour",
-   "EPR": "contre",
-   "LFI": "contre",
-   "SOC": "contre",
-   "DR": "pour",
-   "ECOS": "contre",
-   "DEM": "contre",
-   "HOR": "contre",
-   "LIOT": "contre",
-   "GDR": "contre",
-   "UDR": "pour"
-  },
-  "neutralises": [],
-  "voix": {
-   "RN": {
-    "pour": 94,
-    "contre": 0,
-    "abstention": 0
-   },
-   "EPR": {
-    "pour": 1,
-    "contre": 29,
-    "abstention": 3
-   },
-   "LFI": {
-    "pour": 0,
-    "contre": 52,
-    "abstention": 0
-   },
-   "SOC": {
-    "pour": 0,
-    "contre": 37,
-    "abstention": 0
-   },
-   "DR": {
-    "pour": 23,
-    "contre": 0,
-    "abstention": 1
-   },
-   "ECOS": {
-    "pour": 0,
-    "contre": 31,
-    "abstention": 0
-   },
-   "DEM": {
-    "pour": 0,
-    "contre": 12,
-    "abstention": 1
-   },
-   "HOR": {
-    "pour": 0,
-    "contre": 10,
-    "abstention": 0
-   },
-   "LIOT": {
-    "pour": 0,
-    "contre": 4,
-    "abstention": 0
-   },
-   "GDR": {
-    "pour": 0,
-    "contre": 3,
-    "abstention": 0
-   },
-   "UDR": {
-    "pour": 9,
-    "contre": 0,
-    "abstention": 0
-   }
-  },
-  "citations": {
-   "RN": {
-    "orateur": "M. Matthias Renault",
-    "citation": "Chers collègues du bloc central, la loi « climat et résilience » a été une immense erreur.",
-    "categorie": "A"
-   },
-   "EPR": {
-    "orateur": "Mme Sandrine Le Feur",
-    "citation": "Nous devons protéger nos concitoyens et donc conserver cet objectif zéro artificialisation nette.",
-    "categorie": "A"
-   },
-   "LFI": {
-    "orateur": "M. François Piquemal",
-    "citation": "Nos collègues de la droite et de l’extrême droite veulent supprimer le ZAN pour pouvoir continuer la bétonisation, en cours depuis des décennies en France, qui entraîne notamment la réduction des surfaces agricoles.",
-    "categorie": "A"
-   },
-   "SOC": {
-    "orateur": "M. Gérard Leseul",
-    "citation": "Bref, ne cherchez pas à tout déréguler, sans quoi vous finirez par tout détricoter et par abîmer la France !",
-    "categorie": "A"
-   },
-   "DR": {
-    "orateur": "M. Philippe Gosselin",
-    "citation": "Les maires veulent pouvoir construire, créer des emplois. Votons ces amendements dès aujourd’hui",
-    "categorie": "A"
-   },
-   "ECOS": {
-    "orateur": "Mme Lisa Belluco",
-    "citation": "Je compte sur vos voix pour rejeter ces amendements tendant à détruire la disposition la plus écologique que vous ayez prise en sept ans.",
-    "categorie": "A"
-   },
-   "DEM": {
-    "orateur": "M. Marc Fesneau",
-    "citation": "Le groupe Démocrates votera contre ces amendements.",
-    "categorie": "A"
-   },
-   "HOR": {
-    "orateur": "M. Thierry Benoit",
-    "citation": "Mais la proposition du gouvernement est la bonne : revoir cet objectif avec les élus locaux, en particulier dans le cadre de la proposition de loi Trace. En conséquence, il convient de s’opposer à ces amendements tendant à supprimer le ZAN.",
-    "categorie": "A"
-   },
-   "UDR": {
-    "orateur": "M. Éric Ciotti",
-    "citation": "Je soutiendrai ces amendements ; ce qu’ils tendent à supprimer, c’est un monstre de technocratie.",
-    "categorie": "A"
-   }
-  },
-  "verification": "valide",
-  "dossier": "DLR5L16N49868",
-  "dossier_titre": "Projet de loi de simplification de la vie économique",
-  "liens": {
-   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2131",
-   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N49868",
-   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1191_texte-adopte-commission",
-   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N219"
-  }
- },
- {
-  "uid": "VTANR5L17V5449",
-  "numero": 5449,
-  "date": "2026-02-17",
-  "type": "amendement",
-  "votants": 224,
-  "socle": false,
-  "theme": "Santé et protection sociale",
-  "titre": "Créer un droit aux soins palliatifs que les malades peuvent faire valoir devant le juge",
-  "ce_que_ca_change": "Toute personne dont l'état de santé le demande aurait un droit garanti aux soins palliatifs et à un accompagnement. Les agences régionales de santé devraient faire respecter ce droit. Un délai serait fixé par décret. Sans proposition de prise en charge dans ce délai, le malade pourrait saisir en urgence le juge administratif. Un proche pourrait aussi le faire, avec l'accord du malade.",
-  "contexte": "Amendement à l'article 4 de la proposition de loi sur l'accès de tous aux soins palliatifs, lors de son deuxième examen, voté le 17 février 2026.",
-  "resultat": "rejeté",
-  "positions": {
-   "RN": "contre",
-   "EPR": "contre",
-   "LFI": "pour",
-   "SOC": "pour",
-   "DR": "contre",
-   "ECOS": "pour",
-   "DEM": "contre",
-   "HOR": "contre",
-   "LIOT": "pour",
-   "GDR": "pour",
-   "UDR": "contre"
-  },
-  "neutralises": [],
-  "voix": {
-   "RN": {
-    "pour": 1,
-    "contre": 52,
-    "abstention": 0
-   },
-   "EPR": {
-    "pour": 0,
-    "contre": 21,
-    "abstention": 2
-   },
-   "LFI": {
-    "pour": 34,
-    "contre": 0,
-    "abstention": 0
-   },
-   "SOC": {
-    "pour": 34,
-    "contre": 1,
-    "abstention": 1
-   },
-   "DR": {
-    "pour": 0,
-    "contre": 10,
-    "abstention": 3
-   },
-   "ECOS": {
-    "pour": 18,
-    "contre": 0,
-    "abstention": 0
-   },
-   "DEM": {
-    "pour": 1,
-    "contre": 9,
-    "abstention": 1
-   },
-   "HOR": {
-    "pour": 0,
-    "contre": 11,
-    "abstention": 2
-   },
-   "LIOT": {
-    "pour": 6,
-    "contre": 0,
-    "abstention": 1
-   },
-   "GDR": {
-    "pour": 4,
-    "contre": 0,
-    "abstention": 0
-   },
-   "UDR": {
-    "pour": 0,
-    "contre": 8,
-    "abstention": 0
-   }
-  },
-  "citations": {},
-  "verification": "valide",
-  "dossier": "DLR5L17N51672",
-  "dossier_titre": "Soins palliatifs et d’accompagnement",
-  "liens": {
-   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5449",
-   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51672",
-   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2457_texte-adopte-commission",
-   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N153"
-  }
- },
- {
-  "uid": "VTANR5L17V5363",
-  "numero": 5363,
-  "date": "2026-02-12",
-  "type": "amendement",
-  "votants": 222,
-  "socle": false,
-  "theme": "Environnement et énergie",
-  "titre": "Supprimer l'obligation de planifier la gestion et la préservation de la ressource en eau",
-  "ce_que_ca_change": "Les passages supprimés prévoient de planifier la gestion et la préservation de la ressource en eau. Cette planification doit tenir compte des projets locaux de gestion de l'eau. Ces projets respectent eux-mêmes les schémas d'aménagement de l'eau, des plans qui existent déjà pour les bassins et les territoires.",
-  "contexte": "Amendement à l'article 1er de la proposition de loi pour protéger l'eau potable, voté le 12 février 2026.",
-  "resultat": "adopté",
-  "positions": {
-   "RN": "pour",
-   "EPR": "pour",
-   "LFI": "contre",
-   "DR": "pour",
-   "ECOS": "pour",
-   "HOR": "pour",
-   "UDR": "pour"
-  },
-  "neutralises": [],
-  "voix": {
-   "RN": {
-    "pour": 64,
-    "contre": 0,
-    "abstention": 0
-   },
-   "EPR": {
-    "pour": 20,
-    "contre": 2,
-    "abstention": 1
-   },
-   "LFI": {
-    "pour": 0,
-    "contre": 41,
-    "abstention": 0
-   },
-   "SOC": {
-    "pour": 5,
-    "contre": 16,
-    "abstention": 0
-   },
-   "DR": {
-    "pour": 15,
-    "contre": 0,
-    "abstention": 0
-   },
-   "ECOS": {
-    "pour": 36,
-    "contre": 0,
-    "abstention": 2
-   },
-   "DEM": {
-    "pour": 2,
-    "contre": 0,
-    "abstention": 0
-   },
-   "HOR": {
-    "pour": 10,
-    "contre": 0,
-    "abstention": 0
-   },
-   "LIOT": {
-    "pour": 0,
-    "contre": 0,
-    "abstention": 0
-   },
-   "GDR": {
-    "pour": 2,
-    "contre": 0,
-    "abstention": 0
-   },
-   "UDR": {
-    "pour": 6,
-    "contre": 0,
-    "abstention": 0
-   }
-  },
-  "citations": {
-   "RN": {
-    "orateur": "M. Sébastien Humbert",
-    "citation": "Les alinéas 6 et 7 introduisent une nouvelle complexité sans réelle efficacité démontrée.",
-    "categorie": "A"
-   },
-   "EPR": {
-    "orateur": "Mme Anne-Sophie Ronceret",
-    "citation": "nous refusons la superposition systématique des schémas et des plans, qui finit par produire des effets inverses à ceux recherchés : complexité, lenteur, dilution des responsabilités.",
-    "categorie": "A"
-   },
-   "DR": {
-    "orateur": "Mme Christelle Minard",
-    "citation": "Nous partageons tous l’objectif de préserver la ressource en eau, mais cela ne peut pas justifier la création de nouvelles contraintes redondantes et peu lisibles. C’est la raison pour laquelle nous souhaitons la suppression de ces deux alinéas.",
-    "categorie": "A"
-   }
-  },
-  "verification": "corrige",
-  "dossier": "DLR5L17N53425",
-  "dossier_titre": "Protéger l'eau potable",
-  "liens": {
-   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5363",
-   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53425",
-   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2427_texte-adopte-commission",
-   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N148"
-  }
- },
- {
-  "uid": "VTANR5L17V4316",
-  "numero": 4316,
-  "date": "2025-11-27",
-  "type": "amendement",
-  "votants": 206,
-  "socle": false,
-  "theme": "Économie et impôts",
-  "titre": "Remplacer la nationalisation d'ArcelorMittal par une participation de l'État de 20 %",
-  "ce_que_ca_change": "L'État ne rachèterait pas toute l'entreprise : il en détiendrait 20 % du capital. Un accord lierait toute aide publique à l'entreprise au respect d'objectifs de maintien de l'emploi et d'investissement en France.",
-  "contexte": "Amendement à l'article 1er de la proposition de loi visant à nationaliser ArcelorMittal France, voté le 27 novembre 2025.",
-  "resultat": "rejeté",
-  "positions": {
-   "EPR": "contre",
-   "LFI": "contre",
-   "SOC": "contre",
-   "DR": "pour",
-   "ECOS": "contre",
-   "DEM": "contre",
-   "HOR": "contre",
-   "GDR": "contre"
-  },
-  "neutralises": [],
-  "voix": {
-   "RN": {
-    "pour": 1,
-    "contre": 0,
-    "abstention": 56
-   },
-   "EPR": {
-    "pour": 0,
-    "contre": 16,
-    "abstention": 0
-   },
-   "LFI": {
-    "pour": 0,
-    "contre": 65,
-    "abstention": 0
-   },
-   "SOC": {
-    "pour": 0,
-    "contre": 18,
-    "abstention": 0
-   },
-   "DR": {
-    "pour": 4,
-    "contre": 1,
-    "abstention": 1
-   },
-   "ECOS": {
-    "pour": 0,
-    "contre": 16,
-    "abstention": 0
-   },
-   "DEM": {
-    "pour": 0,
-    "contre": 6,
-    "abstention": 0
-   },
-   "HOR": {
-    "pour": 0,
-    "contre": 8,
-    "abstention": 0
-   },
-   "LIOT": {
-    "pour": 0,
-    "contre": 0,
-    "abstention": 0
-   },
-   "GDR": {
-    "pour": 0,
-    "contre": 8,
-    "abstention": 0
-   },
-   "UDR": {
-    "pour": 3,
-    "contre": 0,
-    "abstention": 3
-   }
-  },
-  "citations": {},
-  "verification": "valide",
-  "dossier": "DLR5L17N52977",
-  "dossier_titre": "Nationalisation d'ArcelorMittal France",
-  "liens": {
-   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4316",
-   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52977",
-   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2123_texte-adopte-commission",
-   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N073"
-  }
- },
- {
-  "uid": "VTANR5L17V5103",
-  "numero": 5103,
-  "date": "2026-01-22",
-  "type": "amendement",
-  "votants": 236,
-  "socle": false,
-  "theme": "Institutions et démocratie",
-  "titre": "Affirmer l'« échec » de la commission d'enquête dont s'inspire la résolution",
-  "ce_que_ca_change": "La résolution invite l'Union européenne à inscrire la mouvance des Frères musulmans sur sa liste d'organisations terroristes. Elle est présentée comme inspirée par une commission d'enquête de l'Assemblée. Cette enquête portait sur les liens entre mouvements politiques et réseaux soutenant le terrorisme ou l'idéologie islamiste. L'amendement ajouterait aux motifs l'affirmation de son « échec ».",
-  "contexte": "Amendement à une proposition de résolution européenne demandant d'inscrire les Frères musulmans sur la liste européenne des organisations terroristes, voté le 22 janvier 2026.",
-  "resultat": "rejeté",
-  "positions": {
-   "RN": "contre",
-   "EPR": "contre",
-   "LFI": "pour",
-   "SOC": "contre",
-   "DR": "contre",
-   "ECOS": "pour",
-   "DEM": "contre",
-   "HOR": "contre",
-   "GDR": "pour",
-   "UDR": "contre"
-  },
-  "neutralises": [],
-  "voix": {
-   "RN": {
-    "pour": 0,
-    "contre": 61,
-    "abstention": 0
-   },
-   "EPR": {
-    "pour": 0,
-    "contre": 17,
-    "abstention": 0
-   },
-   "LFI": {
-    "pour": 47,
-    "contre": 0,
-    "abstention": 0
-   },
-   "SOC": {
-    "pour": 0,
-    "contre": 18,
-    "abstention": 1
-   },
-   "DR": {
-    "pour": 0,
-    "contre": 38,
-    "abstention": 0
-   },
-   "ECOS": {
-    "pour": 18,
-    "contre": 0,
-    "abstention": 0
-   },
-   "DEM": {
-    "pour": 0,
-    "contre": 11,
-    "abstention": 1
-   },
-   "HOR": {
-    "pour": 0,
-    "contre": 8,
-    "abstention": 0
-   },
-   "LIOT": {
-    "pour": 0,
-    "contre": 1,
-    "abstention": 0
-   },
-   "GDR": {
-    "pour": 5,
-    "contre": 0,
-    "abstention": 0
-   },
-   "UDR": {
-    "pour": 0,
-    "contre": 8,
-    "abstention": 0
-   }
-  },
-  "citations": {
-   "DR": {
-    "orateur": "M. Xavier Breton",
-    "citation": "Une commission d’enquête, c’est un rapport ; je vous invite donc à le lire et à y répondre.",
-    "categorie": "A"
-   }
-  },
-  "verification": "valide",
-  "dossier": "DLR5L17N52132",
-  "dossier_titre": "Inscrire la mouvance des frères musulmans sur la liste européenne des organisations terroristes",
-  "liens": {
-   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5103",
-   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52132",
-   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2344_texte-adopte-commission",
-   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N121"
-  }
- },
- {
-  "uid": "VTANR5L17V4718",
-  "numero": 4718,
-  "date": "2025-12-11",
-  "type": "amendement",
-  "votants": 215,
-  "socle": false,
-  "theme": "Immigration et nationalité",
-  "titre": "Obliger le département à vérifier l'état civil d'un jeune avant de le déclarer majeur",
-  "ce_que_ca_change": "Une personne étrangère peut se déclarer mineure et sans famille pour être protégée. Le département ne pourrait alors la reconnaître majeure qu'après certaines démarches. Il devrait avoir mené toutes les démarches prévues pour retrouver ou refaire ses papiers d'état civil. Cela inclut une demande au consulat de son pays d'origine.",
-  "contexte": "Amendement à la proposition de loi visant à protéger les mineurs isolés et à lutter contre le sans-abrisme, voté le 11 décembre 2025.",
-  "resultat": "rejeté",
-  "positions": {
-   "RN": "contre",
-   "EPR": "contre",
-   "LFI": "pour",
-   "SOC": "contre",
-   "DR": "contre",
-   "ECOS": "pour",
-   "DEM": "contre",
-   "HOR": "contre",
-   "GDR": "pour",
-   "UDR": "contre"
-  },
-  "neutralises": [],
-  "voix": {
-   "RN": {
-    "pour": 0,
-    "contre": 43,
-    "abstention": 0
-   },
-   "EPR": {
-    "pour": 0,
-    "contre": 21,
-    "abstention": 0
-   },
-   "LFI": {
-    "pour": 43,
-    "contre": 0,
-    "abstention": 0
-   },
-   "SOC": {
-    "pour": 0,
-    "contre": 60,
-    "abstention": 0
-   },
-   "DR": {
-    "pour": 0,
-    "contre": 4,
-    "abstention": 0
-   },
-   "ECOS": {
-    "pour": 21,
-    "contre": 2,
-    "abstention": 0
-   },
-   "DEM": {
-    "pour": 0,
-    "contre": 4,
-    "abstention": 0
-   },
-   "HOR": {
-    "pour": 0,
-    "contre": 6,
-    "abstention": 0
-   },
-   "LIOT": {
-    "pour": 0,
-    "contre": 1,
-    "abstention": 0
-   },
-   "GDR": {
-    "pour": 6,
-    "contre": 0,
-    "abstention": 0
-   },
-   "UDR": {
-    "pour": 0,
-    "contre": 4,
-    "abstention": 0
-   }
-  },
-  "citations": {
-   "RN": {
-    "orateur": "M. Marc de Fleurian",
-    "citation": "…avec leurs barbes et leurs rides au coin des yeux, ne sont ni mineurs, ni isolés.",
-    "categorie": "A"
-   },
-   "LFI": {
-    "orateur": "M. Louis Boyard",
-    "citation": "Il s’agit donc d’obliger le département à faire lui-même la démarche de vérification d’identité avant de contester la minorité d’un jeune sans papiers. C’est une mesure de bon sens et de justice",
-    "categorie": "A"
-   }
-  },
-  "verification": "valide",
-  "dossier": "DLR5L17N53051",
-  "dossier_titre": "Protéger les mineurs isolés et à lutter contre le sans-abrisme",
-  "liens": {
-   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4718",
-   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53051",
-   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2021_proposition-loi",
-   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N091"
-  }
- },
- {
   "uid": "VTANR5L17V606",
   "numero": 606,
   "date": "2025-01-23",
   "type": "ensemble",
   "votants": 173,
   "socle": false,
+  "solennel": false,
   "theme": "Éducation, culture et numérique",
   "titre": "Ouvrir le repas à 1 euro au restaurant universitaire à tous les étudiants",
   "ce_que_ca_change": "Les Crous gèrent la restauration des étudiants. Le prix de leur repas à tarif modéré ne pourra pas dépasser 1 euro, dans tous leurs restaurants. Ce prix vaudra pour tous les étudiants, et plus seulement pour les boursiers ou les étudiants identifiés comme précaires. Tous les Crous devront aussi proposer ce repas à emporter.",
@@ -8760,6 +8510,7 @@
   "type": "ensemble",
   "votants": 158,
   "socle": false,
+  "solennel": false,
   "theme": "Logement",
   "titre": "Adopter la loi de simplification des règles d'urbanisme et de logement",
   "ce_que_ca_change": "Le texte allège les procédures pour modifier les plans locaux d'urbanisme. Ces plans fixent ce qu'on peut construire dans une commune. Pour certains projets, l'enquête publique pourra être remplacée par une consultation par internet. Le texte autorise des logements dans les zones d'activité. Il raccourcit aussi les délais de certains recours contre les permis de construire.",
@@ -8880,148 +8631,137 @@
   }
  },
  {
-  "uid": "VTANR5L17V4706",
-  "numero": 4706,
-  "date": "2025-12-10",
+  "uid": "VTANR5L17V4707",
+  "numero": 4707,
+  "date": "2025-12-11",
   "type": "ensemble",
-  "votants": 108,
+  "votants": 143,
   "socle": false,
-  "theme": "Territoires et outre-mer",
-  "titre": "Permettre aux communes de Polynésie française d'agir sans attendre une « loi du pays »",
-  "ce_que_ca_change": "Dans certains domaines, les communes de Polynésie ne pouvaient agir qu'après une « loi du pays ». C'est un texte voté par l'assemblée de la Polynésie. Les communes pourraient désormais décider elles-mêmes de leurs actions, par une délibération. Elles pourraient les lancer après un délai d'au moins six mois. Elles devraient respecter les règles fixées par la Polynésie.",
-  "contexte": "Vote sur le texte entier de la proposition de loi organique, une loi qui précise le fonctionnement des institutions, modifiant le statut d'autonomie de la Polynésie française, le 10 décembre 2025.",
+  "solennel": false,
+  "theme": "Travail et retraites",
+  "titre": "Obliger les agents des collectivités à s'assurer collectivement contre l'arrêt de travail",
+  "ce_que_ca_change": "Une commune ou un département peut conclure un contrat collectif d'assurance. Il couvre la perte de salaire en cas d'arrêt de travail, d'invalidité ou de décès. Dans ce cas, ses agents devront y adhérer, sauf dispense. L'employeur paiera au moins la moitié de la cotisation. L'assureur ne pourra pas refuser de couvrir une maladie antérieure. Ces règles s'appliquent au plus tard à partir de 2029.",
+  "contexte": "Vote sur l'ensemble de la proposition de loi relative à la protection sociale complémentaire des agents des collectivités territoriales, en première lecture, le 11 décembre 2025.",
   "resultat": "adopté",
   "positions": {
-   "RN": "pour",
    "EPR": "pour",
    "LFI": "contre",
-   "SOC": "contre",
+   "SOC": "pour",
    "DR": "pour",
-   "ECOS": "contre",
+   "ECOS": "pour",
    "DEM": "pour",
    "HOR": "pour",
-   "LIOT": "pour"
+   "LIOT": "pour",
+   "UDR": "pour"
   },
-  "neutralises": [
-   "GDR"
-  ],
+  "neutralises": [],
   "voix": {
    "RN": {
-    "pour": 24,
+    "pour": 1,
     "contre": 0,
-    "abstention": 0
+    "abstention": 19
    },
    "EPR": {
-    "pour": 20,
+    "pour": 9,
     "contre": 0,
     "abstention": 0
    },
    "LFI": {
     "pour": 0,
-    "contre": 16,
-    "abstention": 0
+    "contre": 17,
+    "abstention": 1
    },
    "SOC": {
-    "pour": 0,
-    "contre": 5,
+    "pour": 57,
+    "contre": 0,
     "abstention": 0
    },
    "DR": {
-    "pour": 5,
+    "pour": 6,
     "contre": 0,
     "abstention": 0
    },
    "ECOS": {
-    "pour": 0,
-    "contre": 5,
+    "pour": 9,
+    "contre": 0,
     "abstention": 0
    },
    "DEM": {
-    "pour": 7,
+    "pour": 6,
     "contre": 0,
     "abstention": 0
    },
    "HOR": {
-    "pour": 7,
+    "pour": 9,
     "contre": 0,
     "abstention": 0
    },
    "LIOT": {
-    "pour": 10,
+    "pour": 4,
     "contre": 0,
     "abstention": 0
    },
    "GDR": {
-    "pour": 0,
-    "contre": 6,
+    "pour": 2,
+    "contre": 0,
     "abstention": 0
    },
    "UDR": {
-    "pour": 2,
+    "pour": 3,
     "contre": 0,
     "abstention": 0
    }
   },
   "citations": {
-   "RN": {
-    "orateur": "M. Yoann Gillet",
-    "citation": "Voter pour ce texte, c’est donner aux maires de Polynésie française les moyens d’agir au quotidien pour leurs concitoyens.",
-    "categorie": "A"
-   },
    "EPR": {
-    "orateur": "M. Moerani Frébault",
-    "citation": "Ceci est un exemple des difficultés rencontrées par les maires polynésiens pour mettre en œuvre des actions essentielles pour nos populations.",
+    "orateur": "M. Guillaume Gouffier Valente (EPR)",
+    "citation": "Le groupe Ensemble pour la République votera évidemment en faveur de la présente proposition de loi, avec conviction et engagement.",
     "categorie": "A"
    },
    "LFI": {
-    "orateur": "M. Pierre-Yves Cadalen",
-    "citation": "Nous les respectons : elles doivent se tenir entre eux, en Polynésie, sans qu’il soit fait usage de manœuvres et contournements politiciens qu’il faut dénoncer fermement.",
-    "categorie": "A"
-   },
-   "SOC": {
-    "orateur": "M. Marc Pena",
-    "citation": "le groupe Socialistes et apparentés appelle à ne pas voter ce texte : je vous invite à rejeter cette proposition de loi organique en l’état. Restons fidèles à l’autonomie de nos collectivités",
+    "orateur": "M. Hadrien Clouet",
+    "citation": "Faute de pouvoir protéger les agents et éliminer les capitalistes de nos affaires, nous prenons rendez-vous pour 2029. En attendant, nous voterons contre la proposition de loi.",
     "categorie": "A"
    },
    "DR": {
-    "orateur": "Mme Josiane Corneloup",
-    "citation": "parce que cette proposition de loi organique est équilibrée, parce qu’elle est utile et qu’elle respecte l’autonomie tout en renforçant l’efficacité de l’action publique locale, le groupe Droite républicaine la votera.",
+    "orateur": "Mme Élisabeth de Maistre (DR)",
+    "citation": "Pour toutes ces raisons, tout en demeurant pleinement vigilant sur les conséquences financières pour les collectivités locales, le groupe Droite républicaine votera en faveur de ce texte et soutiendra son adoption conforme.",
     "categorie": "A"
    },
    "ECOS": {
-    "orateur": "M. Steevy Gustave",
-    "citation": "Nous ne pouvons modifier seuls, depuis Paris, les équilibres institutionnels internes à la Polynésie française sans permettre au pays d’exprimer son accord ou son refus.",
+    "orateur": "M. Emmanuel Duplessy (EcoS)",
+    "citation": "Nous voterons donc conforme ce texte qui permet, dans un contexte de fortes contraintes, une avancée sociale dans un cadre néanmoins très limité.",
     "categorie": "A"
    },
    "DEM": {
-    "orateur": "M. Éric Martineau",
-    "citation": "Ce texte est pragmatique et équilibré. Pour notre part, nous préférerons toujours l’efficacité du terrain aux blocages idéologiques, aussi le voterons-nous.",
+    "orateur": "Mme Josy Poueyto (Dem)",
+    "citation": "C’est un texte de justice sociale, c’est un texte de responsabilité territoriale. Il aura évidemment notre plein et entier soutien.",
     "categorie": "A"
    },
    "HOR": {
-    "orateur": "M. Jean Moulliere",
-    "citation": "Le groupe Horizon & indépendants soutient cet aménagement d’autant plus adapté qu’il repose sur une logique de subsidiarité",
+    "orateur": "Mme Agnès Firmin Le Bodo (HOR)",
+    "citation": "Pour toutes ces raisons, nous voterons en faveur de ce texte, qui permet de franchir un pas supplémentaire, petit mais très important.",
     "categorie": "A"
    },
    "LIOT": {
-    "orateur": "M. Joël Bruneau",
-    "citation": "Ce texte étant soutenu par les maires polynésiens, le groupe LIOT votera pour.",
+    "orateur": "M. Stéphane Viry (LIOT)",
+    "citation": "Saluons ces avancées en adoptant le présent texte, qui remet de l’ordre, sécurise et protège.",
     "categorie": "A"
    },
-   "GDR": {
-    "orateur": "Mme Mereana Reid Arbelot (GDR)",
-    "citation": "Je dis oui à l’intervention communale dans les matières relevant de la compétence de la Polynésie française, mais il faut l’organiser, la financer clairement, l’encadrer et la sécuriser juridiquement.",
-    "categorie": "B"
+   "UDR": {
+    "orateur": "M. Olivier Fayssat (UDR)",
+    "citation": "Ce texte adresse un vrai message de reconnaissance aux agents territoriaux. Il permettra de réduire la précarité et de renforcer l’attractivité de la fonction publique territoriale.",
+    "categorie": "A"
    }
   },
   "verification": "valide",
-  "dossier": "DLR5L17N51173",
-  "dossier_titre": "Proposition de loi organique tendant à modifier le II de l’article 43 de la loi organique n° 2004-192 du 27 février 2004 portant statut d’autonomie de la Polynésie française",
+  "dossier": "DLR5L17N51457",
+  "dossier_titre": "Proposition de loi relative à la protection sociale complémentaire des agents publics territoriaux",
   "liens": {
-   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4706",
-   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51173",
-   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0192_texte-adopte-seance",
-   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N089"
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4707",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51457",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0193_texte-adopte-seance",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N090"
   }
  },
  {
@@ -9031,6 +8771,7 @@
   "type": "amendement",
   "votants": 336,
   "socle": false,
+  "solennel": false,
   "theme": "Immigration et nationalité",
   "titre": "Supprimer l'article qui rend obligatoire l'expulsion des étrangers menaçant l'ordre public",
   "ce_que_ca_change": "L'article supprimé obligerait à expulser tout étranger qui menace gravement l'ordre public. C'est notamment le cas s'il a été condamné pour un crime ou délit puni d'au moins trois ans de prison. Il supprimerait les protections liées à la durée du séjour ou aux liens familiaux. Il imposerait d'expulser les mineurs de plus de 16 ans liés au terrorisme ou menaçant les intérêts de l'État.",
@@ -9159,12 +8900,517 @@
   }
  },
  {
+  "uid": "VTANR5L17V5363",
+  "numero": 5363,
+  "date": "2026-02-12",
+  "type": "amendement",
+  "votants": 222,
+  "socle": false,
+  "solennel": false,
+  "theme": "Environnement et énergie",
+  "titre": "Supprimer l'obligation de planifier la gestion et la préservation de la ressource en eau",
+  "ce_que_ca_change": "Les passages supprimés prévoient de planifier la gestion et la préservation de la ressource en eau. Cette planification doit tenir compte des projets locaux de gestion de l'eau. Ces projets respectent eux-mêmes les schémas d'aménagement de l'eau, des plans qui existent déjà pour les bassins et les territoires.",
+  "contexte": "Amendement à l'article 1er de la proposition de loi pour protéger l'eau potable, voté le 12 février 2026.",
+  "resultat": "adopté",
+  "positions": {
+   "RN": "pour",
+   "EPR": "pour",
+   "LFI": "contre",
+   "DR": "pour",
+   "ECOS": "pour",
+   "HOR": "pour",
+   "UDR": "pour"
+  },
+  "neutralises": [],
+  "voix": {
+   "RN": {
+    "pour": 64,
+    "contre": 0,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 20,
+    "contre": 2,
+    "abstention": 1
+   },
+   "LFI": {
+    "pour": 0,
+    "contre": 41,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 5,
+    "contre": 16,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 15,
+    "contre": 0,
+    "abstention": 0
+   },
+   "ECOS": {
+    "pour": 36,
+    "contre": 0,
+    "abstention": 2
+   },
+   "DEM": {
+    "pour": 2,
+    "contre": 0,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 10,
+    "contre": 0,
+    "abstention": 0
+   },
+   "LIOT": {
+    "pour": 0,
+    "contre": 0,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 2,
+    "contre": 0,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 6,
+    "contre": 0,
+    "abstention": 0
+   }
+  },
+  "citations": {
+   "RN": {
+    "orateur": "M. Sébastien Humbert",
+    "citation": "Les alinéas 6 et 7 introduisent une nouvelle complexité sans réelle efficacité démontrée.",
+    "categorie": "A"
+   },
+   "EPR": {
+    "orateur": "Mme Anne-Sophie Ronceret",
+    "citation": "nous refusons la superposition systématique des schémas et des plans, qui finit par produire des effets inverses à ceux recherchés : complexité, lenteur, dilution des responsabilités.",
+    "categorie": "A"
+   },
+   "DR": {
+    "orateur": "Mme Christelle Minard",
+    "citation": "Nous partageons tous l’objectif de préserver la ressource en eau, mais cela ne peut pas justifier la création de nouvelles contraintes redondantes et peu lisibles. C’est la raison pour laquelle nous souhaitons la suppression de ces deux alinéas.",
+    "categorie": "A"
+   }
+  },
+  "verification": "corrige",
+  "dossier": "DLR5L17N53425",
+  "dossier_titre": "Protéger l'eau potable",
+  "liens": {
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5363",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53425",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2427_texte-adopte-commission",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N148"
+  }
+ },
+ {
+  "uid": "VTANR5L17V4316",
+  "numero": 4316,
+  "date": "2025-11-27",
+  "type": "amendement",
+  "votants": 206,
+  "socle": false,
+  "solennel": false,
+  "theme": "Économie et impôts",
+  "titre": "Remplacer la nationalisation d'ArcelorMittal par une participation de l'État de 20 %",
+  "ce_que_ca_change": "L'État ne rachèterait pas toute l'entreprise : il en détiendrait 20 % du capital. Un accord lierait toute aide publique à l'entreprise au respect d'objectifs de maintien de l'emploi et d'investissement en France.",
+  "contexte": "Amendement à l'article 1er de la proposition de loi visant à nationaliser ArcelorMittal France, voté le 27 novembre 2025.",
+  "resultat": "rejeté",
+  "positions": {
+   "EPR": "contre",
+   "LFI": "contre",
+   "SOC": "contre",
+   "DR": "pour",
+   "ECOS": "contre",
+   "DEM": "contre",
+   "HOR": "contre",
+   "GDR": "contre"
+  },
+  "neutralises": [],
+  "voix": {
+   "RN": {
+    "pour": 1,
+    "contre": 0,
+    "abstention": 56
+   },
+   "EPR": {
+    "pour": 0,
+    "contre": 16,
+    "abstention": 0
+   },
+   "LFI": {
+    "pour": 0,
+    "contre": 65,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 0,
+    "contre": 18,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 4,
+    "contre": 1,
+    "abstention": 1
+   },
+   "ECOS": {
+    "pour": 0,
+    "contre": 16,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 0,
+    "contre": 6,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 0,
+    "contre": 8,
+    "abstention": 0
+   },
+   "LIOT": {
+    "pour": 0,
+    "contre": 0,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 0,
+    "contre": 8,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 3,
+    "contre": 0,
+    "abstention": 3
+   }
+  },
+  "citations": {},
+  "verification": "valide",
+  "dossier": "DLR5L17N52977",
+  "dossier_titre": "Nationalisation d'ArcelorMittal France",
+  "liens": {
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4316",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52977",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2123_texte-adopte-commission",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N073"
+  }
+ },
+ {
+  "uid": "VTANR5L17V522",
+  "numero": 522,
+  "date": "2024-12-16",
+  "type": "amendement",
+  "votants": 370,
+  "socle": false,
+  "solennel": false,
+  "theme": "Territoires et outre-mer",
+  "titre": "Inscrire dans la loi spéciale le montant des dotations de l'État aux collectivités locales",
+  "ce_que_ca_change": "En attendant le budget 2025, la loi fixerait les sommes que l'État verse aux communes, départements et régions. Elles atteignent environ 45 milliards d'euros, détaillées dotation par dotation. La principale, la dotation globale de fonctionnement, est de 27,2 milliards. C'est le même montant qu'en 2024.",
+  "contexte": "Amendement à la loi spéciale, qui permet de lever l'impôt et d'emprunter sans budget 2025, examiné le 16 décembre 2024.",
+  "resultat": "adopté",
+  "positions": {
+   "RN": "pour",
+   "EPR": "contre",
+   "LFI": "pour",
+   "SOC": "pour",
+   "DR": "contre",
+   "ECOS": "pour",
+   "DEM": "contre",
+   "HOR": "contre",
+   "GDR": "pour",
+   "UDR": "pour"
+  },
+  "neutralises": [],
+  "voix": {
+   "RN": {
+    "pour": 106,
+    "contre": 0,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 0,
+    "contre": 62,
+    "abstention": 1
+   },
+   "LFI": {
+    "pour": 43,
+    "contre": 0,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 33,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 0,
+    "contre": 22,
+    "abstention": 4
+   },
+   "ECOS": {
+    "pour": 20,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 0,
+    "contre": 23,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 0,
+    "contre": 20,
+    "abstention": 0
+   },
+   "LIOT": {
+    "pour": 5,
+    "contre": 4,
+    "abstention": 4
+   },
+   "GDR": {
+    "pour": 5,
+    "contre": 0,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 12,
+    "contre": 0,
+    "abstention": 0
+   }
+  },
+  "citations": {
+   "SOC": {
+    "orateur": "M. Stéphane Delautrette",
+    "citation": "Dans cette période de construction budgétaire, les maires et les présidents d’intercommunalités, de départements ou de régions ont besoin de ne pas être dans le flou : il leur faut de la prévisibilité et de l’assurance.",
+    "categorie": "A"
+   }
+  },
+  "verification": "valide",
+  "dossier": "DLR5L17N51079",
+  "dossier_titre": "Projet de loi spéciale prévue par l’article 45 de la loi organique du 1er août 2001 relative aux lois de finances",
+  "liens": {
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/522",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51079",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0711_projet-loi",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N064"
+  }
+ },
+ {
+  "uid": "VTANR5L17V5103",
+  "numero": 5103,
+  "date": "2026-01-22",
+  "type": "amendement",
+  "votants": 236,
+  "socle": false,
+  "solennel": false,
+  "theme": "Institutions et démocratie",
+  "titre": "Affirmer l'« échec » de la commission d'enquête dont s'inspire la résolution",
+  "ce_que_ca_change": "La résolution invite l'Union européenne à inscrire la mouvance des Frères musulmans sur sa liste d'organisations terroristes. Elle est présentée comme inspirée par une commission d'enquête de l'Assemblée. Cette enquête portait sur les liens entre mouvements politiques et réseaux soutenant le terrorisme ou l'idéologie islamiste. L'amendement ajouterait aux motifs l'affirmation de son « échec ».",
+  "contexte": "Amendement à une proposition de résolution européenne demandant d'inscrire les Frères musulmans sur la liste européenne des organisations terroristes, voté le 22 janvier 2026.",
+  "resultat": "rejeté",
+  "positions": {
+   "RN": "contre",
+   "EPR": "contre",
+   "LFI": "pour",
+   "SOC": "contre",
+   "DR": "contre",
+   "ECOS": "pour",
+   "DEM": "contre",
+   "HOR": "contre",
+   "GDR": "pour",
+   "UDR": "contre"
+  },
+  "neutralises": [],
+  "voix": {
+   "RN": {
+    "pour": 0,
+    "contre": 61,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 0,
+    "contre": 17,
+    "abstention": 0
+   },
+   "LFI": {
+    "pour": 47,
+    "contre": 0,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 0,
+    "contre": 18,
+    "abstention": 1
+   },
+   "DR": {
+    "pour": 0,
+    "contre": 38,
+    "abstention": 0
+   },
+   "ECOS": {
+    "pour": 18,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 0,
+    "contre": 11,
+    "abstention": 1
+   },
+   "HOR": {
+    "pour": 0,
+    "contre": 8,
+    "abstention": 0
+   },
+   "LIOT": {
+    "pour": 0,
+    "contre": 1,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 5,
+    "contre": 0,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 0,
+    "contre": 8,
+    "abstention": 0
+   }
+  },
+  "citations": {
+   "DR": {
+    "orateur": "M. Xavier Breton",
+    "citation": "Une commission d’enquête, c’est un rapport ; je vous invite donc à le lire et à y répondre.",
+    "categorie": "A"
+   }
+  },
+  "verification": "valide",
+  "dossier": "DLR5L17N52132",
+  "dossier_titre": "Inscrire la mouvance des frères musulmans sur la liste européenne des organisations terroristes",
+  "liens": {
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5103",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52132",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2344_texte-adopte-commission",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N121"
+  }
+ },
+ {
+  "uid": "VTANR5L17V4718",
+  "numero": 4718,
+  "date": "2025-12-11",
+  "type": "amendement",
+  "votants": 215,
+  "socle": false,
+  "solennel": false,
+  "theme": "Immigration et nationalité",
+  "titre": "Obliger le département à vérifier l'état civil d'un jeune avant de le déclarer majeur",
+  "ce_que_ca_change": "Une personne étrangère peut se déclarer mineure et sans famille pour être protégée. Le département ne pourrait alors la reconnaître majeure qu'après certaines démarches. Il devrait avoir mené toutes les démarches prévues pour retrouver ou refaire ses papiers d'état civil. Cela inclut une demande au consulat de son pays d'origine.",
+  "contexte": "Amendement à la proposition de loi visant à protéger les mineurs isolés et à lutter contre le sans-abrisme, voté le 11 décembre 2025.",
+  "resultat": "rejeté",
+  "positions": {
+   "RN": "contre",
+   "EPR": "contre",
+   "LFI": "pour",
+   "SOC": "contre",
+   "DR": "contre",
+   "ECOS": "pour",
+   "DEM": "contre",
+   "HOR": "contre",
+   "GDR": "pour",
+   "UDR": "contre"
+  },
+  "neutralises": [],
+  "voix": {
+   "RN": {
+    "pour": 0,
+    "contre": 43,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 0,
+    "contre": 21,
+    "abstention": 0
+   },
+   "LFI": {
+    "pour": 43,
+    "contre": 0,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 0,
+    "contre": 60,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 0,
+    "contre": 4,
+    "abstention": 0
+   },
+   "ECOS": {
+    "pour": 21,
+    "contre": 2,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 0,
+    "contre": 4,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 0,
+    "contre": 6,
+    "abstention": 0
+   },
+   "LIOT": {
+    "pour": 0,
+    "contre": 1,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 6,
+    "contre": 0,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 0,
+    "contre": 4,
+    "abstention": 0
+   }
+  },
+  "citations": {
+   "RN": {
+    "orateur": "M. Marc de Fleurian",
+    "citation": "…avec leurs barbes et leurs rides au coin des yeux, ne sont ni mineurs, ni isolés.",
+    "categorie": "A"
+   },
+   "LFI": {
+    "orateur": "M. Louis Boyard",
+    "citation": "Il s’agit donc d’obliger le département à faire lui-même la démarche de vérification d’identité avant de contester la minorité d’un jeune sans papiers. C’est une mesure de bon sens et de justice",
+    "categorie": "A"
+   }
+  },
+  "verification": "valide",
+  "dossier": "DLR5L17N53051",
+  "dossier_titre": "Protéger les mineurs isolés et à lutter contre le sans-abrisme",
+  "liens": {
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4718",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53051",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2021_proposition-loi",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N091"
+  }
+ },
+ {
   "uid": "VTANR5L17V520",
   "numero": 520,
   "date": "2024-12-16",
   "type": "amendement",
   "votants": 320,
   "socle": false,
+  "solennel": false,
   "theme": "Défense et international",
   "titre": "Maintenir la contribution de la France au budget européen à son niveau de 2024",
   "ce_que_ca_change": "En attendant le budget 2025, la France verserait environ 21,6 milliards d'euros au budget de l'Union européenne. C'est le même montant qu'en 2024. Le rapporteur, député chargé du texte, indiquait un autre chiffre. Selon lui, l'accord européen de novembre 2024 prévoyait 23,1 milliards pour 2025.",
@@ -9257,16 +9503,17 @@
   }
  },
  {
-  "uid": "VTANR5L17V850",
-  "numero": 850,
+  "uid": "VTANR5L17V851",
+  "numero": 851,
   "date": "2025-02-20",
   "type": "amendement",
-  "votants": 259,
+  "votants": 281,
   "socle": false,
-  "theme": "Environnement et énergie",
-  "titre": "Supprimer la redevance sur les rejets de PFAS dans l'eau par les industriels",
-  "ce_que_ca_change": "L'article supprimé crée une redevance, c'est-à-dire une somme à payer. Elle vise les sites industriels qui rejettent des PFAS dans l'eau. Les PFAS sont une famille de substances chimiques. La redevance est due à partir de 100 grammes rejetés par an. Son tarif est de 100 euros par tranche de 100 grammes.",
-  "contexte": "Amendement qui supprime un article de la proposition de loi sur la protection de la population contre les PFAS, voté le 20 février 2025.",
+  "solennel": false,
+  "theme": "Santé et protection sociale",
+  "titre": "Supprimer l'obligation de publier les analyses de PFAS dans l'eau potable",
+  "ce_que_ca_change": "Les PFAS sont une famille de substances chimiques. L'article supprimé oblige les agences régionales de santé à publier leur programme d'analyse des PFAS. Ces agences sont l'administration de la santé dans chaque région. Les analyses portent sur l'eau du robinet et en bouteille. Chaque agence publie un bilan régional par an. Le ministre de la santé publie un bilan national par an.",
+  "contexte": "Amendement qui supprime l'article 2 bis de la proposition de loi sur les risques liés aux PFAS, lors de son deuxième examen par les députés, le 20 février 2025.",
   "resultat": "rejeté",
   "positions": {
    "RN": "pour",
@@ -9283,43 +9530,43 @@
   "neutralises": [],
   "voix": {
    "RN": {
-    "pour": 53,
+    "pour": 54,
     "contre": 0,
     "abstention": 0
    },
    "EPR": {
     "pour": 0,
-    "contre": 31,
+    "contre": 34,
     "abstention": 0
    },
    "LFI": {
     "pour": 0,
-    "contre": 39,
+    "contre": 43,
     "abstention": 0
    },
    "SOC": {
-    "pour": 0,
-    "contre": 35,
+    "pour": 1,
+    "contre": 42,
     "abstention": 0
    },
    "DR": {
     "pour": 0,
-    "contre": 7,
-    "abstention": 2
+    "contre": 8,
+    "abstention": 3
    },
    "ECOS": {
     "pour": 0,
-    "contre": 36,
+    "contre": 37,
     "abstention": 0
    },
    "DEM": {
-    "pour": 0,
-    "contre": 22,
+    "pour": 2,
+    "contre": 21,
     "abstention": 0
    },
    "HOR": {
     "pour": 0,
-    "contre": 17,
+    "contre": 19,
     "abstention": 0
    },
    "LIOT": {
@@ -9329,7 +9576,7 @@
    },
    "GDR": {
     "pour": 0,
-    "contre": 6,
+    "contre": 7,
     "abstention": 0
    },
    "UDR": {
@@ -9339,37 +9586,32 @@
    }
   },
   "citations": {
-   "RN": {
-    "orateur": "M. Eddy Casterman",
-    "citation": "Cet article, qui ne sert strictement à rien, porte le stigmate du lobby de la décroissance industrielle.",
-    "categorie": "A"
-   },
    "EPR": {
-    "orateur": "M. Roland Lescure",
-    "citation": "Enfin, nous finançons la transition.",
+    "orateur": "M. Charles Sitzenstuhl",
+    "citation": "Nous soutiendrons l’article 2 bis qui renforce la transparence au sujet de la pollution des eaux en prévoyant la diffusion d’informations à l’ensemble de nos concitoyens.",
     "categorie": "A"
    },
    "DR": {
-    "orateur": "M. Vincent Descoeur",
-    "citation": "Je me réjouis de l’inscription dans ce texte du principe d’une redevance acquittée par les producteurs de Pfas",
+    "orateur": "M. Fabien Di Filippo",
+    "citation": "quoique utile, l’article passe un peu à côté du problème.",
     "categorie": "A"
    },
    "DEM": {
     "orateur": "M. Cyrille Isaac-Sibille",
-    "citation": "L’article 2 vise à créer une redevance pollueur-payeur dont le principe semble logique",
+    "citation": "Il faut donc absolument que la transparence s’impose.",
     "categorie": "A"
    },
    "UDR": {
     "orateur": "M. Éric Michoux",
-    "citation": "En proposant de créer une nouvelle taxe, dont on ne connaît ni le montant exact, ni ce qu’elle va rapporter à l’État, vous faites un acte de déloyauté vis-à-vis de nos entreprises",
+    "citation": "Nous préférerions commencer par établir une échelle de leur nocivité",
     "categorie": "A"
    }
   },
-  "verification": "valide",
+  "verification": "corrige",
   "dossier": "DLR5L16N49455",
   "dossier_titre": "Protéger la population des risques liés aux substances per- et polyfluoroalkylées (PFAS)",
   "liens": {
-   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/850",
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/851",
    "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N49455",
    "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0929_texte-adopte-commission",
    "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N110"
@@ -9382,6 +9624,7 @@
   "type": "amendement",
   "votants": 232,
   "socle": false,
+  "solennel": false,
   "theme": "Travail et retraites",
   "titre": "Exclure les 55 ans et plus de la baisse des droits chômage après rupture conventionnelle",
   "ce_que_ca_change": "Le texte permet de prévoir une durée d'indemnisation chômage différente après une rupture conventionnelle, afin de la réduire. La rupture conventionnelle est un départ négocié avec l'employeur. Avec cet amendement, cette différence ne pourrait viser que les moins de 55 ans.",
@@ -9500,231 +9743,123 @@
   }
  },
  {
-  "uid": "VTANR5L17V7000",
-  "numero": 7000,
-  "date": "2026-05-28",
+  "uid": "VTANR5L17V850",
+  "numero": 850,
+  "date": "2025-02-20",
   "type": "amendement",
-  "votants": 214,
+  "votants": 259,
   "socle": false,
-  "theme": "Société et éthique",
-  "titre": "Demander au Gouvernement des propositions de réparations financières liées à l'esclavage",
-  "ce_que_ca_change": "Le texte prévoit un rapport sur le droit colonial encore en vigueur outre-mer et sur l'héritage de l'esclavage. Avec l'amendement, ce rapport traiterait aussi de la « justice réparatrice ». Il devrait proposer des mesures collectives de réparation matérielle et financière, à prendre par le Gouvernement.",
-  "contexte": "Amendement à l'article 2 de la proposition de loi qui supprime le « code noir », texte de 1685 sur l'esclavage dans les colonies, voté le 28 mai 2026.",
+  "solennel": false,
+  "theme": "Environnement et énergie",
+  "titre": "Supprimer la redevance sur les rejets de PFAS dans l'eau par les industriels",
+  "ce_que_ca_change": "L'article supprimé crée une redevance, c'est-à-dire une somme à payer. Elle vise les sites industriels qui rejettent des PFAS dans l'eau. Les PFAS sont une famille de substances chimiques. La redevance est due à partir de 100 grammes rejetés par an. Son tarif est de 100 euros par tranche de 100 grammes.",
+  "contexte": "Amendement qui supprime un article de la proposition de loi sur la protection de la population contre les PFAS, voté le 20 février 2025.",
   "resultat": "rejeté",
   "positions": {
-   "RN": "contre",
+   "RN": "pour",
    "EPR": "contre",
-   "LFI": "pour",
-   "SOC": "pour",
+   "LFI": "contre",
+   "SOC": "contre",
    "DR": "contre",
-   "ECOS": "pour",
+   "ECOS": "contre",
    "DEM": "contre",
    "HOR": "contre",
-   "LIOT": "contre",
-   "UDR": "contre",
-   "GDR": "pour"
+   "GDR": "contre",
+   "UDR": "pour"
   },
   "neutralises": [],
   "voix": {
    "RN": {
-    "pour": 0,
-    "contre": 48,
+    "pour": 53,
+    "contre": 0,
     "abstention": 0
    },
    "EPR": {
     "pour": 0,
-    "contre": 25,
-    "abstention": 1
+    "contre": 31,
+    "abstention": 0
    },
    "LFI": {
-    "pour": 47,
-    "contre": 0,
-    "abstention": 1
+    "pour": 0,
+    "contre": 39,
+    "abstention": 0
    },
    "SOC": {
-    "pour": 23,
-    "contre": 0,
+    "pour": 0,
+    "contre": 35,
     "abstention": 0
    },
    "DR": {
     "pour": 0,
     "contre": 7,
-    "abstention": 0
+    "abstention": 2
    },
    "ECOS": {
-    "pour": 17,
-    "contre": 1,
+    "pour": 0,
+    "contre": 36,
     "abstention": 0
    },
    "DEM": {
     "pour": 0,
-    "contre": 8,
+    "contre": 22,
     "abstention": 0
    },
    "HOR": {
     "pour": 0,
-    "contre": 10,
+    "contre": 17,
     "abstention": 0
    },
    "LIOT": {
-    "pour": 1,
-    "contre": 14,
-    "abstention": 0
-   },
-   "UDR": {
-    "pour": 0,
-    "contre": 4,
-    "abstention": 0
-   },
-   "GDR": {
-    "pour": 6,
-    "contre": 0,
-    "abstention": 0
-   }
-  },
-  "citations": {},
-  "verification": "valide",
-  "dossier": "DLR5L17N52767",
-  "dossier_titre": "Abrogation du Code noir",
-  "liens": {
-   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7000",
-   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52767",
-   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b2810_texte-adopte-commission",
-   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N250"
-  }
- },
- {
-  "uid": "VTANR5L17V2708",
-  "numero": 2708,
-  "date": "2025-06-26",
-  "type": "amendement",
-  "votants": 313,
-  "socle": false,
-  "theme": "Institutions et démocratie",
-  "titre": "Supprimer l'interdiction d'appliquer tout de suite une peine d'inéligibilité",
-  "ce_que_ca_change": "L'article supprimé empêche le juge d'appliquer certaines peines tout de suite, sans attendre l'appel. Il s'agit de l'inéligibilité, c'est-à-dire l'interdiction de se présenter à une élection, et de l'interdiction de voter. Sans cet article, le juge garde la possibilité d'appliquer ces peines dès le premier jugement.",
-  "contexte": "Amendement qui supprime l'article unique de la proposition de loi sur le droit d'être candidat à une élection, voté le 26 juin 2025.",
-  "resultat": "adopté",
-  "positions": {
-   "RN": "contre",
-   "EPR": "pour",
-   "LFI": "pour",
-   "SOC": "pour",
-   "ECOS": "pour",
-   "DEM": "pour",
-   "HOR": "pour",
-   "LIOT": "pour",
-   "GDR": "pour",
-   "UDR": "contre"
-  },
-  "neutralises": [],
-  "voix": {
-   "RN": {
-    "pour": 0,
-    "contre": 102,
-    "abstention": 0
-   },
-   "EPR": {
-    "pour": 46,
-    "contre": 0,
-    "abstention": 1
-   },
-   "LFI": {
-    "pour": 42,
-    "contre": 0,
-    "abstention": 0
-   },
-   "SOC": {
-    "pour": 35,
-    "contre": 0,
-    "abstention": 0
-   },
-   "DR": {
     "pour": 0,
     "contre": 2,
     "abstention": 0
    },
-   "ECOS": {
-    "pour": 28,
-    "contre": 0,
-    "abstention": 0
-   },
-   "DEM": {
-    "pour": 13,
-    "contre": 0,
-    "abstention": 0
-   },
-   "HOR": {
-    "pour": 7,
-    "contre": 0,
-    "abstention": 6
-   },
-   "LIOT": {
-    "pour": 4,
-    "contre": 0,
-    "abstention": 1
-   },
    "GDR": {
-    "pour": 7,
-    "contre": 0,
+    "pour": 0,
+    "contre": 6,
     "abstention": 0
    },
    "UDR": {
-    "pour": 0,
-    "contre": 15,
+    "pour": 7,
+    "contre": 0,
     "abstention": 0
    }
   },
   "citations": {
+   "RN": {
+    "orateur": "M. Eddy Casterman",
+    "citation": "Cet article, qui ne sert strictement à rien, porte le stigmate du lobby de la décroissance industrielle.",
+    "categorie": "A"
+   },
    "EPR": {
-    "orateur": "M. Paul Midy",
-    "citation": "C’est pourquoi nous voterons contre cette loi, en soutenant pleinement cet amendement de suppression.",
+    "orateur": "M. Roland Lescure",
+    "citation": "Enfin, nous finançons la transition.",
     "categorie": "A"
    },
-   "LFI": {
-    "orateur": "Mme Gabrielle Cathala",
-    "citation": "Je veux défendre ces excellents amendements.",
-    "categorie": "A"
-   },
-   "ECOS": {
-    "orateur": "M. Alexis Corbière",
-    "citation": "il ne saurait exister de statut particulier pour certains d’entre nous lorsqu’ils sont candidats à l’élection présidentielle.",
+   "DR": {
+    "orateur": "M. Vincent Descoeur",
+    "citation": "Je me réjouis de l’inscription dans ce texte du principe d’une redevance acquittée par les producteurs de Pfas",
     "categorie": "A"
    },
    "DEM": {
-    "orateur": "M. Philippe Vigier",
-    "citation": "Nous croyons à l’universalité du droit, nous refusons les régimes d’exception, nous respectons l’autorité judiciaire et l’État de droit. Aussi voterons-nous contre la proposition de loi.",
-    "categorie": "A"
-   },
-   "HOR": {
-    "orateur": "Mme Agnès Firmin Le Bodo",
-    "citation": "Ce texte porte également atteinte à l’image de l’ensemble des parlementaires et à la confiance que nos concitoyens nous témoignent.",
-    "categorie": "A"
-   },
-   "LIOT": {
-    "orateur": "Mme Constance de Pélichy",
-    "citation": "Ce texte est indigne ! C’est la raison pour laquelle nous demandons la suppression de son article unique.",
-    "categorie": "A"
-   },
-   "GDR": {
-    "orateur": "Mme Elsa Faucillon",
-    "citation": "Nous vous répondons que les élus doivent être des citoyens comme les autres, et particulièrement devant la justice.",
+    "orateur": "M. Cyrille Isaac-Sibille",
+    "citation": "L’article 2 vise à créer une redevance pollueur-payeur dont le principe semble logique",
     "categorie": "A"
    },
    "UDR": {
-    "orateur": "M. Charles Alloncle",
-    "citation": "je vous invite à voter pour ce texte parce qu’il protège le droit à l’éligibilité, garantit le droit au recours et préserve la présomption d’innocence.",
+    "orateur": "M. Éric Michoux",
+    "citation": "En proposant de créer une nouvelle taxe, dont on ne connaît ni le montant exact, ni ce qu’elle va rapporter à l’État, vous faites un acte de déloyauté vis-à-vis de nos entreprises",
     "categorie": "A"
    }
   },
   "verification": "valide",
-  "dossier": "DLR5L17N52087",
-  "dossier_titre": "protéger l’effectivité du droit fondamental d’éligibilité",
+  "dossier": "DLR5L16N49455",
+  "dossier_titre": "Protéger la population des risques liés aux substances per- et polyfluoroalkylées (PFAS)",
   "liens": {
-   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2708",
-   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52087",
-   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b1415_proposition-loi",
-   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N257"
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/850",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N49455",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0929_texte-adopte-commission",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N110"
   }
  }
 ]

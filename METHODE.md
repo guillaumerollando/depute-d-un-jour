@@ -70,7 +70,8 @@ Un groupe peut voter contre une mesure qui va dans son sens, parce qu'il la juge
 
 **Ce qu'on lit.** Pour chaque carte candidate, on extrait du compte rendu officiel ce que chaque groupe a déclaré avant le vote :
 - pour un amendement, sa discussion ;
-- pour un article, son examen ;
+- pour un article, son examen, y compris les débats sur ses amendements mis aux voix juste avant ;
+- pour des amendements débattus ensemble (« discussion commune ») puis votés l'un après l'autre, ce débat commun ;
 - pour un texte entier, les dernières interventions de chaque groupe.
 
 Seuls comptent les députés du groupe, et les rapporteurs qui déclarent parler « au nom du groupe ».
@@ -116,7 +117,9 @@ Chaque argument reformule une intervention **réellement prononcée** dans l'hé
 
 ## 6. Sélection du paquet
 
-1. **Socle.** Les votes **solennels** sur un texte entrent d'office, un par texte. Ce sont ceux que la Conférence des présidents de l'Assemblée, où siègent tous les groupes, désigne elle-même comme ses votes majeurs.
+1. **Socle.** Deux sortes de votes entrent d'office, parce que l'Assemblée elle-même les juge majeurs :
+   - les votes **solennels** sur un texte, un par texte. La Conférence des présidents de l'Assemblée, où siègent tous les groupes, les désigne comme ses votes majeurs ;
+   - les votes à **très forte participation** : au moins 400 votants sur 577 députés. Quand presque tous les députés se déplacent pour voter, c'est que le vote compte. Ils entrent du plus suivi au moins suivi, dans les limites ci-dessous (thème, dossier, sujet).
 2. **Complément.** Un algorithme glouton et déterministe ajoute une à une les cartes qui départagent le plus de **paires de groupes** encore peu départagées. Une paire est départagée quand l'un vote pour et l'autre contre. Il respecte trois limites :
    - au plus 8 cartes par thème ;
    - au plus 2 cartes par dossier ;
@@ -141,7 +144,7 @@ Les paires que les données ne départagent pas, parce que les groupes votent pa
 **Pourquoi pas de « plutôt pour » ?** Un groupe vote pour ou contre : un « plutôt » n'existe pas dans les données. La nuance passe par l'étoile et par les citations.
 
 **Ordre des cartes.**
-- Les quatre premières viennent du socle, sur des thèmes tous différents.
+- Les quatre premières viennent du socle (les votes jugés majeurs par l'Assemblée), sur des thèmes tous différents.
 - Ensuite, la carte suivante est celle qui départage le plus de paires parmi les groupes encore en tête. Un tirage au sort départage les cartes de valeur proche.
 - Les cartes déjà vues lors des sessions précédentes, mémorisées sur l'appareil, passent après les autres : deux sessions de suite proposent des votes différents.
 - Une session compte 15 cartes, et on peut en ajouter par séries de 10.

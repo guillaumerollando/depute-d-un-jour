@@ -7,7 +7,7 @@ import itertools
 import re
 from collections import Counter, defaultdict
 
-from commun import (INTERIM, MIN_GROUPES_POSITIONNES, MIN_VOTANTS, MIN_VOTANTS_DETAIL, ORDRE, PRIORITE_TYPE,
+from commun import (INTERIM, MIN_GROUPES_POSITIONNES, MIN_VOTANTS, MIN_VOTANTS_DETAIL, MIN_VOTANTS_SOCLE, ORDRE, PRIORITE_TYPE,
                     TYPES_ELIGIBLES, charger_json, ecrire_json)
 
 TAILLE_MAX = 150
@@ -109,6 +109,12 @@ def socle_solennel(scrutins):
     return socle
 
 
+def socle_participation(eligibles):
+    """METHODE §6 : les votes à très forte participation, que les députés eux-mêmes jugent majeurs.
+    Le plafond par dossier et l'unicité du sujet s'appliquent à l'étape 3."""
+    return [{**s, "socle": True} for s in eligibles if not s["solennel"] and s["votants"] >= MIN_VOTANTS_SOCLE]
+
+
 def main():
     scrutins = charger_json(INTERIM / "scrutins.json")
     eligibles = [s for s in scrutins if eligible(s)]
@@ -117,7 +123,7 @@ def main():
     deja = {s["uid"] for s in choisis}
     for s in choisis:
         s["socle"] = False
-    socle = socle_solennel(scrutins)
+    socle = socle_solennel(scrutins) + socle_participation(eligibles)
     for s in socle:
         if s["uid"] in deja:
             next(c for c in choisis if c["uid"] == s["uid"])["socle"] = True

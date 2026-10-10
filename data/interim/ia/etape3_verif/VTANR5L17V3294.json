@@ -1,0 +1,12 @@
+{
+  "uid": "VTANR5L17V3294",
+  "consigne": "etape3_verification v2",
+  "verdict": "corrige",
+  "problemes": [
+    "La liste des biens taxés, présentée comme complète, omet les bijoux, objets d'art, de collection et d'antiquité non exposés au public (5 du III issu de l'amendement n° 3052).",
+    "« Contrôlées à 50 % par une personne » : le seuil de 50 % s'apprécie pour une personne et sa famille, réputées former une seule personne (B du I de l'article 235 ter C)."
+  ],
+  "corrections": {
+    "ce_que_ca_change": "Une holding patrimoniale est une société qui détient surtout biens et placements. Celles ayant au moins 5 millions d'euros d'actifs, détenues à 50 % par une personne ou sa famille et vivant surtout de dividendes, intérêts ou loyers paieraient 20 % de la valeur de leurs biens non professionnels : avions, voitures, biens de chasse ou pêche, bijoux et objets d'art non exposés, certains logements."
+  }
+}

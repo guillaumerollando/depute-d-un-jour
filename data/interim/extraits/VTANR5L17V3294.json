@@ -1,0 +1,114 @@
+{
+ "uid": "VTANR5L17V3294",
+ "titre": "l'article 3 du projet de loi de finances pour 2026 (première lecture).",
+ "type": "article",
+ "date": "2025-10-31",
+ "dossier": "DLR5L17N52428",
+ "dossier_titre": "Projet de loi de finances pour 2026",
+ "sort": "adopté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "pour",
+  "DR": "pour",
+  "DEM": "pour",
+  "HOR": "pour",
+  "UDR": "contre"
+ },
+ "voix": {
+  "RN": {
+   "pour": 90,
+   "contre": 0,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 64,
+   "contre": 0,
+   "abstention": 1
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 0,
+   "abstention": 57
+  },
+  "SOC": {
+   "pour": 2,
+   "contre": 0,
+   "abstention": 58
+  },
+  "DR": {
+   "pour": 22,
+   "contre": 0,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 0,
+   "abstention": 33
+  },
+  "DEM": {
+   "pour": 20,
+   "contre": 0,
+   "abstention": 1
+  },
+  "HOR": {
+   "pour": 21,
+   "contre": 0,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 3,
+   "contre": 2,
+   "abstention": 5
+  },
+  "GDR": {
+   "pour": 0,
+   "contre": 0,
+   "abstention": 12
+  },
+  "UDR": {
+   "pour": 0,
+   "contre": 7,
+   "abstention": 0
+  }
+ },
+ "amendement": null,
+ "seance": "RUANR5L17S2026IDS29858",
+ "compte_rendu": "CRSANR5L17S2026O1N025",
+ "interventions": [
+  {
+   "orateur": "Mme Amélie de Montchalin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "L’article 3 qui va être soumis à votre vote crée une taxe sur les holdings en suivant la méthode proposée par le rapporteur général Juvin, qui vise à s’assurer que les dividendes non distribués et non réinvestis soient taxés à hauteur de 20 %, pour mettre fin à ce qui est considéré comme un abus manifeste et intolérable."
+  },
+  {
+   "orateur": "Mme Christine Arrighi",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Cela fait huit ans que vous ne faites rien contre les abus !"
+  },
+  {
+   "orateur": "Mme Amélie de Montchalin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Monsieur le président Coquerel, je ne peux pas faire de commentaire sur un dossier fiscal individuel ni mener une opération de contrôle. D’ailleurs, je ne donne aucune instruction sur les dossiers individuels : la ministre que je suis doit rester à sa place, celle de membre du gouvernement et non de contrôleuse des dossiers individuels. Cependant, si un particulier crée de manière un peu fictive une société dont on se rend compte que son activité opérationnelle couvre un usage personnel, cela relève effectivement d’un abus de droit que les contrôleurs fiscaux sanctionnent. C’est le type d’abus de droit que l’amendement no 3052 rectifié de M. Juvin permettra d’établir plus clairement et de mieux sanctionner.Par ailleurs, si vous êtes un chef d’entreprise, le problème n’est pas l’ampleur des dividendes que vous recevez mais ce que vous en faites. Si vous réinvestissez ces dividendes dans une entreprise, dans une PME, dans l’innovation, pour contribuer à la croissance économique, nous devrions nous en réjouir. À l’inverse, monsieur Ruffin, si cet argent est à usage personnel et ne sert qu’à être transmis à de futurs héritiers, quels que soient son montant et ses bénéficiaires, alors ce cas renvoie aux discussions sur les successions et sur le pacte Dutreil, que nous aurons par la suite.Enfin, vous avez tous reçu un tableau. Les services de la séance, dont je tiens également à saluer l’impartialité et la grande qualité du travail (Applaudissements sur tous les bancs) – tout comme je tiens à remercier les administrateurs et administratrices de la commission des finances qui, jour et nuit, accomplissent un travail de très grande valeur qui ne saurait être remis en cause –, ont préparé un chiffrage. Celui-ci indique que, par rapport au texte initial, les recettes seront réduites de 500 millions d’euros. Je ne doute pas que les hypothèses de rendement retenues donneront lieu à de nombreuses contestations de part et d’autre.Nombre des amendements adoptés, allant dans le sens d’une diminution comme d’une augmentation des recettes, ont fait l’objet d’avis défavorables du gouvernement ; c’est donc bien d’un budget élaboré par le Parlement que nous sommes en train de discuter. Nous aurons, dans les jours qui viennent et au cours de la navette parlementaire, à mener un travail et à réaliser des études d’impact pour éclairer tant les sénateurs que vous-mêmes, que ce soit avant la commission mixte paritaire (CMP) ou, si elle n’est pas conclusive, avant la nouvelle lecture, afin que, au cours de ces travaux, vous disposiez des éléments nécessaires à la détermination du budget définitif de la nation.Je vous ai ainsi présenté notre méthode, fondée sur la transparence : le gouvernement donnera progressivement tous les chiffrages des amendements votés."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’article 3, tel qu’il a été amendé."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

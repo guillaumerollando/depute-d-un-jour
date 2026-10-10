@@ -1,0 +1,24 @@
+{
+  "uid": "VTANR5L17V518",
+  "consigne": "etape3_accroche v1",
+  "modifie": true,
+  "mesures_citees": [
+    {
+      "mesure": "Dépenses ajoutées (Nouvelle-Calédonie, primes des forces de l'ordre, Ukraine, agriculteurs et viticulteurs, AESH, routes des collectivités)",
+      "groupes": ["DEM", "DR", "ECOS", "EPR", "GDR", "HOR", "LIOT", "RN", "SOC"]
+    },
+    {
+      "mesure": "Dépenses annulées",
+      "groupes": ["DEM", "ECOS", "EPR", "HOR", "LFI", "LIOT", "RN", "SOC"]
+    },
+    {
+      "mesure": "Déficit de l'État pour 2024",
+      "groupes": ["DEM", "ECOS", "EPR", "HOR", "LIOT", "RN"]
+    },
+    {
+      "mesure": "Recettes d'impôts plus faibles que prévu",
+      "groupes": ["DEM", "ECOS", "HOR", "LIOT", "RN"]
+    }
+  ],
+  "titre": "Corriger le budget de l'État pour 2024 : 11,5 milliards de dépenses en plus, 6,5 annulés"
+}

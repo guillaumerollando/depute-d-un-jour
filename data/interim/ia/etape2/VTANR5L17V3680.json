@@ -1,0 +1,55 @@
+{
+  "uid": "VTANR5L17V3680",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Thomas Ménagé",
+      "citation": "Nous, nous ne faisons pas de la politique du pire ; lorsqu’une mesure va dans le bon sens, même si elle ne vient pas de nous, nous la soutenons.",
+      "justification": "Le groupe soutient la suspension de la réforme des retraites et s'oppose à sa suppression."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Jérôme Guedj",
+      "citation": "Est-ce qu’en 2026 et en 2027, ceux qui auraient été pénalisés par la réforme Borne pourront bénéficier de sa suspension ? Honnêtement, la réponse est oui !",
+      "justification": "Le groupe soutient la suspension de la réforme des retraites et s'oppose à sa suppression."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime que par interjections, sans exposer de raison de vote."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. François Ruffin",
+      "citation": "500 000 travailleurs vont en profiter, partir trois mois ou six mois plus tôt : nous prenons.",
+      "justification": "Le groupe soutient la suspension de la réforme des retraites et s'oppose à sa suppression."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait ; le président de commission qui s'exprime n'est pas rattaché au groupe."
+    },
+    "LIOT": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Charles de Courson",
+      "citation": "cet article donne raison à ceux qui ont combattu la réforme des retraites de 2023",
+      "justification": "Le groupe soutient la suspension de la réforme des retraites et s'oppose à sa suppression."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Matthieu Bloch",
+      "citation": "nous refusons la solution de facilité qui consiste à la suspendre sans cap, sans courage, sans projet et surtout sans financement.",
+      "justification": "Le groupe s'oppose à la suspension de la réforme, qu'il juge non financée, et défend une autre réforme."
+    }
+  }
+}

@@ -1,69 +1,69 @@
 {
   "uid": "VTANR5L17V473",
-  "consigne": "etape2_ambiguite v2",
+  "consigne": "etape2_ambiguite v3",
   "groupes": {
     "RN": {
       "position": "contre",
       "categorie": "C",
       "orateur": null,
       "citation": null,
-      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+      "justification": "Les propos du groupe dans le débat commun ne visent pas la mesure de cet amendement."
     },
     "EPR": {
       "position": "pour",
       "categorie": "C",
       "orateur": null,
       "citation": null,
-      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+      "justification": "Les propos du groupe dans le débat commun ne visent pas la mesure de cet amendement."
     },
     "LFI": {
       "position": "contre",
       "categorie": "C",
       "orateur": null,
       "citation": null,
-      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+      "justification": "Les propos du groupe dans le débat commun ne visent pas la mesure de cet amendement."
     },
     "SOC": {
       "position": "contre",
       "categorie": "C",
       "orateur": null,
       "citation": null,
-      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+      "justification": "Les propos du groupe dans le débat commun ne visent pas la mesure de cet amendement."
     },
     "DR": {
       "position": "pour",
       "categorie": "C",
       "orateur": null,
       "citation": null,
-      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+      "justification": "Les propos du groupe dans le débat commun ne visent pas la mesure de cet amendement."
     },
     "ECOS": {
       "position": "contre",
       "categorie": "C",
       "orateur": null,
       "citation": null,
-      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+      "justification": "Les propos du groupe dans le débat commun ne visent pas la mesure de cet amendement."
     },
     "DEM": {
       "position": "pour",
       "categorie": "C",
       "orateur": null,
       "citation": null,
-      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+      "justification": "Les propos du groupe dans le débat commun ne visent pas la mesure de cet amendement."
     },
     "HOR": {
       "position": "pour",
       "categorie": "C",
       "orateur": null,
       "citation": null,
-      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+      "justification": "Les propos du groupe dans le débat commun ne visent pas la mesure de cet amendement."
     },
     "GDR": {
       "position": "contre",
       "categorie": "C",
       "orateur": null,
       "citation": null,
-      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+      "justification": "Les propos du groupe dans le débat commun ne visent pas la mesure de cet amendement."
     }
   }
 }

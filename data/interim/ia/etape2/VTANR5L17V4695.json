@@ -1,0 +1,48 @@
+{
+  "uid": "VTANR5L17V4695",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Camille Galliard-Minier (EPR)",
+      "citation": "Nous nous apprêtons à voter la partie dépenses d’un budget certes imparfait, mais qui est indispensable pour les hôpitaux, pour la santé des Françaises et des Français, et tout simplement pour faire vivre la solidarité nationale.",
+      "justification": "Le groupe soutient la partie dépenses en citant les mesures qu'elle contient."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Ségolène Amiot",
+      "citation": "Nous voterons bien sûr contre la partie dépenses du projet de loi de financement de la sécurité sociale pour 2026, contre ce budget qui s’annonce très dur pour les Françaises et les Français.",
+      "justification": "Le groupe s'oppose aux mesures de la partie dépenses sur les arrêts de travail et l'hôpital."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Sandrine Runel",
+      "citation": "Je le dis ici, adopter cette partie du texte, c’est acter la suspension de la réforme des retraites, la suppression de l’année blanche, la protection des retraités et des personnes en situation de handicap",
+      "justification": "Le groupe soutient la partie dépenses en citant les mesures obtenues."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Nicolas Turquois (Dem)",
+      "citation": "Le groupe Les Démocrates votera sans hésiter pour la troisième partie du PLFSS.",
+      "justification": "Le groupe soutient la partie dépenses, notamment la progression de l'Ondam et les mesures de prévention."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Paul-André Colombani (LIOT)",
+      "citation": "Néanmoins la version actuelle du texte est incontestablement meilleure que la version initiale, plus équilibrée, plus juste, plus protectrice.",
+      "justification": "Le groupe soutient la partie dépenses en citant les mesures obtenues."
+    },
+    "UDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Éric Michoux (UDR)",
+      "citation": "Ces tableaux entérinent de multiples hausses de fiscalité. Dans un tel contexte, vous pensez bien que nous ne voterons ni la troisième partie du PLFSS, ni le projet de loi lui-même.",
+      "justification": "Le groupe s'oppose à la partie dépenses en invoquant les hausses de fiscalité et le déficit."
+    }
+  }
+}

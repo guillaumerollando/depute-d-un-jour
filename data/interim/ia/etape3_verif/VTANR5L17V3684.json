@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V3684",
+  "consigne": "etape3_verification v2",
+  "verdict": "corrige",
+  "problemes": [
+    "L'article est voté « tel qu'amendé » après l'adoption de l'amendement n° 2686 (VTANR5L17V3683, adopté) : la carte décrit la version initiale (gel pour les personnes nées en 1964 seulement) et omet que le texte voté étend le gel aux personnes nées de janvier à mars 1965, aux départs anticipés et à certains fonctionnaires et militaires, pour les retraites prenant effet dès septembre 2026."
+  ],
+  "corrections": {
+    "ce_que_ca_change": "La hausse de l'âge de départ prévue par la réforme de 2023 s'arrête jusqu'en janvier 2028 : les personnes nées en 1964 ou début 1965 partent à 62 ans et 9 mois avec 170 trimestres de cotisation, dès septembre 2026, y compris en départ anticipé ; certains fonctionnaires et militaires sont aussi concernés. La hausse reprend ensuite : 64 ans pour les personnes nées en 1969 au lieu de 1968."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "uid": "VTANR5L17V2130",
+  "consigne": "etape3_equivalence v1",
+  "verdict": "different",
+  "ecarts": [
+    "Le pronom « Il » est ambigu. Dans « Il doit réduire… », le sujet est « chaque territoire », et la phrase suivante, « Il découle de la règle dite « zéro artificialisation nette » », se lit alors comme si c'était le territoire qui découlait de cette règle. Dans l'ancienne version, ce sont les objectifs qui en découlent (« Ces objectifs découlent… »).",
+    "« Il doit réduire » change aussi la nature de la règle. La source parle d'un « objectif local de consommation maximale », et l'ancienne version d'un « objectif local de réduction ». La nouvelle en fait une obligation du territoire, ce qui la rend plus forte.",
+    "Le nouveau titre, « ouvrir à la construction jusqu'à 30 % de terres en plus », ne dit plus par rapport à quoi on compte ces 30 % : il ne parle plus de l'objectif local. On peut le lire comme 30 % de terres en plus au total, alors que l'ancien titre disait « la marge de 30 % sur les objectifs locaux »."
+  ]
+}

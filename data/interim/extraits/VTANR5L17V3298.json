@@ -1,0 +1,654 @@
+{
+ "uid": "VTANR5L17V3298",
+ "titre": "l'amendement n° 2558 (rect.) de M. Le Coq après l'article 3 (examen prioritaire) du projet de loi de finances pour 2026 (première lecture).",
+ "type": "amendement",
+ "date": "2025-10-31",
+ "dossier": "DLR5L17N52428",
+ "dossier_titre": "Projet de loi de finances pour 2026",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "contre",
+  "EPR": "contre",
+  "LFI": "pour",
+  "DR": "contre",
+  "ECOS": "pour",
+  "DEM": "contre",
+  "HOR": "contre",
+  "LIOT": "contre",
+  "GDR": "pour",
+  "UDR": "contre"
+ },
+ "voix": {
+  "RN": {
+   "pour": 0,
+   "contre": 88,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 0,
+   "contre": 63,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 60,
+   "contre": 0,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 0,
+   "contre": 0,
+   "abstention": 58
+  },
+  "DR": {
+   "pour": 0,
+   "contre": 28,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 33,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 20,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 21,
+   "abstention": 1
+  },
+  "LIOT": {
+   "pour": 1,
+   "contre": 6,
+   "abstention": 2
+  },
+  "GDR": {
+   "pour": 12,
+   "contre": 0,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 0,
+   "contre": 5,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901B1906P1D1N002558",
+  "dossier": "DLR5L17N52428",
+  "texte": "PRJLANR5L17B1906",
+  "division": "Article 3",
+  "auteur": "M. Le Coq,  Mme Abomangoli, M. Alexandre, M. Amard, Mme Amiot, Mme Amrani, M. Arenas, M. Arnault, Mme Belouassa-Cherifi, M. Bernalicis, M. Bex, M. Bilongo, M. Bompard, M. Boumertit, M. Boyard, M. Cadalen, M. Caron, M. Carrière, Mme Cathala, M. Cernon, Mme Chikirou, M. Clouet, M. Coquerel, M. Coulomme, M. Delogu, M. Diouara, Mme Dufour, Mme Erodi, M. Fernandes, Mme Ferrer, M. Gaillard, Mme Guetté, M. Guiraud, Mme Hamdane, Mme Hignet, M. Kerbrat, M. Lachaud, M. Lahmar, M. Laisney, M. Le Gall, Mme Leboucher, M. Legavre, Mme Legrain, Mme Lejeune, Mme Lepvraud, M. Léaument, Mme Élisa Martin, M. Maudet, Mme Maximi, Mme Mesmeur, Mme Manon Meunier, M. Nilor, Mme Nosbé, Mme Obono, Mme Oziol, Mme Panot, M. Pilato, M. Piquemal, M. Portes, M. Prud'homme, M. Ratenon, M. Saint-Martin, M. Saintoul, Mme Soudais, Mme Stambach-Terrenoir, M. Aurélien Taché, Mme Taurinya, M. Tavel, Mme Trouvé et M. Vannier",
+  "auteur_groupe": "LFI",
+  "auteur_type": "Député",
+  "dispositif": "I. – Avant le chapitre II du titre IV de la première partie du livre I er du code général des impôts, il est inséré un chapitre I ter ainsi rédigé : « Chapitre I er ter « Impôt plancher sur la fortune « Art. 885 AA. – Sont soumises à l’impôt plancher sur la fortune lorsque la valeur de leurs actifs mentionnés aux articles 885 AB à 885 AH est supérieure à 100 millions d’euros : « 1° Les personnes physiques ayant leur domicile fiscal en France, sur leurs biens situés en France ou hors de France. « Toutefois, les personnes physiques mentionnées au premier alinéa du présent 1° qui n’ont pas été fiscalement domiciliées en France au cours des cinq années civiles précédant celle au cours de laquelle elles ont leur domicile fiscal en France ne sont imposables qu’au titre de leurs biens situés en France. « Le deuxième alinéa du présent 1° s’applique au titre de chaque année au cours de laquelle le redevable conserve son domicile fiscal en France, jusqu’au 31 décembre de la cinquième année qui suit celle au cours de laquelle le domicile fiscal a été établi en France ; « 2° Les personnes physiques n’ayant pas leur domicile fiscal en France, sur leurs biens situés en France lorsque leur valeur est supérieure à 100 millions d’euros ; « Art 885 AA bis . Les contribuables fiscalement domiciliés en France pendant au moins six des dix années précédant le transfert de leur domicile fiscal hors de France sont imposables lors de ce transfert à l’impôt plancher sur la fortune à un tarif égal à dix fois celui prévu à l’article 885 AL. « Le paiement de cet impôt peut être échelonné à la demande du contribuable et, avec l’accord de l’administration fiscale, dans un délai ne pouvant excéder 10 ans à compter du transfert de résidence fiscale. « Un décret fixe les conditions d’application du présent article, notamment les obligations déclaratives des contribuables. « Sauf dans les cas prévus aux a et b du 4 de l’article 6, les couples mariés font l’objet d’une imposition commune. « Les partenaires liés par un pacte civil de solidarité défini à l’article 515‑1 du code civil font l’objet d’une imposition commune. « Les conditions d’assujettissement sont appréciées au 1 er janvier de chaque année. « Art. 885 AB . – L’impôt plancher sur la fortune est assis et les bases d’imposition sont déclarées selon les mêmes règles et sous les mêmes sanctions que les droits de mutation par décès, sous réserve des dispositions particulières du présent chapitre. « Les exonérations prévues en matière de droits de mutation par décès ne s’appliquent pas à l’impôt plancher sur la fortune. « Lorsque le contribuable est passible de l’impôt plancher sur la fortune, l’administration calcule la valeur des actifs et des créances telle que définie à l’article 885 AC en vue de l’établissement d’un avis d’imposition. » « Art. 885 AC. – L’assiette de l’impôt plancher sur la fortune est constituée par la valeur nette, au 1 er janvier de l’année d’imposition, de l’ensemble des biens, droits et valeurs imposables appartenant aux personnes mentionnées à l’article 885 AA, et à leurs enfants mineurs lorsqu’elles ont l’administration légale des biens de ceux-ci. « Dans le cas de concubinage notoire, l’assiette de l’impôt est constituée par la valeur nette, au 1 er janvier de l’année d’imposition, de l’ensemble des biens, droits et valeurs imposables appartenant à l’un et l’autre des concubins et aux enfants mineurs mentionnés au premier alinéa du présent article. « Art. 885 AD. – Les primes versées après l’âge de soixante-dix ans au titre des contrats d’assurance non rachetables souscrits à compter du 20 novembre 1991 et la valeur de rachat des contrats d’assurance rachetables sont ajoutées au patrimoine du souscripteur. « La créance que le souscripteur détient sur l’assureur au titre de contrats, autres que ceux mentionnés à l’article L. 132‑23 du code des assurances, qui ne comportent pas de possibilité de rachat pendant une période fixée par ces contrats est ajoutée au patrimoine du souscripteur. « Art. 885 AE. – Les biens ou droits grevés d’un usufruit, d’un droit d’habitation ou d’un droit d’usage accordé à titre personnel sont compris dans le patrimoine de l’usufruitier ou du titulaire du droit pour leur valeur en pleine propriété. Toutefois, les biens grevés de l’usufruit ou du droit d’usage ou d’habitation sont compris dans les patrimoines respectifs de l’usufruitier ou du nu-propriétaire suivant les proportions fixées à l’article 669 dans les cas énumérés ci-après, à la condition, en cas d’usufruit, que le droit constitué ne soit ni vendu, ni cédé à titre gratuit par son titulaire : « 1° Lorsque la constitution de l’usufruit résulte de l’application des articles 767, 1094 ou 1098 du code civil. Les biens dont la propriété est démembrée en application d’autres dispositions, notamment de l’article 1094‑1 du même code, ne peuvent faire l’objet de cette imposition répartie ; « 2° Lorsque le démembrement de propriété résulte de la vente d’un bien dont le vendeur s’est réservé l’usufruit, le droit d’usage ou le droit d’habitation et que l’acquéreur n’est pas l’une des personnes mentionnées à l’article 751 du présent code ; « 3° Lorsque l’usufruit ou le droit d’usage ou d’habitation a été réservé, par le donateur d’un bien ayant fait l’objet d’un don ou legs à l’État, aux départements, aux communes ou aux syndicats de communes et à leurs établissements publics, aux établissements publics nationaux à caractère administratif et aux associations reconnues d’utilité publique. « Art. 885 AF. – Les biens ou droits transférés dans un patrimoine fiduciaire ou ceux éventuellement acquis en remploi ainsi que les fruits tirés de l’exploitation de ces biens ou droits sont compris dans le patrimoine du constituant pour leur valeur vénale nette. « Art. 885 AG. – Les biens ou droits placés dans un trust défini à l’article 792‑0 bis ainsi que les produits qui y sont capitalisés sont compris, pour leur valeur vénale nette au 1 er janvier de l’année d’imposition, selon le cas, dans le patrimoine du constituant ou dans celui du bénéficiaire qui est réputé être un constituant en application du II du même article 792‑0 bis . « Le premier alinéa du présent article ne s’applique pas aux trusts irrévocables dont les bénéficiaires exclusifs relèvent de l’article 795 ou sont des organismes de même nature relevant de l’article 795‑0 A et dont l’administrateur est soumis à la loi d’un État ou d’un territoire ayant conclu avec la France une convention d’assistance administrative en vue de lutter contre la fraude et l’évasion fiscales. « Art. 885 AH. – L’article 754 B du code général des impôts est applicable à l’impôt plancher sur la fortune. « Art. 885 AI. – La valeur des biens est déterminée suivant les règles en vigueur en matière de droits de mutation par décès. Un décret d’application précise les modalités de calcul de la valeur vénale des titres d’une société non-admise à la négociation sur un marché réglementé. « Art. 885 AJ. – Les valeurs mobilières cotées sur un marché sont évaluées selon le dernier cours connu ou selon la moyenne des trente derniers cours qui précèdent la date d’imposition. « Art. 885 AK. – Les créances détenues, directement ou par l’intermédiaire d’une ou de plusieurs sociétés interposées, par des personnes n’ayant pas leur domicile fiscal en France sur une société à prépondérance immobilière mentionnée au 2° du I de l’article 726 ne sont pas déduites pour la détermination de la valeur des parts que ces personnes détiennent dans la société. « Art. 885 AL. – Le tarif de l’impôt plancher sur la fortune dû est égal à la différence, si elle est positive, entre : « 1° Le montant résultant de l’application d’un taux de 5,5 % à la valeur nette taxable de l’assiette telle que définie à l’article 885 AC ; « 2° Et le montant résultant de la somme des montants acquittés, pour l’année en cours, par le redevable au titre de l’impôt sur le revenu prévu à l’article 1A du CGI, de l’impôt sur la fortune immobilière prévu à l’article 964 du CGI, de la taxe foncière prévue à l’article 1380 du CGI, de la taxe d’habitation prévue à l’article 1407 du CGI, du prélèvement prévu par l’article 235 ter du CGI, des contributions prévues aux articles L. 136‑1 et L. 136‑6 du code de la sécurité sociale, des contributions au remboursement de la dette sociale prévues au chapitre II de l’ordonnance n° 96‑50 du 24 janvier 1996 relative au remboursement de la dette sociale et de la contribution prévue à l’article 223 sexies du présent code, ainsi que des impôts équivalents acquittés à l’étranger. Un décret en Conseil d’État précise et met à jour, le cas échéant, la liste des impôts mentionnés au précédent alinéa pour l’application du présent article, afin d’y inclure tout impôt de nature équivalente institué postérieurement à l’entrée en vigueur de cet article. « Art. 885 AM. – I – Les redevables souscrivent, au plus tard le 23 septembre de chaque année, une déclaration de leur fortune précisant la valeur brute et la valeur nette taxable de leur patrimoine, déposée au service des impôts de leur domicile au 1 er janvier et accompagnée du paiement de l’impôt. « La valeur brute et la valeur nette taxable du patrimoine des concubins notoires et de celui des enfants mineurs lorsque les concubins ont l’administration légale de leurs biens sont portées sur la déclaration de l’un ou l’autre des concubins. « II. – Les époux et les partenaires liés par un pacte civil de solidarité défini à l’article 515‑1 du code civil doivent conjointement signer la déclaration prévue au I du présent article. « III. – En cas de décès du redevable, le 2 de l’article 204 est applicable. La déclaration mentionnée au I du présent article est produite par les ayants droit du défunt dans un délai de six mois à compter du décès. Le cas échéant, le notaire chargé de la succession peut produire cette déclaration à la demande des ayants droit si la succession n’est pas liquidée à la date de production de la déclaration. « Art. 885 AN. – Les personnes possédant des biens en France sans y avoir leur domicile fiscal et les personnes mentionnées au 2 de l’article 4 B peuvent être invitées par le service des impôts à désigner un représentant en France dans les conditions prévues à l’article 164 D. « Toutefois, l’obligation de désigner un représentant fiscal ne s’applique ni aux personnes qui ont leur domicile fiscal dans un autre État membre de l’Union européenne ou dans un autre État partie à l’accord sur l’Espace économique européen ayant conclu avec la France une convention d’assistance administrative en vue de lutter contre la fraude et l’évasion fiscales ainsi qu’une convention d’assistance mutuelle en matière de recouvrement de l’impôt, ni aux personnes mentionnées au 2 de l’article 4 B qui exercent leurs fonctions ou sont chargées de mission dans l’un de ces États. « Art. 885 AO. – Lors du dépôt de la déclaration mentionnée au I de l’article 885 AM, les redevables doivent joindre à leur déclaration les éléments justifiant de l’existence, de l’objet et du montant des dettes dont la déduction est opérée. » « Art. 885 AP. – La vente de parts cédées prévues au 1716 bis du code général des impôts peut faire l’objet d’une procédure d’autorisation au sens de l’article L151‑3 du code monétaire et financier. II. – Après le I de l’article 1716 bis du code général des impôts, il est inséré un II ainsi rédigé : « L’impôt plancher sur la fortune prévu à l’article 885AA peut être acquitté par la remise de parts de sociétés d’une valeur équivalente à l’impôt dû tel que défini à l’article 885AL. La prise de participation de l’État dans ces sociétés ne donne pas lieu à la nomination de représentants de l’État ou de commissaires du Gouvernement supplémentaires au sein des instances de gouvernance ou de direction des sociétés concernées. Ce transfert de parts peut faire l’objet d’un pacte d’actionnaires qui comprend notamment les dispositions suivantes : 1 – rétrocession par l’État aux contribuables concernés des droits de votes afférents ; 2 – clause de rachat des parts par les contribuables. Cette procédure exceptionnelle de règlement des droits est subordonnée à un agrément donné dans des conditions fixées par décret » III. – L’article 1723 ter-00 B du code général des impôts est complété par les mots : « et pour le paiement de l’impôt plancher sur la fortune ». IV. – Après l’article 1723 ter-00 B du code général des impôts, il est inséré un article 1723 ter-00 C ainsi rédigé : « Art. 1723 ter-00 C. – I. – L’impôt plancher sur la fortune défini au chapitre I er TER d du titre IV de la première partie du livre I er du présent code est recouvré et acquitté selon les mêmes règles et sous les mêmes garanties et sanctions que les droits de mutation par décès. « II. – Ne sont pas applicables aux redevables mentionnés au I de l’article 885 AM : « 1° Les articles 1715 et 1716 A ; « 2° Les articles 1717, 1722 bis et 1722 quater . « 3° Les dispositions du III de l’article L. 269 du livre des procédures fiscales relatives à l’inscription de l’hypothèque légale du Trésor. » V. – Le présent amendement entre en vigueur le 1 er janvier 2026",
+  "expose": "Cet amendement d’appel du groupe LFI prévoit la mise en place d’une contribution différentielle sur les très hauts patrimoines non pas adossée à un taux plancher de 2 %, mais à ce que les classes moyennes paient, elles, en impôts chaque année, rapporté à leur patrimoine. Il est plus que temps que la France cesse d’être un paradis fiscal pour milliardaires. - Aujourd’hui, le patrimoine médian en France est de 175 000 €. - Une personne qui touche le revenu médian, soit 32 000 € bruts, s’acquittera en un an de 9 650 € d’impôts et cotisations principaux, à savoir l’impôt sur le revenu, la CSG, et la TVA. En d’autres termes, un « citoyen médian » s’acquitte chaque année d’impôts qui correspondent à plus de 5,5 % de son patrimoine. Et encore, à supposer que cette dernière n’est pas assujettie à une taxe foncière. La moindre des choses est donc que nos milliardaires français, plutôt que de se soustraire au financement de la solidarité nationale en manipulant à loisir leur revenu fiscal de référence, participent dans des proportions équivalentes, eu égard de leur patrimoine. Nous proposons donc de mettre en place non pas un nouvel impôt, mais bien une garantie fiscale pour qu’ils s’acquittent d’un taux équivalent à ce que paient les classes moyennes, soit 5,5 % de leur patrimoine. Il ne s’agit en rien d’une taxe confiscatoire : depuis maintenant un quart de siècle, la hausse moyenne du patrimoine des plus riches augmente spontanément de 6 % à 8 % par an. Cette hausse en France s’est largement accélérée pour atteindre 10 % par an en moyenne annuelle depuis l’arrivée au pouvoir d’Emmanuel Macron en 2017. En conséquence, les patrimoines des ultra-riches continueraient à connaître une croissance de long-terme de 0,5 % à 2,5 %, soit des montants qui restent bien supérieurs à la croissance moyenne de notre économie. À elle seule, une telle mesure permettrait d’accroître les recettes fiscales du pays d’environ 60 milliards d’euros par an, plus du tiers du déficit budgétaire. Plutôt que de s’attaquer aux moyens de subsistance du RSA, plutôt que d’augmenter de façon inconsidérée les taxes sur l’énergie consommée par les TPE et les plus précaires, plutôt que de sacrifier le financement des services publics qui bénéficient à tous : ayons enfin le courage de vraiment demander aux 0,004% des plus riches de contribuer, eux aussi, à la solidarité nationale !"
+ },
+ "seance": "RUANR5L17S2026IDS29858",
+ "compte_rendu": "CRSANR5L17S2026O1N025",
+ "interventions": [
+  {
+   "orateur": "M. Nicolas Sansu",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Ah, c’est déjà fait ?"
+  },
+  {
+   "orateur": "M. Paul Midy",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "C’est la contribution exceptionnelle sur les hauts revenus (CEHR) de François Fillon, c’est la contribution différentielle sur les hauts revenus (CDHR) de Michel Barnier, c’est la taxe sur les holdings, c’est la surtaxe à l’IS. (Exclamations sur quelques bancs du groupe LFI-NFP.)"
+  },
+  {
+   "orateur": "M. Maxime Laisney",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Vous préférez la TVA !"
+  },
+  {
+   "orateur": "M. Paul Midy",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Nous voterons donc contre la taxe Zucman, mais aussi contre la taxe Zucman dite light, car elle n’est pas light ! C’est une taxe Zucman avec sucre ajouté. Le taux est plus élevé, le seuil d’imposition est plus bas – il est fixé à 10 millions d’euros au lieu de 100 millions – et les exceptions faites pour les biens professionnels sont anecdotiques. Cette taxe est 100 % sucre ajouté et 0 % croissance ; pour nous, ce sera donc 100 % non ! (Applaudissements et « Bravo » sur plusieurs bancs du groupe EPR.)"
+  },
+  {
+   "orateur": "M. Hervé Berville",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Excellent !"
+  },
+  {
+   "orateur": "M. Alexis Corbière",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Ils sont radicalisés ! Ce sont des forcenés !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Laurent Wauquiez."
+  },
+  {
+   "orateur": "M. Laurent Wauquiez",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Dans cette discussion budgétaire, nous voici arrivés au débat fou sur la taxe Zucman. Depuis plusieurs jours que nous examinons le budget, les députés du groupe Droite républicaine se sont employés à ne pas augmenter l’impôt sur le revenu, à éviter des mesures de refiscalisation, à obtenir des mesures importantes pour eux telles que la défiscalisation des heures supplémentaires, et lors de la deuxième partie, ils s’emploieront à proposer des économies sur la dépense publique.Cependant, pour d’autres députés, sur certains bancs, dans un pays qui détient pourtant déjà le record des prélèvements obligatoires, le débat budgétaire consiste à augmenter les taxes et les impôts. Un visiteur qui débarquerait de Sirius n’arriverait même pas à comprendre comment un pays qui a déjà tant d’impôts et de taxes peut encore se demander s’il n’y aurait pas, par miracle, un petit endroit qu’on aurait oublié de taxer. (Applaudissements sur les bancs du groupe DR. – M. Guillaume Kasbarian applaudit également.)La position des députés de la Droite républicaine est très simple : nous sommes contre la folie fiscale et contre la « taxe mania ». Or votre taxe Zucman, c’est simplement de la taxe mania.Monsieur le président de la commission des finances, vous escomptez des rentrées fiscales supplémentaires, mais vous n’aurez rien. Vous n’aurez pas plus d’impôts, vous aurez moins d’emplois, moins de salaire, moins de pouvoir d’achat, moins d’activité économique. (Applaudissements sur plusieurs bancs des groupes DR, EPR et HOR. – Exclamations sur quelques bancs du groupe LFI-NFP.) Vous ferez seulement du mal à la croissance. À force de tout taxer, vous n’aurez plus rien à taxer. En outre, vous écœurerez la France qui travaille et la France qui entreprend. (Applaudissements sur quelques bancs du groupe DR. – Exclamations sur les bancs du groupe LFI-NFP.)"
+  },
+  {
+   "orateur": "M. Nicolas Sansu",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "La France qui est riche à millions !"
+  },
+  {
+   "orateur": "M. Laurent Wauquiez",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Nous nous obstinerons, vous nous trouverez sur votre chemin. ( M. Benjamin Lucas-Lundy s’exclame également.) La seule voie pour le redressement du pays n’est pas l’augmentation d’impôts, mais la baisse de la dépense. (Applaudissements sur plusieurs bancs des groupes DR, EPR et HOR.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Boris Vallaud."
+  },
+  {
+   "orateur": "M. Boris Vallaud",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Je souhaite rappeler à M. Midy, qui déclare vouloir se battre contre le populisme, qu’il a été comme nous le témoin d’une révolte aussi inédite qu’insensée des milliardaires, lesquels ont décidé de lutter par tous les moyens, notamment grâce à leurs médias et leurs organisations professionnelles, contre l’impôt et le consentement à l’impôt.Tous les pays où les milliardaires se mêlent de politique, refusent de concourir à l’impôt, contestent la souveraineté populaire incarnée par le parlement qui représente les électeurs, tous ces pays finissent par sombrer dans l’oligarchie. Nous en avons vu plusieurs exemples récents, comme celui des États-Unis d’Amérique, où les oligarques de la tech ont porté Trump au pouvoir. (Applaudissements sur plusieurs bancs des groupes SOC et EcoS.)"
+  },
+  {
+   "orateur": "M. Philippe Ballard",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Qui a porté Macron au pouvoir ? C’est vous !"
+  },
+  {
+   "orateur": "M. Boris Vallaud",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Certains milliardaires français ont participé au financement de la campagne de ce même Trump ; ce sont les mêmes qui se révoltent désormais. Je constate par ailleurs que certains chefs d’entreprise – des entrepreneurs de la tech, ceux-là mêmes que vous nous accusez de vouloir sacrifier – se sont dits disposés à payer la taxe Zucman. (Applaudissements sur plusieurs bancs du groupe SOC. – Mme Cyrielle Chatelain et M. Tristan Lahais applaudissent également.)"
+  },
+  {
+   "orateur": "Mme Ayda Hadizadeh",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Bravo !"
+  },
+  {
+   "orateur": "M. Boris Vallaud",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Ceux-là savent la valeur de la cohésion sociale d’une nation comme la nôtre, la valeur de la justice sociale et fiscale. Ils savent la valeur économique de la décence commune dont parlait Orwell. Le triomphe de la justice, c’est ce que tout républicain authentique devrait exiger.M. Wauquiez nous accuse de folie fiscale ; mais la folie fiscale, c’est quand les PME paient les impôts des multinationales qui ne les paient pas. (Applaudissements sur plusieurs bancs du groupe SOC ainsi que sur quelques bancs des groupes EcoS et GDR.) La folie fiscale, c’est quand les classes moyennes et les classes populaires paient les impôts des multinationales qui ne les paient pas, multinationales qui consolident 40 % de leur résultat dans des paradis fiscaux et privent l’État, les services publics, les Françaises et les Français, de 20 % de l’impôt sur les sociétés. (Mêmes mouvements.) C’est cela, la folie fiscale ! C’est aussi oublier que la TVA annule un quart de l’effet redistributif de notre modèle social.Enfin, s’agissant d’inconstitutionnalité… (Le temps de parole étant écoulé, Mme la présidente coupe le micro de l’orateur. – Les députés du groupe SOC applaudissent ce dernier.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Tristan Lahais."
+  },
+  {
+   "orateur": "M. Tristan Lahais",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Nous ressentons une certaine lassitude, qui n’altère pas notre détermination,…"
+  },
+  {
+   "orateur": "M. Alexandre Portier",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Lassitude partagée !"
+  },
+  {
+   "orateur": "M. Tristan Lahais",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "…face au double discours qui consiste à prétendre, un jour, rechercher le compromis et à restreindre, le lendemain, la discussion au seul socle commun. Je pense à la suspension de séance ubuesque de ce matin (Applaudissements sur plusieurs bancs des groupes EcoS, LFI-NFP, SOC et GDR), qui a permis de rabibocher le socle commun, mais qui ne dessine aucune voie permettant l’adoption du budget par notre assemblée. Le compromis n’est possible qu’à la condition d’écouter l’aspiration du pays à l’équité et à la justice fiscale. (Applaudissements sur quelques bancs du groupe EcoS.) C’est la raison pour laquelle nous défendons la taxe Zucman, qui est à la fois un symbole et un outil efficace – peut-être le seul – pour que les riches prennent leur juste part à l’effort national.Je ferai quatre observations. Premièrement, si nous souhaitons taxer les biens professionnels, c’est parce que le train de vie des plus riches repose précisément sur la confusion organisée entre les biens professionnels et les biens personnels. (Applaudissements sur plusieurs bancs du groupe EcoS.)Deuxièmement, définir une taxe plancher sans exemption possible est le seul moyen d’éviter les mécanismes d’optimisation qui annulent généralement les effets des réformes fiscales.Ma troisième observation est morale : le niveau de la concentration patrimoniale et des inégalités sociales altère le sentiment d’appartenance à une communauté de destin, qui exige des conditions de vie égales entre ses membres. (Applaudissements sur quelques bancs du groupe EcoS.)Enfin, le rendement fiscal que nous recherchons par cette mesure nous permettra de corriger votre mauvais budget. Certains nous ont accusés de matraquage fiscal ; il est certain que si nous n’adoptons pas cet impôt, nous laisserons libre cours au matraquage social. (Applaudissements sur les bancs du groupe EcoS et sur plusieurs bancs des groupes LFI-NFP, SOC et GDR.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Aurélie Trouvé."
+  },
+  {
+   "orateur": "Mme Aurélie Trouvé",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Premièrement, je souhaite répondre à Mme la ministre, qui affirme que l’inégalité de patrimoine a très peu augmenté. Je sais, en tout cas, que huit ans de présidence Macron ont mené à un record de pauvreté dans le pays : la pauvreté a atteint un niveau jamais mesuré depuis les années 1970. (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)"
+  },
+  {
+   "orateur": "M. François Cormier-Bouligeon",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "C’est totalement faux !"
+  },
+  {
+   "orateur": "Mme Aurélie Trouvé",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Je sais que la richesse détenue par les 500 plus grandes fortunes de France a été multipliée par deux depuis 2017. Je sais que ces 500 fortunes, qui représentaient 6 % du PIB en 1996, en représentent maintenant 42 %. (Applaudissements sur plusieurs bancs du groupe LFI-NFP.) En 1996, Mulliez était le Français le plus riche, avec 5 milliards d’euros ; aujourd’hui, c’est Bernard Arnault (« Ah ! » sur plusieurs bancs du groupe RN), avec 203 milliards d’euros. (Applaudissements sur plusieurs bancs du groupe LFI-NFP.) Relisez la note de 2024 de l’Insee intitulée « En vingt ans, les inégalités de patrimoine se sont accrues » ! Relisez donc les chiffres, au lieu de nous raconter des balivernes. (Applaudissements sur plusieurs bancs du groupe LFI-NFP.)Deuxièmement, comme cela a été dit, ce qui importe, c’est l’effort des milliardaires. La taxe Zucman ne fait que rétablir la fiscalité pour que les milliardaires contribuent à hauteur de 50 % de leurs revenus. M. Zucman, qui est un très grand économiste… (Applaudissements sur quelques bancs du groupe LFI-NFP. – Protestations sur les bancs du groupe RN.)"
+  },
+  {
+   "orateur": "M. Hervé de Lépinau",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "C’est une blague ! C’est un acteur !"
+  },
+  {
+   "orateur": "Mme Aurélie Trouvé",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "…utilise tout simplement un indicateur qui peut-être ne vous plaît pas (Exclamations sur les bancs du groupe RN) parce qu’il exprime la réalité. Il prend en compte l’ensemble des prélèvements divers par rapport à l’ensemble des revenus – je vous rappelle, madame la ministre, que les indemnités ne sont pas des revenus. Les prélèvements représentent donc 25 % de leurs revenus pour les milliardaires tandis qu’ils s’élèvent à 50 % pour la moyenne de l’ensemble de la population française.Je finis en soulignant que sept prix Nobel d’économie – sept, pas un seul – ont plaidé pour la taxe Zucman : Krugman, Duflo, Stiglitz, Johnson, Acemoglu, Akerlof, Banerjee. (Applaudissements sur les bancs du groupe LFI-NFP. – Exclamations sur les bancs du groupe RN.) Je m’adresse enfin aux collègues qui voudraient élaborer des taxes light, exonérer certains biens ou je ne sais quoi : ça ne sert à rien ! Vous avez vu que ni la Macronie ni la droite… (Le temps de parole étant écoulé, Mme la présidente coupe le micro de l’oratrice. – Les députés du groupe LFI-NFP applaudissent cette dernière.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Jean-Philippe Tanguy."
+  },
+  {
+   "orateur": "M. Jean-Philippe Tanguy",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Au Rassemblement national, on pense…"
+  },
+  {
+   "orateur": "Mme Dieynaba Diop",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Vous pensez ? Depuis quand ? Vous êtes surtout racistes et xénophobes !"
+  },
+  {
+   "orateur": "M. Jean-Philippe Tanguy",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "…qu’il y a une identité nationale (Exclamations sur les bancs des groupes SOC et EcoS) et que celle-ci se traduit par une identité économique et sociale. Nous pouvons être fiers – en tout cas nous, nous sommes fiers – que les Français n’aient jamais accepté la mondialisation sauvage.Ils n’ont jamais accepté l’ouverture folle des frontières, ses conséquences sur notre industrie et notre agriculture, pas plus qu’ils n’ont accepté ses conséquences sur les inégalités sociales. Nier la hausse des inégalités de patrimoine est une folie,…"
+  },
+  {
+   "orateur": "Plusieurs députés du groupe SOC",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Alors votez la taxe Zucman !"
+  },
+  {
+   "orateur": "M. Jean-Philippe Tanguy",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "…et je ne comprends pas pourquoi ce gouvernement le fait. Il ferait mieux d’écouter certains membres de sa coalition, à savoir nos collègues du Modem, qui nous ont toujours alerté sur la hausse des inégalités sociales et patrimoniales. S’ils avaient écouté le Modem, la France n’aurait pas connu les épisodes de division comme les gilets jaunes. Ils auraient dû aussi écouter le Rassemblement national. (Exclamations sur les bancs du groupe SOC.) La taxe Zucman n’existe pas. Faire croire que c’est la poule aux œufs d’or et qu’elle rapportera 15 milliards dans les placards de Bercy est une absurdité. Même le Conseil d’analyse économique, que vous aimez citer quand cela vous arrange, soutient que cette taxe produira, au mieux, 4 à 5 milliards d’effort fiscal."
+  },
+  {
+   "orateur": "Mme Sabrina Sebaihi",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "C’est déjà pas mal ! C’est toujours ça de pris !"
+  },
+  {
+   "orateur": "Mme Béatrice Bellay",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Si on peut récupérer cette somme, ça nous ira !"
+  },
+  {
+   "orateur": "M. Jean-Philippe Tanguy",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Évidemment, jamais une dizaine de milliardaires n’accepteront de payer un petit chèque à Bercy de 500 millions à 2 milliards d’euros. Ils partiront…"
+  },
+  {
+   "orateur": "Mme Ayda Hadizadeh",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Personne ne partira !"
+  },
+  {
+   "orateur": "M. Jean-Philippe Tanguy",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "…et vous n’aurez rien. Vous avez vendu cela pour justifier la non-censure. Peut-être que les LFI y croient, mais vous, les socialistes, je suis sûr que vous ne croyez pas une seconde à ce mirage de la taxe Zucman. Vous l’avez agitée pour justifier votre non-censure, mais aujourd’hui, cette arnaque va se dévoiler.Malheureusement, les honnêtes gens qui y ont peut-être cru parce qu’ils ressentent l’injustice seront déçus. La seule solution est un impôt sur la fortune financière ou peut-être l’impôt sur la fortune improductive du Modem. C’était la vérité depuis le début. C’est dommage que nous ayons passé tant de temps à bavarder au sujet d’une illusion plutôt que de discuter de ces propositions. Je pense que la vraie discussion arrivera avec les propositions du Modem et du Rassemblement national. (Applaudissements sur les bancs des groupes RN et UDR.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Jean-Paul Mattei."
+  },
+  {
+   "orateur": "M. Jean-Paul Mattei",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Pour commencer, j’éprouve une certaine frustration concernant l’organisation des débats, car nous avons entendu un long monologue et chaque groupe ne peut maintenant réagir que sur l’ensemble des amendements en discussion commune. (Applaudissements sur plusieurs bancs des groupes Dem, EPR et DR.) J’avoue que cette absence d’égalité dans l’échange, alors que celle-ci serait légitime, est légèrement agaçante. (Exclamations sur plusieurs bancs du groupe LFI-NFP.)La taxe Zucman est un leurre et, pour moi, c’est un non-sens juridique. En effet, on confond la fortune qui est dans une entreprise ou les bénéfices qu’elle réalise et la qualité d’associé, alors que ce n’est pas la même chose. Je préfère que les grands groupes soient détenus par des Français plutôt que par des fonds étrangers. (Applaudissements sur plusieurs bancs des groupes Dem et EPR.)"
+  },
+  {
+   "orateur": "M. Philippe Vigier",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Ben oui !"
+  },
+  {
+   "orateur": "M. Jean-Paul Mattei",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "J’aime bien faire des modélisations. Si on prend la taxe Zucman, telle que celui-ci l’a conçue, quelqu’un qui possède un patrimoine de 1 milliard d’euros devra payer chaque année 20 millions d’impôts. Même s’il a de gros revenus et qu’il paie déjà 4 millions d’IR, il lui restera 16 millions à payer. Où ira-t-il chercher l’argent ? Il le prendra dans l’entreprise et sera donc obligé de le distribuer. Si en plus il n’est pas majoritaire, les autres actionnaires pourront dire qu’ils ne sont pas d’accord pour distribuer. Or utiliser de manière excessive la trésorerie d’une entreprise pour payer un impôt personnel constitue un acte anormal de gestion. Cette logique ne fonctionne pas.J’ai également fait les calculs pour la taxe Zucman light. Pour la payer, il faudrait distribuer entre 2,5 % et 3 % de la valeur de l’entreprise par an. Là aussi, encore faut-il pouvoir le faire juridiquement ; or ce n’est pas possible.Cette taxe est donc un leurre. Mme la ministre l’a très bien dit : cette disposition sera censurée par le Conseil constitutionnel (Exclamations sur les bancs du groupe LFI-NFP.)"
+  },
+  {
+   "orateur": "Un député du groupe LFI-NFP",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Ne dites pas du mal de Richard Ferrand !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Merci de conclure."
+  },
+  {
+   "orateur": "M. Jean-Paul Mattei",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "J’anticipe peut-être sur le propos de mon collègue Charles de Courson. Encore une fois, ne faisons pas croire aux gens que ça va marcher : la taxe Zucman ne fonctionnera pas. À mon avis, il y a d’autres outils de justice fiscale. Je regrette que nous ayons un peu édulcoré l’impôt sur les holdings patrimoniales, mais la discussion n’est pas close. Le texte va cheminer et j’espère que nous trouverons un compromis pour plus de solidarité fiscale. (Applaudissements sur les bancs du groupe Dem et sur quelques bancs du groupe EPR.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Nicolas Sansu."
+  },
+  {
+   "orateur": "M. Nicolas Sansu",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Monsieur le premier ministre, j’ai évoqué précédemment la passion de l’égalité dans notre pays et la nécessité, par conséquent, d’entendre la demande du pays profond en matière de justice fiscale. Au-delà du respect du principe constitutionnel de la participation de chacun à due proportion de sa capacité contributive – ce que permet l’impôt plancher Zucman qui constitue, je le rappelle, une contribution différentielle –, nous savons que les recettes dégagées seront indispensables à nos services publics de santé, d’école, de transition écologique. (Mme Christine Arrighi applaudit.) Elles seront également nécessaires pour revenir sur des ponctions insupportables comme la fiscalisation des indemnités journalières des malades en affection de longue durée ou celle de la rémunération des apprentis. (M. Benjamin Lucas-Lundy applaudit.)"
+  },
+  {
+   "orateur": "M. Philippe Vigier",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Ce n’est pas la taxe Zucman !"
+  },
+  {
+   "orateur": "M. Nicolas Sansu",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Il y a urgence, madame la ministre, monsieur le premier ministre, à préserver le consentement à l’impôt, sans lequel notre démocratie risque de se fracturer de manière inéluctable.Je veux insister sur un autre point dangereux pour la démocratie : l’extrême richesse, même fluctuante, même sans rendement, procure un pouvoir qu’on ne saurait ignorer. Regardez la mainmise des milliardaires sur nombre de médias pour mener la bataille culturelle. (Applaudissements sur plusieurs bancs des groupes GDR, SOC et EcoS.) Regardez l’influence directe de l’oligarchie sur les gouvernements, aux États-Unis, mais aussi en France. C’est bien une révolution dans l’architecture fiscale qui est proposée et qui d’ailleurs est discutée au niveau mondial, au sein de l’OCDE.Au XIXe siècle, on imposait la terre parce que c’était en elle que consistait la richesse. Au XXe siècle, c’était l’industrie. À présent, la richesse est essentiellement financière. C’est la finance que nous devons aller chercher et mieux imposer pour ne pas pénaliser les travailleurs, les retraités ou les jeunes. (Applaudissements sur les bancs du groupe GDR et sur quelques bancs du groupe LFI-NFP.)"
+  },
+  {
+   "orateur": "M. Stéphane Peu",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Bravo !"
+  },
+  {
+   "orateur": "M. Nicolas Sansu",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Madame la ministre, vous avez perdu la bataille culturelle, comme disait Gramsci. L’institution de cet impôt plancher n’est qu’une question de temps. Ne perdons pas de temps. (Applaudissements sur les bancs du groupe GDR, sur plusieurs bancs du groupe EcoS et sur quelques bancs des groupes LFI-NFP et SOC.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Charles de Courson."
+  },
+  {
+   "orateur": "M. Charles de Courson",
+   "qualite": null,
+   "groupe": "LIOT",
+   "president_de_seance": false,
+   "texte": "Mes chers collègues, le problème qui nous est posé est le suivant : comment faire davantage participer au financement des services publics de notre pays la petite minorité des 0,1 % de nos concitoyens qui utilisent certaines failles de nos dispositifs fiscaux pour payer moins d’impôt que ceux qui gagnent moins qu’eux ?La taxe Zucman n’est pas la solution car c’est une triple impasse. C’est une impasse juridique car il y a confusion, ainsi que mon collègue le soulignait précédemment, entre le patrimoine des personnes physiques et celui des personnes morales. Cette confusion aboutit d’ailleurs à créer une rupture d’égalité au sein des actionnaires d’une même société.C’est une impasse économique car, bien entendu, si elle était instaurée, les acteurs économiques s’adapteraient, or nous savons quelles difficultés posent les holdings familiales situées à l’étranger.C’est aussi une impasse constitutionnelle car le Conseil constitutionnel plafonne l’ensemble des impôts – IR, IFI, taxe foncière, CSG, CRDS – à 70 % du revenu disponible et non pas du revenu économique. Avec un taux à 2 %, que faites-vous de tous ceux qui ont un patrimoine qui rapporte moins de 2 % ? C’est confiscatoire. Vous soutenez qu’ils n’ont qu’à s’endetter pour payer leurs impôts ou faire des dations en paiement de leur patrimoine mais, bien entendu, le Conseil constitutionnel dira que cela est contraire au droit de propriété.Monsieur le premier ministre, le groupe LIOT souhaite vous poser une question simple : que propose le gouvernement pour faire face à la question posée ? (Applaudissements sur plusieurs bancs des groupes LIOT et SOC.)"
+  },
+  {
+   "orateur": "M. Matthias Tavel",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Rien !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Alexandre Allegret-Pilot."
+  },
+  {
+   "orateur": "M. Alexandre Allegret-Pilot",
+   "qualite": null,
+   "groupe": "UDR",
+   "president_de_seance": false,
+   "texte": "Nous sommes dans une séquence totalement hallucinante montée de toutes pièces depuis deux mois, où les fake news s’enchaînent. Nous avons rappelé la quasi-stabilité du patrimoine des 1 %, – lesquels, pour information, incluent les 0,1 %. Évidemment qu’après deux mois de propagande, 80 % des personnes sondées croient à la taxe Zucman. Tous ces discours ont en réalité un relent totalitaire, confiscatoire, moralisateur. Mais chassez le bolchevik, il revient au galop ! (Exclamations sur plusieurs bancs des groupes LFI-NFP, SOC EcoS et GDR. – Applaudissements sur les bancs des groupes UDR et RN.) La stigmatisation ne fonctionnera pas : vous dites que seules 500 personnes sont concernées, mais elles ne seraient que 10 que cela ne changerait rien au problème. Rappelons que les 10 % des Français les plus riches supportent 54 % des impôts et cotisations. (Vives exclamations sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR.)Les chiffres de Zucman sont tous bidonnés, cela a été démontré. (Vives protestations sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR.) Le CAE, que vous citez, évoque une destruction de valeur de 6 milliards, pour 4 milliards de recettes, mais le projet Zucman – c’est ainsi qu’il faut l’appeler – est assumé : c’est celui de la collectivisation de l’économie française ou de sa prédation par des fonds étrangers. (Vives exclamations sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR.) Vous le savez, le communisme est un fléau qui revient quotidiennement et s’abat sur les esprits comme la nuit chasse le jour."
+  },
+  {
+   "orateur": "M. René Pilato",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Donald, sors de ce corps !"
+  },
+  {
+   "orateur": "M. Alexandre Allegret-Pilot",
+   "qualite": null,
+   "groupe": "UDR",
+   "president_de_seance": false,
+   "texte": "On devrait avoir la main qui tremble, chers collègues, pour prélever chaque euro supplémentaire dans la poche de celui qui crée, plutôt que de donner des leçons de décence. Les Français ne sont pas des cobayes pour une expérience sociologique.Vous ne voulez pas l’égalité mais l’égalitarisme. Vous ne voulez pas aider les pauvres mais punir les riches. Dans le pays le plus imposé et le plus redistributif au monde, où tout le monde étouffe, la pauvreté augmente. Quelle est votre solution ? Ponctionner ceux qui sont déjà exilés fiscaux à 50 %. (Exclamations sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR.) Rassurez-vous, demain, ils le seront tous ! J’entends même parler d’un ISF climatique pendant que l’Inde célèbre l’extraction de 1 milliard de tonnes de charbon. Dans quel monde vivez-vous ? Notre pays n’est-il pas assez paupérisé et humilié par quarante ans de socialisme ? (Mêmes mouvements.)Certains se complaisent ici à citer la Déclaration des droits de l’homme et du citoyen. Permettez-moi de rappeler que l’article 13 prévoit que l’impôt vise à « l’entretien de la force publique » et aux « dépenses d’administration », pas à compenser l’indigence des socialistes. Coupez dans l’impôt, coupez dans la dépense, libérez les Français ! (Applaudissements sur les bancs des groupes UDR et RN. – Exclamations sur les bancs des groupes LFI-NFP, SOC, EcoS et GDR.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Sylvain Berrios."
+  },
+  {
+   "orateur": "M. Sylvain Berrios",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "Tout a été dit, ou presque, sur l’ineptie économique que représente la taxe Zucman, une impasse économique autant qu’une impasse juridique. La taxe Zucman est aussi une taxe de feignants (Exclamations sur plusieurs bancs des groupes LFI-NFP et EcoS)…"
+  },
+  {
+   "orateur": "Mme Danielle Simonnet",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "C’est une taxe sur les rentiers ! Ce sont eux, les feignants !"
+  },
+  {
+   "orateur": "M. Sylvain Berrios",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "…parce que vous faites croire aux Français qu’en taxant quelques milliardaires, vous pourrez vous épargner une réflexion sur les dépenses de l’État. (Applaudissements sur plusieurs bancs des groupes HOR et EPR.) La vérité, c’est que les dépenses de l’État sont trop élevées. Si nous n’y travaillons pas, nous enverrons tout le pays dans le mur, les salariés comme les entreprises. La taxe Zucman est une taxe de feignants. (Applaudissements sur plusieurs bancs des groupes HOR et EPR. – Exclamations sur les bancs du groupe EcoS.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Madame la ministre, souhaitez-vous réagir avant que nous passions au vote ?"
+  },
+  {
+   "orateur": "Mme Amélie de Montchalin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Me sera-t-il possible de répondre entre les scrutins ?"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Ce n’est pas l’usage, mais rien ne l’interdit formellement."
+  },
+  {
+   "orateur": "Mme Amélie de Montchalin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je vais donc m’exprimer maintenant pour ne pas déroger aux usages. Je tenais, pour informer la représentation nationale, à lire l’avis du Conseil d’État sur l’une des problématiques qui ont été soulevées. Le premier ministre a souhaité interroger le Conseil sur la constitutionnalité de l’amendement no 3480 de Mme Estelle Mercier, qui a été largement évoqué dans les médias et dans les débats politiques ces derniers jours. Je ne vous lirai pas l’avis complet mais deux conclusions.Sur la première question que le premier ministre avait posée, regardant la conformité du projet d’imposition au principe d’égalité devant les charges publiques, le Conseil d’État, après avoir développé sa position, estime qu’en l’état de la jurisprudence du Conseil constitutionnel, la contribution envisagée doit être regardée comme méconnaissant l’exigence de prise en compte des facultés contributives et, par conséquent, méconnaissant le principe constitutionnel d’égalité devant les charges publiques.Par ailleurs, le premier ministre avait demandé au Conseil d’État de se prononcer sur le caractère applicable de cette disposition aux contribuables transférant leur domicile fiscal hors de France puisque, madame la députée, vous proposiez que pendant dix ans, les charges soient payées en France si le domicile fiscal était transféré."
+  },
+  {
+   "orateur": "M. Philippe Brun",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "L’ exit tax !"
+  },
+  {
+   "orateur": "Mme Amélie de Montchalin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Il s’agit de l’ exit tax particulière que Mme Mercier proposait dans l’amendement no 3480.Le Conseil d’État estime qu’un tel dispositif doit être regardé comme excédant ce qui est nécessaire pour assurer la préservation par la France de sa capacité d’imposition ou la cohérence de son système fiscal et, par suite, comme incompatible avec la liberté d’établissement protégée par l’article 49 du Traité sur le fonctionnement de l’Union européenne. (« Et voilà ! », sur plusieurs bancs du groupe EPR.)"
+  },
+  {
+   "orateur": "M. Jean-Paul Lecoq",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Et si nous passions au vote ?"
+  },
+  {
+   "orateur": "Mme Amélie de Montchalin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je voulais apporter sereinement à la représentation nationale ces deux informations importantes : elles éclairent les députés que vous êtes sur les enjeux d’égalité des charges devant l’impôt et de compatibilité avec nos règles européennes. (Applaudissements sur les bancs du groupe EPR.)"
+  },
+  {
+   "orateur": "Mme Sabrina Sebaihi",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Il fallait le dire avant !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Avant de mettre aux voix cette série d’amendements en discussion commune, je vous informe que les sous-amendements nos 3878, 3880, 3893 et 3894, sur l’amendement no 2359, sont retirés."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Les sous-amendements nos 3878, 3880, 3893 et 3894 sont retirés.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 639."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 2378."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 127."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 2558 rectifié."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ],
+ "discussion_commune": "VTANR5L17V3297"
+}

@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V3299",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Jean-Philippe Tanguy",
+      "citation": "La taxe Zucman n’existe pas. Faire croire que c’est la poule aux œufs d’or et qu’elle rapportera 15 milliards dans les placards de Bercy est une absurdité.",
+      "justification": "Le groupe juge la taxe Zucman sans rendement réel, les contribuables visés devant partir."
+    },
+    "EPR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Paul Midy",
+      "citation": "Nous voterons donc contre la taxe Zucman, mais aussi contre la taxe Zucman dite light, car elle n’est pas light !",
+      "justification": "Le groupe annonce voter contre la taxe Zucman, qu'il juge défavorable à la croissance."
+    },
+    "LFI": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Aurélie Trouvé",
+      "citation": "La taxe Zucman ne fait que rétablir la fiscalité pour que les milliardaires contribuent à hauteur de 50 % de leurs revenus.",
+      "justification": "Le groupe défend la taxe Zucman pour rétablir la contribution des milliardaires."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Boris Vallaud",
+      "citation": "Je constate par ailleurs que certains chefs d’entreprise – des entrepreneurs de la tech, ceux-là mêmes que vous nous accusez de vouloir sacrifier – se sont dits disposés à payer la taxe Zucman.",
+      "justification": "Le groupe défend la taxe Zucman au nom de la justice fiscale."
+    },
+    "DR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Laurent Wauquiez",
+      "citation": "Or votre taxe Zucman, c’est simplement de la taxe mania.",
+      "justification": "Le groupe déclare s'opposer à la taxe Zucman, qu'il assimile à une hausse d'impôts néfaste à l'économie."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Tristan Lahais",
+      "citation": "C’est la raison pour laquelle nous défendons la taxe Zucman, qui est à la fois un symbole et un outil efficace – peut-être le seul – pour que les riches prennent leur juste part à l’effort national.",
+      "justification": "Le groupe déclare défendre la taxe Zucman comme outil pour faire contribuer les plus riches."
+    },
+    "DEM": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Jean-Paul Mattei",
+      "citation": "La taxe Zucman est un leurre et, pour moi, c’est un non-sens juridique.",
+      "justification": "Le groupe juge la taxe Zucman inapplicable juridiquement et économiquement."
+    },
+    "HOR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Sylvain Berrios",
+      "citation": "Tout a été dit, ou presque, sur l’ineptie économique que représente la taxe Zucman, une impasse économique autant qu’une impasse juridique.",
+      "justification": "Le groupe juge la taxe Zucman économiquement et juridiquement sans issue."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Nicolas Sansu",
+      "citation": "L’institution de cet impôt plancher n’est qu’une question de temps. Ne perdons pas de temps.",
+      "justification": "Le groupe soutient l'instauration de l'impôt plancher Zucman."
+    },
+    "UDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Alexandre Allegret-Pilot",
+      "citation": "le projet Zucman – c’est ainsi qu’il faut l’appeler – est assumé : c’est celui de la collectivisation de l’économie française ou de sa prédation par des fonds étrangers.",
+      "justification": "Le groupe déclare s'opposer à la taxe Zucman en raison de ses effets économiques."
+    }
+  }
+}

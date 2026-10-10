@@ -1,0 +1,8 @@
+{
+  "uid": "VTANR5L17V3684",
+  "consigne": "etape3_equivalence v1",
+  "verdict": "different",
+  "ecarts": [
+    "Le titre remplace « la durée requise » par « la durée de cotisation », et le résumé « avec 170 trimestres de cotisation » par « Il leur faut 170 trimestres cotisés ». La loi parle de durée d'assurance requise, qui compte aussi des trimestres non cotisés. « Trimestres cotisés » restreint donc la condition et la présente comme une exigence plus forte. Le titre retire aussi « légal » de « l'âge légal »."
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "uid": "VTANR5L17V2130",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "sans_arguments",
+  "problemes": [
+    "Le camp contre (RN, DR, UDR) n'avance que des arguments de procédure (rejeter les amendements pour pouvoir débattre ensuite de la suppression du ZAN) : arguments à null.",
+    "resume_court : « ouvrir 30 % de terres en plus » omet « jusqu'à » et « sans justification », ce qui durcit la portée ; le second énoncé était redondant."
+  ],
+  "corrections": {
+    "resume_court": "Les plans d'urbanisme locaux ne pourraient plus ouvrir à la construction, sans justification, jusqu'à 30 % de terres naturelles, agricoles ou forestières de plus que leur objectif."
+  }
+}

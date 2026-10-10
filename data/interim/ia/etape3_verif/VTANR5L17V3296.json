@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V3296",
+  "consigne": "etape3_verification v2",
+  "verdict": "corrige",
+  "problemes": [
+    "« Un impôt sur le patrimoine net au-delà de 1 million d'euros : 0,5 % » laisse croire que le taux de 0,5 % ne porte que sur la part dépassant 1 million ; selon l'article 885 V, il s'applique à toute la valeur nette taxable du patrimoine, 1 million n'étant que le seuil d'assujettissement (article 885 A)."
+  ],
+  "corrections": {
+    "ce_que_ca_change": "L'impôt sur la fortune immobilière serait remplacé par un impôt sur tout le patrimoine net dès qu'il dépasse 1 million d'euros : 0,5 % hors biens professionnels, plus 1 % à 3 % sur la part au-delà de 10 millions. Dès 50 millions, si les impôts payés sont sous 2 % du patrimoine, on paie la différence. Dès 2027, logements mal isolés, jets et grands yachts verraient leur valeur majorée jusqu'à 50 %."
+  }
+}
