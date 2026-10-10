@@ -98,7 +98,7 @@
  {
   "uid": "VTANR5L17V6912",
   "titre": "Fonder aussi les abattages de loups sur des données scientifiques actualisées chaque année",
-  "ce_que_ca_change": "Le projet de loi prévoit que l'État encadre la gestion du loup pour protéger les troupeaux, notamment par des prélèvements, c'est-à-dire des abattages autorisés de loups, et que ces mesures reposent sur des données scientifiques mises à jour chaque année. L'amendement ajoute dans cette phrase que les mesures de prélèvement sont, elles aussi, déterminées sur cette base.",
+  "ce_que_ca_change": "Le projet de loi charge l'État d'encadrer la gestion du loup pour protéger les troupeaux. Cette gestion comprend des « prélèvements », c'est-à-dire des abattages de loups autorisés. Elle doit reposer sur des données scientifiques mises à jour chaque année. L'amendement précise que les décisions d'abattage reposent elles aussi sur ces données.",
   "dossier": "DLR5L17N54085"
  },
  {
@@ -332,7 +332,7 @@
  {
   "uid": "VTANR5L17V8554",
   "titre": "Rendre obligatoire un entretien annuel pour chaque élève afin de repérer les violences",
-  "ce_que_ca_change": "Chaque enfant, de la maternelle à sa majorité, passerait chaque année à l'école un entretien individuel obligatoire et confidentiel sur sa santé physique et psychique, pour prévenir et repérer les violences. Il serait mené par un professionnel formé et adapté à l'âge. Pour les enfants instruits en famille, il serait organisé par l'État dans un établissement scolaire.",
+  "ce_que_ca_change": "Chaque année, de la maternelle à 18 ans, chaque enfant aurait un entretien individuel obligatoire à l'école. Cet entretien confidentiel porterait sur sa santé physique et psychique. Le but est de prévenir et repérer les violences. Un professionnel formé le mènerait, en l'adaptant à l'âge. Pour les enfants instruits en famille, l'État l'organiserait dans une école.",
   "dossier": "DLR5L17N54776"
  },
  {
@@ -446,7 +446,7 @@
  {
   "uid": "VTANR5L17V522",
   "titre": "Inscrire dans la loi spéciale le montant des dotations de l'État aux collectivités locales",
-  "ce_que_ca_change": "En attendant le budget 2025, la loi fixerait à environ 45 milliards d'euros les sommes que l'État reverse aux communes, départements et régions, détaillées dotation par dotation, dont 27,2 milliards de dotation globale de fonctionnement. Ce montant correspond à celui de 2024. Le Gouvernement estimait que ces versements étaient déjà prolongés par la loi spéciale sans cette mention.",
+  "ce_que_ca_change": "En attendant le budget 2025, la loi fixerait les sommes que l'État verse aux communes, départements et régions. Elles atteignent environ 45 milliards d'euros, détaillées dotation par dotation. La principale, la dotation globale de fonctionnement, est de 27,2 milliards. C'est le même montant qu'en 2024.",
   "dossier": "DLR5L17N51079"
  },
  {
@@ -518,7 +518,7 @@
  {
   "uid": "VTANR5L17V851",
   "titre": "Supprimer l'obligation de publier les analyses de PFAS dans l'eau potable",
-  "ce_que_ca_change": "L'article supprimé oblige les agences régionales de santé à publier leur programme d'analyse des PFAS, une famille de substances chimiques, dans l'eau du robinet et en bouteille, avec un bilan régional chaque année. Le ministre de la santé publie aussi un bilan national annuel.",
+  "ce_que_ca_change": "Les PFAS sont une famille de substances chimiques. L'article supprimé oblige les agences régionales de santé à publier leur programme d'analyse des PFAS. Ces agences sont l'administration de la santé dans chaque région. Les analyses portent sur l'eau du robinet et en bouteille. Chaque agence publie un bilan régional par an. Le ministre de la santé publie un bilan national par an.",
   "dossier": "DLR5L16N49455"
  },
  {
@@ -602,7 +602,7 @@
  {
   "uid": "VTANR5L17V518",
   "titre": "Adopter les ajustements de fin d'année du budget de l'État pour 2024",
-  "ce_que_ca_change": "Le texte corrige le budget 2024 en cours d'année : il réduit d'environ 25,2 milliards d'euros la prévision de recettes fiscales, ouvre 11,5 milliards d'euros de crédits supplémentaires et en annule 6,5 milliards. Le déficit de l'État à financer en 2024 est évalué à 162,4 milliards d'euros.",
+  "ce_que_ca_change": "Le texte corrige le budget 2024 en fin d'année. Il réduit d'environ 25,2 milliards d'euros les recettes d'impôts prévues. Il autorise 11,5 milliards d'euros de dépenses en plus et en annule 6,5 milliards. Le déficit de l'État à financer en 2024 est évalué à 162,4 milliards d'euros.",
   "dossier": "DLR5L17N50838"
  },
  {
@@ -796,5 +796,95 @@
   "titre": "Appeler à renforcer le soutien à l'Ukraine face à la guerre menée par la Russie",
   "ce_que_ca_change": "La résolution exprime la position de l'Assemblée. Elle ne crée pas de loi. Elle condamne la guerre menée par la Russie. Elle invite l'Union européenne et ses alliés à aider davantage l'Ukraine : politiquement, économiquement et militairement. Elle demande d'utiliser pour l'Ukraine les avoirs russes gelés. L'Union européenne devrait aussi participer à toute négociation de paix.",
   "dossier": "DLR5L17N51467"
+ },
+ {
+  "uid": "VTANR5L17V182",
+  "titre": "Créer des cotisations retraite sur les hauts revenus et préparer un retour à 62 ans",
+  "ce_que_ca_change": "Une cotisation retraite s'appliquerait aux salaires au-delà de deux fois le plafond de la Sécurité sociale. Ce plafond est un montant de référence fixé chaque année. Le salarié paierait 2 % et l'employeur 3,8 %. Indépendants et agriculteurs seraient aussi concernés. Syndicats, employeurs et État se réuniraient sous six mois. Ils chercheraient comment financer un départ possible à 62 ans.",
+  "dossier": "DLR5L17N50588"
+ },
+ {
+  "uid": "VTANR5L17V3294",
+  "titre": "Créer une taxe de 20 % sur les biens non professionnels logés dans des holdings",
+  "ce_que_ca_change": "Une holding patrimoniale est une société qui détient surtout biens et placements. Celles ayant au moins 5 millions d'euros d'actifs, détenues à 50 % par une personne ou sa famille et vivant surtout de dividendes, intérêts ou loyers paieraient 20 % de la valeur de leurs biens non professionnels : avions, voitures, biens de chasse ou pêche, bijoux et objets d'art non exposés, certains logements.",
+  "dossier": "DLR5L17N52428"
+ },
+ {
+  "uid": "VTANR5L17V3295",
+  "titre": "Rétablir l'impôt sur la fortune au-delà de 1 million d'euros, minimum 2 % dès 50 millions",
+  "ce_que_ca_change": "L'impôt sur la fortune immobilière serait remplacé par un impôt sur tout le patrimoine net au-delà de 1 million d'euros. Le taux serait de 0,5 %, hors biens professionnels, plus 1 % à 3 % au-delà de 10 millions. Dès 50 millions, si on paie moins de 2 % du patrimoine en impôts, on paie la différence. Logements mal isolés, jets et grands yachts compteraient jusqu'à 50 % de plus.",
+  "dossier": "DLR5L17N52428"
+ },
+ {
+  "uid": "VTANR5L17V3296",
+  "titre": "Rétablir l'ISF au-delà de 1 million d'euros, avec un impôt minimum de 2 % dès 50 millions",
+  "ce_que_ca_change": "L'impôt sur la fortune immobilière serait remplacé par un impôt sur tout le patrimoine net dès qu'il dépasse 1 million d'euros : 0,5 % hors biens professionnels, plus 1 % à 3 % sur la part au-delà de 10 millions. Dès 50 millions, si les impôts payés sont sous 2 % du patrimoine, on paie la différence. Dès 2027, logements mal isolés, jets et grands yachts verraient leur valeur majorée jusqu'à 50 %.",
+  "dossier": "DLR5L17N52428"
+ },
+ {
+  "uid": "VTANR5L17V3297",
+  "titre": "Rétablir l'ISF au-delà de 1 million d'euros, avec un impôt minimum de 2 % dès 100 millions",
+  "ce_que_ca_change": "L'impôt sur la fortune immobilière serait remplacé par un impôt sur tout le patrimoine dès qu'il dépasse 1 million d'euros : 0,5 %, plus 1 % à 3 % au-delà de 10 millions. Dès 100 millions, si les impôts payés font moins de 2 % du patrimoine, on paie la différence ; payable en actions faute de liquidités, dû dix fois si départ à l'étranger. Logements, jets et yachts taxés selon leur bilan climat.",
+  "dossier": "DLR5L17N52428"
+ },
+ {
+  "uid": "VTANR5L17V3298",
+  "titre": "Créer un impôt minimum de 5,5 % sur les patrimoines de plus de 100 millions d'euros",
+  "ce_que_ca_change": "Les personnes dont le patrimoine dépasse 100 millions d'euros paieraient au moins 5,5 % de sa valeur par an, tous impôts compris : si leurs impôts (revenu, fortune immobilière, taxes foncières, CSG…) font moins, elles paient la différence. Sans les exonérations des droits de succession. Paiement possible en parts de sociétés ; un départ à l'étranger rend dû dix fois ce montant.",
+  "dossier": "DLR5L17N52428"
+ },
+ {
+  "uid": "VTANR5L17V3299",
+  "titre": "Créer un impôt minimum de 2 % sur les patrimoines de plus de 100 millions d'euros",
+  "ce_que_ca_change": "Les personnes dont le patrimoine dépasse 100 millions d'euros paieraient au moins 2 % de sa valeur par an, tous impôts compris : si leurs impôts (revenu, fortune immobilière, taxes foncières, CSG…) font moins, elles paient la différence. Abattement de 500 000 € sur la résidence principale. Paiement en parts de sociétés seulement faute de liquidités ; départ à l'étranger : dix fois ce montant.",
+  "dossier": "DLR5L17N52428"
+ },
+ {
+  "uid": "VTANR5L17V3300",
+  "titre": "Créer un impôt minimum de 2 % sur les patrimoines de plus de 100 millions d'euros",
+  "ce_que_ca_change": "Au-delà de 100 millions d'euros de patrimoine, on paierait chaque année au moins 2 % de sa valeur en impôts. Si l'impôt sur le revenu, la taxe foncière ou les autres impôts font moins, on paie la différence. Pour cet impôt, les exonérations des droits de succession ne s'appliqueraient pas. On pourrait payer en parts de sociétés. Partir vivre à l'étranger rendrait dû dix fois ce montant.",
+  "dossier": "DLR5L17N52428"
+ },
+ {
+  "uid": "VTANR5L17V3303",
+  "titre": "Créer un impôt minimum de 3 % sur les patrimoines de plus de 10 millions d'euros",
+  "ce_que_ca_change": "Les personnes dont le patrimoine net dépasse 10 millions d'euros devraient payer au moins 3 % de sa valeur chaque année, tous impôts compris : si leurs impôts (revenu, fortune immobilière, taxes foncières, CSG…) font moins, elles paient la différence. Les parts d'entreprises familiales ou innovantes ne sont pas comptées. Un départ à l'étranger rend dû dix fois ce montant.",
+  "dossier": "DLR5L17N52428"
+ },
+ {
+  "uid": "VTANR5L17V3680",
+  "titre": "Supprimer le gel de l'âge de départ à la retraite à 62 ans et 9 mois",
+  "ce_que_ca_change": "L'article supprimé arrête la hausse de l'âge légal de départ prévue par la réforme de 2023 : 62 ans et 9 mois et 170 trimestres de cotisation pour les personnes nées en 1963 et 1964, jusqu'en janvier 2028. La hausse reprend ensuite d'un trimestre par génération, les 64 ans étant atteints pour les personnes nées en 1969 au lieu de 1968.",
+  "dossier": "DLR5L17N52922"
+ },
+ {
+  "uid": "VTANR5L17V3683",
+  "titre": "Étendre le gel de l'âge de retraite aux carrières longues, aux militaires et à début 1965",
+  "ce_que_ca_change": "Le gel à 62 ans et 9 mois et 170 trimestres vaudrait aussi pour les personnes nées début 1965 et pour les retraites prenant effet dès septembre 2026, dont les départs anticipés pour longue carrière, inaptitude ou invalidité. Il concernerait aussi les fonctionnaires aux métiers pénibles, des militaires et des infirmiers, ainsi que Mayotte et Saint-Pierre-et-Miquelon. Coût annoncé : 0,5 Md€ en 2027.",
+  "dossier": "DLR5L17N52922"
+ },
+ {
+  "uid": "VTANR5L17V3684",
+  "titre": "Geler l'âge légal à 62 ans et 9 mois et la durée d'assurance requise à 170 trimestres",
+  "ce_que_ca_change": "La hausse de l'âge de départ, issue de la réforme de 2023, s'arrête jusqu'en janvier 2028. Dès septembre 2026, les personnes nées en 1964 ou début 1965 ont un âge légal de 62 ans 9 mois. La durée d'assurance requise est de 170 trimestres. Cela vaut aussi pour les départs anticipés et certains fonctionnaires et militaires. Puis la hausse reprend : 64 ans pour les gens nés en 1969, et non 1968.",
+  "dossier": "DLR5L17N52922"
+ },
+ {
+  "uid": "VTANR5L17V3685",
+  "titre": "Supprimer le gel des pensions de retraite et des prestations sociales",
+  "ce_que_ca_change": "L'article supprimé prévoit de ne pas augmenter les retraites de base ni la plupart des prestations sociales et plafonds de ressources en 2026, puis d'augmenter les retraites de 0,4 point de moins que l'inflation de 2027 à 2030. Le Gouvernement en attendait 3,6 milliards d'euros d'économies en 2026. Le supprimer maintient la hausse annuelle habituelle selon l'inflation.",
+  "dossier": "DLR5L17N52922"
+ },
+ {
+  "uid": "VTANR5L17V4692",
+  "titre": "Fixer à 274,3 milliards d'euros les dépenses prévues d'assurance maladie pour 2026",
+  "ce_que_ca_change": "L'objectif de dépenses d'assurance maladie est le montant prévu pour l'année pour les soins et remboursements payés par l'Assurance maladie. Il serait de 274,3 milliards d'euros, contre 270,4 dans le projet initial : 117,4 pour les soins de ville, 112,8 pour les hôpitaux, 18,3 pour les établissements pour personnes âgées et 16 pour ceux pour personnes handicapées.",
+  "dossier": "DLR5L17N52922"
+ },
+ {
+  "uid": "VTANR5L17V4695",
+  "titre": "Adopter la partie dépenses du budget de la Sécurité sociale pour 2026",
+  "ce_que_ca_change": "Cette partie fixe les dépenses de la Sécurité sociale pour 2026, dont environ 274 milliards d'euros pour l'assurance maladie et 310,4 milliards pour les retraites. Elle gèle l'âge de départ à la retraite à 62 ans et 9 mois et crée un réseau de lieux de soins de proximité « France santé ». Le gel des pensions et prestations prévu au départ n'y figure plus.",
+  "dossier": "DLR5L17N52922"
  }
 ]

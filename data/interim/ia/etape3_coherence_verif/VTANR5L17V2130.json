@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V2130",
+  "consigne": "etape3_coherence_verification v1",
+  "verdict": "refuse",
+  "champs_acceptes": [],
+  "problemes": [
+    "Exactitude : la disposition supprimée (alinéas 39 à 42 de l'article 15, texte PRJLANR5L17BTC1191) porte sur « l'objectif local de consommation maximale d'espaces naturels, agricoles et forestiers » et les « objectifs de réduction de cette consommation » pour 2024 à 2034, pas sur l'artificialisation. En droit, la réduction de la consommation d'espaces et la réduction de l'artificialisation sont deux notions distinctes du « zéro artificialisation nette » ; « réduction de l'artificialisation » (terme repris de l'exposé sommaire) est donc inexact pour cette marge.",
+    "Cohérence : le titre corrigé ne reprend pas les mots du résumé (« objectif local de réduction » de l'ouverture à la construction de terrains naturels, agricoles ou forestiers) ni de la situation actuelle (« réduire la construction sur les terres naturelles, agricoles et forestières ») ; il remplace un terme approximatif par un autre terme approximatif.",
+    "Piste : garder le titre actuel, plus proche du résumé, ou une formule fidèle à « consommation d'espaces naturels, agricoles et forestiers », dans la limite de 90 caractères."
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V3295",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Jean-Philippe Tanguy",
+      "citation": "La taxe Zucman n’existe pas. Faire croire que c’est la poule aux œufs d’or et qu’elle rapportera 15 milliards dans les placards de Bercy est une absurdité.",
+      "justification": "Le groupe juge le rendement annoncé des taxes sur le patrimoine en discussion irréaliste."
+    },
+    "EPR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Paul Midy",
+      "citation": "Cette taxe est 100 % sucre ajouté et 0 % croissance ; pour nous, ce sera donc 100 % non !",
+      "justification": "Le groupe s'oppose aux taxes sur le patrimoine en discussion en invoquant leurs effets sur la croissance."
+    },
+    "LFI": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Aurélie Trouvé",
+      "citation": "La taxe Zucman ne fait que rétablir la fiscalité pour que les milliardaires contribuent à hauteur de 50 % de leurs revenus.",
+      "justification": "Le groupe soutient l'imposition des plus hauts patrimoines."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Boris Vallaud",
+      "citation": "Ceux-là savent la valeur de la cohésion sociale d’une nation comme la nôtre, la valeur de la justice sociale et fiscale.",
+      "justification": "Le groupe soutient l'imposition des hauts patrimoines au nom de la justice fiscale."
+    },
+    "DR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Laurent Wauquiez",
+      "citation": "La position des députés de la Droite républicaine est très simple : nous sommes contre la folie fiscale et contre la « taxe mania ».",
+      "justification": "Le groupe s'oppose à toute hausse d'impôt et invoque ses effets sur l'activité."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Tristan Lahais",
+      "citation": "Le compromis n’est possible qu’à la condition d’écouter l’aspiration du pays à l’équité et à la justice fiscale.",
+      "justification": "Le groupe soutient l'imposition des plus riches au nom de la justice fiscale."
+    },
+    "DEM": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Jean-Paul Mattei",
+      "citation": "La taxe Zucman est un leurre et, pour moi, c’est un non-sens juridique.",
+      "justification": "Le groupe juge les taxes sur le patrimoine en discussion inapplicables et néfastes pour la détention des entreprises."
+    },
+    "HOR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Sylvain Berrios",
+      "citation": "Tout a été dit, ou presque, sur l’ineptie économique que représente la taxe Zucman, une impasse économique autant qu’une impasse juridique.",
+      "justification": "Le groupe s'oppose aux taxes sur le patrimoine en discussion et demande une baisse des dépenses."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Nicolas Sansu",
+      "citation": "C’est la finance que nous devons aller chercher et mieux imposer pour ne pas pénaliser les travailleurs, les retraités ou les jeunes.",
+      "justification": "Le groupe soutient l'imposition des patrimoines financiers."
+    },
+    "UDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Alexandre Allegret-Pilot",
+      "citation": "Coupez dans l’impôt, coupez dans la dépense, libérez les Français !",
+      "justification": "Le groupe s'oppose à toute hausse d'impôt sur le patrimoine."
+    }
+  }
+}

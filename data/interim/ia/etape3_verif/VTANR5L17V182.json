@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V182",
+  "consigne": "etape3_verification v2",
+  "verdict": "corrige",
+  "problemes": [
+    "« Chercherait sous six mois » déforme le dispositif : le délai de six mois porte sur la réunion de la conférence (« dans un délai de six mois à compter de la promulgation … est réunie »), pas sur l'obtention d'un financement."
+  ],
+  "corrections": {
+    "ce_que_ca_change": "Les salaires au-delà de deux fois le plafond de la Sécurité sociale (un montant de référence fixé chaque année) supporteraient une cotisation retraite de 2 % pour le salarié et 3,8 % pour l'employeur ; indépendants et agriculteurs aussi. Une conférence syndicats-employeurs-État, réunie sous six mois, chercherait un financement des retraites garantissant un départ possible à 62 ans."
+  }
+}

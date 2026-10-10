@@ -1,0 +1,77 @@
+{
+  "uid": "VTANR5L17V3685",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Christophe Bentz",
+      "citation": "Nous demandons donc la suppression totale de cet article porteur d’une injustice sociale que les Français refusent.",
+      "justification": "Le groupe s'oppose au gel des prestations et des pensions."
+    },
+    "EPR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Guillaume Kasbarian",
+      "citation": "Il est honteux de revaloriser l’intégralité des prestations sociales et des pensions de retraite alors que le déficit s’élève à 170 milliards",
+      "justification": "Le groupe s'oppose à la suppression du gel en invoquant son coût pour les finances publiques."
+    },
+    "LFI": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Damien Maudet",
+      "citation": "Si vous aviez voté la taxe Zucman, nous ne serions peut-être pas là à vous entendre justifier que l’on aille taper sur la tête des travailleurs, sur celle des personnes en situation de handicap et des retraités !",
+      "justification": "Le groupe s'oppose au gel des prestations et des pensions."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Boris Vallaud",
+      "citation": "La justice, c’est de faire participer plus et mieux ceux qui le peuvent à la solidarité nationale et ne pas tondre celles et ceux qui n’en peuvent déjà plus.",
+      "justification": "Le groupe s'oppose au gel des prestations et des pensions."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "B",
+      "orateur": "M. Fabien Di Filippo",
+      "citation": "Tout ce que vous donnerez aux gens qui ne travaillent pas, vous le prendrez dans la poche de ceux qui travaillent et qui produisent la richesse de ce pays !",
+      "citation_raison": "le fait de mélanger des éléments aussi hétérogènes dans un même article nous oblige à nous prononcer, en un même vote, à la fois sur le dégel des pensions de retraite et sur celui des prestations sociales.",
+      "justification": "Le groupe déclare s'opposer au dégel des aides sociales et explique que l'article l'oblige à voter en une fois sur les pensions et sur les prestations sociales."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Cyrielle Chatelain",
+      "citation": "Nous refusons catégoriquement le gel de l’ensemble des prestations sociales, qui sont au fondement de la solidarité entre les Français et de notre vision d’une société qui s’entraide et qui partage.",
+      "justification": "Le groupe s'oppose au gel des prestations sociales."
+    },
+    "DEM": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Philippe Vigier",
+      "citation": "Que chacun fasse donc un effort – que nos retraités les plus riches fassent un petit effort.",
+      "justification": "Le groupe soutient un gel ciblé sur les pensions les plus élevées."
+    },
+    "HOR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. François Gernigon",
+      "citation": "Après la suspension de la réforme des retraites, la suppression de l’article 44 entraînerait 3,6 milliards d’euros de dépenses supplémentaires. Qui va payer ?",
+      "justification": "Le groupe s'oppose à la suppression du gel en invoquant son coût."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Nicolas Sansu",
+      "citation": "Nous en payons le prix dans ce PLFSS, et nous allons surtout le faire payer aux plus pauvres et aux plus modestes !",
+      "justification": "Le groupe s'oppose au gel des prestations et des pensions."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Éric Ciotti",
+      "citation": "Gardez-vous pourtant de chercher à faire ces économies au détriment de ceux qui ont travaillé toute leur vie.",
+      "justification": "Le groupe s'oppose au gel des pensions de retraite."
+    }
+  }
+}

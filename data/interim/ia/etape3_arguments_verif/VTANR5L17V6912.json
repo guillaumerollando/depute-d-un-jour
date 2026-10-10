@@ -1,0 +1,10 @@
+{
+  "uid": "VTANR5L17V6912",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "sans_arguments",
+  "problemes": [
+    "Seul le groupe auteur (SOC, pour) s'exprime ; aucun groupe votant contre n'intervient (seuls rapporteur et gouvernement) : arguments à null.",
+    "aujourdhui et resume_court exacts (le rapporteur confirme que la phrase précédente inclut déjà les tirs de prélèvement)."
+  ],
+  "corrections": {}
+}

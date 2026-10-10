@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V3297",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Les propos du groupe dans le débat commun ne visent pas la mesure de cet amendement."
+    },
+    "EPR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Les propos du groupe dans le débat commun ne visent pas la mesure de cet amendement."
+    },
+    "LFI": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Les propos du groupe dans le débat commun ne visent pas la mesure de cet amendement."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Les propos du groupe dans le débat commun ne visent pas la mesure de cet amendement."
+    },
+    "DR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Laurent Wauquiez",
+      "citation": "La seule voie pour le redressement du pays n’est pas l’augmentation d’impôts, mais la baisse de la dépense.",
+      "justification": "Le groupe déclare s'opposer à toute augmentation d'impôts, ce que crée cet amendement."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Les propos du groupe dans le débat commun ne visent pas la mesure de cet amendement."
+    },
+    "DEM": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Les propos du groupe dans le débat commun ne visent pas la mesure de cet amendement."
+    },
+    "HOR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Les propos du groupe dans le débat commun ne visent pas la mesure de cet amendement."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Les propos du groupe dans le débat commun ne visent pas la mesure de cet amendement."
+    },
+    "UDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Alexandre Allegret-Pilot",
+      "citation": "J’entends même parler d’un ISF climatique pendant que l’Inde célèbre l’extraction de 1 milliard de tonnes de charbon. Dans quel monde vivez-vous ?",
+      "justification": "Le groupe critique explicitement l'ISF climatique proposé par l'amendement."
+    }
+  }
+}

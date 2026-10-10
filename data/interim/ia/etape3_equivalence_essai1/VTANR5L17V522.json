@@ -1,0 +1,8 @@
+{
+  "uid": "VTANR5L17V522",
+  "consigne": "etape3_equivalence v1",
+  "verdict": "different",
+  "ecarts": [
+    "La phrase « Selon le Gouvernement, la loi spéciale prolongeait déjà ces versements sans cette mention » rapporte la position d'un camp, et c'est un argument contre l'amendement : il serait inutile. Elle enfreint l'interdit 2 de etape3_resume (aucun argument pour ou contre). Les sources ne la présentent pas comme un fait établi : l'exposé et le débat la décrivent comme une appréciation contestée. L'ancienne version avait déjà ce défaut (« Le Gouvernement estimait que… ») ; elle devra elle aussi être corrigée."
+  ]
+}

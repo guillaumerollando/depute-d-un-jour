@@ -1,0 +1,8 @@
+{
+  "uid": "VTANR5L17V2130",
+  "consigne": "etape3_equivalence v1",
+  "verdict": "different",
+  "ecarts": [
+    "L'ancienne version disait « jusqu'à 30 % » et le texte supprimé « dépasser jusqu'à 30 % ». La nouvelle dit « dépasser de 30 % l'objectif 2024-2034 » : le plafond (« jusqu'à ») disparaît et devient un dépassement fixe. De plus, « dépasser » un objectif présenté comme un objectif « pour réduire » peut se lire à l'envers, comme une réduction plus forte."
+  ]
+}

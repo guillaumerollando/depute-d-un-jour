@@ -256,6 +256,53 @@ def main():
                 sortie["interventions"] = borner(fenetre)
                 sortie["compte_rendu"] = chemin.split("/")[-1].removesuffix(".xml")
         ecrire_json(INTERIM / "extraits" / f"{carte['uid']}.json", sortie)
+    # Vote sur un article : son examen comprend aussi les débats sur ses amendements mis aux voix
+    # au scrutin public juste avant, dans la même séance (sinon l'extrait peut être presque vide)
+    def article_vise(titre):
+        m = re.search(r"l.article (\d+(?:\s(?:bis|ter|quater|quinquies|sexies|[a-z]))*|premier|unique)", titre.lower())
+        return m.group(1) if m else None
+
+    for carte in preselection:
+        if carte["type"] != "article" or "article unique" in carte["titre"] or not article_vise(carte["titre"]):
+            continue
+        f = INTERIM / "extraits" / f"{carte['uid']}.json"
+        sortie = charger_json(f)
+        voisins = sorted(
+            (c for c in preselection if c["uid"] != carte["uid"] and c["numero"] < carte["numero"]
+             and bruts[c["uid"]]["seanceRef"] == bruts[carte["uid"]]["seanceRef"]
+             and article_vise(c["titre"]) == article_vise(carte["titre"])),
+            key=lambda c: c["numero"])
+        if not voisins:
+            continue
+        avant = [i for c in voisins for i in charger_json(INTERIM / "extraits" / f"{c['uid']}.json")["interventions"]]
+        sortie["interventions"] = borner(dernieres_par_groupe(avant + sortie["interventions"]))
+        sortie["debats_amendements"] = [c["uid"] for c in voisins]
+        ecrire_json(f, sortie)
+
+    # Amendements en discussion commune : plusieurs amendements au même endroit du texte sont débattus ensemble,
+    # puis mis aux voix l'un après l'autre. Un amendement dont l'extrait ne contient aucune prise de parole de groupe
+    # reprend le débat du vote précédent au même endroit, dans la même séance.
+    def emplacement(titre):
+        m = re.search(r"(?:à|après|avant) l.article [^(]*?(?= du | de la |\()", titre.lower())
+        return m.group(0).strip() if m else None
+
+    def a_des_groupes(x):
+        return any(i.get("groupe") for i in x["interventions"])
+
+    extraits = {c["uid"]: charger_json(INTERIM / "extraits" / f"{c['uid']}.json") for c in preselection}
+    for carte in sorted(preselection, key=lambda c: c["numero"]):
+        x = extraits[carte["uid"]]
+        if carte["type"] != "amendement" or a_des_groupes(x) or not emplacement(carte["titre"]):
+            continue
+        precedents = [c for c in preselection if c["numero"] < carte["numero"]
+                      and bruts[c["uid"]]["seanceRef"] == bruts[carte["uid"]]["seanceRef"]
+                      and emplacement(c["titre"]) == emplacement(carte["titre"]) and a_des_groupes(extraits[c["uid"]])]
+        if precedents:
+            source = max(precedents, key=lambda c: c["numero"])
+            x["interventions"] = borner(extraits[source["uid"]]["interventions"] + x["interventions"])
+            x["discussion_commune"] = source["uid"]
+            ecrire_json(INTERIM / "extraits" / f"{carte['uid']}.json", x)
+
     print(f"Votes retrouvés dans les comptes rendus : {trouves} / {len(preselection)}")
 
 

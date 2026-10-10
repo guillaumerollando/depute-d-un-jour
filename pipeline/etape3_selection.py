@@ -93,7 +93,7 @@ def main():
         src = sources.get(uid, {})
         cartes.append({
             "uid": uid, "numero": c["numero"], "date": c["date"], "type": c["type"], "votants": c["votants"],
-            "socle": c.get("socle", False),
+            "socle": c.get("socle", False), "solennel": c.get("solennel", False),
             **texte,
             "resultat": c["sort"],
             "positions": c["positions"],
@@ -132,8 +132,14 @@ def main():
             couverture[p] += 1
 
     # 1. Socle : les votes solennels, désignés comme majeurs par l'Assemblée elle-même
-    for c in sorted((c for c in cartes if c["socle"]), key=cle_egalite):
+    for c in sorted((c for c in cartes if c["socle"] and c["solennel"]), key=cle_egalite):
         if sujets.get(c["uid"], c["uid"]) not in sujets_pris:
+            prendre(c)
+    # puis les votes à très forte participation, du plus suivi au moins suivi, dans les limites
+    # par thème, par dossier et par sujet
+    for c in sorted((c for c in cartes if c["socle"] and not c["solennel"]), key=lambda c: (-c["votants"], c["numero"])):
+        if (sujets.get(c["uid"], c["uid"]) not in sujets_pris and par_theme[c["theme"]] < MAX_PAR_THEME
+                and par_dossier[c["dossier"]] < MAX_PAR_DOSSIER):
             prendre(c)
 
     # 2. Complément glouton déterministe : départager les paires encore peu couvertes

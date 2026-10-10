@@ -1,0 +1,12 @@
+{
+  "uid": "VTANR5L17V522",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "sans_arguments",
+  "problemes": [
+    "Aucun groupe votant contre (EPR, DR, DEM, HOR) n'avance d'argument de fond (interjections, question sur d'autres dotations) : arguments à null.",
+    "aujourdhui : présenter la reconduction comme acquise tranche le point débattu (l'exposé cite une note du Secrétariat général du gouvernement parlant d'insécurité juridique). La reconduction est attribuée à sa source, l'avis du Conseil d'État."
+  ],
+  "corrections": {
+    "aujourdhui": "Sans budget 2025, la loi spéciale permet de lever l'impôt. Selon le Conseil d'État, elle reconduit, sans les chiffrer, les sommes versées aux collectivités au niveau de 2024."
+  }
+}

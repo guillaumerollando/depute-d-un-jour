@@ -17,6 +17,9 @@ MIN_GROUPES_POSITIONNES = 6
 # METHODE §2 (v0.3) — votes d'article et d'amendement : participation minimale plus haute
 MIN_VOTANTS_DETAIL = 200
 
+# METHODE §6 — socle : un vote où au moins ce nombre de députés (sur 577) votent est jugé majeur par l'Assemblée
+MIN_VOTANTS_SOCLE = 400
+
 # METHODE §2 — groupes (organes GP de la 17e législature) ; les non-inscrits sont exclus
 ALIAS = {"PO847173": "PO872880"}  # UDR réenregistré le 2025-09-05
 GROUPES = {

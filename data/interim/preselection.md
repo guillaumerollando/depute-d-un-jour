@@ -1,8 +1,8 @@
 # Présélection — étape 1 (votes seuls)
 
 - Scrutins : 8609 ; éligibles : 1417 ; après regroupement des lectures : 1389
-- Cartes présélectionnées : 160 (cible relevée par paliers de 8)
-- Types : {'partie': 2, 'article': 12, 'amendement': 77, 'ensemble': 65, 'resolution': 4}
+- Cartes présélectionnées : 175 (cible relevée par paliers de 8)
+- Types : {'partie': 3, 'article': 14, 'amendement': 89, 'ensemble': 65, 'resolution': 4}
 
 ## Couverture des paires
 
@@ -503,3 +503,48 @@
 160. **[article]** 2025-03-12 — l'article unique de la proposition de résolution européenne appelant au renforcement du soutien à l'Ukraine.
    - Dossier : Renforcement du soutien à l'Ukraine · 474 votants · adopté
    - Pour : ECOS SOC LIOT DEM EPR HOR DR · Contre : LFI GDR
+161. **[amendement]** 2024-10-29 — l'amendement n° 146 de M. Vallaud et les amendements identiques suivants après l'article 3 du projet de loi de financement de la sécurité sociale pour 2025 (première lecture).
+   - Dossier : Projet de loi de financement de la sécurité sociale pour 2025 · 416 votants · rejeté
+   - Pour : LFI GDR ECOS SOC · Contre : DEM EPR HOR DR UDR RN
+162. **[article]** 2025-10-31 — l'article 3 du projet de loi de finances pour 2026 (première lecture).
+   - Dossier : Projet de loi de finances pour 2026 · 402 votants · adopté
+   - Pour : DEM EPR HOR DR RN · Contre : UDR
+163. **[amendement]** 2025-10-31 — l'amendement n° 639 de M. Philippe Brun après l'article 3 (examen prioritaire) du projet de loi de finances pour 2026 (première lecture).
+   - Dossier : Projet de loi de finances pour 2026 · 408 votants · rejeté
+   - Pour : LFI GDR ECOS SOC · Contre : DEM EPR HOR DR UDR RN
+164. **[amendement]** 2025-10-31 — l'amendement n° 2378 de M. Coquerel après l'article 3 (examen prioritaire) du projet de loi de finances pour 2026 (première lecture).
+   - Dossier : Projet de loi de finances pour 2026 · 403 votants · rejeté
+   - Pour : LFI GDR ECOS SOC · Contre : LIOT DEM EPR HOR DR UDR RN
+165. **[amendement]** 2025-10-31 — l'amendement n° 127 de Mme Sas après l'article 3 (examen prioritaire) du projet de loi de finances pour 2026 (première lecture).
+   - Dossier : Projet de loi de finances pour 2026 · 404 votants · rejeté
+   - Pour : LFI GDR ECOS SOC · Contre : DEM EPR HOR DR UDR RN
+166. **[amendement]** 2025-10-31 — l'amendement n° 2558 (rect.) de M. Le Coq après l'article 3 (examen prioritaire) du projet de loi de finances pour 2026 (première lecture).
+   - Dossier : Projet de loi de finances pour 2026 · 402 votants · rejeté
+   - Pour : LFI GDR ECOS · Contre : LIOT DEM EPR HOR DR UDR RN
+167. **[amendement]** 2025-10-31 — l'amendement n° 1 de Mme Sas après l'article 3 (examen prioritaire) du projet de loi de finances pour 2026 (première lecture).
+   - Dossier : Projet de loi de finances pour 2026 · 404 votants · rejeté
+   - Pour : LFI GDR ECOS SOC · Contre : DEM EPR HOR DR UDR RN
+168. **[amendement]** 2025-10-31 — l'amendement n° 2359 de M. Vallaud et les amendements identiques suivants après l'article 3 (examen prioritaire) du projet de loi de finances pour 2026 (première lecture).
+   - Dossier : Projet de loi de finances pour 2026 · 406 votants · rejeté
+   - Pour : LFI GDR ECOS SOC · Contre : DEM EPR HOR DR UDR RN
+169. **[amendement]** 2025-10-31 — l'amendement n° 3480 de Mme Mercier après l'article 3 (examen prioritaire) du projet de loi de finances pour 2026 (première lecture).
+   - Dossier : Projet de loi de finances pour 2026 · 403 votants · rejeté
+   - Pour : LFI GDR ECOS SOC · Contre : DEM EPR HOR DR UDR RN
+170. **[amendement]** 2025-11-12 — l'amendement de suppression n° 653 de Mme Colin-Oesterlé et les amendements identiques suivants à l'article 45 bis (examen prioritaire) du projet de loi de financement de la sécurité sociale pour 2026 (première lecture).
+   - Dossier : Projet de loi de financement de la sécurité sociale pour 2026 · 494 votants · rejeté
+   - Pour : HOR DR UDR · Contre : ECOS SOC LIOT RN
+171. **[amendement]** 2025-11-12 — l'amendement n° 2686 du Gouvernement à l'article 45 bis (examen prioritaire) du projet de loi de financement de la sécurité sociale pour 2026 (première lecture).
+   - Dossier : Projet de loi de financement de la sécurité sociale pour 2026 · 469 votants · adopté
+   - Pour : ECOS SOC LIOT RN · Contre : LFI HOR
+172. **[article]** 2025-11-12 — l'article 45 bis (examen prioritaire) du projet de loi de financement de la sécurité sociale pour 2026 (première lecture).
+   - Dossier : Projet de loi de financement de la sécurité sociale pour 2026 · 505 votants · adopté
+   - Pour : ECOS SOC LIOT RN · Contre : LFI GDR HOR UDR
+173. **[amendement]** 2025-11-12 — l'amendement de suppression n° 706 de Mme Runel et les amendements identiques suivants à l'article 44 (examen prioritaire) du projet de loi de financement de la sécurité sociale pour 2026 (première lecture).
+   - Dossier : Projet de loi de financement de la sécurité sociale pour 2026 · 414 votants · adopté
+   - Pour : LFI GDR ECOS SOC DR UDR RN · Contre : DEM EPR HOR
+174. **[amendement]** 2025-12-09 — l'amendement n° 1143 du Gouvernement de rétablissement de l'article 49 (supprimé) (précédemment réservé) du projet de loi de financement de la sécurité sociale pour 2026 (nouvelle lecture).
+   - Dossier : Projet de loi de financement de la sécurité sociale pour 2026 · 470 votants · adopté
+   - Pour : GDR ECOS SOC LIOT DEM EPR DR · Contre : LFI
+175. **[partie]** 2025-12-09 — la troisième partie du projet de loi de financement de la sécurité sociale pour 2026 (nouvelle lecture).
+   - Dossier : Projet de loi de financement de la sécurité sociale pour 2026 · 502 votants · adopté
+   - Pour : SOC LIOT DEM EPR · Contre : LFI UDR

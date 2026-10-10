@@ -1,0 +1,15 @@
+{
+  "uid": "VTANR5L17V3300",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "aujourdhui vérifié : l'exposé crée un « prélèvement annuel plancher » qui n'existe pas ; la phrase est exacte et neutre (aucun minimum calculé sur le patrimoine).",
+    "argument_pour : la statistique seule (25 % contre 50 %) ne vise pas la mesure, alors que l'argument contre porte directement sur l'impôt de 2 %. Remplacé par la phrase de la même oratrice qui relie la mesure à cet objectif, complétée par son chiffre.",
+    "argument_contre conforme (DEM, citation exacte, vise la mesure)."
+  ],
+  "corrections": {
+    "argument_pour": "Cet impôt ferait contribuer les milliardaires à hauteur de 50 % de leurs revenus, alors qu'ils paient aujourd'hui moins que la moyenne des Français.",
+    "groupe_pour": "LFI",
+    "citation_pour": "La taxe Zucman ne fait que rétablir la fiscalité pour que les milliardaires contribuent à hauteur de 50 % de leurs revenus."
+  }
+}

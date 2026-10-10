@@ -1,0 +1,653 @@
+{
+ "uid": "VTANR5L17V3685",
+ "titre": "l'amendement de suppression n° 706 de Mme Runel et les amendements identiques suivants à l'article 44 (examen prioritaire) du projet de loi de financement de la sécurité sociale pour 2026 (première lecture).",
+ "type": "amendement",
+ "date": "2025-11-12",
+ "dossier": "DLR5L17N52922",
+ "dossier_titre": "Projet de loi de financement de la sécurité sociale pour 2026",
+ "sort": "adopté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "contre",
+  "LFI": "pour",
+  "SOC": "pour",
+  "DR": "pour",
+  "ECOS": "pour",
+  "DEM": "contre",
+  "HOR": "contre",
+  "GDR": "pour",
+  "UDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 104,
+   "contre": 0,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 2,
+   "contre": 47,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 46,
+   "contre": 0,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 61,
+   "contre": 0,
+   "abstention": 1
+  },
+  "DR": {
+   "pour": 32,
+   "contre": 0,
+   "abstention": 1
+  },
+  "ECOS": {
+   "pour": 31,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 1,
+   "contre": 23,
+   "abstention": 3
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 24,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 5,
+   "contre": 3,
+   "abstention": 2
+  },
+  "GDR": {
+   "pour": 9,
+   "contre": 0,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 14,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901B1907P0D1N000706",
+  "dossier": "DLR5L17N52922",
+  "texte": "PRJLANR5L17B1907",
+  "division": "Article 44",
+  "auteur": "Mme Runel,  M. Aviragnet, M. Guedj, Mme Bellay, M. Califer, Mme Dombre Coste, Mme Froger, Mme Godard, M. Houlié, M. Simion, M. Philippe Brun, Mme Allemand, M. Baptiste, M. Barusseau, Mme Battistel, M. Baumel, M. Belhaddad, M. Benbrahim, M. Bouloux, Mme Capdevielle, M. Christophle, M. Courbon, M. David, M. Delaporte, M. Delautrette, Mme Diop, M. Dufau, M. Echaniz, M. Eskenazi, M. Faure, M. Fégné, M. Garot, M. Gokel, Mme Got, M. Emmanuel Grégoire, M. Hablot, Mme Hadizadeh, Mme Herouin-Léautey, Mme Céline Hervieu, M. Hollande, Mme Jourdan, Mme Karamanli, Mme Keloua Hachi, M. Leseul, M. Lhardit, Mme Mercier, M. Naillet, M. Oberti, Mme Pantel, M. Pena, Mme Pic, Mme Pirès Beaune, M. Potier, M. Pribetich, M. Proença, Mme Récalde, Mme Rossi, Mme Rouaux, M. Aurélien Rousseau, M. Roussel, M. Saint-Pasteur, Mme Santiago, M. Saulignac, M. Sother, Mme Thiébault-Martinez, Mme Thomin, M. Vallaud, M. Vicot, M. William et les membres du groupe Socialistes et apparentés",
+  "auteur_groupe": "SOC",
+  "auteur_type": "Député",
+  "dispositif": "Supprimer cet article.",
+  "expose": "Cet amendement des députés socialistes et apparentés, portés avec les groupes de gauche et de l'écologie, vise à supprimer le gel des prestations sociales en 2026, présentée comme une année \"blanche\", mais qui en réalité va se transformer en année \"noire\" pour les Françaises et les Français. Contrairement aux éléments de langage du Gouvernement, une telle mesure n’est pas « juste » parce qu’elle s’appliquerait uniformément à la population. Au contraire : elle est profondément anti-redistributive et donc profondément injuste en ce qu’elle touche essentiellement les ménages aux faibles revenus. Selon les calculs de l'Institut des Politiques Publiques*, le gel des prestations sociales (dont une partie sont en dehors du périmètre du PLFSS comme le RSA ou l’AAH) est très anti-redistributif ; les ménages des premiers déciles de revenu perdant jusqu’à 0,5 % de leur niveau de vie contre 0 % pour les derniers déciles. Concrètement, et s'agissant du gel des pensions de retraite, il entraînera – à lui seul - une perte de pouvoir d’achat pour un retraité touchant 1 500 euros net de pension de retraite par mois (soit la pension moyenne versée en France) de 257 euros sur un an. Quant au gel des prestations sociales, il entraînera une perte de pouvoir d’achat de 81 euros sur un an pour une personne célibataire allocataire du RSA à 646 euros par mois sans aucune autre source de revenu. Ces impacts terribles sur les ménages les plus fragiles de notre pays permettraient de faire des économies de 3,6 milliards d'euros en 2026. Les députés socialistes et apparentés tiennent ici à souligner qu'un tel montant peut être atteint sans toucher à ces ménages les plus fragiles : rabotage des exonérations de cotisations sociales inefficaces, taxation des plus riches notamment par la taxe Zucman, économies sur le train de vie de l'Etat, etc. Pour toutes ces raisons, et dans un esprit de justice sociale, les députés socialistes et apparentés s'opposent fermement au gel des prestations sociales et tiennent donc à supprimer l'ensemble de cet article 44. Tel est l'objet du présent amendement - * Source : https://www.ipp.eu/publication/effets-budgetaires-et-redistributifs-des-mesures-socio-fiscales/"
+ },
+ "seance": "RUANR5L17S2026IDS29872",
+ "compte_rendu": "CRSANR5L17S2026O1N046",
+ "interventions": [
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis du gouvernement ?"
+  },
+  {
+   "orateur": "Mme Amélie de Montchalin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "La semaine dernière, le premier ministre a déclaré que le gouvernement serait attentif et ouvert aux amendements qui traiteraient du gel et de l’année blanche. Je suis personnellement défavorable à ce premier groupe d’amendements, qui tend à supprimer d’un seul geste l’ensemble de la mesure. (Mme Olivia Grégoire et M. Guillaume Kasbarian applaudissent.)Premièrement, depuis 2020, les prestations sociales ont été davantage revalorisées que les salaires. (Exclamations sur plusieurs bancs du groupe SOC.)"
+  },
+  {
+   "orateur": "M. Fabien Di Filippo",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "C’est vrai !"
+  },
+  {
+   "orateur": "Mme Amélie de Montchalin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je parle des salaires et non du smic qui, lui, a suivi strictement l’inflation.Les retraites ont également été revalorisées davantage que l’inflation : 1,8 point de plus depuis 2022. Cela signifie que même avec une année blanche, les retraités ne perdront pas de pouvoir d’achat par rapport à 2022.Deuxièmement, ces amendements ont trait à une masse de prestations sociales qui représente 400 milliards d’euros. Sont considérés indistinctement l’ensemble des minima sociaux, des retraites, des prestations familiales – de leur versement ainsi que de leurs plafonds. Je vous propose de débattre plutôt de chaque sujet séparément. Vous avez d’ailleurs déposé des amendements très divers : certains traitent des retraites, d’autres des prestations familiales.Madame Rousseau, je suis mère de trois enfants et, avec mon mari, nous bénéficions des allocations familiales. Or il me semble qu’un gel des allocations familiales serait tout à fait envisageable pour certains d’entre nous dans l’hémicycle vu les revenus dont nous disposons, et que cela vaut pour les ménages les plus aisés. (Exclamations sur quelques bancs des groupes LFI-NFP et EcoS.) Plutôt que supprimer la mesure dans son intégralité, il serait plus intéressant et plus juste fiscalement et socialement de pouvoir différencier les prestations selon les revenus et selon les seuils. (M. Cyrille Isaac-Sibille applaudit.) Ces 400 milliards d’euros de prestations méritent, je le crois, des débats circonstanciés et différenciés.Troisièmement, ce que propose le gouvernement n’est pas inédit : en 2012, 2014, 2015, 2019 et 2020, il y a eu des sous-indexations, voire des années blanches, la plupart du temps de façon ciblée, selon certains critères. (M. Jean-René Cazeneuve et Mme Olivia Grégoire applaudissent.) Il convient de mener, sur cette politique sociale qui représente à la fois une fierté et un coût pour notre pays, un débat beaucoup plus fin qui dépasse la question de savoir si le gel proposé pour l’ensemble des prestations doit être maintenu. Je vous enjoins, mesdames et messieurs les députés, de permettre que ce débat se tienne.Il me semble que le gel des prestations familiales et des retraites pour les ménages aisés ne soulève pas les mêmes difficultés que celui des minima sociaux. Alors que les pensions de retraite ont augmenté de 25 milliards d’euros et les prestations sociales de 40 milliards d’euros en 2024, peut-être pourrions-nous prendre le temps de revoir les choses en détail.Je donne donc un avis défavorable pour que nous puissions débattre. Comme l’a dit le ministre Farandou, vous aurez tout loisir de rejeter l’article au terme de son examen, suivant les amendements qui l’auront modifié. (Applaudissements sur quelques bancs des groupes EPR et Dem.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Guillaume Kasbarian."
+  },
+  {
+   "orateur": "M. Guillaume Kasbarian",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Si ces amendements de suppression sont adoptés, alors l’ensemble des prestations sociales et des retraites augmenteront l’année prochaine."
+  },
+  {
+   "orateur": "M. Alexis Corbière",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Bonne nouvelle !"
+  },
+  {
+   "orateur": "M. Guillaume Kasbarian",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Le coût d’une telle hausse pour les finances publiques serait de 3,6 milliards d’euros. C’est scandaleux ! Il est honteux de revaloriser l’intégralité des prestations sociales et des pensions de retraite alors que le déficit s’élève à 170 milliards, que la dépense publique atteint 1 670 milliards et que 56 % des prélèvements obligatoires sont affectés à la protection sociale ! (Applaudissements sur plusieurs bancs des groupes EPR et HOR. – Mme Josiane Corneloup applaudit également.) Qui paiera vos promesses ? Qui paiera votre vote ?Ce sont les actifs, ce sont les travailleurs qui financeront votre folie dépensière ! (Exclamations sur plusieurs bancs des groupes LFI-NFP et EcoS.) Plutôt que d’examiner les choses dans le détail, vous souhaitez tout revaloriser – c’est scandaleux ! Le groupe EPR s’opposera fermement à ces amendements de suppression. (Applaudissements sur plusieurs bancs des groupes EPR, DR et HOR et sur quelques bancs du groupe Dem.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. François Gernigon."
+  },
+  {
+   "orateur": "M. François Gernigon",
+   "qualite": null,
+   "groupe": "HOR",
+   "president_de_seance": false,
+   "texte": "La journée des dupes continue. Après la suspension de la réforme des retraites, la suppression de l’article 44 entraînerait 3,6 milliards d’euros de dépenses supplémentaires. Qui va payer ?Le groupe Horizons & indépendants s’oppose à la suppression de l’article. Nous avons déposé l’amendement no 1310 qui tend à réévaluer les petites retraites, ce qui revient à demander le gel de la revalorisation des revenus plus élevés. (Applaudissements sur les bancs du groupe HOR.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Boris Vallaud."
+  },
+  {
+   "orateur": "M. Boris Vallaud",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "M. Kasbarian avait moins de pudeur quand il s’est agi de dégeler l’ensemble du barème de l’impôt sur le revenu, y compris pour les tranches supérieures ! (Applaudissements sur les bancs du groupe SOC.) En réalité, vous auriez sans doute trouvé dans ces hautes rémunérations de quoi financer l’universalité de la protection sociale, à laquelle nous, socialistes, sommes particulièrement attachés : des droits pour tous plutôt que des allocations pour certains, une redistribution organisée par notre modèle de prélèvement fiscal et social."
+  },
+  {
+   "orateur": "Mme Olivia Grégoire",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Et les économies, on s’en fout !"
+  },
+  {
+   "orateur": "M. Boris Vallaud",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Vous avez rappelé que les Français ont déjà consenti des efforts les années passées. C’est vrai, beaucoup, et ils ont le sentiment d’être un peu les seuls à le faire. Telle est l’idée que nous défendons depuis le début du débat budgétaire : c’est aux plus riches, aux hauts revenus, aux hauts patrimoines, aux très grandes entreprises de payer les impôts et de participer plus et mieux à la solidarité nationale. Nous ne voulons pas d’impôt sur la vie, ni sur les malades, ni sur le chômage. Nous ne voulons pas de tous ces impôts qui ne disent pas leur nom mais qui viennent entamer la vie des gens.Vous avez dit : 3,6 milliards d’euros, c’est beaucoup. Oui, c’est beaucoup. Mais pour une retraitée célibataire avec une pension de 1 500 euros net par mois, 275 euros de perte de pouvoir d’achat en 2026, c’est beaucoup ; pour un couple de retraités avec deux pensions au niveau du smic, perdre 479 euros de pouvoir d’achat en 2026, c’est beaucoup ; quand vous êtes allocataire du RSA avec deux enfants, perdre 146 euros l’année prochaine, c’est beaucoup ; quand vous êtes titulaire de l’allocation adulte handicapé, sans enfant, perdre 130 euros l’année prochaine, c’est beaucoup."
+  },
+  {
+   "orateur": "Mme Olivia Grégoire",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Les élections arrivent, ça se sent !"
+  },
+  {
+   "orateur": "M. Boris Vallaud",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "La justice, c’est de faire participer plus et mieux ceux qui le peuvent à la solidarité nationale et ne pas tondre celles et ceux qui n’en peuvent déjà plus. (Applaudissements sur les bancs du groupe SOC et sur plusieurs bancs du groupe EcoS.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Cyrielle Chatelain."
+  },
+  {
+   "orateur": "Mme Cyrielle Chatelain",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Chers collègues macronistes, ce qui me choque, ce sont les 60 milliards d’euros que vous dépensez chaque année en cadeaux fiscaux et qui ont creusé le déficit public. (Applaudissements sur les bancs du groupe EcoS et sur plusieurs bancs du groupe SOC.) Ce qui me fait honte, c’est que vous avez refusé, avec le Rassemblement national, de mettre à contribution les 1 800 familles les plus aisées de ce pays. (Mêmes mouvements.) Vous avez rejeté la taxe Zucman, refusé de prélever les milliardaires et vous défendez à présent la mise à contribution de tous les Français pour réduire les déficits ! (Applaudissements sur quelques bancs des groupes EcoS et SOC.) Votre règle est simple : les pauvres sont peut-être pauvres mais ils ne sont pas très nombreux, nous pouvons donc les mettre à contribution. Nous nous opposerons toujours à cette vision de la société.Madame la ministre, nous avons un désaccord. Pour nous, le principe sur lequel reposent la société française et son système social, c’est de contribuer selon ses moyens – raison pour laquelle nous nous sommes battus pour mettre à contribution les plus riches – et de recevoir selon ses besoins. On reçoit de manière universelle de quoi se soigner sans dépenser, parce qu’on est plus fragile quand on est malade ; on reçoit une pension de retraite quand on a travaillé toute sa vie ; on reçoit une allocation familiale quand on a des enfants.En commençant par instaurer une différence, vous remettez en cause l’universalité des prestations sociales ce qui, à long terme, ne pourra manquer de les fragiliser. À la fin, vous aurez réduit le consentement à l’impôt et nourri un argument que vos collègues répéteront, à l’image de M. Kasbarian : regardez, il y a des assistés !"
+  },
+  {
+   "orateur": "M. Guillaume Kasbarian",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Ce n’est pas ce que j’ai dit !"
+  },
+  {
+   "orateur": "Mme Cyrielle Chatelain",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Ce ne sont pas des assistés : ce sont des Français qui bénéficient de la solidarité nationale ! (Applaudissements sur quelques bancs des groupes EcoS et SOC.) Celle-ci repose sur un principe simple : la répartition des richesses se fait par l’impôt et la protection sociale ; les droits qu’offre cette dernière se traduisent par des prestations sociales. Nous refusons catégoriquement le gel de l’ensemble des prestations sociales, qui sont au fondement de la solidarité entre les Français et de notre vision d’une société qui s’entraide et qui partage. (Applaudissements sur les bancs du groupe EcoS et sur plusieurs bancs du groupe SOC.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Fabien Di Filippo."
+  },
+  {
+   "orateur": "M. Fabien Di Filippo",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Voilà une bonne leçon à retenir : le fait de mélanger des éléments aussi hétérogènes dans un même article nous oblige à nous prononcer, en un même vote, à la fois sur le dégel des pensions de retraite et sur celui des prestations sociales.Monsieur Vallaud, ce qu’a dit M. Kasbarian – que vous avez un peu caricaturé – est qu’il ne faut pas mettre sur le même plan les prestations sociales que touchent des gens qui ne travaillent pas et celles perçues par des gens qui ont travaillé toute leur vie. (Applaudissements sur les bancs des groupes DR et HOR et sur quelques bancs du groupe EPR.) Ayez bien en tête, comme l’a dit la ministre – je souscris pour une fois à ses propos –, que les revalorisations des aides sociales ont été supérieures à celle des salaires. Je me souviens de la dernière en date, au printemps 2024 : + 4,6 % pour le RSA, pour un coût de 700 millions d’euros à la charge des départements, sans compensation aucune.Avec les aides sociales, vous resserrez petit à petit l’écart entre les revenus de l’activité et ceux de l’inactivité, ce qui décourage de plus en plus nos concitoyens de travailler. (Applaudissements sur quelques bancs du groupe DR.) Je vais vous donner un bon conseil : l’électorat ouvrier et salarié s’est complètement détourné de la gauche parce que vous ne défendez plus le travail. (Exclamations sur quelques bancs des groupes LFI-NFP, SOC et EcoS.)"
+  },
+  {
+   "orateur": "Mme Anna Pic",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "N’importe quoi !"
+  },
+  {
+   "orateur": "M. Fabien Di Filippo",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Si vous voulez que cela perdure, continuez à réclamer toujours plus d’aides sociales. Mais ce n’est pas cela, la justice sociale. Demandez-vous plutôt pourquoi le travail ne paye pas assez. Tout ce que vous donnerez aux gens qui ne travaillent pas, vous le prendrez dans la poche de ceux qui travaillent et qui produisent la richesse de ce pays ! (Applaudissements sur plusieurs bancs des groupes DR et HOR.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Christophe Bentz."
+  },
+  {
+   "orateur": "M. Christophe Bentz",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Les Français ne veulent pas de cet article scandaleux et profondément injuste. Le premier ministre, il y a douze jours, s’était engagé à revenir dessus ; on peut maintenant juger de la fermeté de cet engagement.Les députés ont supprimé l’article en commission des affaires sociales et j’espère que nous en ferons de même dans quelques minutes.Madame la ministre, vous vous dites défavorable aux amendements de suppression et vous nous invitez à vous faire confiance mais, avec tout le respect que je vous dois, nous n’avons jamais eu confiance en aucun des gouvernements d’Emmanuel Macron depuis huit ans. (Applaudissements sur les bancs du groupe RN. – Mme Sophie Ricourt Vaginay applaudit également.)Nous demandons donc la suppression totale de cet article porteur d’une injustice sociale que les Français refusent. (Applaudissements sur les bancs du groupe RN.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Thomas Ménagé, pour un rappel au règlement."
+  },
+  {
+   "orateur": "M. Thomas Ménagé",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Sur le fondement de l’article 100, relatif à la bonne tenue de nos débats.Voici, selon le compte rendu de la séance, les propos tenus par le premier ministre, le 31 octobre, devant la représentation nationale : « le gouvernement examinera favorablement les amendements qui visent à dégeler les pensions de retraite de nos concitoyens et de nos concitoyennes. » Il n’est pas question de critères supplémentaires. Peu après, le premier ministre poursuit : « […] j’indique que le gouvernement sera favorable aux amendements qui dégèleront l’ensemble des minima sociaux dans le cadre du projet de loi de financement de la sécurité sociale. »Dès lors, madame la ministre, pourquoi refuser ces amendements supprimant tout à fait l’année blanche ? Pourquoi cette position qui contredit l’engagement pris par le premier ministre ici même à l’Assemblée nationale ? (Applaudissements sur les bancs du groupe RN et sur quelques bancs du groupe UDR.) Quelle est donc la ligne du gouvernement ? Celle de Mme de Montchalin… (Mme la présidente coupe le micro de l’orateur. – Les députés du groupe RN applaudissent ce dernier.)"
+  },
+  {
+   "orateur": "Mme Amélie de Montchalin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je vais vous répondre !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Vous pourrez vous exprimer, madame la ministre, quand chaque groupe aura eu la parole sur les amendements. La parole est à M. Éric Ciotti."
+  },
+  {
+   "orateur": "M. Éric Ciotti",
+   "qualite": null,
+   "groupe": "UDR",
+   "president_de_seance": false,
+   "texte": "Vous prétendez que cette mesure pourrait faire économiser 3,6 milliards d’euros au budget de l’État et de la sécurité sociale."
+  },
+  {
+   "orateur": "M. Thibault Bazin",
+   "qualite": "rapporteur général",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Et des collectivités !"
+  },
+  {
+   "orateur": "M. Éric Ciotti",
+   "qualite": null,
+   "groupe": "UDR",
+   "president_de_seance": false,
+   "texte": "Gardez-vous pourtant de chercher à faire ces économies au détriment de ceux qui ont travaillé toute leur vie. Les retraités d’aujourd’hui sont les travailleurs d’hier ; ils ont fait la force de notre nation. (Applaudissements sur les bancs du groupe UDR.)Les économies sont là où vous refusez de les chercher – notamment dans l’immigration et le coût qu’elle engendre. (Applaudissements sur les bancs des groupes UDR et RN.)"
+  },
+  {
+   "orateur": "M. Nicolas Sansu",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Ça faisait longtemps !"
+  },
+  {
+   "orateur": "M. Éric Ciotti",
+   "qualite": null,
+   "groupe": "UDR",
+   "president_de_seance": false,
+   "texte": "Vous pouvez toujours vous gratter la tête, monsieur Vallaud, mais voici la réalité que vous refusez de voir : ce sont toujours les mêmes qui payent. (Mme Dieynaba Diop s’exclame.) On pourrait économiser 7 milliards d’euros par an si les prestations sociales non contributives – les allocations familiales ou l’APL – n’étaient versées que sous condition de résidence de cinq ans sur le territoire national, comme c’est déjà le cas pour le RSA, plutôt qu’aux étrangers qui ne travaillent pas ! (Exclamations sur les bancs du groupe LFI-NFP.) Il y aurait là le double de ce que vous voulez prélever dans les poches des Français qui travaillent et qui ont travaillé toute leur vie ! (Applaudissements sur les bancs des groupes UDR et RN ainsi que sur quelques bancs du groupe DR.)"
+  },
+  {
+   "orateur": "M. Antoine Léaument",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Menteur !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Philippe Vigier."
+  },
+  {
+   "orateur": "M. Philippe Vigier",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Il n’y a pas les gentils d’un côté et les méchants de l’autre (« Si ! » sur plusieurs les bancs des groupes RN et SOC), ceux qui veulent faire les poches et ceux qui veulent se montrer généreux sans regarder à la dépense.Je me souviens de réformes de l’âge légal de départ à la retraite, qu’on annonçait à 60 ou 62 ans, jusqu’à ce qu’on finisse par regarder en face le problème de l’équilibre financier. Tous ceux qui seront un jour aux responsabilités le verront bien ; en trente ans, jamais un gouvernement n’est revenu sur une réforme des retraites – jusqu’à aujourd’hui."
+  },
+  {
+   "orateur": "M. Hadrien Clouet",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Si, en 1981 !"
+  },
+  {
+   "orateur": "M. Philippe Vigier",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Quand on regarde l’évolution des salaires entre 2021 et 2023 – je l’ai dit tout à l’heure sans que personne ne le relève –, on constate que les salariés ont été moins revalorisés que les retraités. Voilà pourquoi nous proposons tout simplement de revaloriser les petites retraites, celles des gens ordinaires que nous rencontrons dans nos circonscriptions. Quand, en revanche, on touche une pension de plusieurs milliers d’euros par mois, quand on dispose de plus de ressources, on peut payer plus – je suis, sur ce point, en désaccord avec Mme Chatelain."
+  },
+  {
+   "orateur": "Mme Cyrielle Chatelain",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Dans ce cas, on paye plus d’impôt !"
+  },
+  {
+   "orateur": "M. Philippe Vigier",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Je croyais que vous portiez la justice sociale en étendard, mais je vous prends en flagrant délit de la pourfendre ; c’est un peu surprenant ! (Mme Cyrielle Chatelain s’exclame.)Sont en jeu 3,6 milliards d’économies pour l’année à venir et 6,7 milliards pour la suivante. Vous savez, madame la ministre – même si personne n’en parle plus non plus – que la Caisse d’amortissement de la dette sociale (Cades), à moins que nous ne prenions des mesures, ne pourra plus continuer à rembourser la dette dans les années à venir. (M. François Jolivet applaudit.)Que chacun fasse donc un effort – que nos retraités les plus riches fassent un petit effort."
+  },
+  {
+   "orateur": "M. Nicolas Meizonnet",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Et dire qu’ils ont voté pour vous ! Ils vont être contents !"
+  },
+  {
+   "orateur": "M. Philippe Vigier",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Pour ceux dont les retraites sont plus petites, nous proposerons des mesures de revalorisation. (Applaudissements sur quelques bancs du groupe EPR.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme la ministre."
+  },
+  {
+   "orateur": "Mme Amélie de Montchalin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "M. Christophe Bentz a déclaré ne pas nous faire confiance. Ce n’est pourtant pas le sujet ! (Exclamations sur les bancs du groupe RN.) Je ne fais que vous inviter à rendre le débat possible. Certains des amendements à l’article proposent de geler les minima sociaux, d’autres de les dégeler, d’autres de protéger les petites retraites, d’autres, encore, de fixer un seuil à 1 200, 1 400 ou bien à 1 700 euros. Le premier ministre, que M. le député Ménagé a cité, évoquait bien « les » amendements qui traitent des retraites. Dans la somme de 400 milliards d’euros de prestations sociales, on ne trouve pas que les minima sociaux, que vous avez évoqués : on y trouve toutes les prestations – les prestations familiales par exemple –, on y trouve l’ensemble des plafonds et des seuils. Or tout cela n’est pas égal : ce n’est pas la même chose de geler un plafond que de geler une prestation.La question n’est pas celle de la confiance ; la question est de savoir si nous pouvons consacrer une heure ou deux, dans cet hémicycle, à revenir en détail sur ces sujets. Il vous appartiendra pleinement, ensuite, d’accepter ou de refuser telle ou telle disposition. Il serait dommage que nous considérions comme un tout indivisible ces 400 milliards. Les arguments de M. Ciotti ne sont pas les miens, mais si vous supprimez l’article, on ne pourra pas en débattre.Madame la présidente Chatelain, vous avez voulu poser la question du modèle social qui est le nôtre. De chacun selon ses moyens, à chacun selon ses besoins : je tiens, comme vous, à ce principe républicain. Quand le barème de l’impôt sur le revenu, cependant, a été dégelé pour toutes les tranches,…"
+  },
+  {
+   "orateur": "M. Nicolas Sansu",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Et alors ?"
+  },
+  {
+   "orateur": "Mme Amélie de Montchalin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "…nous n’avons pas été fidèles à ce principe."
+  },
+  {
+   "orateur": "M. Nicolas Sansu",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Si !"
+  },
+  {
+   "orateur": "Mme Amélie de Montchalin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Nous avons en effet statué que les ménages disposant de 200 000 euros de revenu ne payeront pas, l’année prochaine, 230 euros de plus d’impôt sur le revenu. Je ne demande pas mieux, madame Chatelain, que de suivre vos orientations – encore faudrait-il alors différencier, dans le barème, l’effort fiscal des premières tranches de celui des plus aisés. (M. Frédéric Petit applaudit.) Faute de l’avoir fait, il me semble légitime que nous débattions de ces seuils et de ces plafonds.La sous-indexation, pour le dire simplement, peut s’approcher de deux manières. On peut, première approche, revaloriser de toute l’inflation ou d’une partie de celle-ci seulement – on indexe un peu, beaucoup, à moitié ou complètement. Ce débat a été celui des années 2014, 2015, 2019 et 2020 – il a finalement été décidé de sous-indexer. Il existe cependant une seconde approche : revaloriser en dessous d’un certain seuil – seuil de revenu ou de retraite –, et geler au-dessus.On retrouve ces deux approches dans les amendements déposés à l’article 44 et il me semble qu’il n’y aurait rien d’absurde à ce que nous prenions un peu de temps pour en discuter.Je n’ai nullement l’intention de déclencher une guerre des générations. Comprenez bien, toutefois, que les prestations sociales ont été revalorisées de 40 milliards d’euros en 2024. Sur ces 40 milliards, les pensions de retraite comptaient pour 25 milliards. Or de ces 25 milliards, 75 % ont été épargnés – dans les assurances vie, dans les livrets d’épargne ou sur les comptes en banque. Cela soulève une question. Nous sommes d’accord, avec le ministre Farandou, pour protéger les petites retraites ; mais le coût de ces 75 %, pour la puissance publique, est considérable."
+  },
+  {
+   "orateur": "M. Pierre Cordier",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "75 % qui restent sur des comptes !"
+  },
+  {
+   "orateur": "Mme Amélie de Montchalin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Quand on considère les difficultés que rencontre le système de santé, quand on considère la nécessité dans laquelle nous nous trouvons d’aider les jeunes et de soutenir la production, il ne me semble pas absurde de vous demander de décider, de manière souveraine, s’il n’existe pas un seuil en dessous duquel les retraites pourraient être revalorisées et au-dessus duquel elles pourraient être gelées. Voilà un débat démocratique qu’il nous serait utile d’avoir et pour lequel, vous le constatez, je mets tous les arguments dans la balance. (Applaudissements sur plusieurs bancs des groupes EPR et Dem.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Damien Maudet."
+  },
+  {
+   "orateur": "M. Damien Maudet",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "M. Kasbarian a raison : tout donner aux plus riches, pendant huit ans, sans qu’ils ne réinvestissent, c’est une politique qui crée du déficit ! (Applaudissements sur les bancs du groupe LFI-NFP.) Cette politique doit cesser. Si vous aviez voté la taxe Zucman, nous ne serions peut-être pas là à vous entendre justifier que l’on aille taper sur la tête des travailleurs, sur celle des personnes en situation de handicap et des retraités ! (Mêmes mouvements.) Si vous aviez accepté, l’année dernière, de fiscaliser davantage les dividendes – les 100 milliards d’euros du CAC40 – nous n’en serions peut-être pas à nous poser de telles questions.Vous avez dit tout à l’heure, madame la ministre, que l’article 44 avait vocation à financer la suspension – le décalage – de trois mois de la réforme des retraites."
+  },
+  {
+   "orateur": "Mme Amélie de Montchalin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Non !"
+  },
+  {
+   "orateur": "M. Damien Maudet",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Si cet article est toutefois supprimé, comme cela risque d’arriver, quels seront les prochains à devoir payer pour ce décalage de trois mois ? (Applaudissements sur les bancs du groupe LFI-NFP.)"
+  },
+  {
+   "orateur": "M. Thibault Bazin",
+   "qualite": "rapporteur général",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Les petits épargnants, ceux qui ont des PEP !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme la ministre."
+  },
+  {
+   "orateur": "Mme Amélie de Montchalin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "J’aime qu’on s’en tienne aux faits et je vais m’exprimer d’un point de vue budgétaire. Le rendement de l’article 44 sera de 3,6 milliards d’euros en 2026, quand le coût de la suspension de la réforme des retraites, qui vient d’être votée, est compris entre 100 millions et 300 millions d’euros au maximum : vous voyez bien que cet article fait bien plus que financer cette seule suspension – à moins que nos pinceaux ne soient doublement emmêlés.L’enjeu de l’article, de nouveau, n’est pas seulement celui du gel et de la sous-indexation des retraites. Il y va du gel de l’ensemble des plafonds, des barèmes, des seuils, des minima sociaux, des prestations – prestations familiales, prestations sociales – et des retraites."
+  },
+  {
+   "orateur": "M. Aurélien Le Coq",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "C’est d’autant plus honteux !"
+  },
+  {
+   "orateur": "Mme Amélie de Montchalin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Cet article couvre 400 milliards d’euros de prestations : il n’est donc clairement pas destiné, monsieur le député, à compenser la suspension de la réforme des retraites que vous avez votée, qui ne coûte pas 3,6 milliards ! Ça ne marche pas !"
+  },
+  {
+   "orateur": "M. Pierre Cordier",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Il fallait suivre !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Justine Gruet, pour un rappel au règlement."
+  },
+  {
+   "orateur": "Mme Justine Gruet",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Sur le fondement de l’article 100 de notre règlement, relatif à la bonne tenue de nos débats.Vous nous accorderez que cet article est plutôt mal fait :…"
+  },
+  {
+   "orateur": "Mme Anne-Laure Blin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Très mal fait !"
+  },
+  {
+   "orateur": "Mme Justine Gruet",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "…on y traite de deux sujets complètement différents, les pensions de retraite et les minima sociaux.Si ces amendements de suppression passent, nous n’aurons pas l’occasion de discuter du gel des minima sociaux ; or la droite défend l’allocation sociale unique.Je vous demande donc, madame la présidente, une suspension de séance. (Protestations.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La séance est suspendue."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(La séance, suspendue à dix-huit heures quarante, est reprise à dix-huit heures cinquante.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La séance est reprise.Nous poursuivons l’examen des amendements de suppression de l’article 44. J’ai donné la parole aux représentants de groupe qui la demandaient, après quoi Mme la ministre a pu intervenir. M. le rapporteur général souhaite s’exprimer."
+  },
+  {
+   "orateur": "M. Nicolas Sansu",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Nous aussi !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Monsieur le rapporteur général, avant que M. Sansu ne s’exprime, vous avez la parole."
+  },
+  {
+   "orateur": "M. Thibault Bazin",
+   "qualite": "rapporteur général",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Ce qu’ont dit M. Maudet et Mme la ministre est à la fois juste et faux : y a-t-il un lien entre l’article 44 que nous examinons et l’article 45 bis que nous avons adopté ? En 2026, il n’y en a pas – Mme la ministre a raison.Mais, en 2027, il y aura bien un lien puisque la lettre rectificative a augmenté la sous-indexation des retraites (Mme la ministre acquiesce), faute de solution plus acceptable."
+  },
+  {
+   "orateur": "M. Damien Maudet",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Ah ! Merci, monsieur le rapporteur général !"
+  },
+  {
+   "orateur": "M. Thibault Bazin",
+   "qualite": "rapporteur général",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Initialement de 0,4 point, cette sous-indexation est désormais de 0,9 point en 2027. Très concrètement, si l’inflation est alors de 1 %, les retraites n’augmenteront que de 0,1 %.Si nous supprimons cet article – et je pense qu’il va être supprimé –, nous devrons donc trouver une autre solution. Et la hausse de la fiscalité sur les plans d’épargne logement ou les plans d’épargne populaire n’est pas une solution durable pour financer nos régimes de retraite.Il reste du pain sur la planche, et il faudra trouver des solutions pérennes. La solution structurelle pour notre système de retraite, c’est l’amélioration du taux d’emploi."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Nicolas Sansu car il n’y avait pas encore eu d’expression du groupe de la Gauche démocrate et républicaine sur les amendements de suppression."
+  },
+  {
+   "orateur": "M. Nicolas Sansu",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Je suis très heureux que M. le rapporteur général nous ait éclairés – il y a donc bien un sujet.Par ailleurs, Mme la ministre nous a indiqué que l’article 45 bis coûterait entre 100 et 300 millions d’euros. J’ai fait un calcul simple : la retraite médiane est de 20 000 euros par an, ce qui signifie que 5 000 à 15 000 personnes seraient concernées par le décalage en 2026. (Applaudissements sur quelques bancs du groupe LFI-NFP. – Mme la ministre fait un signe de dénégation.)Cela fait deux fois que le premier ministre est désavoué. D’abord, parce que ce n’est pas une suspension, mais bien un décalage. Ensuite, parce qu’il s’était engagé le 31 octobre dernier à ce qu’il n’y ait pas d’année blanche (Applaudissements sur les bancs du groupe LFI-NFP) et que vous expliquez aujourd’hui qu’il faut préserver une année blanche pour financer un décalage qui, je le rappelle, n’est qu’un décalage.La question est simple : quels moyens affectés pour répondre aux besoins de nos concitoyens ? Certains collègues disent qu’au-delà de 1 700 euros, il ne faudrait pas revaloriser les retraites – il y a des amendements en ce sens, mais cela revient à opposer les retraités entre eux, et ce n’est pas raisonnable quand on accepte 80 milliards d’exonérations de cotisations sociales et que l’on refuse d’y toucher – y compris celles de la grande distribution ou le crédit d’impôt pour la compétitivité et l’emploi (CICE), par exemple, qui n’ont aucune utilité pour l’emploi. (Applaudissements sur les bancs du groupe LFI-NFP. – M. Jérôme Guedj applaudit également.)J’y insiste, il y a bien un sujet – et il est plus vaste. Il faut débattre de la répartition de l’effort, et tout au long de l’examen du projet de loi de finances, vous n’avez pas voulu entendre parler d’une véritable contribution sur les très hauts patrimoines. Nous en payons le prix dans ce PLFSS, et nous allons surtout le faire payer aux plus pauvres et aux plus modestes ! (Applaudissements sur quelques bancs des groupes GDR et LFI-NFP.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Avant le vote, la parole est de nouveau à Mme la ministre. (Exclamations sur les bancs du groupe RN.)"
+  },
+  {
+   "orateur": "Mme Amélie de Montchalin",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Il me semble utile de répondre aux députés qui me posent des questions.On ne peut pas parler de désaveu : comme tous mes collègues, je travaille sous l’autorité du premier ministre et, nous suivons strictement ce qu’il a déclaré le 31 octobre. Le rendement du gel des petites retraites – celles jusqu’à 1 700 euros – représente 1 milliard d’euros, et non 3,6. Le gel des minima sociaux représente 300 millions d’euros. Le dégel de ces deux ensembles correspond donc à 1,3 milliard d’euros de moindres économies alors que l’article 44 prévoie des économies de l’ordre de 3,6 milliards. Vous le constatez, le débat ne concerne pas que les minima sociaux et les petites retraites.Vous avez parlé des exonérations. Nous avons déjà eu ce débat : en 2025, nous avons réduit les allégements généraux de 1,6 milliard. En 2026, nous proposons une nouvelle réduction de 1,5 milliard. (M. Nicolas Sansu s’exclame.) Cela représente donc 3,1 milliards d’allégements en moins, sur une assiette qui s’élève à environ 74 milliards d’euros.Nous pouvons de nouveau en débattre, mais je le répète, le périmètre de l’article 44 est beaucoup plus large que ce que couvraient les propos du premier ministre. Avec mes collègues, Stéphanie Rist et Jean-Pierre Farandou, nous pensons qu’il est possible d’avoir un débat plus factuel, plus précis, sur tous les seuils, tous les plafonds, toutes les prestations, débat qui dépasse largement celui sur les petites retraites et les minima sociaux."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix les amendements identiques nos 706, 944, 1216, 1498, 2050 et 2223."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

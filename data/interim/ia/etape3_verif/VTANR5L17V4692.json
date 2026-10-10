@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V4692",
+  "consigne": "etape3_verification v2",
+  "verdict": "corrige",
+  "problemes": [
+    "« Le montant que l'État prévoit de consacrer » est inexact : l'objectif fixé par l'article 49 porte sur les dépenses des régimes obligatoires d'assurance maladie (Sécurité sociale), pas sur le budget de l'État."
+  ],
+  "corrections": {
+    "ce_que_ca_change": "L'objectif de dépenses d'assurance maladie est le montant prévu pour l'année pour les soins et remboursements payés par l'Assurance maladie. Il serait de 274,3 milliards d'euros, contre 270,4 dans le projet initial : 117,4 pour les soins de ville, 112,8 pour les hôpitaux, 18,3 pour les établissements pour personnes âgées et 16 pour ceux pour personnes handicapées."
+  }
+}

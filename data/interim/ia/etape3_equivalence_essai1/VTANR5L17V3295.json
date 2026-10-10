@@ -1,0 +1,8 @@
+{
+  "uid": "VTANR5L17V3295",
+  "consigne": "etape3_equivalence v1",
+  "verdict": "different",
+  "ecarts": [
+    "Le titre passe de « au-delà de 1 million d'euros » à « dès 1 million d'euros ». Le dispositif vise un patrimoine « supérieure à 1 000 000 € » : le seuil du titre change, puisqu'il inclut désormais exactement 1 million."
+  ]
+}
