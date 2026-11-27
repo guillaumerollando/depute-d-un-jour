@@ -5,6 +5,8 @@ import { VitePWA } from 'vite-plugin-pwa';
 // BASE : chemin de publication (ex. « /depute-d-un-jour/ » sur GitHub Pages)
 export default defineConfig({
   base: process.env.BASE ?? '/',
+  // Version affichée dans le pied de page et le mail de signalement : date de construction
+  define: { __VERSION__: JSON.stringify(new Date().toISOString().slice(0, 10)) },
   plugins: [
     react(),
     VitePWA({

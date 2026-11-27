@@ -207,3 +207,12 @@ main:has(.jeu) { padding-bottom: 0; }
 .argument.pour { border-color: var(--pour); } .argument.pour > span { color: var(--pour); }
 .argument.contre { border-color: var(--contre); } .argument.contre > span { color: var(--contre); }
 .argument .bulle { background: var(--surface); }
+
+/* Pied de page : partager, signaler, signature du studio (sobre, sans couleur de parti) */
+.pied { margin-top: 48px; padding-top: 18px; border-top: 1px solid var(--trait); text-align: center; font-size: .88rem; color: var(--encre-douce); display: grid; gap: 8px; justify-items: center; }
+.pied p { margin: 0; }
+.pied-signaler span { overflow-wrap: anywhere; }
+.pied-version { font-size: .8rem; }
+.pied-studio { display: inline-flex; align-items: center; gap: 6px; font-size: .8rem; text-decoration: none; color: var(--encre-douce); }
+.pied-studio svg { width: 18px; height: auto; fill: currentColor; }
+@media (hover: hover) { .pied-studio:hover { color: var(--encre); } }

@@ -2,6 +2,7 @@ import { useMemo, useState } from 'react';
 import type { Carte, Donnees, Groupe, Vote } from '../types';
 import { deputeJumeau, paliers, scores } from '../score';
 import { Hemicycle } from './Hemicycle';
+import { partagerSite } from '../partage';
 
 interface Props {
   donnees: Donnees;
@@ -28,16 +29,6 @@ export function Resultat({ donnees, votes, onContinuer, onRecommencer, onMethode
   const proches = new Set(premiers.map((s) => s.groupe.id));
   const [copie, setCopie] = useState(false);
   const [ouvert, setOuvert] = useState<string | null>(null);
-
-  // On partage le test, jamais le résultat : chacun garde ses positions pour lui
-  const partager = async () => {
-    const texte = "Député d'un jour : vote sur de vrais textes de l'Assemblée nationale et découvre de quels groupes tu es le plus proche.";
-    const url = `${location.origin}${import.meta.env.BASE_URL}`;
-    try {
-      if (navigator.share) await navigator.share({ title: "Député d'un jour", text: texte, url });
-      else { await navigator.clipboard.writeText(`${texte} ${url}`); setCopie(true); }
-    } catch { /* partage annulé */ }
-  };
 
   if (repondus === 0)
     return (
@@ -113,7 +104,7 @@ export function Resultat({ donnees, votes, onContinuer, onRecommencer, onMethode
 
       <div className="actions">
         {onContinuer && <button className="btn-principal" onClick={onContinuer}>Affiner avec 10 votes de plus</button>}
-        <button className="btn-secondaire" onClick={partager}>{copie ? 'Lien copié !' : 'Partager le test'}</button>
+        <button className="btn-secondaire" onClick={async () => setCopie(await partagerSite())}>{copie ? 'Lien copié !' : 'Partager le test'}</button>
         <button className="btn-secondaire" onClick={onRecommencer}>Recommencer</button>
       </div>
 

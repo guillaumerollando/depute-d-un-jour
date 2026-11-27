@@ -5,6 +5,7 @@ import { Accueil } from './composants/Accueil';
 import { CarteSwipe } from './composants/CarteSwipe';
 import { Resultat } from './composants/Resultat';
 import { Methode } from './composants/Methode';
+import { Pied } from './composants/Pied';
 
 type Ecran = 'accueil' | 'jeu' | 'resultat' | 'methode';
 const SERIE = 15; // nombre de votes proposés au départ
@@ -169,6 +170,8 @@ export default function App() {
       )}
 
       {ecran === 'methode' && <Methode donnees={donnees} onRetour={() => setEcran(retour)} />}
+
+      {ecran !== 'jeu' && <Pied ecran={ecran} donnees={donnees} />}
     </main>
   );
 }
