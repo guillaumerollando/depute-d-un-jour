@@ -9861,5 +9861,1596 @@
    "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b0929_texte-adopte-commission",
    "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N110"
   }
+ },
+ {
+  "uid": "VTANR5L17V10102",
+  "numero": 10102,
+  "date": "2026-11-24",
+  "type": "ensemble",
+  "votants": 530,
+  "socle": true,
+  "solennel": true,
+  "theme": "Logement",
+  "titre": "Adopter le projet de loi sur la relance et la décentralisation du logement",
+  "ce_que_ca_change": "Le texte crée un troisième programme de rénovation des quartiers en difficulté, pour 2026-2040. Il permet de créer des « opérations d'intérêt local », où des projets de logements peuvent déroger au plan local d'urbanisme (les règles de construction de la commune). Il supprime le calendrier d'interdiction progressive de louer les logements les moins performants en énergie.",
+  "contexte": "Vote sur l'ensemble du projet de loi visant la relance et la décentralisation du logement, en première lecture, le 24 novembre 2026.",
+  "resultat": "adopté",
+  "positions": {
+   "RN": "pour",
+   "EPR": "pour",
+   "LFI": "contre",
+   "DR": "pour",
+   "ECOS": "contre",
+   "DEM": "pour",
+   "HOR": "pour",
+   "LIOT": "pour",
+   "GDR": "contre",
+   "UDR": "pour"
+  },
+  "neutralises": [],
+  "voix": {
+   "RN": {
+    "pour": 116,
+    "contre": 0,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 84,
+    "contre": 0,
+    "abstention": 1
+   },
+   "LFI": {
+    "pour": 0,
+    "contre": 65,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 11,
+    "contre": 1,
+    "abstention": 42
+   },
+   "DR": {
+    "pour": 45,
+    "contre": 0,
+    "abstention": 0
+   },
+   "ECOS": {
+    "pour": 0,
+    "contre": 37,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 35,
+    "contre": 0,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 31,
+    "contre": 0,
+    "abstention": 2
+   },
+   "LIOT": {
+    "pour": 18,
+    "contre": 0,
+    "abstention": 4
+   },
+   "GDR": {
+    "pour": 0,
+    "contre": 15,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 15,
+    "contre": 0,
+    "abstention": 0
+   }
+  },
+  "citations": {
+   "RN": {
+    "orateur": "M. Frédéric Falcon",
+    "citation": "En l’état, sans nouvelle délibération, le groupe Rassemblement national votera pour ce texte",
+    "categorie": "A"
+   },
+   "EPR": {
+    "orateur": "Mme Marie Lebec",
+    "citation": "Notre objectif reste clair : construire davantage, faciliter l’accès au logement pour tous les Français et leur permettre de devenir propriétaires s’ils le souhaitent.",
+    "categorie": "A"
+   },
+   "LFI": {
+    "orateur": "Mme Sandrine Nosbé",
+    "citation": "Appelons donc les choses par leur nom : ce texte est une loi pour les bailleurs privés.",
+    "categorie": "A"
+   },
+   "DEM": {
+    "orateur": "M. Romain Daubié",
+    "citation": "Nous voterons ce texte, parce qu’il relance la construction, fait confiance aux élus locaux et libère des projets bloqués depuis trop longtemps.",
+    "categorie": "A"
+   },
+   "HOR": {
+    "orateur": "M. François Jolivet",
+    "citation": "Il simplifie des procédures et érige en règle la transformation des bureaux en logements, qui était jusqu’ici une exception.",
+    "categorie": "A"
+   },
+   "LIOT": {
+    "orateur": "Mme Valérie Létard",
+    "citation": "Ce texte n’annonce pas le grand soir mais il apporte des réponses attendues.",
+    "categorie": "A"
+   },
+   "GDR": {
+    "orateur": "M. Stéphane Peu",
+    "citation": "Vous allez jusqu’à faire supporter aux locataires du parc social une part du coût de la rénovation énergétique de leur logement.",
+    "categorie": "A"
+   },
+   "UDR": {
+    "orateur": "M. Olivier Fayssat",
+    "citation": "Parce que l’Assemblée a fait progresser le texte et non parce que ses insuffisances auraient disparu, le groupe UDR le votera.",
+    "categorie": "A"
+   }
+  },
+  "verification": "corrige",
+  "dossier": "DLR5L17N54608",
+  "dossier_titre": "La relance et la décentralisation du logement",
+  "liens": {
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/10102",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54608",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0372_texte-adopte-seance",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N073"
+  }
+ },
+ {
+  "uid": "VTANR5L17V9916",
+  "numero": 9916,
+  "date": "2026-11-17",
+  "type": "ensemble",
+  "votants": 544,
+  "socle": true,
+  "solennel": true,
+  "theme": "Éducation, culture et numérique",
+  "titre": "Imposer des règles de cybersécurité aux entreprises et administrations des secteurs clés",
+  "ce_que_ca_change": "Les entreprises et administrations de secteurs jugés critiques (énergie, transports, banques, santé, eau, numérique…) devraient protéger leurs systèmes informatiques, sous le contrôle de l'autorité nationale de cybersécurité, et lui signaler leurs incidents graves sous 24 heures. Les entreprises en faute risqueraient jusqu'à 10 millions d'euros ou 2 % de leur chiffre d'affaires mondial.",
+  "contexte": "Vote sur l'ensemble du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité, en première lecture, le 17 novembre 2026.",
+  "resultat": "adopté",
+  "positions": {
+   "RN": "pour",
+   "EPR": "pour",
+   "LFI": "contre",
+   "SOC": "pour",
+   "DR": "pour",
+   "ECOS": "pour",
+   "DEM": "pour",
+   "HOR": "pour",
+   "LIOT": "pour",
+   "UDR": "pour"
+  },
+  "neutralises": [],
+  "voix": {
+   "RN": {
+    "pour": 120,
+    "contre": 0,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 83,
+    "contre": 0,
+    "abstention": 0
+   },
+   "LFI": {
+    "pour": 0,
+    "contre": 64,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 63,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 45,
+    "contre": 0,
+    "abstention": 0
+   },
+   "ECOS": {
+    "pour": 36,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 34,
+    "contre": 0,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 31,
+    "contre": 0,
+    "abstention": 0
+   },
+   "LIOT": {
+    "pour": 24,
+    "contre": 0,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 1,
+    "contre": 0,
+    "abstention": 16
+   },
+   "UDR": {
+    "pour": 17,
+    "contre": 0,
+    "abstention": 0
+   }
+  },
+  "citations": {
+   "RN": {
+    "orateur": "M. Emeric Salmon (RN)",
+    "citation": "Renforcer la résilience de nos infrastructures, mieux prévenir les cyberattaques et améliorer la protection de nos services essentiels : ce sont des objectifs que nous partageons pleinement.",
+    "categorie": "A"
+   },
+   "EPR": {
+    "orateur": "Mme Patricia Lemoine (EPR)",
+    "citation": "C’est précisément ce que ce texte corrige.",
+    "categorie": "A"
+   },
+   "LFI": {
+    "orateur": "M. René Pilato",
+    "citation": "Nous parlons de liberté et nous voterons liberté, donc contre ce projet de loi.",
+    "categorie": "A"
+   },
+   "SOC": {
+    "orateur": "M. Sébastien Saint-Pasteur",
+    "citation": "Nous voterons ce texte, qui apporte des avancées nécessaires, sans confondre son adoption avec l’accomplissement de notre mission.",
+    "categorie": "A"
+   },
+   "DR": {
+    "orateur": "Mme Virginie Duby-Muller (DR)",
+    "citation": "Pour toutes ces raisons, le groupe Droite républicaine votera pour ce projet de loi qu’il attendait depuis deux ans.",
+    "categorie": "A"
+   },
+   "ECOS": {
+    "orateur": "Mme Catherine Hervieu (EcoS)",
+    "citation": "En votant ce texte, nous assumons la responsabilité collective de renforcer la cybersécurité et la résilience des opérateurs d’importance vitale",
+    "categorie": "A"
+   },
+   "DEM": {
+    "orateur": "Mme Geneviève Darrieussecq (Dem)",
+    "citation": "Parce que ce texte impose un devoir général de vigilance, aux entreprises comme aux administrations, aux collectivités et à l’État, le groupe Les Démocrates votera en sa faveur.",
+    "categorie": "A"
+   }
+  },
+  "verification": "valide",
+  "dossier": "DLR5L17N50731",
+  "dossier_titre": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
+  "liens": {
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9916",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0366_texte-adopte-seance",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N064"
+  }
+ },
+ {
+  "uid": "VTANR5L17V8725",
+  "numero": 8725,
+  "date": "2026-10-14",
+  "type": "article",
+  "votants": 204,
+  "socle": false,
+  "solennel": false,
+  "theme": "Défense et international",
+  "titre": "Fixer la contribution de la France au budget européen pour 2027",
+  "ce_que_ca_change": "L'article évalue à environ 30,9 milliards d'euros la somme que la France versera au budget de l'Union européenne en 2027, soit 2,8 milliards de plus que la prévision pour 2026. Cette somme est prélevée directement sur les recettes de l'État.",
+  "contexte": "Vote sur l'article 55 du projet de loi de finances pour 2027 (budget de l'État), en première lecture, le 14 octobre 2026.",
+  "resultat": "adopté",
+  "positions": {
+   "RN": "contre",
+   "EPR": "pour",
+   "LFI": "contre",
+   "SOC": "pour",
+   "DR": "pour",
+   "ECOS": "pour",
+   "DEM": "pour",
+   "HOR": "pour",
+   "LIOT": "pour",
+   "UDR": "contre",
+   "GDR": "contre"
+  },
+  "neutralises": [],
+  "voix": {
+   "RN": {
+    "pour": 0,
+    "contre": 52,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 30,
+    "contre": 0,
+    "abstention": 0
+   },
+   "LFI": {
+    "pour": 0,
+    "contre": 30,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 25,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 9,
+    "contre": 0,
+    "abstention": 0
+   },
+   "ECOS": {
+    "pour": 10,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 20,
+    "contre": 0,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 9,
+    "contre": 0,
+    "abstention": 0
+   },
+   "LIOT": {
+    "pour": 5,
+    "contre": 0,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 0,
+    "contre": 6,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 0,
+    "contre": 5,
+    "abstention": 0
+   }
+  },
+  "citations": {},
+  "verification": "valide",
+  "dossier": "DLR5L17N54629",
+  "dossier_titre": "Projet de loi de finances pour 2027",
+  "liens": {
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8725",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54629",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b3210_projet-loi",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N023"
+  }
+ },
+ {
+  "uid": "VTANR5L17V9202",
+  "numero": 9202,
+  "date": "2026-10-29",
+  "type": "article",
+  "votants": 296,
+  "socle": false,
+  "solennel": false,
+  "theme": "Éducation, culture et numérique",
+  "titre": "Faire des accompagnants d'élèves handicapés des fonctionnaires recrutés par concours",
+  "ce_que_ca_change": "Les accompagnants d'élèves en situation de handicap (AESH) formeraient un corps de fonctionnaires de catégorie B, recrutés par concours dans leur académie. Ceux en poste au 1er septembre 2026 dans un établissement public ou privé sous contrat seraient nommés stagiaires pour un an, avec une formation. Ceux qui ne remplissent pas les conditions pour être fonctionnaires se verraient proposer un CDI.",
+  "contexte": "Vote sur l'article 1er de la proposition de loi créant un corps de fonctionnaires pour les accompagnants d'élèves en situation de handicap, le 29 octobre 2026.",
+  "resultat": "adopté",
+  "positions": {
+   "RN": "contre",
+   "EPR": "contre",
+   "LFI": "pour",
+   "SOC": "pour",
+   "DR": "pour",
+   "ECOS": "pour",
+   "DEM": "contre",
+   "HOR": "contre",
+   "LIOT": "pour",
+   "UDR": "contre",
+   "GDR": "pour"
+  },
+  "neutralises": [],
+  "voix": {
+   "RN": {
+    "pour": 1,
+    "contre": 76,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 0,
+    "contre": 19,
+    "abstention": 11
+   },
+   "LFI": {
+    "pour": 68,
+    "contre": 0,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 40,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 5,
+    "contre": 0,
+    "abstention": 3
+   },
+   "ECOS": {
+    "pour": 31,
+    "contre": 0,
+    "abstention": 1
+   },
+   "DEM": {
+    "pour": 0,
+    "contre": 5,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 0,
+    "contre": 8,
+    "abstention": 1
+   },
+   "LIOT": {
+    "pour": 3,
+    "contre": 0,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 0,
+    "contre": 11,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 13,
+    "contre": 0,
+    "abstention": 0
+   }
+  },
+  "citations": {
+   "RN": {
+    "orateur": "M. David Magnier",
+    "citation": "La réponse proposée aujourd’hui, avec la création d’un corps de fonctionnaires de catégorie B, est un mirage.",
+    "categorie": "A"
+   },
+   "DR": {
+    "orateur": "M. Corentin Le Fur",
+    "citation": "Ce qui nous importe, c’est l’avancée de la cause des AESH",
+    "categorie": "A"
+   },
+   "UDR": {
+    "orateur": "M. Maxime Michelet",
+    "citation": "Votre proposition, la fonctionnarisation, n’apportera pas de solution à la précarité des AESH.",
+    "categorie": "A"
+   }
+  },
+  "verification": "corrige",
+  "dossier": "DLR5L17N54901",
+  "dossier_titre": "Créer un corps de fonctionnaires de catégorie B pour les accompagnants d’élèves en situation de handicap",
+  "liens": {
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9202",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54901",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b3382_texte-adopte-commission",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N044"
+  }
+ },
+ {
+  "uid": "VTANR5L17V8898",
+  "numero": 8898,
+  "date": "2026-10-20",
+  "type": "amendement",
+  "votants": 212,
+  "socle": false,
+  "solennel": false,
+  "theme": "Santé et protection sociale",
+  "titre": "Supprimer la baisse de l'objectif de dépenses d'assurance maladie pour 2026",
+  "ce_que_ca_change": "L'article abaisse de 1,1 milliard, à 273,3 milliards d'euros, l'objectif de dépenses de l'assurance maladie pour 2026. Selon le Gouvernement, il tient compte de la hausse par décret, de 50 à 70 euros, des plafonds des franchises médicales (sommes à la charge des patients) et d'une annulation de crédits en réserve pour les hôpitaux et cliniques. L'amendement supprime l'article, pas le décret.",
+  "contexte": "Amendement de suppression de l'article 2 du projet de loi de financement de la Sécurité sociale pour 2027, voté le 20 octobre 2026.",
+  "resultat": "adopté",
+  "positions": {
+   "RN": "pour",
+   "EPR": "contre",
+   "LFI": "pour",
+   "SOC": "pour",
+   "DR": "contre",
+   "ECOS": "pour",
+   "DEM": "contre",
+   "HOR": "contre",
+   "LIOT": "pour",
+   "UDR": "pour",
+   "GDR": "pour"
+  },
+  "neutralises": [],
+  "voix": {
+   "RN": {
+    "pour": 66,
+    "contre": 0,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 0,
+    "contre": 24,
+    "abstention": 0
+   },
+   "LFI": {
+    "pour": 28,
+    "contre": 0,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 24,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 0,
+    "contre": 13,
+    "abstention": 0
+   },
+   "ECOS": {
+    "pour": 17,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 0,
+    "contre": 12,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 0,
+    "contre": 9,
+    "abstention": 0
+   },
+   "LIOT": {
+    "pour": 3,
+    "contre": 0,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 9,
+    "contre": 0,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 4,
+    "contre": 0,
+    "abstention": 0
+   }
+  },
+  "citations": {
+   "RN": {
+    "orateur": "Mme Joëlle Mélin",
+    "citation": "Nous voulons surtout dire clairement que cet Ondam n’est plus supportable.",
+    "categorie": "A"
+   },
+   "LFI": {
+    "orateur": "Mme Zahia Hamdane",
+    "citation": "le gouvernement nous propose 1,1 milliard d’euros de coupes supplémentaires dans l’Ondam pour 2026, après plus de 4 milliards d’euros d’économies l’an passé. Nous demandons donc la suppression de cet article.",
+    "categorie": "A"
+   },
+   "SOC": {
+    "orateur": "M. Arnaud Simion",
+    "citation": "l’article 2 entérine une mesure profondément injuste, le doublement des franchises médicales et des participations forfaitaires",
+    "categorie": "A"
+   },
+   "ECOS": {
+    "orateur": "M. Hendrik Davi",
+    "citation": "Mais au lieu de rendre cet argent aux hôpitaux, vous le reprenez.",
+    "categorie": "A"
+   },
+   "GDR": {
+    "orateur": "Mme Karine Lebon",
+    "citation": "Cette économie se traduit également par un reste à charge plus important pour les assurés sociaux, avec le relèvement des plafonds des franchises et des participations forfaitaires.",
+    "categorie": "A"
+   }
+  },
+  "verification": "corrige",
+  "dossier": "DLR5L17N54951",
+  "dossier_titre": "Projet de loi de financement de la sécurité sociale pour 2027",
+  "liens": {
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8898",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54951",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b3211_projet-loi",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N033"
+  }
+ },
+ {
+  "uid": "VTANR5L17V8697",
+  "numero": 8697,
+  "date": "2026-10-13",
+  "type": "amendement",
+  "votants": 250,
+  "socle": false,
+  "solennel": false,
+  "theme": "Sécurité et justice",
+  "titre": "Permettre d'annuler les enquêtes pour violences sexuelles menées hors service spécialisé",
+  "ce_que_ca_change": "Le texte impose de confier les enquêtes sur les violences sexuelles, sexistes ou intrafamiliales à des services de police spécialisés. Des votes précédents avaient prévu que le non-respect de cette règle ne soit pas une cause d'annulation de la procédure. L'amendement limite cette protection aux trois ans suivant la promulgation de la loi ; après, la procédure pourrait être annulée.",
+  "contexte": "Amendement à l'article 3 de la proposition de loi contre les violences sexuelles et sexistes faites aux femmes et aux enfants, en seconde délibération (nouveau vote sur un article), le 13 octobre 2026.",
+  "resultat": "adopté",
+  "positions": {
+   "RN": "contre",
+   "LFI": "pour",
+   "SOC": "pour",
+   "DR": "pour",
+   "ECOS": "pour",
+   "DEM": "contre",
+   "HOR": "contre",
+   "GDR": "pour",
+   "UDR": "contre"
+  },
+  "neutralises": [],
+  "voix": {
+   "RN": {
+    "pour": 0,
+    "contre": 53,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 15,
+    "contre": 10,
+    "abstention": 1
+   },
+   "LFI": {
+    "pour": 33,
+    "contre": 0,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 45,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 17,
+    "contre": 0,
+    "abstention": 0
+   },
+   "ECOS": {
+    "pour": 25,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 0,
+    "contre": 10,
+    "abstention": 1
+   },
+   "HOR": {
+    "pour": 1,
+    "contre": 14,
+    "abstention": 1
+   },
+   "LIOT": {
+    "pour": 2,
+    "contre": 2,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 6,
+    "contre": 0,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 0,
+    "contre": 9,
+    "abstention": 0
+   }
+  },
+  "citations": {},
+  "verification": "corrige",
+  "dossier": "DLR5L17N54776",
+  "dossier_titre": "Apporter une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants",
+  "liens": {
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8697",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54776",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b3190_texte-adopte-commission",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N020"
+  }
+ },
+ {
+  "uid": "VTANR5L17V10052",
+  "numero": 10052,
+  "date": "2026-11-19",
+  "type": "amendement",
+  "votants": 253,
+  "socle": false,
+  "solennel": false,
+  "theme": "Logement",
+  "titre": "Exclure les baux mobilité de l'encadrement des loyers",
+  "ce_que_ca_change": "Le bail mobilité est une location meublée d'un à dix mois, destinée notamment aux étudiants, apprentis, stagiaires ou personnes en mission temporaire. L'amendement le sortirait de l'encadrement des loyers, l'expérimentation qui plafonne les loyers dans certaines villes : ces logements ne seraient plus soumis au loyer plafond.",
+  "contexte": "Amendement à l'article 1er de la proposition de loi sur l'équilibre des rapports entre propriétaires et locataires (deuxième lecture), voté le 19 novembre 2026.",
+  "resultat": "rejeté",
+  "positions": {
+   "RN": "pour",
+   "EPR": "contre",
+   "LFI": "contre",
+   "SOC": "contre",
+   "DR": "pour",
+   "ECOS": "contre",
+   "DEM": "contre",
+   "LIOT": "contre",
+   "UDR": "pour",
+   "GDR": "contre"
+  },
+  "neutralises": [],
+  "voix": {
+   "RN": {
+    "pour": 77,
+    "contre": 1,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 0,
+    "contre": 13,
+    "abstention": 2
+   },
+   "LFI": {
+    "pour": 0,
+    "contre": 38,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 0,
+    "contre": 60,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 5,
+    "contre": 0,
+    "abstention": 1
+   },
+   "ECOS": {
+    "pour": 0,
+    "contre": 25,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 0,
+    "contre": 8,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 0,
+    "contre": 0,
+    "abstention": 4
+   },
+   "LIOT": {
+    "pour": 0,
+    "contre": 4,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 4,
+    "contre": 0,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 0,
+    "contre": 11,
+    "abstention": 0
+   }
+  },
+  "citations": {},
+  "verification": "valide",
+  "dossier": "DLR5L17N53069",
+  "dossier_titre": "Retrouver la confiance et l’équilibre dans les rapports locatifs",
+  "liens": {
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/10052",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53069",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b3432_texte-adopte-commission",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N069"
+  }
+ },
+ {
+  "uid": "VTANR5L17V10051",
+  "numero": 10051,
+  "date": "2026-11-19",
+  "type": "amendement",
+  "votants": 252,
+  "socle": false,
+  "solennel": false,
+  "theme": "Logement",
+  "titre": "Exclure tous les logements meublés de l'encadrement des loyers",
+  "ce_que_ca_change": "L'encadrement des loyers est une expérimentation qui plafonne les loyers dans certaines villes. Aujourd'hui, seuls certains meublés situés dans des résidences avec services en sont exclus. L'amendement supprime cette condition : aucun logement meublé ne serait plus soumis au loyer plafond.",
+  "contexte": "Amendement à l'article 1er de la proposition de loi sur l'équilibre des rapports entre propriétaires et locataires (deuxième lecture), voté le 19 novembre 2026.",
+  "resultat": "rejeté",
+  "positions": {
+   "RN": "pour",
+   "EPR": "contre",
+   "LFI": "contre",
+   "SOC": "contre",
+   "DR": "pour",
+   "ECOS": "contre",
+   "DEM": "contre",
+   "LIOT": "contre",
+   "UDR": "pour",
+   "GDR": "contre"
+  },
+  "neutralises": [],
+  "voix": {
+   "RN": {
+    "pour": 77,
+    "contre": 1,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 0,
+    "contre": 13,
+    "abstention": 2
+   },
+   "LFI": {
+    "pour": 0,
+    "contre": 37,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 0,
+    "contre": 60,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 5,
+    "contre": 0,
+    "abstention": 1
+   },
+   "ECOS": {
+    "pour": 0,
+    "contre": 25,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 0,
+    "contre": 8,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 0,
+    "contre": 0,
+    "abstention": 4
+   },
+   "LIOT": {
+    "pour": 0,
+    "contre": 4,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 4,
+    "contre": 0,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 0,
+    "contre": 11,
+    "abstention": 0
+   }
+  },
+  "citations": {},
+  "verification": "valide",
+  "dossier": "DLR5L17N53069",
+  "dossier_titre": "Retrouver la confiance et l’équilibre dans les rapports locatifs",
+  "liens": {
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/10051",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53069",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b3432_texte-adopte-commission",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N069"
+  }
+ },
+ {
+  "uid": "VTANR5L17V9929",
+  "numero": 9929,
+  "date": "2026-11-17",
+  "type": "amendement",
+  "votants": 201,
+  "socle": false,
+  "solennel": false,
+  "theme": "Logement",
+  "titre": "Évaluer la rénovation urbaine aussi sur la sécurité des habitants et les dégradations",
+  "ce_que_ca_change": "Le projet crée un troisième programme national de rénovation des quartiers prioritaires, doté de 5 milliards d'euros, dont les projets sont évalués à l'aide d'indicateurs. L'amendement ajoute à ces indicateurs la sécurité et la tranquillité des résidents, les dégradations des parties communes et les actions des bailleurs pour les éviter.",
+  "contexte": "Amendement à l'article 1er du projet de loi visant la relance et la décentralisation du logement, sur le programme de renouvellement urbain, le 17 novembre 2026.",
+  "resultat": "rejeté",
+  "positions": {
+   "RN": "pour",
+   "EPR": "contre",
+   "LFI": "contre",
+   "SOC": "contre",
+   "DR": "contre",
+   "ECOS": "contre",
+   "DEM": "contre",
+   "HOR": "contre",
+   "LIOT": "contre",
+   "UDR": "pour"
+  },
+  "neutralises": [],
+  "voix": {
+   "RN": {
+    "pour": 72,
+    "contre": 0,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 0,
+    "contre": 30,
+    "abstention": 0
+   },
+   "LFI": {
+    "pour": 0,
+    "contre": 20,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 0,
+    "contre": 23,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 1,
+    "contre": 8,
+    "abstention": 2
+   },
+   "ECOS": {
+    "pour": 0,
+    "contre": 7,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 0,
+    "contre": 11,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 0,
+    "contre": 10,
+    "abstention": 0
+   },
+   "LIOT": {
+    "pour": 0,
+    "contre": 6,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 0,
+    "contre": 2,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 5,
+    "contre": 0,
+    "abstention": 0
+   }
+  },
+  "citations": {
+   "RN": {
+    "orateur": "M. Lionel Tivoli",
+    "citation": "Pour le Rassemblement national, la tranquillité des habitants doit être prise en compte dans le bilan d’une rénovation urbaine.",
+    "categorie": "A"
+   }
+  },
+  "verification": "valide",
+  "dossier": "DLR5L17N54608",
+  "dossier_titre": "La relance et la décentralisation du logement",
+  "liens": {
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9929",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54608",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b3188_texte-adopte-commission",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N064"
+  }
+ },
+ {
+  "uid": "VTANR5L17V8703",
+  "numero": 8703,
+  "date": "2026-10-13",
+  "type": "amendement",
+  "votants": 373,
+  "socle": false,
+  "solennel": false,
+  "theme": "Travail et retraites",
+  "titre": "Rétablir un congé pour les victimes de violences, à négocier dans le secteur privé",
+  "ce_que_ca_change": "Les agents publics victimes de violences sexuelles, sexistes ou intrafamiliales auraient droit à jusqu'à 10 jours d'absence payés, sur présentation d'un récépissé de plainte. Dans le privé, syndicats et patronat devraient négocier un congé d'un à dix jours par an, et les collègues pourraient donner anonymement des jours de repos à la victime.",
+  "contexte": "Amendement rétablissant l'article 46, supprimé lors d'un premier vote, de la proposition de loi contre les violences sexuelles et sexistes faites aux femmes et aux enfants, en seconde délibération, le 13 octobre 2026.",
+  "resultat": "rejeté",
+  "positions": {
+   "RN": "pour",
+   "EPR": "contre",
+   "LFI": "contre",
+   "SOC": "contre",
+   "DR": "contre",
+   "ECOS": "contre",
+   "DEM": "contre",
+   "HOR": "contre",
+   "LIOT": "contre",
+   "UDR": "pour",
+   "GDR": "contre"
+  },
+  "neutralises": [],
+  "voix": {
+   "RN": {
+    "pour": 86,
+    "contre": 1,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 0,
+    "contre": 42,
+    "abstention": 2
+   },
+   "LFI": {
+    "pour": 0,
+    "contre": 46,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 0,
+    "contre": 59,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 0,
+    "contre": 20,
+    "abstention": 6
+   },
+   "ECOS": {
+    "pour": 0,
+    "contre": 31,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 0,
+    "contre": 18,
+    "abstention": 3
+   },
+   "HOR": {
+    "pour": 0,
+    "contre": 19,
+    "abstention": 2
+   },
+   "LIOT": {
+    "pour": 0,
+    "contre": 9,
+    "abstention": 1
+   },
+   "UDR": {
+    "pour": 11,
+    "contre": 0,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 0,
+    "contre": 11,
+    "abstention": 0
+   }
+  },
+  "citations": {
+   "RN": {
+    "orateur": "M. Gaëtan Dussausaye",
+    "citation": "Avec notre amendement de réécriture, nous proposons de confier la négociation de ce congé aux partenaires sociaux et de rendre possible le don de jours de congé entre collègues.",
+    "categorie": "A"
+   },
+   "DR": {
+    "orateur": "Mme Émilie Bonnivard",
+    "citation": "Nous – ou du moins, je l’espère, une majorité au sein de mon groupe – voterons contre l’amendement du Rassemblement national, qui n’est qu’une affabulation.",
+    "categorie": "A"
+   },
+   "ECOS": {
+    "orateur": "Mme Marie-Charlotte Garin",
+    "citation": "vous proposez un dispositif moins-disant, fondé sur d’incertaines négociations de branche et sur le don de jours de congé.",
+    "categorie": "A"
+   }
+  },
+  "verification": "corrige",
+  "dossier": "DLR5L17N54776",
+  "dossier_titre": "Apporter une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants",
+  "liens": {
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8703",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54776",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b3190_texte-adopte-commission",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N020"
+  }
+ },
+ {
+  "uid": "VTANR5L17V8897",
+  "numero": 8897,
+  "date": "2026-10-20",
+  "type": "amendement",
+  "votants": 211,
+  "socle": false,
+  "solennel": false,
+  "theme": "Santé et protection sociale",
+  "titre": "Supprimer la révision à 21,8 milliards du déficit 2026 de la Sécurité sociale",
+  "ce_que_ca_change": "L'article corrige les comptes 2026 des régimes de base de la Sécurité sociale (maladie, retraite, famille…) : le déficit prévu passe de 19,4 à 21,8 milliards d'euros, surtout à cause de recettes plus faibles que prévu. Les amendements suppriment cet article et donc cette correction.",
+  "contexte": "Amendements identiques de suppression de l'article 1er du projet de loi de financement de la Sécurité sociale pour 2027, en première lecture, le 20 octobre 2026.",
+  "resultat": "adopté",
+  "positions": {
+   "RN": "pour",
+   "EPR": "contre",
+   "LFI": "pour",
+   "SOC": "pour",
+   "DR": "contre",
+   "ECOS": "pour",
+   "DEM": "contre",
+   "HOR": "contre",
+   "UDR": "pour",
+   "GDR": "pour"
+  },
+  "neutralises": [],
+  "voix": {
+   "RN": {
+    "pour": 68,
+    "contre": 0,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 0,
+    "contre": 23,
+    "abstention": 0
+   },
+   "LFI": {
+    "pour": 26,
+    "contre": 0,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 23,
+    "contre": 1,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 0,
+    "contre": 13,
+    "abstention": 0
+   },
+   "ECOS": {
+    "pour": 17,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 0,
+    "contre": 12,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 0,
+    "contre": 8,
+    "abstention": 0
+   },
+   "LIOT": {
+    "pour": 3,
+    "contre": 1,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 8,
+    "contre": 0,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 5,
+    "contre": 0,
+    "abstention": 0
+   }
+  },
+  "citations": {
+   "RN": {
+    "orateur": "Mme Joëlle Mélin",
+    "citation": "Les chiffres ainsi présentés sont donc biaisés et nous n’avons pas d’autre solution que de demander la suppression de cet article : il n’y a rien à discuter.",
+    "categorie": "A"
+   },
+   "LFI": {
+    "orateur": "Mme Anaïs Belouassa-Cherifi",
+    "citation": "Le tableau présenté par cet article n’est pas si compliqué qu’il en a l’air : il ne s’agit que des coupes que le gouvernement entend faire sur le dos des assurés ! Nous nous y opposons.",
+    "categorie": "A"
+   },
+   "SOC": {
+    "orateur": "M. Arnaud Simion",
+    "citation": "L’article 1er concentre trois renoncements politiques majeurs.",
+    "categorie": "A"
+   },
+   "ECOS": {
+    "orateur": "M. Hendrik Davi",
+    "citation": "Pour mettre fin à cette supercherie, supprimons l’article.",
+    "categorie": "A"
+   },
+   "DEM": {
+    "orateur": "M. Nicolas Turquois",
+    "citation": "Je m’oppose aux amendements de suppression.",
+    "categorie": "A"
+   },
+   "GDR": {
+    "orateur": "M. Édouard Bénard",
+    "citation": "Nous sommes en total désaccord avec les rectifications apportées à ce bien mal nommé tableau d’équilibre.",
+    "categorie": "A"
+   }
+  },
+  "verification": "valide",
+  "dossier": "DLR5L17N54951",
+  "dossier_titre": "Projet de loi de financement de la sécurité sociale pour 2027",
+  "liens": {
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8897",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54951",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b3211_projet-loi",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N033"
+  }
+ },
+ {
+  "uid": "VTANR5L17V10106",
+  "numero": 10106,
+  "date": "2026-11-24",
+  "type": "ensemble",
+  "votants": 288,
+  "socle": false,
+  "solennel": false,
+  "theme": "Économie et impôts",
+  "titre": "Adopter le budget rectifié de l'État pour la fin de l'année 2026",
+  "ce_que_ca_change": "Le texte ajuste le budget de l'État en fin d'année : il ouvre plus de 7 milliards d'euros de crédits supplémentaires et en annule près de 4 milliards. Il valide deux décrets de 2026 qui avaient modifié des crédits en urgence. Il prévoit un déficit public de 5,4 % de la richesse nationale (PIB) en 2026.",
+  "contexte": "Vote sur l'ensemble du projet de loi de finances de fin de gestion pour 2026, texte issu de l'accord entre députés et sénateurs, le 24 novembre 2026.",
+  "resultat": "adopté",
+  "positions": {
+   "EPR": "pour",
+   "LFI": "contre",
+   "DR": "pour",
+   "ECOS": "contre",
+   "DEM": "pour",
+   "HOR": "pour",
+   "LIOT": "pour",
+   "GDR": "contre"
+  },
+  "neutralises": [],
+  "voix": {
+   "RN": {
+    "pour": 0,
+    "contre": 0,
+    "abstention": 55
+   },
+   "EPR": {
+    "pour": 47,
+    "contre": 0,
+    "abstention": 0
+   },
+   "LFI": {
+    "pour": 0,
+    "contre": 38,
+    "abstention": 1
+   },
+   "SOC": {
+    "pour": 1,
+    "contre": 1,
+    "abstention": 17
+   },
+   "DR": {
+    "pour": 34,
+    "contre": 0,
+    "abstention": 0
+   },
+   "ECOS": {
+    "pour": 0,
+    "contre": 19,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 21,
+    "contre": 0,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 17,
+    "contre": 0,
+    "abstention": 0
+   },
+   "LIOT": {
+    "pour": 11,
+    "contre": 0,
+    "abstention": 3
+   },
+   "GDR": {
+    "pour": 1,
+    "contre": 5,
+    "abstention": 3
+   },
+   "UDR": {
+    "pour": 0,
+    "contre": 0,
+    "abstention": 6
+   }
+  },
+  "citations": {
+   "EPR": {
+    "orateur": "M. Denis Masséglia",
+    "citation": "Voter contre ce texte, c’est voter contre toutes ces avancées : contre les agriculteurs, contre les ultramarins, contre nos armées, contre les étudiants les plus précaires et, surtout, contre les plus fragiles.",
+    "categorie": "A"
+   },
+   "LFI": {
+    "orateur": "Mme Claire Lejeune",
+    "citation": "Dans tout le reste, on coupe.",
+    "categorie": "A"
+   },
+   "HOR": {
+    "orateur": "M. Pierre Henriet",
+    "citation": "Malgré cela, notre groupe a soutenu ce texte dès la première lecture, car il répond aux difficultés de l’année sans renoncer à tenir la dépense de l’État.",
+    "categorie": "A"
+   },
+   "LIOT": {
+    "orateur": "M. Michel Castellani",
+    "citation": "Nous reconnaissons donc ce que la navette a permis de préserver.",
+    "categorie": "A"
+   },
+   "GDR": {
+    "orateur": "M. Nicolas Sansu",
+    "citation": "Le texte issu de la CMP demeure bien trop imparfait pour que nous puissions le voter.",
+    "categorie": "A"
+   }
+  },
+  "verification": "valide",
+  "dossier": "DLR5L17N55223",
+  "dossier_titre": "Projet de loi de finances de fin de gestion pour 2026",
+  "liens": {
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/10106",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55223",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0373_texte-adopte-seance",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N073"
+  }
+ },
+ {
+  "uid": "VTANR5L17V10117",
+  "numero": 10117,
+  "date": "2026-11-26",
+  "type": "ensemble",
+  "votants": 179,
+  "socle": false,
+  "solennel": false,
+  "theme": "Territoires et outre-mer",
+  "titre": "Faire de l'égalité entre les territoires une priorité de toutes les politiques publiques",
+  "ce_que_ca_change": "La résolution, qui exprime une position de l'Assemblée sans créer de règle, invite le Gouvernement à mesurer l'effet de ses décisions sur chaque territoire. Elle demande de répartir les investissements publics selon les besoins, en particulier pour les zones rurales, les petites et moyennes villes, les bassins industriels fragilisés et les outre-mer, et de publier les résultats.",
+  "contexte": "Vote sur une proposition de résolution, texte par lequel l'Assemblée exprime une position, le 26 novembre 2026.",
+  "resultat": "adopté",
+  "positions": {
+   "RN": "pour",
+   "EPR": "pour",
+   "LFI": "contre",
+   "SOC": "pour",
+   "DR": "pour",
+   "DEM": "pour",
+   "HOR": "pour",
+   "LIOT": "pour",
+   "UDR": "pour"
+  },
+  "neutralises": [],
+  "voix": {
+   "RN": {
+    "pour": 45,
+    "contre": 0,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 15,
+    "contre": 0,
+    "abstention": 1
+   },
+   "LFI": {
+    "pour": 0,
+    "contre": 28,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 12,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 41,
+    "contre": 0,
+    "abstention": 0
+   },
+   "ECOS": {
+    "pour": 0,
+    "contre": 0,
+    "abstention": 11
+   },
+   "DEM": {
+    "pour": 7,
+    "contre": 0,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 8,
+    "contre": 0,
+    "abstention": 0
+   },
+   "LIOT": {
+    "pour": 4,
+    "contre": 0,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 0,
+    "contre": 0,
+    "abstention": 2
+   },
+   "UDR": {
+    "pour": 4,
+    "contre": 0,
+    "abstention": 0
+   }
+  },
+  "citations": {
+   "RN": {
+    "orateur": "M. Bernard Chaumeil",
+    "citation": "Nous voterons pour ce texte parce que ses intentions sont justes",
+    "categorie": "A"
+   },
+   "EPR": {
+    "orateur": "Mme Brigitte Liso",
+    "citation": "C’est cette conviction qui guide l’engagement du groupe Ensemble pour la République et qui nous conduira à soutenir cette proposition de résolution.",
+    "categorie": "A"
+   },
+   "SOC": {
+    "orateur": "M. Denis Fégné",
+    "citation": "Nous voterons toutefois en faveur de cette proposition de résolution",
+    "categorie": "A"
+   },
+   "HOR": {
+    "orateur": "Mme Lise Magnier",
+    "citation": "Notre collègue Fabrice Brun nous propose un principe de bon sens, que nous partageons.",
+    "categorie": "A"
+   },
+   "LIOT": {
+    "orateur": "M. Michel Castellani",
+    "citation": "Nous voterons en faveur de cette proposition de résolution, que nous considérons comme un engagement",
+    "categorie": "A"
+   },
+   "UDR": {
+    "orateur": "M. Pierre-Henri Carbonnel",
+    "citation": "Cette proposition de résolution énonce donc le bon principe : l’effort de la nation doit être partagé équitablement entre la ville et la campagne.",
+    "categorie": "A"
+   }
+  },
+  "verification": "valide",
+  "dossier": "DLR5L17N55033",
+  "dossier_titre": "Faire de l’égalité entre les territoires une priorité de l’ensemble des politiques publiques",
+  "liens": {
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/10117",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N55033",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17b3289_proposition-resolution",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N077"
+  }
+ },
+ {
+  "uid": "VTANR5L17V9905",
+  "numero": 9905,
+  "date": "2026-11-16",
+  "type": "ensemble",
+  "votants": 130,
+  "socle": false,
+  "solennel": false,
+  "theme": "Travail et retraites",
+  "titre": "Permettre de débloquer jusqu'à 10 000 euros d'épargne salariale pour des achats",
+  "ce_que_ca_change": "Les salariés pourraient retirer de façon exceptionnelle, jusqu'à 10 000 euros nets, la participation et l'intéressement placés avant 2026 sur un plan d'épargne salariale, normalement bloqués plusieurs années, pour acheter des biens ou des services, en gardant les exonérations d'impôt. La naissance ou l'adoption d'un enfant permettrait aussi un déblocage anticipé.",
+  "contexte": "Vote sur l'ensemble de la proposition de loi sur l'épargne salariale et son déblocage exceptionnel, en première lecture, le 16 novembre 2026.",
+  "resultat": "adopté",
+  "positions": {
+   "RN": "pour",
+   "EPR": "pour",
+   "LFI": "contre",
+   "SOC": "contre",
+   "DR": "pour",
+   "ECOS": "contre",
+   "DEM": "pour",
+   "HOR": "pour",
+   "UDR": "pour",
+   "GDR": "contre"
+  },
+  "neutralises": [],
+  "voix": {
+   "RN": {
+    "pour": 31,
+    "contre": 0,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 24,
+    "contre": 0,
+    "abstention": 0
+   },
+   "LFI": {
+    "pour": 0,
+    "contre": 19,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 0,
+    "contre": 7,
+    "abstention": 1
+   },
+   "DR": {
+    "pour": 11,
+    "contre": 0,
+    "abstention": 0
+   },
+   "ECOS": {
+    "pour": 0,
+    "contre": 4,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 15,
+    "contre": 0,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 6,
+    "contre": 0,
+    "abstention": 0
+   },
+   "LIOT": {
+    "pour": 2,
+    "contre": 0,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 5,
+    "contre": 0,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 0,
+    "contre": 3,
+    "abstention": 0
+   }
+  },
+  "citations": {
+   "RN": {
+    "orateur": "M. Alexandre Dufosset (RN)",
+    "citation": "Nous voterons ce texte parce qu’il permettra d’augmenter le pouvoir d’achat des Français.",
+    "categorie": "A"
+   },
+   "EPR": {
+    "orateur": "M. Christophe Mongardien (EPR)",
+    "citation": "Grâce à cette proposition de loi, nous allons pouvoir soulager certains salariés : ils pourront accéder à une épargne qui leur était inaccessible jusqu’à présent.",
+    "categorie": "A"
+   },
+   "LFI": {
+    "orateur": "M. Hadrien Clouet",
+    "citation": "Nous voulons une augmentation des salaires.",
+    "categorie": "A"
+   },
+   "SOC": {
+    "orateur": "M. Romain Eskenazi",
+    "citation": "C’est donc avec beaucoup de conviction que nous voterons contre ce texte, qui selon nous ne va pas dans le bon sens.",
+    "categorie": "A"
+   },
+   "DR": {
+    "orateur": "M. Ian Boucard (DR)",
+    "citation": "Le groupe Droite républicaine soutiendra bien évidemment cette mesure de pouvoir d’achat et son adoption rapide avant la fin de l’année.",
+    "categorie": "A"
+   },
+   "ECOS": {
+    "orateur": "Mme Eva Sas (EcoS)",
+    "citation": "Nous voterons bien sûr contre ce texte, qui n’est qu’un leurre de plus dans la boîte à outils macroniste pour ne pas augmenter les salaires.",
+    "categorie": "A"
+   },
+   "DEM": {
+    "orateur": "Mme Louise Morel",
+    "citation": "Dans l’ensemble, le texte reste équilibré – composé de mesures ponctuelles et encadrées de soutien au pouvoir d’achat –, donc nous le soutiendrons.",
+    "categorie": "A"
+   },
+   "HOR": {
+    "orateur": "M. François Gernigon",
+    "citation": "Parce que ce texte préserve la philosophie de l’épargne salariale, parce qu’il facilite la transmission des entreprises à leurs salariés et parce qu’il est strictement encadré",
+    "categorie": "A"
+   },
+   "GDR": {
+    "orateur": "M. Yannick Monnet (GDR)",
+    "citation": "Nous, nous sommes contre le fait de mobiliser de l’épargne pour soigner un enfant gravement malade – nous trouvons cela totalement injuste, l’épargne ne sert pas à cela –, ou pour se payer soi-même.",
+    "categorie": "A"
+   }
+  },
+  "verification": "valide",
+  "dossier": "DLR5L17N53699",
+  "dossier_titre": "Proposition de loi visant au renforcement de l'attractivité de l'épargne salariale et à la mise en oeuvre d'une procédure de déblocage exceptionnelle",
+  "liens": {
+   "scrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9905",
+   "dossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53699",
+   "texte": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0365_texte-adopte-seance",
+   "compte_rendu": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N062"
+  }
  }
 ]

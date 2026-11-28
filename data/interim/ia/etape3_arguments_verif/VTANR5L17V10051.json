@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V10051",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "sans_arguments",
+  "problemes": [
+    "Aucune intervention dans l'extrait du débat : arguments à null.",
+    "aujourdhui conforme à ce_que_ca_change et au texte (seuls les meublés de résidences avec services sont exclus).",
+    "resume_court fidèle à ce_que_ca_change."
+  ],
+  "corrections": {}
+}

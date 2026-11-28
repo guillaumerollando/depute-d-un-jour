@@ -1,7 +1,7 @@
 # Étape 2 — votes ambigus
 
-- Cartes contrôlées : 175 ; encore utiles après neutralisation : 173
-- Catégories : {'A': 818, 'C': 825, 'B': 13}
+- Cartes contrôlées : 195 ; encore utiles après neutralisation : 193
+- Catégories : {'A': 888, 'C': 947, 'B': 13}
 - Anomalies corrigées automatiquement : 2
 
 ## Groupes neutralisés

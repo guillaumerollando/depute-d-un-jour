@@ -1,0 +1,83 @@
+{
+  "uid": "VTANR5L17V8703",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Gaëtan Dussausaye",
+      "citation": "Avec notre amendement de réécriture, nous proposons de confier la négociation de ce congé aux partenaires sociaux et de rendre possible le don de jours de congé entre collègues.",
+      "justification": "Le groupe défend le contenu de son amendement de réécriture de l'article 46."
+    },
+    "EPR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime que par des interjections qui ne permettent pas de trancher."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime que par une interjection qui ne permet pas de trancher."
+    },
+    "DR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Émilie Bonnivard",
+      "citation": "Nous – ou du moins, je l’espère, une majorité au sein de mon groupe – voterons contre l’amendement du Rassemblement national, qui n’est qu’une affabulation.",
+      "justification": "Le groupe s'oppose à l'amendement du Rassemblement national."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Marie-Charlotte Garin",
+      "citation": "vous proposez un dispositif moins-disant, fondé sur d’incertaines négociations de branche et sur le don de jours de congé.",
+      "justification": "Le groupe s'oppose au dispositif proposé par l'amendement."
+    },
+    "DEM": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "HOR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "L'intervention du groupe porte sur l'amendement de la rapporteure et n'énonce pas de raison de vote sur l'amendement no 7."
+    },
+    "LIOT": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    }
+  }
+}

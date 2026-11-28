@@ -1,0 +1,16 @@
+{
+  "uid": "VTANR5L17V10117",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "aujourdhui : exact, repris de l'exposé des motifs (2011-2022, près de la moitié des créations d'emplois, un Français sur six), décrit bien la situation avant la mesure, neutre.",
+    "resume_court : « Les investissements publics iraient selon les besoins » présente comme un effet acquis ce qui n'est qu'une demande d'une résolution sans valeur contraignante ; ce_que_ca_change précise qu'elle ne crée aucune règle. Portée durcie, corrigé.",
+    "argument_pour : citation exacte (HOR, camp pour), de fond, reformulation fidèle.",
+    "argument_contre : citation exacte (LFI, seul groupe contre, débat élargi), seule intervention de ce camp portant sur le fond (les autres sont polémiques ou hors sujet). Mais la citation parle de « mon territoire » : « Les territoires délaissés le sont » généralise à tous les territoires. Reformulé plus fidèlement.",
+    "Équilibre : longueur et ton comparables après correction, aucun nom de parti ou de député, rien sur le résultat."
+  ],
+  "corrections": {
+    "resume_court": "Sans rien imposer, l'Assemblée inviterait le Gouvernement à mesurer l'effet de ses choix sur chaque territoire. Elle demanderait d'investir selon les besoins, surtout dans les campagnes, les petites villes, l'outre-mer.",
+    "argument_contre": "Des territoires sont délaissés parce qu'ils sont populaires, et non parce qu'ils se composent de communes rurales ou moyennes."
+  }
+}

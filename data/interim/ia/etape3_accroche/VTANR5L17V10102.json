@@ -1,0 +1,40 @@
+{
+  "uid": "VTANR5L17V10102",
+  "consigne": "etape3_accroche v1",
+  "modifie": true,
+  "mesures_citees": [
+    {
+      "mesure": "Fin du calendrier d'interdiction progressive de louer les logements les moins performants en énergie",
+      "groupes": [
+        "DEM",
+        "EPR",
+        "GDR",
+        "HOR",
+        "LFI",
+        "LIOT",
+        "RN",
+        "UDR"
+      ]
+    },
+    {
+      "mesure": "Troisième programme de rénovation des quartiers en difficulté (Anru)",
+      "groupes": [
+        "DEM",
+        "GDR",
+        "HOR",
+        "LIOT",
+        "UDR"
+      ]
+    },
+    {
+      "mesure": "Opérations d'intérêt local dérogeant au plan local d'urbanisme",
+      "groupes": [
+        "DEM",
+        "HOR",
+        "LIOT",
+        "UDR"
+      ]
+    }
+  ],
+  "titre": "Lever l'interdiction progressive de louer les logements les moins performants en énergie"
+}

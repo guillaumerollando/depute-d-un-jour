@@ -1,0 +1,11 @@
+{
+ "uid": "VTANR5L17V9203",
+ "consigne": "etape3_verification v2",
+ "verdict": "corrige",
+ "problemes": [
+  "« écoles publiques ou privées sous contrat » restreint le texte adopté, qui vise les « établissements d'enseignement publics ou privés sous contrat d'association » (donc aussi collèges et lycées)."
+ ],
+ "corrections": {
+  "ce_que_ca_change": "Les accompagnants d'élèves en situation de handicap (AESH) deviendraient des fonctionnaires de catégorie B recrutés par concours. Ceux en poste au 1er septembre 2026 dans les établissements scolaires publics ou privés sous contrat seraient nommés stagiaires pour un an de formation, ou se verraient proposer un CDI. Le Gouvernement remettrait un rapport sur les AESH de l'enseignement agricole."
+ }
+}

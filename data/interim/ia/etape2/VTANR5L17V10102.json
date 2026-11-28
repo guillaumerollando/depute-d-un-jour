@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V10102",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Frédéric Falcon",
+      "citation": "En l’état, sans nouvelle délibération, le groupe Rassemblement national votera pour ce texte",
+      "justification": "Le groupe soutient le texte en raison de la suppression des contraintes liées au DPE et de ses avancées."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Marie Lebec",
+      "citation": "Notre objectif reste clair : construire davantage, faciliter l’accès au logement pour tous les Français et leur permettre de devenir propriétaires s’ils le souhaitent.",
+      "justification": "Le groupe soutient le texte comme première étape de sa politique du logement."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Sandrine Nosbé",
+      "citation": "Appelons donc les choses par leur nom : ce texte est une loi pour les bailleurs privés.",
+      "justification": "Le groupe s'oppose au contenu du texte, jugé favorable aux bailleurs privés."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Romain Daubié",
+      "citation": "Nous voterons ce texte, parce qu’il relance la construction, fait confiance aux élus locaux et libère des projets bloqués depuis trop longtemps.",
+      "justification": "Le groupe soutient le contenu du texte, avec une réserve sur l'article 6."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. François Jolivet",
+      "citation": "Il simplifie des procédures et érige en règle la transformation des bureaux en logements, qui était jusqu’ici une exception.",
+      "justification": "Le groupe soutient les mesures du texte en matière de construction et de décentralisation."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Valérie Létard",
+      "citation": "Ce texte n’annonce pas le grand soir mais il apporte des réponses attendues.",
+      "justification": "Le groupe soutient le texte, avec une réserve sur la suppression du calendrier des passoires thermiques."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Stéphane Peu",
+      "citation": "Vous allez jusqu’à faire supporter aux locataires du parc social une part du coût de la rénovation énergétique de leur logement.",
+      "justification": "Le groupe s'oppose aux orientations du texte en matière de logement social et de droits des locataires."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Olivier Fayssat",
+      "citation": "Parce que l’Assemblée a fait progresser le texte et non parce que ses insuffisances auraient disparu, le groupe UDR le votera.",
+      "justification": "Le groupe soutient le texte en raison des modifications adoptées, notamment sur le DPE."
+    }
+  }
+}

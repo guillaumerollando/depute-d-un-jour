@@ -30391,5 +30391,3538 @@
    }
   },
   "paires": 8
+ },
+ {
+  "uid": "VTANR5L17V9202",
+  "numero": 9202,
+  "date": "2026-10-29",
+  "titre": "l'article premier de la proposition de loi créant un corps de fonctionnaires de catégorie B pour les accompagnants d’élèves en situation de handicap (première lecture).",
+  "type": "article",
+  "votants": 296,
+  "sort": "adopté",
+  "solennel": false,
+  "positions": {
+   "RN": "contre",
+   "EPR": "contre",
+   "LFI": "pour",
+   "SOC": "pour",
+   "DR": "pour",
+   "ECOS": "pour",
+   "DEM": "contre",
+   "HOR": "contre",
+   "LIOT": "pour",
+   "UDR": "contre",
+   "GDR": "pour"
+  },
+  "voix": {
+   "RN": {
+    "pour": 1,
+    "contre": 76,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 0,
+    "contre": 19,
+    "abstention": 11
+   },
+   "LFI": {
+    "pour": 68,
+    "contre": 0,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 40,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 5,
+    "contre": 0,
+    "abstention": 3
+   },
+   "ECOS": {
+    "pour": 31,
+    "contre": 0,
+    "abstention": 1
+   },
+   "DEM": {
+    "pour": 0,
+    "contre": 5,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 0,
+    "contre": 8,
+    "abstention": 1
+   },
+   "LIOT": {
+    "pour": 3,
+    "contre": 0,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 0,
+    "contre": 11,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 13,
+    "contre": 0,
+    "abstention": 0
+   }
+  },
+  "dossier": "DLR5L17N54901",
+  "dossier_titre": "Créer un corps de fonctionnaires de catégorie B pour les accompagnants d’élèves en situation de handicap",
+  "rattachement": "officiel",
+  "titre_loi": "proposition de loi creant un corps de fonctionnaires de categorie b pour les accompagnants deleves en situation de handicap",
+  "seance": "RUANR5L17S2027IDS30968",
+  "amendement_numero": null,
+  "amendement": null,
+  "article": "premier",
+  "socle": false,
+  "maj": "2026-10-08",
+  "positions_brutes": {
+   "RN": "contre",
+   "EPR": "contre",
+   "LFI": "pour",
+   "SOC": "pour",
+   "DR": "pour",
+   "ECOS": "pour",
+   "DEM": "contre",
+   "HOR": "contre",
+   "LIOT": "pour",
+   "UDR": "contre",
+   "GDR": "pour"
+  },
+  "neutralises": [],
+  "ambiguite": {
+   "RN": {
+    "orateur": "M. David Magnier",
+    "citation": "La réponse proposée aujourd’hui, avec la création d’un corps de fonctionnaires de catégorie B, est un mirage.",
+    "citation_raison": null,
+    "justification": "Le groupe s'oppose à la fonctionnarisation en invoquant son coût et le concours imposé.",
+    "categorie": "A"
+   },
+   "EPR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe pose une question sur la rédaction de l'article sans énoncer la raison de son vote.",
+    "categorie": "C"
+   },
+   "LFI": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "SOC": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "DR": {
+    "orateur": "M. Corentin Le Fur",
+    "citation": "Ce qui nous importe, c’est l’avancée de la cause des AESH",
+    "citation_raison": null,
+    "justification": "Le groupe soutient le texte, qui reprend une proposition qu'il avait déposée.",
+    "categorie": "A"
+   },
+   "ECOS": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "DEM": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "HOR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "LIOT": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "UDR": {
+    "orateur": "M. Maxime Michelet",
+    "citation": "Votre proposition, la fonctionnarisation, n’apportera pas de solution à la précarité des AESH.",
+    "citation_raison": null,
+    "justification": "Le groupe juge la fonctionnarisation sans effet sur la précarité des AESH.",
+    "categorie": "A"
+   },
+   "GDR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   }
+  },
+  "paires": 30
+ },
+ {
+  "uid": "VTANR5L17V9757",
+  "numero": 9757,
+  "date": "2026-11-04",
+  "titre": "l'article 57 et état A du projet de loi de finances pour 2027 (première lecture).",
+  "type": "article",
+  "votants": 246,
+  "sort": "rejeté",
+  "solennel": false,
+  "positions": {
+   "RN": "contre",
+   "EPR": "pour",
+   "LFI": "contre",
+   "SOC": "contre",
+   "DR": "pour",
+   "ECOS": "contre",
+   "DEM": "pour",
+   "HOR": "pour",
+   "LIOT": "contre",
+   "GDR": "contre",
+   "UDR": "contre"
+  },
+  "voix": {
+   "RN": {
+    "pour": 0,
+    "contre": 67,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 33,
+    "contre": 0,
+    "abstention": 0
+   },
+   "LFI": {
+    "pour": 0,
+    "contre": 32,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 0,
+    "contre": 15,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 18,
+    "contre": 0,
+    "abstention": 1
+   },
+   "ECOS": {
+    "pour": 0,
+    "contre": 18,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 13,
+    "contre": 0,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 20,
+    "contre": 0,
+    "abstention": 1
+   },
+   "LIOT": {
+    "pour": 1,
+    "contre": 7,
+    "abstention": 1
+   },
+   "GDR": {
+    "pour": 0,
+    "contre": 10,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 0,
+    "contre": 5,
+    "abstention": 0
+   }
+  },
+  "dossier": "DLR5L17N54629",
+  "dossier_titre": "Projet de loi de finances pour 2027",
+  "rattachement": "officiel",
+  "titre_loi": "projet de loi de finances pour 2027",
+  "seance": "RUANR5L17S2027IDS30980",
+  "amendement_numero": null,
+  "amendement": null,
+  "article": "57",
+  "socle": false,
+  "maj": "2026-10-08",
+  "positions_brutes": {
+   "RN": "contre",
+   "EPR": "pour",
+   "LFI": "contre",
+   "SOC": "contre",
+   "DR": "pour",
+   "ECOS": "contre",
+   "DEM": "pour",
+   "HOR": "pour",
+   "LIOT": "contre",
+   "GDR": "contre",
+   "UDR": "contre"
+  },
+  "neutralises": [],
+  "ambiguite": {
+   "RN": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "EPR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "LFI": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "SOC": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "DR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "ECOS": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "DEM": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "HOR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "LIOT": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "GDR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "UDR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   }
+  },
+  "paires": 28
+ },
+ {
+  "uid": "VTANR5L17V8725",
+  "numero": 8725,
+  "date": "2026-10-14",
+  "titre": "l'article 55 (examen prioritaire) du projet de loi de finances pour 2027 (première lecture).",
+  "type": "article",
+  "votants": 204,
+  "sort": "adopté",
+  "solennel": false,
+  "positions": {
+   "RN": "contre",
+   "EPR": "pour",
+   "LFI": "contre",
+   "SOC": "pour",
+   "DR": "pour",
+   "ECOS": "pour",
+   "DEM": "pour",
+   "HOR": "pour",
+   "LIOT": "pour",
+   "UDR": "contre",
+   "GDR": "contre"
+  },
+  "voix": {
+   "RN": {
+    "pour": 0,
+    "contre": 52,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 30,
+    "contre": 0,
+    "abstention": 0
+   },
+   "LFI": {
+    "pour": 0,
+    "contre": 30,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 25,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 9,
+    "contre": 0,
+    "abstention": 0
+   },
+   "ECOS": {
+    "pour": 10,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 20,
+    "contre": 0,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 9,
+    "contre": 0,
+    "abstention": 0
+   },
+   "LIOT": {
+    "pour": 5,
+    "contre": 0,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 0,
+    "contre": 6,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 0,
+    "contre": 5,
+    "abstention": 0
+   }
+  },
+  "dossier": "DLR5L17N54629",
+  "dossier_titre": "Projet de loi de finances pour 2027",
+  "rattachement": "officiel",
+  "titre_loi": "projet de loi de finances pour 2027",
+  "seance": "RUANR5L17S2027IDS30943",
+  "amendement_numero": null,
+  "amendement": null,
+  "article": "55",
+  "socle": false,
+  "maj": "2026-10-08",
+  "positions_brutes": {
+   "RN": "contre",
+   "EPR": "pour",
+   "LFI": "contre",
+   "SOC": "pour",
+   "DR": "pour",
+   "ECOS": "pour",
+   "DEM": "pour",
+   "HOR": "pour",
+   "LIOT": "pour",
+   "UDR": "contre",
+   "GDR": "contre"
+  },
+  "neutralises": [],
+  "ambiguite": {
+   "RN": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "EPR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "LFI": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Les interventions du groupe portent sur des amendements et ne mentionnent pas l'article 55.",
+    "categorie": "C"
+   },
+   "SOC": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "DR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "ECOS": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "DEM": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "HOR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "LIOT": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "UDR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "GDR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   }
+  },
+  "paires": 28
+ },
+ {
+  "uid": "VTANR5L17V8898",
+  "numero": 8898,
+  "date": "2026-10-20",
+  "titre": "l'amendement n° 34 de Mme Runel et les amendements identiques suivants de suppression de l'article 2 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+  "type": "amendement",
+  "votants": 212,
+  "sort": "adopté",
+  "solennel": false,
+  "positions": {
+   "RN": "pour",
+   "EPR": "contre",
+   "LFI": "pour",
+   "SOC": "pour",
+   "DR": "contre",
+   "ECOS": "pour",
+   "DEM": "contre",
+   "HOR": "contre",
+   "LIOT": "pour",
+   "UDR": "pour",
+   "GDR": "pour"
+  },
+  "voix": {
+   "RN": {
+    "pour": 66,
+    "contre": 0,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 0,
+    "contre": 24,
+    "abstention": 0
+   },
+   "LFI": {
+    "pour": 28,
+    "contre": 0,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 24,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 0,
+    "contre": 13,
+    "abstention": 0
+   },
+   "ECOS": {
+    "pour": 17,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 0,
+    "contre": 12,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 0,
+    "contre": 9,
+    "abstention": 0
+   },
+   "LIOT": {
+    "pour": 3,
+    "contre": 0,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 9,
+    "contre": 0,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 4,
+    "contre": 0,
+    "abstention": 0
+   }
+  },
+  "dossier": "DLR5L17N54951",
+  "dossier_titre": "Projet de loi de financement de la sécurité sociale pour 2027",
+  "rattachement": "officiel",
+  "titre_loi": "projet de loi de financement de la securite sociale pour 2027",
+  "seance": "RUANR5L17S2027IDS30953",
+  "amendement_numero": 34,
+  "amendement": {
+   "uid": "AMANR5L17PO838901B3211P0D1N000034",
+   "dossier": "DLR5L17N54951",
+   "texte": "PRJLANR5L17B3211",
+   "division": "Article 2",
+   "auteur": "Mme Runel,  Mme Battistel, Mme Allemand, M. Aviragnet, M. Baptiste, M. Barusseau, M. Baumel, M. Belhaddad, Mme Bellay, M. Benbrahim, M. Mickaël Bouloux, Mme Bregman, M. Califer, Mme Capdevielle, M. Christophle, M. Courbon, M. David, M. Delaporte, M. Delautrette, Mme Diop, Mme Dombre Coste, M. Dufau, M. Echaniz, M. Eskenazi, M. Faure, Mme Froger, M. Fégné, M. Garot, Mme Godard, Mme Got, M. Guedj, M. Hablot, Mme Hadizadeh, Mme Hadj-Mimoune, Mme Herouin-Léautey, Mme Céline Hervieu, M. Hollande, M. Houlié, Mme Jourdan, Mme Karamanli, Mme Keloua Hachi, M. Leseul, M. Lhardit, Mme Mercier, M. Naillet, M. Oberti, Mme Pantel, M. Pena, Mme Pic, Mme Pirès Beaune, M. Potier, M. Pribetich, M. Proença, Mme Rossi, Mme Rouaux, M. Aurélien Rousseau, M. Roussel, Mme Récalde, M. Saint-Pasteur, Mme Santiago, M. Saulignac, M. Simion, M. Sother, Mme Thiébault-Martinez, Mme Thomin, M. Vallaud, M. Vicot, M. William et les membres du groupe Socialistes et apparentés",
+   "auteur_groupe": "SOC",
+   "auteur_type": "Député",
+   "dispositif": "Supprimer cet article.",
+   "expose": "Cet amendement des députés socialistes et apparentés vise à supprimer l’article 2 qui rectifie l’ONDAM pour 2026, et entérine donc le doublement du plafond annuel des franchises décidé cet été par décret. Le Gouvernement justifie cette rectification des sous-objectifs de l’ONDAM pour 2026 de 1,1 milliards d’euros à la baisse ; notamment par la hausse des plafonds des participations forfaitaires et franchises, actée par le décret du 11 septembre 2026. Rappelons que, lors de la discussion du PLFSS pour 2026, le Gouvernement avait annoncé son intention de doubler les franchises, avant de retirer cette mesure à la suite des négociations menées avec notre groupe. Cependant, bafouant ces engagements, le Gouvernement a relancé cette réforme en juillet 2026, en annonçant vouloir doubler les plafonds des franchises et participations forfaitaires, de 50 à 100 euros chacun, soit 200 euros au total. Finalement, le décret du 11 septembre 2026 porte ces deux plafonds à 70 euros à compter du 1er octobre 2026, soit un plafond cumulé de 140 euros. Le décret prévoit par ailleurs une revalorisation annuelle des plafonds à compter de janvier 2028, sur la base de l’évolution de l’inflation. Or ces franchises et participations forfaitaires ne peuvent pas être remboursées par les organismes d’assurance maladie complémentaire et renforcent donc le reste à charge des patients, particulièrement celui des personnes âgées et des assurés en affection de longue durée (ALD). Pour les personnes âgées de 70 ans ou plus, ce reste à charge est quatre fois supérieur à celui des personnes âgées de 20 à 39 ans. Il est également 1,8 fois plus élevé pour les assurés en ALD que pour les assurés sans ALD. Par conséquent, nous sommes fortement opposés à cet article qui rappelle que le Gouvernement continue d’augmenter les restes à charge en santé et qui acte l’augmentation des plafonds des participations forfaitaires et des franchises médicales. Tel est l’objet de cet amendement de suppression."
+  },
+  "article": "2",
+  "socle": false,
+  "maj": "2026-10-08",
+  "positions_brutes": {
+   "RN": "pour",
+   "EPR": "contre",
+   "LFI": "pour",
+   "SOC": "pour",
+   "DR": "contre",
+   "ECOS": "pour",
+   "DEM": "contre",
+   "HOR": "contre",
+   "LIOT": "pour",
+   "UDR": "pour",
+   "GDR": "pour"
+  },
+  "neutralises": [],
+  "ambiguite": {
+   "RN": {
+    "orateur": "Mme Joëlle Mélin",
+    "citation": "Nous voulons surtout dire clairement que cet Ondam n’est plus supportable.",
+    "citation_raison": null,
+    "justification": "Le groupe s'oppose à l'Ondam rectifié et à ses conséquences sur les établissements et le reste à charge.",
+    "categorie": "A"
+   },
+   "EPR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "LFI": {
+    "orateur": "Mme Zahia Hamdane",
+    "citation": "le gouvernement nous propose 1,1 milliard d’euros de coupes supplémentaires dans l’Ondam pour 2026, après plus de 4 milliards d’euros d’économies l’an passé. Nous demandons donc la suppression de cet article.",
+    "citation_raison": null,
+    "justification": "Le groupe s'oppose aux coupes dans l'Ondam pour 2026.",
+    "categorie": "A"
+   },
+   "SOC": {
+    "orateur": "M. Arnaud Simion",
+    "citation": "l’article 2 entérine une mesure profondément injuste, le doublement des franchises médicales et des participations forfaitaires",
+    "citation_raison": null,
+    "justification": "Le groupe s'oppose au doublement des franchises entériné par l'article.",
+    "categorie": "A"
+   },
+   "DR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "L'intervention du groupe porte sur la nature de l'Ondam sans énoncer la raison de son vote.",
+    "categorie": "C"
+   },
+   "ECOS": {
+    "orateur": "M. Hendrik Davi",
+    "citation": "Mais au lieu de rendre cet argent aux hôpitaux, vous le reprenez.",
+    "citation_raison": null,
+    "justification": "Le groupe s'oppose à la révision à la baisse de l'Ondam au détriment des hôpitaux.",
+    "categorie": "A"
+   },
+   "DEM": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "HOR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "LIOT": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "UDR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "GDR": {
+    "orateur": "Mme Karine Lebon",
+    "citation": "Cette économie se traduit également par un reste à charge plus important pour les assurés sociaux, avec le relèvement des plafonds des franchises et des participations forfaitaires.",
+    "citation_raison": null,
+    "justification": "Le groupe s'oppose à la baisse des dépenses et à la hausse du reste à charge.",
+    "categorie": "A"
+   }
+  },
+  "paires": 28
+ },
+ {
+  "uid": "VTANR5L17V9905",
+  "numero": 9905,
+  "date": "2026-11-16",
+  "titre": "l'ensemble de la proposition de loi visant au renforcement de l'attractivité de l'épargne salariale et à la mise en œuvre d'une procédure de déblocage exceptionnelle (première lecture).",
+  "type": "ensemble",
+  "votants": 130,
+  "sort": "adopté",
+  "solennel": false,
+  "positions": {
+   "RN": "pour",
+   "EPR": "pour",
+   "LFI": "contre",
+   "SOC": "contre",
+   "DR": "pour",
+   "ECOS": "contre",
+   "DEM": "pour",
+   "HOR": "pour",
+   "UDR": "pour",
+   "GDR": "contre"
+  },
+  "voix": {
+   "RN": {
+    "pour": 31,
+    "contre": 0,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 24,
+    "contre": 0,
+    "abstention": 0
+   },
+   "LFI": {
+    "pour": 0,
+    "contre": 19,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 0,
+    "contre": 7,
+    "abstention": 1
+   },
+   "DR": {
+    "pour": 11,
+    "contre": 0,
+    "abstention": 0
+   },
+   "ECOS": {
+    "pour": 0,
+    "contre": 4,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 15,
+    "contre": 0,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 6,
+    "contre": 0,
+    "abstention": 0
+   },
+   "LIOT": {
+    "pour": 2,
+    "contre": 0,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 5,
+    "contre": 0,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 0,
+    "contre": 3,
+    "abstention": 0
+   }
+  },
+  "dossier": "DLR5L17N53699",
+  "dossier_titre": "Proposition de loi visant au renforcement de l'attractivité de l'épargne salariale et à la mise en oeuvre d'une procédure de déblocage exceptionnelle",
+  "rattachement": "officiel",
+  "titre_loi": "proposition de loi visant au renforcement de l attractivite de l epargne salariale et a la mise en uvre d une procedure de deblocage exceptionnelle",
+  "seance": "RUANR5L17S2027IDS31002",
+  "amendement_numero": null,
+  "amendement": null,
+  "article": null,
+  "lectures": [
+   "VTANR5L17V9905"
+  ],
+  "changements_position": {},
+  "socle": false,
+  "maj": "2026-10-08",
+  "positions_brutes": {
+   "RN": "pour",
+   "EPR": "pour",
+   "LFI": "contre",
+   "SOC": "contre",
+   "DR": "pour",
+   "ECOS": "contre",
+   "DEM": "pour",
+   "HOR": "pour",
+   "UDR": "pour",
+   "GDR": "contre"
+  },
+  "neutralises": [],
+  "ambiguite": {
+   "RN": {
+    "orateur": "M. Alexandre Dufosset (RN)",
+    "citation": "Nous voterons ce texte parce qu’il permettra d’augmenter le pouvoir d’achat des Français.",
+    "citation_raison": null,
+    "justification": "Le groupe soutient le déblocage de l'épargne salariale.",
+    "categorie": "A"
+   },
+   "EPR": {
+    "orateur": "M. Christophe Mongardien (EPR)",
+    "citation": "Grâce à cette proposition de loi, nous allons pouvoir soulager certains salariés : ils pourront accéder à une épargne qui leur était inaccessible jusqu’à présent.",
+    "citation_raison": null,
+    "justification": "Le groupe soutient l'accès anticipé à l'épargne salariale.",
+    "categorie": "A"
+   },
+   "LFI": {
+    "orateur": "M. Hadrien Clouet",
+    "citation": "Nous voulons une augmentation des salaires.",
+    "citation_raison": null,
+    "justification": "Le groupe oppose au texte une hausse des salaires.",
+    "categorie": "A"
+   },
+   "SOC": {
+    "orateur": "M. Romain Eskenazi",
+    "citation": "C’est donc avec beaucoup de conviction que nous voterons contre ce texte, qui selon nous ne va pas dans le bon sens.",
+    "citation_raison": null,
+    "justification": "Le groupe s'oppose au déblocage de l'épargne comme réponse au pouvoir d'achat.",
+    "categorie": "A"
+   },
+   "DR": {
+    "orateur": "M. Ian Boucard (DR)",
+    "citation": "Le groupe Droite républicaine soutiendra bien évidemment cette mesure de pouvoir d’achat et son adoption rapide avant la fin de l’année.",
+    "citation_raison": null,
+    "justification": "Le groupe soutient le déblocage de l'épargne salariale.",
+    "categorie": "A"
+   },
+   "ECOS": {
+    "orateur": "Mme Eva Sas (EcoS)",
+    "citation": "Nous voterons bien sûr contre ce texte, qui n’est qu’un leurre de plus dans la boîte à outils macroniste pour ne pas augmenter les salaires.",
+    "citation_raison": null,
+    "justification": "Le groupe s'oppose au déblocage de l'épargne au profit d'une hausse des salaires.",
+    "categorie": "A"
+   },
+   "DEM": {
+    "orateur": "Mme Louise Morel",
+    "citation": "Dans l’ensemble, le texte reste équilibré – composé de mesures ponctuelles et encadrées de soutien au pouvoir d’achat –, donc nous le soutiendrons.",
+    "citation_raison": null,
+    "justification": "Le groupe soutient le texte, avec des regrets sur le plafond et la rédaction.",
+    "categorie": "A"
+   },
+   "HOR": {
+    "orateur": "M. François Gernigon",
+    "citation": "Parce que ce texte préserve la philosophie de l’épargne salariale, parce qu’il facilite la transmission des entreprises à leurs salariés et parce qu’il est strictement encadré",
+    "citation_raison": null,
+    "justification": "Le groupe soutient le contenu encadré du texte.",
+    "categorie": "A"
+   },
+   "UDR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "L'intervention du groupe ne porte pas sur le contenu du texte voté.",
+    "categorie": "C"
+   },
+   "GDR": {
+    "orateur": "M. Yannick Monnet (GDR)",
+    "citation": "Nous, nous sommes contre le fait de mobiliser de l’épargne pour soigner un enfant gravement malade – nous trouvons cela totalement injuste, l’épargne ne sert pas à cela –, ou pour se payer soi-même.",
+    "citation_raison": null,
+    "justification": "Le groupe s'oppose à l'usage de l'épargne salariale prévu par le texte.",
+    "categorie": "A"
+   }
+  },
+  "paires": 24
+ },
+ {
+  "uid": "VTANR5L17V9334",
+  "numero": 9334,
+  "date": "2026-10-29",
+  "titre": "l'article premier de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).",
+  "type": "article",
+  "votants": 213,
+  "sort": "adopté",
+  "solennel": false,
+  "positions": {
+   "RN": "contre",
+   "EPR": "contre",
+   "LFI": "pour",
+   "SOC": "pour",
+   "DR": "contre",
+   "ECOS": "pour",
+   "DEM": "contre",
+   "HOR": "contre",
+   "GDR": "pour",
+   "UDR": "contre"
+  },
+  "voix": {
+   "RN": {
+    "pour": 0,
+    "contre": 57,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 0,
+    "contre": 12,
+    "abstention": 0
+   },
+   "LFI": {
+    "pour": 65,
+    "contre": 0,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 26,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 0,
+    "contre": 3,
+    "abstention": 0
+   },
+   "ECOS": {
+    "pour": 24,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 0,
+    "contre": 3,
+    "abstention": 1
+   },
+   "HOR": {
+    "pour": 0,
+    "contre": 5,
+    "abstention": 3
+   },
+   "LIOT": {
+    "pour": 0,
+    "contre": 0,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 6,
+    "contre": 0,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 0,
+    "contre": 8,
+    "abstention": 0
+   }
+  },
+  "dossier": "DLR5L17N54298",
+  "dossier_titre": "Protéger durablement les jeunes majeurs de l’aide sociale à l’enfance et de la protection judiciaire de la jeunesse",
+  "rattachement": "officiel",
+  "titre_loi": "proposition de loi pour proteger durablement les jeunes majeurs de l aide sociale a l enfance et de la protection judiciaire de la jeunesse",
+  "seance": "RUANR5L17S2027IDS30970",
+  "amendement_numero": null,
+  "amendement": null,
+  "article": "premier",
+  "socle": false,
+  "maj": "2026-10-08",
+  "positions_brutes": {
+   "RN": "contre",
+   "EPR": "contre",
+   "LFI": "pour",
+   "SOC": "pour",
+   "DR": "contre",
+   "ECOS": "pour",
+   "DEM": "contre",
+   "HOR": "contre",
+   "GDR": "pour",
+   "UDR": "contre"
+  },
+  "neutralises": [],
+  "ambiguite": {
+   "RN": {
+    "orateur": "M. Kévin Mauvieux",
+    "citation": "vous voulez qu’un jeune qui fait l’objet d’une OQTF puisse bénéficier d’un accompagnement, comme s’il était français et comme s’il n’avait pas vocation à quitter le territoire.",
+    "citation_raison": null,
+    "justification": "Le groupe s'oppose à l'accompagnement de jeunes faisant l'objet d'une OQTF.",
+    "categorie": "A"
+   },
+   "EPR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "LFI": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "SOC": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "DR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "ECOS": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "DEM": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "HOR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "GDR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "UDR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "L'intervention du groupe porte sur un sous-amendement sans énoncer la raison de son vote sur l'article.",
+    "categorie": "C"
+   }
+  },
+  "paires": 24
+ },
+ {
+  "uid": "VTANR5L17V8897",
+  "numero": 8897,
+  "date": "2026-10-20",
+  "titre": "l'amendement n° 33 de Mme Runel et les amendements identiques suivants de suppression de l'article premier du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+  "type": "amendement",
+  "votants": 211,
+  "sort": "adopté",
+  "solennel": false,
+  "positions": {
+   "RN": "pour",
+   "EPR": "contre",
+   "LFI": "pour",
+   "SOC": "pour",
+   "DR": "contre",
+   "ECOS": "pour",
+   "DEM": "contre",
+   "HOR": "contre",
+   "UDR": "pour",
+   "GDR": "pour"
+  },
+  "voix": {
+   "RN": {
+    "pour": 68,
+    "contre": 0,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 0,
+    "contre": 23,
+    "abstention": 0
+   },
+   "LFI": {
+    "pour": 26,
+    "contre": 0,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 23,
+    "contre": 1,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 0,
+    "contre": 13,
+    "abstention": 0
+   },
+   "ECOS": {
+    "pour": 17,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 0,
+    "contre": 12,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 0,
+    "contre": 8,
+    "abstention": 0
+   },
+   "LIOT": {
+    "pour": 3,
+    "contre": 1,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 8,
+    "contre": 0,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 5,
+    "contre": 0,
+    "abstention": 0
+   }
+  },
+  "dossier": "DLR5L17N54951",
+  "dossier_titre": "Projet de loi de financement de la sécurité sociale pour 2027",
+  "rattachement": "officiel",
+  "titre_loi": "projet de loi de financement de la securite sociale pour 2027",
+  "seance": "RUANR5L17S2027IDS30953",
+  "amendement_numero": 33,
+  "amendement": {
+   "uid": "AMANR5L17PO838901B3211P0D1N000033",
+   "dossier": "DLR5L17N54951",
+   "texte": "PRJLANR5L17B3211",
+   "division": "Article PREMIER",
+   "auteur": "Mme Runel,  Mme Battistel, Mme Allemand, M. Aviragnet, M. Baptiste, M. Barusseau, M. Baumel, M. Belhaddad, Mme Bellay, M. Benbrahim, M. Mickaël Bouloux, Mme Bregman, M. Califer, Mme Capdevielle, M. Christophle, M. Courbon, M. David, M. Delaporte, M. Delautrette, Mme Diop, Mme Dombre Coste, M. Dufau, M. Echaniz, M. Eskenazi, M. Faure, Mme Froger, M. Fégné, M. Garot, Mme Godard, Mme Got, M. Guedj, M. Hablot, Mme Hadizadeh, Mme Hadj-Mimoune, Mme Herouin-Léautey, Mme Céline Hervieu, M. Hollande, M. Houlié, Mme Jourdan, Mme Karamanli, Mme Keloua Hachi, M. Leseul, M. Lhardit, Mme Mercier, M. Naillet, M. Oberti, Mme Pantel, M. Pena, Mme Pic, Mme Pirès Beaune, M. Potier, M. Pribetich, M. Proença, Mme Rossi, Mme Rouaux, M. Aurélien Rousseau, M. Roussel, Mme Récalde, M. Saint-Pasteur, Mme Santiago, M. Saulignac, M. Simion, M. Sother, Mme Thiébault-Martinez, Mme Thomin, M. Vallaud, M. Vicot, M. William et les membres du groupe Socialistes et apparentés",
+   "auteur_groupe": "SOC",
+   "auteur_type": "Député",
+   "dispositif": "Supprimer cet article.",
+   "expose": "Cet amendement des députés socialistes et apparentés vise à supprimer cet article 1er qui vient entériner la dégradation du déficit de la Sécurité sociale pour 2026. Cet article 1er entérine également le doublement du plafond annuel de franchises réalisé par décret en septembre ; foulant ici au pied l’accord parlementaire noué à l’occasion du vote de la LFSS pour 2026 au terme duquel le reste à charge des malades ne devait pas augmenter. Il entérine également l’annulation d’une partie des mises en réserve pour les hôpitaux pour 600 millions d’euros. Tous ces choix politiques pris isolément, au mépris de notre système de santé, doivent être rejetés. Tel est l’objet du présent amendement."
+  },
+  "article": "premier",
+  "socle": false,
+  "maj": "2026-10-08",
+  "positions_brutes": {
+   "RN": "pour",
+   "EPR": "contre",
+   "LFI": "pour",
+   "SOC": "pour",
+   "DR": "contre",
+   "ECOS": "pour",
+   "DEM": "contre",
+   "HOR": "contre",
+   "UDR": "pour",
+   "GDR": "pour"
+  },
+  "neutralises": [],
+  "ambiguite": {
+   "RN": {
+    "orateur": "Mme Joëlle Mélin",
+    "citation": "Les chiffres ainsi présentés sont donc biaisés et nous n’avons pas d’autre solution que de demander la suppression de cet article : il n’y a rien à discuter.",
+    "citation_raison": null,
+    "justification": "Le groupe conteste les hypothèses et la présentation des chiffres de l'article.",
+    "categorie": "A"
+   },
+   "EPR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "LFI": {
+    "orateur": "Mme Anaïs Belouassa-Cherifi",
+    "citation": "Le tableau présenté par cet article n’est pas si compliqué qu’il en a l’air : il ne s’agit que des coupes que le gouvernement entend faire sur le dos des assurés ! Nous nous y opposons.",
+    "citation_raison": null,
+    "justification": "Le groupe s'oppose aux économies traduites par l'article.",
+    "categorie": "A"
+   },
+   "SOC": {
+    "orateur": "M. Arnaud Simion",
+    "citation": "L’article 1er concentre trois renoncements politiques majeurs.",
+    "citation_raison": null,
+    "justification": "Le groupe s'oppose au déficit, à la hausse des franchises et à l'annulation de crédits hospitaliers entérinés par l'article.",
+    "categorie": "A"
+   },
+   "DR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "ECOS": {
+    "orateur": "M. Hendrik Davi",
+    "citation": "Pour mettre fin à cette supercherie, supprimons l’article.",
+    "citation_raison": null,
+    "justification": "Le groupe conteste la sincérité des prévisions de l'article.",
+    "categorie": "A"
+   },
+   "DEM": {
+    "orateur": "M. Nicolas Turquois",
+    "citation": "Je m’oppose aux amendements de suppression.",
+    "citation_raison": null,
+    "justification": "Le groupe souhaite conserver l'état des lieux présenté par l'article.",
+    "categorie": "A"
+   },
+   "HOR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "UDR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "GDR": {
+    "orateur": "M. Édouard Bénard",
+    "citation": "Nous sommes en total désaccord avec les rectifications apportées à ce bien mal nommé tableau d’équilibre.",
+    "citation_raison": null,
+    "justification": "Le groupe s'oppose aux rectifications et aux mesures d'économie intégrées dans l'article.",
+    "categorie": "A"
+   }
+  },
+  "paires": 24
+ },
+ {
+  "uid": "VTANR5L17V10102",
+  "numero": 10102,
+  "date": "2026-11-24",
+  "titre": "l'ensemble du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+  "type": "ensemble",
+  "votants": 530,
+  "sort": "adopté",
+  "solennel": true,
+  "positions": {
+   "RN": "pour",
+   "EPR": "pour",
+   "LFI": "contre",
+   "DR": "pour",
+   "ECOS": "contre",
+   "DEM": "pour",
+   "HOR": "pour",
+   "LIOT": "pour",
+   "GDR": "contre",
+   "UDR": "pour"
+  },
+  "voix": {
+   "RN": {
+    "pour": 116,
+    "contre": 0,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 84,
+    "contre": 0,
+    "abstention": 1
+   },
+   "LFI": {
+    "pour": 0,
+    "contre": 65,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 11,
+    "contre": 1,
+    "abstention": 42
+   },
+   "DR": {
+    "pour": 45,
+    "contre": 0,
+    "abstention": 0
+   },
+   "ECOS": {
+    "pour": 0,
+    "contre": 37,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 35,
+    "contre": 0,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 31,
+    "contre": 0,
+    "abstention": 2
+   },
+   "LIOT": {
+    "pour": 18,
+    "contre": 0,
+    "abstention": 4
+   },
+   "GDR": {
+    "pour": 0,
+    "contre": 15,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 15,
+    "contre": 0,
+    "abstention": 0
+   }
+  },
+  "dossier": "DLR5L17N54608",
+  "dossier_titre": "La relance et la décentralisation du logement",
+  "rattachement": "officiel",
+  "titre_loi": "projet de loi visant la relance et la decentralisation du logement",
+  "seance": "RUANR5L17S2027IDS31064",
+  "amendement_numero": null,
+  "amendement": null,
+  "article": null,
+  "lectures": [
+   "VTANR5L17V10102"
+  ],
+  "changements_position": {},
+  "socle": true,
+  "maj": "2026-10-08",
+  "positions_brutes": {
+   "RN": "pour",
+   "EPR": "pour",
+   "LFI": "contre",
+   "DR": "pour",
+   "ECOS": "contre",
+   "DEM": "pour",
+   "HOR": "pour",
+   "LIOT": "pour",
+   "GDR": "contre",
+   "UDR": "pour"
+  },
+  "neutralises": [],
+  "ambiguite": {
+   "RN": {
+    "orateur": "M. Frédéric Falcon",
+    "citation": "En l’état, sans nouvelle délibération, le groupe Rassemblement national votera pour ce texte",
+    "citation_raison": null,
+    "justification": "Le groupe soutient le texte en raison de la suppression des contraintes liées au DPE et de ses avancées.",
+    "categorie": "A"
+   },
+   "EPR": {
+    "orateur": "Mme Marie Lebec",
+    "citation": "Notre objectif reste clair : construire davantage, faciliter l’accès au logement pour tous les Français et leur permettre de devenir propriétaires s’ils le souhaitent.",
+    "citation_raison": null,
+    "justification": "Le groupe soutient le texte comme première étape de sa politique du logement.",
+    "categorie": "A"
+   },
+   "LFI": {
+    "orateur": "Mme Sandrine Nosbé",
+    "citation": "Appelons donc les choses par leur nom : ce texte est une loi pour les bailleurs privés.",
+    "citation_raison": null,
+    "justification": "Le groupe s'oppose au contenu du texte, jugé favorable aux bailleurs privés.",
+    "categorie": "A"
+   },
+   "DR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "ECOS": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "DEM": {
+    "orateur": "M. Romain Daubié",
+    "citation": "Nous voterons ce texte, parce qu’il relance la construction, fait confiance aux élus locaux et libère des projets bloqués depuis trop longtemps.",
+    "citation_raison": null,
+    "justification": "Le groupe soutient le contenu du texte, avec une réserve sur l'article 6.",
+    "categorie": "A"
+   },
+   "HOR": {
+    "orateur": "M. François Jolivet",
+    "citation": "Il simplifie des procédures et érige en règle la transformation des bureaux en logements, qui était jusqu’ici une exception.",
+    "citation_raison": null,
+    "justification": "Le groupe soutient les mesures du texte en matière de construction et de décentralisation.",
+    "categorie": "A"
+   },
+   "LIOT": {
+    "orateur": "Mme Valérie Létard",
+    "citation": "Ce texte n’annonce pas le grand soir mais il apporte des réponses attendues.",
+    "citation_raison": null,
+    "justification": "Le groupe soutient le texte, avec une réserve sur la suppression du calendrier des passoires thermiques.",
+    "categorie": "A"
+   },
+   "GDR": {
+    "orateur": "M. Stéphane Peu",
+    "citation": "Vous allez jusqu’à faire supporter aux locataires du parc social une part du coût de la rénovation énergétique de leur logement.",
+    "citation_raison": null,
+    "justification": "Le groupe s'oppose aux orientations du texte en matière de logement social et de droits des locataires.",
+    "categorie": "A"
+   },
+   "UDR": {
+    "orateur": "M. Olivier Fayssat",
+    "citation": "Parce que l’Assemblée a fait progresser le texte et non parce que ses insuffisances auraient disparu, le groupe UDR le votera.",
+    "citation_raison": null,
+    "justification": "Le groupe soutient le texte en raison des modifications adoptées, notamment sur le DPE.",
+    "categorie": "A"
+   }
+  },
+  "paires": 21
+ },
+ {
+  "uid": "VTANR5L17V10052",
+  "numero": 10052,
+  "date": "2026-11-19",
+  "titre": "l'amendement n° 12 de M. Falcon à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+  "type": "amendement",
+  "votants": 253,
+  "sort": "rejeté",
+  "solennel": false,
+  "positions": {
+   "RN": "pour",
+   "EPR": "contre",
+   "LFI": "contre",
+   "SOC": "contre",
+   "DR": "pour",
+   "ECOS": "contre",
+   "DEM": "contre",
+   "LIOT": "contre",
+   "UDR": "pour",
+   "GDR": "contre"
+  },
+  "voix": {
+   "RN": {
+    "pour": 77,
+    "contre": 1,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 0,
+    "contre": 13,
+    "abstention": 2
+   },
+   "LFI": {
+    "pour": 0,
+    "contre": 38,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 0,
+    "contre": 60,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 5,
+    "contre": 0,
+    "abstention": 1
+   },
+   "ECOS": {
+    "pour": 0,
+    "contre": 25,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 0,
+    "contre": 8,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 0,
+    "contre": 0,
+    "abstention": 4
+   },
+   "LIOT": {
+    "pour": 0,
+    "contre": 4,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 4,
+    "contre": 0,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 0,
+    "contre": 11,
+    "abstention": 0
+   }
+  },
+  "dossier": "DLR5L17N53069",
+  "dossier_titre": "Retrouver la confiance et l’équilibre dans les rapports locatifs",
+  "rattachement": "officiel",
+  "titre_loi": "proposition de loi pour retrouver la confiance et l equilibre dans les rapports locatifs",
+  "seance": "RUANR5L17S2027IDS31055",
+  "amendement_numero": 12,
+  "amendement": {
+   "uid": "AMANR5L17PO838901BTC3432P0D1N000012",
+   "dossier": "DLR5L17N53069",
+   "texte": "PIONANR5L17BTC3432",
+   "division": "Article PREMIER",
+   "auteur": "M. Falcon,  M. Amblard, M. Casterman, M. de Lépinau, M. Gabarron, Mme Florence Goulet, Mme Grangier, M. Jolly, M. Jordan, Mme Laporte, M. Le Bourgeois, M. Loubet, M. Patrice Martin, M. Rivière, M. Vos et M. Weber",
+   "auteur_groupe": "RN",
+   "auteur_type": "Député",
+   "dispositif": "Rédiger ainsi l’alinéa 21 : « B bis . – Le dernier alinéa du IV est complété par les mots :« , ou aux logements donnés à bail au sens des articles 25‑12 et suivants du titre I er ter de la loi n° 89‑462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86‑1290 du 23 décembre 1986 ».",
+   "expose": "Le présent amendement de repli vise à exclure du champ de l’encadrement des loyers les logements loués dans le cadre d’un bail mobilité, régi par les articles 25-12 et suivants de la loi n° 89-462 du 6 juillet 1989. Créé par la loi ÉLAN elle-même, le bail mobilité est un contrat de courte durée, d’un à dix mois, destiné aux personnes en formation professionnelle, en études supérieures, en apprentissage, en stage, en service civique ou en mission temporaire. Il ne peut porter que sur un logement meublé et ne permet pas au bailleur d’exiger de dépôt de garantie. La Cour des comptes relève dans sa communication d’octobre 2026 que cette catégorie de bail est « globalement absente des données » des observatoires locaux des loyers. Les loyers de référence qui lui sont opposés ne reposent donc sur aucune observation de ce segment de marché, qui fait peser sur le propriétaire des périodes de vacance entre deux locataires, une gestion plus lourde et un risque accru. Soumettre ce bail à l’encadrement revient à en neutraliser l’intérêt, alors qu’il a précisément été conçu pour faciliter le logement des apprentis, des stagiaires et des travailleurs en mobilité. Son exclusion permettra de développer cette offre au service de l’emploi et de la formation."
+  },
+  "article": "premier",
+  "socle": false,
+  "maj": "2026-10-08",
+  "positions_brutes": {
+   "RN": "pour",
+   "EPR": "contre",
+   "LFI": "contre",
+   "SOC": "contre",
+   "DR": "pour",
+   "ECOS": "contre",
+   "DEM": "contre",
+   "LIOT": "contre",
+   "UDR": "pour",
+   "GDR": "contre"
+  },
+  "neutralises": [],
+  "ambiguite": {
+   "RN": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "EPR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "LFI": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "SOC": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "DR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "ECOS": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "DEM": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "LIOT": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "UDR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "GDR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   }
+  },
+  "paires": 21
+ },
+ {
+  "uid": "VTANR5L17V10051",
+  "numero": 10051,
+  "date": "2026-11-19",
+  "titre": "l'amendement n° 11 de M. Falcon à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+  "type": "amendement",
+  "votants": 252,
+  "sort": "rejeté",
+  "solennel": false,
+  "positions": {
+   "RN": "pour",
+   "EPR": "contre",
+   "LFI": "contre",
+   "SOC": "contre",
+   "DR": "pour",
+   "ECOS": "contre",
+   "DEM": "contre",
+   "LIOT": "contre",
+   "UDR": "pour",
+   "GDR": "contre"
+  },
+  "voix": {
+   "RN": {
+    "pour": 77,
+    "contre": 1,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 0,
+    "contre": 13,
+    "abstention": 2
+   },
+   "LFI": {
+    "pour": 0,
+    "contre": 37,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 0,
+    "contre": 60,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 5,
+    "contre": 0,
+    "abstention": 1
+   },
+   "ECOS": {
+    "pour": 0,
+    "contre": 25,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 0,
+    "contre": 8,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 0,
+    "contre": 0,
+    "abstention": 4
+   },
+   "LIOT": {
+    "pour": 0,
+    "contre": 4,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 4,
+    "contre": 0,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 0,
+    "contre": 11,
+    "abstention": 0
+   }
+  },
+  "dossier": "DLR5L17N53069",
+  "dossier_titre": "Retrouver la confiance et l’équilibre dans les rapports locatifs",
+  "rattachement": "officiel",
+  "titre_loi": "proposition de loi pour retrouver la confiance et l equilibre dans les rapports locatifs",
+  "seance": "RUANR5L17S2027IDS31055",
+  "amendement_numero": 11,
+  "amendement": {
+   "uid": "AMANR5L17PO838901BTC3432P0D1N000011",
+   "dossier": "DLR5L17N53069",
+   "texte": "PIONANR5L17BTC3432",
+   "division": "Article PREMIER",
+   "auteur": "M. Falcon,  M. Amblard, M. Casterman, M. de Lépinau, M. Gabarron, Mme Florence Goulet, Mme Grangier, M. Jolly, M. Jordan, Mme Laporte, M. Le Bourgeois, M. Loubet, M. Patrice Martin, M. Rivière, M. Vos et M. Weber",
+   "auteur_groupe": "RN",
+   "auteur_type": "Député",
+   "dispositif": "Rédiger ainsi l’alinéa 21 : « B bis . – Au dernier alinéa du IV, les mots : « situés dans une résidence avec services gérée selon un mode d’organisation adapté aux nécessités des résidents par un mandataire unique, définis au c du 4° de l’article 261 D du code général des impôts » sont supprimés. »",
+   "expose": "Le présent amendement de repli vise à exclure l’ensemble des logements meublés du champ de l’encadrement des loyers. La location meublée impose au bailleur des investissements et des charges spécifiques : acquisition d’un mobilier et d’équipements conformes à la liste réglementaire, entretien et renouvellement réguliers, rotation plus fréquente des locataires. Elle représente 18 % du parc locatif privé en zone tendue, contre 9 % ailleurs, et répond aux besoins des étudiants, des jeunes actifs et des salariés en mobilité professionnelle. Or, la Cour des comptes établit dans sa communication d’octobre 2026 que les loyers de référence des logements meublés « ne peuvent être déduits de l’observation directe en raison de volumes insuffisants dans les échantillons ». Ils résultent de l’application d’un coefficient correcteur aux loyers des logements vides, variable selon les territoires (13 % à Paris, 5 à 8 % à Lille), dont la Cour souligne qu’il « peut produire des distorsions ». Les logements meublés en gestion directe ne sont même pas conservés dans les bases de données des observatoires. Plafonner des loyers sur une base statistique aussi fragile n’est pas acceptable. Libérer la location meublée de l’encadrement, c’est redonner de l’attractivité à un mode de location souple, qui facilite la mobilité et l’accès des jeunes au logement."
+  },
+  "article": "premier",
+  "socle": false,
+  "maj": "2026-10-08",
+  "positions_brutes": {
+   "RN": "pour",
+   "EPR": "contre",
+   "LFI": "contre",
+   "SOC": "contre",
+   "DR": "pour",
+   "ECOS": "contre",
+   "DEM": "contre",
+   "LIOT": "contre",
+   "UDR": "pour",
+   "GDR": "contre"
+  },
+  "neutralises": [],
+  "ambiguite": {
+   "RN": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "EPR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "LFI": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "SOC": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "DR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "ECOS": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "DEM": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "LIOT": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "UDR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "GDR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   }
+  },
+  "paires": 21
+ },
+ {
+  "uid": "VTANR5L17V8703",
+  "numero": 8703,
+  "date": "2026-10-13",
+  "titre": "l'amendement n° 7 de M. Ménagé de rétablissement de l'article 46 (supprimé) de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+  "type": "amendement",
+  "votants": 373,
+  "sort": "rejeté",
+  "solennel": false,
+  "positions": {
+   "RN": "pour",
+   "EPR": "contre",
+   "LFI": "contre",
+   "SOC": "contre",
+   "DR": "contre",
+   "ECOS": "contre",
+   "DEM": "contre",
+   "HOR": "contre",
+   "LIOT": "contre",
+   "UDR": "pour",
+   "GDR": "contre"
+  },
+  "voix": {
+   "RN": {
+    "pour": 86,
+    "contre": 1,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 0,
+    "contre": 42,
+    "abstention": 2
+   },
+   "LFI": {
+    "pour": 0,
+    "contre": 46,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 0,
+    "contre": 59,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 0,
+    "contre": 20,
+    "abstention": 6
+   },
+   "ECOS": {
+    "pour": 0,
+    "contre": 31,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 0,
+    "contre": 18,
+    "abstention": 3
+   },
+   "HOR": {
+    "pour": 0,
+    "contre": 19,
+    "abstention": 2
+   },
+   "LIOT": {
+    "pour": 0,
+    "contre": 9,
+    "abstention": 1
+   },
+   "UDR": {
+    "pour": 11,
+    "contre": 0,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 0,
+    "contre": 11,
+    "abstention": 0
+   }
+  },
+  "dossier": "DLR5L17N54776",
+  "dossier_titre": "Apporter une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants",
+  "rattachement": "officiel",
+  "titre_loi": "proposition de loi apportant une reponse integrale au phenomene des violences sexuelles et sexistes contre les femmes et les enfants",
+  "seance": "RUANR5L17S2027IDS30940",
+  "amendement_numero": 7,
+  "amendement": {
+   "uid": "AMANR5L17PO838901B3190P0D2N000007",
+   "dossier": "DLR5L17N54776",
+   "texte": "PIONANR5L17BTC3190",
+   "division": "Article 46",
+   "auteur": "M. Ménagé,  M. Allisio, M. Amblard, Mme Auzanot, M. Ballard, Mme Bamana, M. Baubry, M. Beaurain, M. Bentz, M. Bernhardt, M. Bigot, M. Bilde, M. Blairy, Mme Blanc, M. Boccaletti, M. Boulogne, M. Bovet, M. Buisson, M. Casterman, M. Chaumeil, M. Chenu, M. Chudeau, M. Clavet, Mme Colombier, Mme Da Conceicao Carvalho, M. de Fleurian, M. de Lépinau, Mme Dellong Meng, M. Dessigny, Mme Dogor-Such, M. Dragon, M. Dufosset, M. Dussausaye, M. Dutremble, M. Evrard, M. Falcon, Mme Fiol, M. Florquin, M. Fouquart, M. Frappé, M. Gabarron, Mme Galzy, Mme Gardet, M. Gery, M. Gilhet, M. Gillet, M. Christian Girard, M. Golliot, M. Gonzalez, Mme Florence Goulet, Mme Grangier, Mme Griseti, M. Guibert, M. Guiniot, M. Guitton, Mme Hamelet, M. Houssin, M. Humbert, M. Jacobelli, M. Jenft, M. Jolly, Mme Joncour, M. Jordan, Mme Joubert, Mme Laporte, Mme Lavalette, M. Le Bourgeois, Mme Le Pen, Mme Lechanteux, Mme Lechon, Mme Lelouis, Mme Levavasseur, M. Limongi, M. Lioret, Mme Loir, Mme Lorho, M. Lottiaux, M. Loubet, M. David Magnier, Mme Marais-Beuil, M. Marchio, M. Markowsky, M. Patrice Martin, Mme Martinez, M. Mauvieux, M. Meizonnet, M. Meurin, M. Monnier, M. Muller, Mme Mélin, Mme Ménaché, M. Odoul, Mme Parmentier, M. Perez, M. Pfeffer, Mme Pollet, M. Rambaud, Mme Ranc, M. Rancoule, M. Renault, Mme Rimbert, M. Rivière, Mme Robert-Dehault, Mme Roullaud, Mme Roy, Mme Sabatini, M. Sabatou, M. Salmon, M. Schreck, Mme Sicard, M. Emmanuel Taché, M. Jean-Philippe Tanguy, M. Taverne, M. Tesson, M. Tivoli, M. Tomatis, M. Tonussi, M. Tribuiani, M. Villedieu, M. Vos et M. Weber",
+   "auteur_groupe": "RN",
+   "auteur_type": "Député",
+   "dispositif": "Rétablir ainsi cet article : I. – Après l’article L. 622‑2 du code général de la fonction publique, il est inséré un article L. 622‑2‑1 ainsi rédigé : « Art. L. 622‑2‑1 . – L’agent public estimant être victime de violences intrafamiliales, de faits d’agressions sexuelles, de harcèlement sexuel ou d’agissements sexistes bénéficie de plein droit d’une autorisation spéciale d’absence, sur présentation, dans un délai de quarante-huit heures suivant le début du congé, d’un récépissé de dépôt de plainte, pour effectuer des démarches judiciaires, médicales, psychologiques, administratives, sociales ou professionnelles. Ces autorisations spéciales, d’une durée maximale de dix jours ouvrables, consécutifs ou non, n’entrent pas dans le calcul des congés annuels. Elles n’entraînent pas de réduction du traitement de l’agent. « Les modalités d’application du présent article, et notamment de fractionnement du congé, sont définies par décret en Conseil d’État. » II. – Le chapitre II du titre IV du livre I er de la troisième partie du code du travail est complété par une section 5 ainsi rédigée : « Section 5 « Don de jours de repos à un salarié victime de violences sexuelles, sexistes ou intrafamiliales « Art. L. 3142‑131 . – Un salarié peut, sur sa demande et en accord avec son employeur, renoncer anonymement et sans contrepartie à tout ou partie de ses jours de repos non pris, qu’ils aient été affectés ou non sur un compte épargne-temps, au bénéfice d’un autre salarié de l’entreprise victime de violences sexuelles, sexistes ou intrafamiliales. « Le congé annuel ne peut être cédé que pour sa durée excédant vingt-quatre jours ouvrables. « Le salarié bénéficiaire d’un ou plusieurs jours cédés en application du premier alinéa bénéficie du maintien de sa rémunération pendant sa période d’absence. Cette période d’absence est assimilée à une période de travail effectif pour la détermination des droits que le salarié tient de son ancienneté. Le salarié conserve le bénéfice de tous les avantages qu’il avait acquis avant le début de sa période d’absence. « Art. L. 3142‑132 . – Le salarié bénéficiaire justifie de sa qualité de victime auprès de l’employeur par la production d’un certificat médical, d’un récépissé de dépôt de plainte ou d’une ordonnance de protection. « L’employeur garantit la confidentialité des informations qui lui sont transmises en application du présent article. » III. – Les organisations syndicales de salariés et les organisations professionnelles d’employeurs représentatives au niveau national et interprofessionnel engagent, dans un délai de six mois à compter de la promulgation de la présente loi, une négociation en vue de la conclusion d’un accord national interprofessionnel instituant un congé au bénéfice des salariés estimant être victimes de violences intrafamiliales, de faits d’agressions sexuelles, de harcèlement sexuel ou d’agissements sexistes, pour effectuer des démarches judiciaires, médicales, psychologiques, administratives, sociales ou professionnelles liées à ces faits. Cet accord détermine notamment la durée du congé, comprise entre un et dix jours par période de douze mois, les modalités de son fractionnement, les justificatifs à présenter par le salarié, le délai dans lequel ces justificatifs doivent être présentés, les conditions dans lesquelles la rémunération est maintenue par l’employeur et, le cas échéant, les modalités de mutualisation de son financement entre les employeurs, les modalités d’information de l’employeur ainsi que les mesures d’accompagnement du salarié à son retour dans l’entreprise. Il peut être étendu dans les conditions prévues au chapitre I er du titre VI du livre II de la deuxième partie du code du travail.",
+   "expose": "L’Assemblée a rejeté l’article 46. Elle n’a néanmoins pas rejeté l’idée qu’une victime de violences sexuelles ou sexistes ait besoin de temps pour déposer plainte, se soigner, se reloger ou se faire accompagner. Cet amendement vient donc en repli de la réintroduction de l’article, demandée par une seconde délibération. Le dispositif initialement proposé est mal construit : dix jours de congé rémunéré imposés unilatéralement à tous les employeurs, y compris aux plus petits, derrière une négociation collective de façade puisque la loi en fixait elle-même strictement les conditions. Le I confie donc aux organisations représentatives au niveau national et interprofessionnel le soin d’instituer le congé des salariés du secteur privé, par une négociation engagée dans les six mois de la promulgation. C’est la voie qu’elles ont déjà empruntée avec l’accord national interprofessionnel du 26 mars 2010 sur le harcèlement et la violence au travail, étendu par arrêté du 31 juillet 2010 et applicable depuis à l’ensemble des entreprises. La loi fixe donc le cadre : un congé d’un à dix jours par période de douze mois, pour les démarches judiciaires, médicales, psychologiques, administratives, sociales ou professionnelles liées aux faits. Elle renvoie à l’accord ce qui doit l’être : les justificatifs, les conditions du maintien de la rémunération, les modalités d’information de l’employeur et l’accompagnement du salarié à son retour. Elle ouvre expressément la possibilité d’une mutualisation du financement entre employeurs, afin que la charge ne repose pas sur la seule entreprise, souvent une TPE, où la victime travaille. L’extension de l’accord lui donnera une portée générale. Le choix de la négociation n’est pas seulement d’opportunité : la création directe du congé par la loi, dans la rédaction rejetée, présente des fragilités juridiques sérieuses. En effet, le dispositif fait supporter intégralement par l’employeur, sans compensation, le coût du temps consacré par le salarié à des démarches judiciaires, médicales ou administratives qui relèvent des missions de l’État et de la solidarité nationale, non de la relation de travail. Le Conseil constitutionnel a jugé que des dépenses exposées au titre d’une mission de la puissance publique, étrangères à l’activité de l’entreprise, « ne sauraient, en raison de leur nature, incomber directement » à des personnes privées (voir, par exemple, décision n° 2000-441 DC du 28 décembre 2000). Une obligation uniforme de dix jours rémunérés, pesant sur toutes les entreprises quelle que soit leur taille et ouverte au salarié « estimant être victime », sans que la loi encadre elle-même les conditions de ce droit ni prévoie de mécanisme d’absorption de la charge, s’expose également au grief de l’atteinte disproportionnée à la liberté d’entreprendre, que le Conseil constitutionnel contrôle au regard de l’article 4 de la même Déclaration et qu’il a sanctionnée lorsque le législateur impose aux entreprises des contraintes sans rapport raisonnable avec l’objectif poursuivi (décision n° 2014-692 DC du 27 mars 2014). Le Conseil d’État précise lui-même à cet égard, dans son avis, que « le dispositif ne se heurterait pas à une telle objection si le congé devait être financé par la solidarité nationale, dès lors du moins que les jours d’absence seront suffisamment limités en nombre et justifiés » (n° 267). Au surplus, l’article 34 de la Constitution réserve à la loi les principes fondamentaux du droit du travail. En subordonnant une obligation pesant sur un tiers à la seule déclaration de son bénéficiaire, le législateur est susceptible de ne pas épuiser sa compétence et renvoyer, en pratique, la définition des conditions du droit à ceux qui en demandent le bénéfice. Enfin, le huitième alinéa du Préambule de la Constitution de 1946 confie aux travailleurs, par l’intermédiaire de leurs délégués, la détermination collective des conditions de travail. La loi du 31 janvier 2007 en a tiré, à l’article L. 1 du code du travail, l’obligation d’une concertation préalable avec les partenaires sociaux pour toute réforme relevant du champ de la négociation nationale et interprofessionnelle, obligation que l’Assemblée nationale a étendue aux propositions de loi par le protocole du 16 février 2010. Un congé rémunéré à la charge des employeurs relève à l’évidence de ce champ. En prétendant organiser une négociation dont elle fixait elle-même strictement l’objet et le plancher, la rédaction rejetée vidait ce principe de sa substance. Le renvoi à un accord national interprofessionnel, dans un cadre fixé par la loi, est donc la seule voie qui respecte à la fois la compétence du législateur, la liberté d’entreprendre et le principe de participation. Le II crée, sans attendre cette négociation, le don de jours de repos au bénéfice d’un salarié victime de violences sexuelles, sexistes ou intrafamiliales, sur le modèle éprouvé de la loi du 9 mai 2014, étendu en 2018 aux proches aidants et en 2020 au deuil d’un enfant. Le don est anonyme et sans contrepartie, le congé légal de vingt-quatre jours ouvrables est intouchable, le bénéficiaire conserve sa rémunération, son ancienneté et ses avantages acquis, et sa qualité de victime est établie par un certificat médical, un récépissé de dépôt de plainte ou une ordonnance de protection, sous la garantie de confidentialité de l’employeur. Ce dispositif ne coûte rien ni à l’employeur ni aux finances publiques et s’applique dès la promulgation. Le III rétablit, pour les agents publics, l’autorisation spéciale d’absence de plein droit d’une durée maximale de dix jours ouvrables, sans réduction du traitement ni incidence sur les congés annuels, que l’employeur public est en mesure de porter directement. Elle est ouverte sur présentation d’un récépissé de dépôt de plainte, parce que la plainte est ce qui raccroche la victime à la chaîne de protection, de l’enquête à l’accompagnement, et ce qui met son agresseur en cause. Le présent amendement tire par ailleurs les conséquences de l’amendement du Gouvernement adopté en séance, qui avait retiré les militaires du dispositif au profit d’une transposition par voie d’instruction. Ainsi rétabli, l’article 46 offre aux victimes un droit effectif dès la promulgation, par le don de jours et dans la fonction publique, et un congé négocié, financé et extensible dans le secteur privé, plutôt que le dispositif imposé tel que prévu par le texte initial."
+  },
+  "article": "46",
+  "socle": false,
+  "maj": "2026-10-08",
+  "positions_brutes": {
+   "RN": "pour",
+   "EPR": "contre",
+   "LFI": "contre",
+   "SOC": "contre",
+   "DR": "contre",
+   "ECOS": "contre",
+   "DEM": "contre",
+   "HOR": "contre",
+   "LIOT": "contre",
+   "UDR": "pour",
+   "GDR": "contre"
+  },
+  "neutralises": [],
+  "ambiguite": {
+   "RN": {
+    "orateur": "M. Gaëtan Dussausaye",
+    "citation": "Avec notre amendement de réécriture, nous proposons de confier la négociation de ce congé aux partenaires sociaux et de rendre possible le don de jours de congé entre collègues.",
+    "citation_raison": null,
+    "justification": "Le groupe défend le contenu de son amendement de réécriture de l'article 46.",
+    "categorie": "A"
+   },
+   "EPR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime que par des interjections qui ne permettent pas de trancher.",
+    "categorie": "C"
+   },
+   "LFI": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "SOC": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime que par une interjection qui ne permet pas de trancher.",
+    "categorie": "C"
+   },
+   "DR": {
+    "orateur": "Mme Émilie Bonnivard",
+    "citation": "Nous – ou du moins, je l’espère, une majorité au sein de mon groupe – voterons contre l’amendement du Rassemblement national, qui n’est qu’une affabulation.",
+    "citation_raison": null,
+    "justification": "Le groupe s'oppose à l'amendement du Rassemblement national.",
+    "categorie": "A"
+   },
+   "ECOS": {
+    "orateur": "Mme Marie-Charlotte Garin",
+    "citation": "vous proposez un dispositif moins-disant, fondé sur d’incertaines négociations de branche et sur le don de jours de congé.",
+    "citation_raison": null,
+    "justification": "Le groupe s'oppose au dispositif proposé par l'amendement.",
+    "categorie": "A"
+   },
+   "DEM": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "HOR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "L'intervention du groupe porte sur l'amendement de la rapporteure et n'énonce pas de raison de vote sur l'amendement no 7.",
+    "categorie": "C"
+   },
+   "LIOT": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "UDR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "GDR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   }
+  },
+  "paires": 18
+ },
+ {
+  "uid": "VTANR5L17V8697",
+  "numero": 8697,
+  "date": "2026-10-13",
+  "titre": "l'amendement n° 1 de Mme Thiébault-Martinez à l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+  "type": "amendement",
+  "votants": 250,
+  "sort": "adopté",
+  "solennel": false,
+  "positions": {
+   "RN": "contre",
+   "LFI": "pour",
+   "SOC": "pour",
+   "DR": "pour",
+   "ECOS": "pour",
+   "DEM": "contre",
+   "HOR": "contre",
+   "GDR": "pour",
+   "UDR": "contre"
+  },
+  "voix": {
+   "RN": {
+    "pour": 0,
+    "contre": 53,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 15,
+    "contre": 10,
+    "abstention": 1
+   },
+   "LFI": {
+    "pour": 33,
+    "contre": 0,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 45,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 17,
+    "contre": 0,
+    "abstention": 0
+   },
+   "ECOS": {
+    "pour": 25,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 0,
+    "contre": 10,
+    "abstention": 1
+   },
+   "HOR": {
+    "pour": 1,
+    "contre": 14,
+    "abstention": 1
+   },
+   "LIOT": {
+    "pour": 2,
+    "contre": 2,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 6,
+    "contre": 0,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 0,
+    "contre": 9,
+    "abstention": 0
+   }
+  },
+  "dossier": "DLR5L17N54776",
+  "dossier_titre": "Apporter une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants",
+  "rattachement": "officiel",
+  "titre_loi": "proposition de loi apportant une reponse integrale au phenomene des violences sexuelles et sexistes contre les femmes et les enfants",
+  "seance": "RUANR5L17S2027IDS30940",
+  "amendement_numero": 1,
+  "amendement": {
+   "uid": "AMANR5L17PO838901B3190P0D2N000001",
+   "dossier": "DLR5L17N54776",
+   "texte": "PIONANR5L17BTC3190",
+   "division": "Article 3",
+   "auteur": "Mme Thiébault-Martinez",
+   "auteur_groupe": "SOC",
+   "auteur_type": "Député",
+   "dispositif": "I. – Supprimer la seconde phrase de l’alinéa 3. II. – En conséquence, supprimer la seconde phrase de l’alinéa 5. III. – En conséquence, supprimer l’alinéa 13. IV. – En conséquence, compléter cet article par l’alinéa suivant : « II. – À titre dérogatoire, pendant une durée de trois ans à compter de la promulgation de la présente loi, le non-respect des dispositions du I du présent article ne constitue pas une cause de nullité de la procédure. »",
+   "expose": "Le présent amendement vise à revenir sur le vote, à l’article 3, d’une cause de non nullité des procédures lorsqu’un service ou une unité de police judiciaire spécialisée n’a pas été saisi. Il s’agit d’une erreur de vote, alors qu’un compromis se dessinait autour d’un amendement prévoyant un régime transitoire de non nullité pour une durée d’uniquement trois ans à compter de la promulgation de la loi."
+  },
+  "article": "3",
+  "socle": false,
+  "maj": "2026-10-08",
+  "positions_brutes": {
+   "RN": "contre",
+   "LFI": "pour",
+   "SOC": "pour",
+   "DR": "pour",
+   "ECOS": "pour",
+   "DEM": "contre",
+   "HOR": "contre",
+   "GDR": "pour",
+   "UDR": "contre"
+  },
+  "neutralises": [],
+  "ambiguite": {
+   "RN": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Les interventions du groupe dans l'extrait portent sur d'autres sujets que l'amendement.",
+    "categorie": "C"
+   },
+   "LFI": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Les interventions du groupe dans l'extrait portent sur d'autres sujets que l'amendement.",
+    "categorie": "C"
+   },
+   "SOC": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Les interventions du groupe dans l'extrait portent sur d'autres sujets que l'amendement.",
+    "categorie": "C"
+   },
+   "DR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Les interventions du groupe dans l'extrait portent sur d'autres sujets que l'amendement.",
+    "categorie": "C"
+   },
+   "ECOS": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Les interventions du groupe dans l'extrait portent sur d'autres sujets que l'amendement.",
+    "categorie": "C"
+   },
+   "DEM": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "HOR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "GDR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Les interventions du groupe dans l'extrait portent sur d'autres sujets que l'amendement.",
+    "categorie": "C"
+   },
+   "UDR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   }
+  },
+  "paires": 20
+ },
+ {
+  "uid": "VTANR5L17V9929",
+  "numero": 9929,
+  "date": "2026-11-17",
+  "titre": "l'amendement n° 458 de M. Tivoli à l'article premier du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+  "type": "amendement",
+  "votants": 201,
+  "sort": "rejeté",
+  "solennel": false,
+  "positions": {
+   "RN": "pour",
+   "EPR": "contre",
+   "LFI": "contre",
+   "SOC": "contre",
+   "DR": "contre",
+   "ECOS": "contre",
+   "DEM": "contre",
+   "HOR": "contre",
+   "LIOT": "contre",
+   "UDR": "pour"
+  },
+  "voix": {
+   "RN": {
+    "pour": 72,
+    "contre": 0,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 0,
+    "contre": 30,
+    "abstention": 0
+   },
+   "LFI": {
+    "pour": 0,
+    "contre": 20,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 0,
+    "contre": 23,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 1,
+    "contre": 8,
+    "abstention": 2
+   },
+   "ECOS": {
+    "pour": 0,
+    "contre": 7,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 0,
+    "contre": 11,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 0,
+    "contre": 10,
+    "abstention": 0
+   },
+   "LIOT": {
+    "pour": 0,
+    "contre": 6,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 0,
+    "contre": 2,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 5,
+    "contre": 0,
+    "abstention": 0
+   }
+  },
+  "dossier": "DLR5L17N54608",
+  "dossier_titre": "La relance et la décentralisation du logement",
+  "rattachement": "officiel",
+  "titre_loi": "projet de loi visant la relance et la decentralisation du logement",
+  "seance": "RUANR5L17S2027IDS31004",
+  "amendement_numero": 458,
+  "amendement": {
+   "uid": "AMANR5L17PO838901BTC3188P0D1N000458",
+   "dossier": "DLR5L17N54608",
+   "texte": "PRJLANR5L17BTC3188",
+   "division": "Article PREMIER",
+   "auteur": "M. Tivoli",
+   "auteur_groupe": "RN",
+   "auteur_type": "Député",
+   "dispositif": "Compléter l’alinéa 18 par les mots : « , la sécurité et la tranquillité des résidents, les dégradations des parties communes ainsi que les actions engagées par les bailleurs pour éviter les récidives et dégradations ».",
+   "expose": "Le logement social ne peut durablement remplir sa mission que s'il garantit à ses occupants un cadre de vie sûr, apaisé et conforme aux exigences de la vie en société. En renforçant les conditions d'accès, et instaurant, dans le champs législatif, les obligations des bailleurs et les moyens d'action de l'État, le présent texte vise à mieux protéger les habitants respectueux des règles communes et à conforter la confiance des Français dans leur politique du logement. Dans de nombreux ensembles d'habitation, les habitants sont confrontés quotidiennement à des violences, des trafics de stupéfiants, des dégradations répétées des parties communes, des intimidations ou encore des nuisances graves qui compromettent durablement leur sécurité et leur qualité de vie. Ces comportements affectent en premier lieu les familles, les personnes âgées et les travailleurs qui respectent leurs obligations mais se trouvent privés de la tranquillité à laquelle ils sont en droit de prétendre."
+  },
+  "article": "premier",
+  "socle": false,
+  "maj": "2026-10-08",
+  "positions_brutes": {
+   "RN": "pour",
+   "EPR": "contre",
+   "LFI": "contre",
+   "SOC": "contre",
+   "DR": "contre",
+   "ECOS": "contre",
+   "DEM": "contre",
+   "HOR": "contre",
+   "LIOT": "contre",
+   "UDR": "pour"
+  },
+  "neutralises": [],
+  "ambiguite": {
+   "RN": {
+    "orateur": "M. Lionel Tivoli",
+    "citation": "Pour le Rassemblement national, la tranquillité des habitants doit être prise en compte dans le bilan d’une rénovation urbaine.",
+    "citation_raison": null,
+    "justification": "Le groupe soutient l'ajout de la sécurité et de la tranquillité aux indicateurs d'évaluation.",
+    "categorie": "A"
+   },
+   "EPR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "LFI": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "SOC": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "DR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "ECOS": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "DEM": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "HOR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "LIOT": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "UDR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   }
+  },
+  "paires": 16
+ },
+ {
+  "uid": "VTANR5L17V10106",
+  "numero": 10106,
+  "date": "2026-11-24",
+  "titre": "l'ensemble du projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+  "type": "ensemble",
+  "votants": 288,
+  "sort": "adopté",
+  "solennel": false,
+  "positions": {
+   "EPR": "pour",
+   "LFI": "contre",
+   "DR": "pour",
+   "ECOS": "contre",
+   "DEM": "pour",
+   "HOR": "pour",
+   "LIOT": "pour",
+   "GDR": "contre"
+  },
+  "voix": {
+   "RN": {
+    "pour": 0,
+    "contre": 0,
+    "abstention": 55
+   },
+   "EPR": {
+    "pour": 47,
+    "contre": 0,
+    "abstention": 0
+   },
+   "LFI": {
+    "pour": 0,
+    "contre": 38,
+    "abstention": 1
+   },
+   "SOC": {
+    "pour": 1,
+    "contre": 1,
+    "abstention": 17
+   },
+   "DR": {
+    "pour": 34,
+    "contre": 0,
+    "abstention": 0
+   },
+   "ECOS": {
+    "pour": 0,
+    "contre": 19,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 21,
+    "contre": 0,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 17,
+    "contre": 0,
+    "abstention": 0
+   },
+   "LIOT": {
+    "pour": 11,
+    "contre": 0,
+    "abstention": 3
+   },
+   "GDR": {
+    "pour": 1,
+    "contre": 5,
+    "abstention": 3
+   },
+   "UDR": {
+    "pour": 0,
+    "contre": 0,
+    "abstention": 6
+   }
+  },
+  "dossier": "DLR5L17N55223",
+  "dossier_titre": "Projet de loi de finances de fin de gestion pour 2026",
+  "rattachement": "officiel",
+  "titre_loi": "projet de loi de finances de fin de gestion pour 2026",
+  "seance": "RUANR5L17S2027IDS31064",
+  "amendement_numero": null,
+  "amendement": null,
+  "article": null,
+  "lectures": [
+   "VTANR5L17V9895",
+   "VTANR5L17V10106"
+  ],
+  "changements_position": {},
+  "socle": false,
+  "maj": "2026-10-08",
+  "positions_brutes": {
+   "EPR": "pour",
+   "LFI": "contre",
+   "DR": "pour",
+   "ECOS": "contre",
+   "DEM": "pour",
+   "HOR": "pour",
+   "LIOT": "pour",
+   "GDR": "contre"
+  },
+  "neutralises": [],
+  "ambiguite": {
+   "EPR": {
+    "orateur": "M. Denis Masséglia",
+    "citation": "Voter contre ce texte, c’est voter contre toutes ces avancées : contre les agriculteurs, contre les ultramarins, contre nos armées, contre les étudiants les plus précaires et, surtout, contre les plus fragiles.",
+    "citation_raison": null,
+    "justification": "Le groupe soutient les crédits ouverts par le texte de la CMP.",
+    "categorie": "A"
+   },
+   "LFI": {
+    "orateur": "Mme Claire Lejeune",
+    "citation": "Dans tout le reste, on coupe.",
+    "citation_raison": null,
+    "justification": "Le groupe s'oppose aux annulations de crédits et aux hypothèses du texte.",
+    "categorie": "A"
+   },
+   "DR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "ECOS": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "DEM": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "HOR": {
+    "orateur": "M. Pierre Henriet",
+    "citation": "Malgré cela, notre groupe a soutenu ce texte dès la première lecture, car il répond aux difficultés de l’année sans renoncer à tenir la dépense de l’État.",
+    "citation_raison": null,
+    "justification": "Le groupe soutient le texte pour ses crédits et la tenue de la dépense de l'État.",
+    "categorie": "A"
+   },
+   "LIOT": {
+    "orateur": "M. Michel Castellani",
+    "citation": "Nous reconnaissons donc ce que la navette a permis de préserver.",
+    "citation_raison": null,
+    "justification": "Le groupe soutient les dispositions préservées par la CMP, avec des réserves sur les prévisions.",
+    "categorie": "A"
+   },
+   "GDR": {
+    "orateur": "M. Nicolas Sansu",
+    "citation": "Le texte issu de la CMP demeure bien trop imparfait pour que nous puissions le voter.",
+    "citation_raison": null,
+    "justification": "Le groupe s'oppose aux annulations de crédits et aux choix budgétaires du texte.",
+    "categorie": "A"
+   }
+  },
+  "paires": 15
+ },
+ {
+  "uid": "VTANR5L17V9916",
+  "numero": 9916,
+  "date": "2026-11-17",
+  "titre": "l'ensemble du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité (première lecture).",
+  "type": "ensemble",
+  "votants": 544,
+  "sort": "adopté",
+  "solennel": true,
+  "positions": {
+   "RN": "pour",
+   "EPR": "pour",
+   "LFI": "contre",
+   "SOC": "pour",
+   "DR": "pour",
+   "ECOS": "pour",
+   "DEM": "pour",
+   "HOR": "pour",
+   "LIOT": "pour",
+   "UDR": "pour"
+  },
+  "voix": {
+   "RN": {
+    "pour": 120,
+    "contre": 0,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 83,
+    "contre": 0,
+    "abstention": 0
+   },
+   "LFI": {
+    "pour": 0,
+    "contre": 64,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 63,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 45,
+    "contre": 0,
+    "abstention": 0
+   },
+   "ECOS": {
+    "pour": 36,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 34,
+    "contre": 0,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 31,
+    "contre": 0,
+    "abstention": 0
+   },
+   "LIOT": {
+    "pour": 24,
+    "contre": 0,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 1,
+    "contre": 0,
+    "abstention": 16
+   },
+   "UDR": {
+    "pour": 17,
+    "contre": 0,
+    "abstention": 0
+   }
+  },
+  "dossier": "DLR5L17N50731",
+  "dossier_titre": "Projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité",
+  "rattachement": "officiel",
+  "titre_loi": "projet de loi relatif a la resilience des infrastructures critiques et au renforcement de la cybersecurite",
+  "seance": "RUANR5L17S2027IDS31004",
+  "amendement_numero": null,
+  "amendement": null,
+  "article": null,
+  "lectures": [
+   "VTANR5L17V9916"
+  ],
+  "changements_position": {},
+  "socle": true,
+  "maj": "2026-10-08",
+  "positions_brutes": {
+   "RN": "pour",
+   "EPR": "pour",
+   "LFI": "contre",
+   "SOC": "pour",
+   "DR": "pour",
+   "ECOS": "pour",
+   "DEM": "pour",
+   "HOR": "pour",
+   "LIOT": "pour",
+   "UDR": "pour"
+  },
+  "neutralises": [],
+  "ambiguite": {
+   "RN": {
+    "orateur": "M. Emeric Salmon (RN)",
+    "citation": "Renforcer la résilience de nos infrastructures, mieux prévenir les cyberattaques et améliorer la protection de nos services essentiels : ce sont des objectifs que nous partageons pleinement.",
+    "citation_raison": null,
+    "justification": "Le groupe soutient les objectifs du texte, avec des réserves.",
+    "categorie": "A"
+   },
+   "EPR": {
+    "orateur": "Mme Patricia Lemoine (EPR)",
+    "citation": "C’est précisément ce que ce texte corrige.",
+    "citation_raison": null,
+    "justification": "Le groupe soutient la transposition de la directive NIS 2.",
+    "categorie": "A"
+   },
+   "LFI": {
+    "orateur": "M. René Pilato",
+    "citation": "Nous parlons de liberté et nous voterons liberté, donc contre ce projet de loi.",
+    "citation_raison": null,
+    "justification": "Le groupe s'oppose au texte après la suppression de l'article 16 bis sur les portes dérobées.",
+    "categorie": "A"
+   },
+   "SOC": {
+    "orateur": "M. Sébastien Saint-Pasteur",
+    "citation": "Nous voterons ce texte, qui apporte des avancées nécessaires, sans confondre son adoption avec l’accomplissement de notre mission.",
+    "citation_raison": null,
+    "justification": "Le groupe soutient les avancées du texte.",
+    "categorie": "A"
+   },
+   "DR": {
+    "orateur": "Mme Virginie Duby-Muller (DR)",
+    "citation": "Pour toutes ces raisons, le groupe Droite républicaine votera pour ce projet de loi qu’il attendait depuis deux ans.",
+    "citation_raison": null,
+    "justification": "Le groupe soutient le renforcement des obligations de cybersécurité.",
+    "categorie": "A"
+   },
+   "ECOS": {
+    "orateur": "Mme Catherine Hervieu (EcoS)",
+    "citation": "En votant ce texte, nous assumons la responsabilité collective de renforcer la cybersécurité et la résilience des opérateurs d’importance vitale",
+    "citation_raison": null,
+    "justification": "Le groupe soutient le renforcement de la cybersécurité et de la résilience.",
+    "categorie": "A"
+   },
+   "DEM": {
+    "orateur": "Mme Geneviève Darrieussecq (Dem)",
+    "citation": "Parce que ce texte impose un devoir général de vigilance, aux entreprises comme aux administrations, aux collectivités et à l’État, le groupe Les Démocrates votera en sa faveur.",
+    "citation_raison": null,
+    "justification": "Le groupe soutient le devoir de vigilance imposé par le texte.",
+    "categorie": "A"
+   },
+   "HOR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "LIOT": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "UDR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   }
+  },
+  "paires": 9
+ },
+ {
+  "uid": "VTANR5L17V9203",
+  "numero": 9203,
+  "date": "2026-10-29",
+  "titre": "l'ensemble de la proposition de loi créant un corps de fonctionnaires de catégorie B pour les accompagnants d’élèves en situation de handicap (première lecture).",
+  "type": "ensemble",
+  "votants": 305,
+  "sort": "adopté",
+  "solennel": false,
+  "positions": {
+   "LFI": "pour",
+   "SOC": "pour",
+   "DR": "pour",
+   "ECOS": "pour",
+   "DEM": "contre",
+   "LIOT": "pour",
+   "GDR": "pour"
+  },
+  "voix": {
+   "RN": {
+    "pour": 0,
+    "contre": 1,
+    "abstention": 79
+   },
+   "EPR": {
+    "pour": 0,
+    "contre": 6,
+    "abstention": 23
+   },
+   "LFI": {
+    "pour": 68,
+    "contre": 0,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 41,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 7,
+    "contre": 0,
+    "abstention": 3
+   },
+   "ECOS": {
+    "pour": 34,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 0,
+    "contre": 7,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 0,
+    "contre": 2,
+    "abstention": 8
+   },
+   "LIOT": {
+    "pour": 4,
+    "contre": 0,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 12,
+    "contre": 0,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 0,
+    "contre": 0,
+    "abstention": 10
+   }
+  },
+  "dossier": "DLR5L17N54901",
+  "dossier_titre": "Créer un corps de fonctionnaires de catégorie B pour les accompagnants d’élèves en situation de handicap",
+  "rattachement": "officiel",
+  "titre_loi": "proposition de loi creant un corps de fonctionnaires de categorie b pour les accompagnants deleves en situation de handicap",
+  "seance": "RUANR5L17S2027IDS30968",
+  "amendement_numero": null,
+  "amendement": null,
+  "article": null,
+  "lectures": [
+   "VTANR5L17V9203"
+  ],
+  "changements_position": {},
+  "socle": false,
+  "maj": "2026-10-08",
+  "positions_brutes": {
+   "LFI": "pour",
+   "SOC": "pour",
+   "DR": "pour",
+   "ECOS": "pour",
+   "DEM": "contre",
+   "LIOT": "pour",
+   "GDR": "pour"
+  },
+  "neutralises": [],
+  "ambiguite": {
+   "LFI": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "SOC": {
+    "orateur": "M. Pierrick Courbon",
+    "citation": "Nous nous réjouissons du vote de l’article 1er car il va contribuer à une moindre précarisation des AESH en leur offrant une fonctionnarisation et un nouveau statut.",
+    "citation_raison": null,
+    "justification": "Le groupe soutient la fonctionnarisation des AESH.",
+    "categorie": "A"
+   },
+   "DR": {
+    "orateur": "M. Lionel Duparay",
+    "citation": "Nous faisons tous le constat qu’un statut est nécessaire.",
+    "citation_raison": null,
+    "justification": "Le groupe soutient la création d'un statut pour les AESH.",
+    "categorie": "A"
+   },
+   "ECOS": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "DEM": {
+    "orateur": "Mme Géraldine Bannier",
+    "citation": "travaille 1 607 heures tandis que son collègue de catégorie B travaillera moins d’heures pour un niveau de diplôme parfois équivalent ? On ne peut prendre une décision si irréfléchie.",
+    "citation_raison": null,
+    "justification": "Le groupe s'oppose au texte en invoquant un écart de temps de travail entre catégories de fonctionnaires.",
+    "categorie": "A"
+   },
+   "LIOT": {
+    "orateur": "M. Olivier Serva (LIOT)",
+    "citation": "Mon groupe partage donc pleinement l’esprit de cette proposition de loi dont l’objet est d’enfin améliorer la reconnaissance de ces professionnels, en leur permettant d’accéder au statut de fonctionnaire de catégorie B.",
+    "citation_raison": null,
+    "justification": "Le groupe soutient l'objet du texte malgré des réserves sur ses modalités.",
+    "categorie": "A"
+   },
+   "GDR": {
+    "orateur": "Mme Soumya Bourouaha (GDR)",
+    "citation": "Nous demandons la titularisation de l’ensemble des AESH et leur intégration à un corps de fonctionnaires de catégorie B, car le statut de fonctionnaire organise et protège une carrière.",
+    "citation_raison": null,
+    "justification": "Le groupe soutient la titularisation des AESH dans un corps de catégorie B.",
+    "categorie": "A"
+   }
+  },
+  "paires": 6
+ },
+ {
+  "uid": "VTANR5L17V10104",
+  "numero": 10104,
+  "date": "2026-11-24",
+  "titre": "l'amendement n° 4 du Gouvernement au projet de loi de finances de fin de gestion pour 2026 (texte de la commission mixte paritaire).",
+  "type": "amendement",
+  "votants": 278,
+  "sort": "adopté",
+  "solennel": false,
+  "positions": {
+   "EPR": "pour",
+   "LFI": "contre",
+   "DR": "pour",
+   "ECOS": "contre",
+   "DEM": "pour",
+   "HOR": "pour",
+   "LIOT": "pour",
+   "GDR": "contre"
+  },
+  "voix": {
+   "RN": {
+    "pour": 0,
+    "contre": 0,
+    "abstention": 55
+   },
+   "EPR": {
+    "pour": 47,
+    "contre": 0,
+    "abstention": 0
+   },
+   "LFI": {
+    "pour": 1,
+    "contre": 36,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 0,
+    "contre": 1,
+    "abstention": 17
+   },
+   "DR": {
+    "pour": 33,
+    "contre": 0,
+    "abstention": 1
+   },
+   "ECOS": {
+    "pour": 0,
+    "contre": 14,
+    "abstention": 2
+   },
+   "DEM": {
+    "pour": 20,
+    "contre": 0,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 16,
+    "contre": 0,
+    "abstention": 0
+   },
+   "LIOT": {
+    "pour": 13,
+    "contre": 0,
+    "abstention": 1
+   },
+   "UDR": {
+    "pour": 0,
+    "contre": 0,
+    "abstention": 5
+   },
+   "GDR": {
+    "pour": 0,
+    "contre": 7,
+    "abstention": 1
+   }
+  },
+  "dossier": "DLR5L17N55223",
+  "dossier_titre": "Projet de loi de finances de fin de gestion pour 2026",
+  "rattachement": "officiel",
+  "titre_loi": "projet de loi de finances de fin de gestion pour 2026",
+  "seance": "RUANR5L17S2027IDS31064",
+  "amendement_numero": 4,
+  "amendement": {
+   "uid": "AMANR5L17PO838901BTC3490P0D1N000004",
+   "dossier": "DLR5L17N55223",
+   "texte": "PRJLANR5L17BTC3490",
+   "division": "Article liminaire",
+   "auteur": "le Gouvernement",
+   "auteur_groupe": null,
+   "auteur_type": "Gouvernement",
+   "dispositif": "Alinéa 2, tableau Rédiger ainsi ce tableau : En % du PIB sauf mention contraire 2025 2026 2026 Projet de loi de finances de fin de gestion pour 2026 LPFP 2023-2027* Ensemble des administrations publiques Solde structurel (1) ‑5,2 ‑5,1 ‑2,9 Solde conjoncturel (2) 0,1 ‑0,3 ‑0,2 Solde des mesures ponctuelles et temporaires (3) 0,0 0,0 0,0 Solde effectif (1 + 2 + 3) ‑5,1 ‑5,4 ‑3,2 Solde effectif (en Md€) - 151,6 - 166,2 - 97,6 Dette au sens de Maastricht 115,7 119,4 109,1 Taux de prélèvements obligatoires (y.c UE nets des CI) 43,6 43,9 44,4 Dépense publique (hors CI) 56,6 57,2 54,4 Dépense publique (hors CI, en Md€) 1694 1744 1705 Évolution de la dépense publique hors CI en volume (%)1 1,6 0,9 0,5 Principales dépenses d’investissement (en Md€)2 26 34 35 Administrations publiques centrales Solde ‑4,4 ‑4,9 ‑4,2 Solde (en Md€) - 130,3 - 149,7 - 128,1 Dépense publique (hors CI, en Md€) 661 693 678 Évolution de la dépense publique en volume (%)3 0,9 3,2 1,5 Administrations publiques locales Solde ‑0,5 ‑0,4 0,2 Solde (en Md€) - 15,6 - 11,8 6,1 Dépense publique (hors CI, en Md€) 335 336 329 Évolution de la dépense publique hors CI en volume (%)3 1,0 ‑2,0 ‑1,9 Administrations de sécurité sociale Solde ‑0,2 ‑0,2 0,9 Solde (en Md€) - 5,8 - 4,8 27,5 Dépense publique (hors CI, en Md€) 803 823 798 Évolution de la dépense publique hors CI en volume (%)3 2,4 0,3 0,7",
+   "expose": "Cet amendement met à jour les prévisions sous-jacentes au projet de loi de finances de fin de gestion pour 2026 concernant les grands agrégats de finances publiques présentés dans l’article liminaire. L’amendement tient compte des modifications issues de la commission mixte paritaire. La prévision de solde public reste inchangée à -5,4 % du PIB en 2026."
+  },
+  "article": null,
+  "socle": false,
+  "maj": "2026-10-08",
+  "positions_brutes": {
+   "EPR": "pour",
+   "LFI": "contre",
+   "DR": "pour",
+   "ECOS": "contre",
+   "DEM": "pour",
+   "HOR": "pour",
+   "LIOT": "pour",
+   "GDR": "contre"
+  },
+  "neutralises": [],
+  "ambiguite": {
+   "EPR": {
+    "orateur": "M. Denis Masséglia",
+    "citation": "Cependant, ce texte ne creuse pas le déficit, mais le stabilise, dans une année difficile, à dépense constante.",
+    "citation_raison": null,
+    "justification": "Le groupe soutient le texte de la CMP et sa trajectoire budgétaire.",
+    "categorie": "A"
+   },
+   "LFI": {
+    "orateur": "Mme Claire Lejeune",
+    "citation": "Il s’appuie sur des hypothèses économiques fausses : vous surestimez le niveau de croissance tandis que vous sous-estimez le déficit et l’inflation.",
+    "citation_raison": null,
+    "justification": "Le groupe conteste les hypothèses économiques et les choix budgétaires du texte.",
+    "categorie": "A"
+   },
+   "DR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime que par des interjections qui ne permettent pas de trancher.",
+    "categorie": "C"
+   },
+   "ECOS": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime que par une interjection qui ne permet pas de trancher.",
+    "categorie": "C"
+   },
+   "DEM": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime que par des interjections qui ne permettent pas de trancher.",
+    "categorie": "C"
+   },
+   "HOR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "LIOT": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "GDR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   }
+  },
+  "paires": 15
+ },
+ {
+  "uid": "VTANR5L17V10117",
+  "numero": 10117,
+  "date": "2026-11-26",
+  "titre": "l'ensemble de la proposition de résolution visant à faire de l’égalité entre les territoires une priorité de l’ensemble des politiques publiques (article 34-1 de la Constitution).",
+  "type": "ensemble",
+  "votants": 179,
+  "sort": "adopté",
+  "solennel": false,
+  "positions": {
+   "RN": "pour",
+   "EPR": "pour",
+   "LFI": "contre",
+   "SOC": "pour",
+   "DR": "pour",
+   "DEM": "pour",
+   "HOR": "pour",
+   "LIOT": "pour",
+   "UDR": "pour"
+  },
+  "voix": {
+   "RN": {
+    "pour": 45,
+    "contre": 0,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 15,
+    "contre": 0,
+    "abstention": 1
+   },
+   "LFI": {
+    "pour": 0,
+    "contre": 28,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 12,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 41,
+    "contre": 0,
+    "abstention": 0
+   },
+   "ECOS": {
+    "pour": 0,
+    "contre": 0,
+    "abstention": 11
+   },
+   "DEM": {
+    "pour": 7,
+    "contre": 0,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 8,
+    "contre": 0,
+    "abstention": 0
+   },
+   "LIOT": {
+    "pour": 4,
+    "contre": 0,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 0,
+    "contre": 0,
+    "abstention": 2
+   },
+   "UDR": {
+    "pour": 4,
+    "contre": 0,
+    "abstention": 0
+   }
+  },
+  "dossier": "DLR5L17N55033",
+  "dossier_titre": "Faire de l’égalité entre les territoires une priorité de l’ensemble des politiques publiques",
+  "rattachement": "officiel",
+  "titre_loi": "proposition de resolution visant a faire de legalite entre les territoires une priorite de lensemble des politiques publiques",
+  "seance": "RUANR5L17S2027IDS31068",
+  "amendement_numero": null,
+  "amendement": null,
+  "article": null,
+  "lectures": [
+   "VTANR5L17V10117"
+  ],
+  "changements_position": {},
+  "socle": false,
+  "maj": "2026-10-08",
+  "positions_brutes": {
+   "RN": "pour",
+   "EPR": "pour",
+   "LFI": "contre",
+   "SOC": "pour",
+   "DR": "pour",
+   "DEM": "pour",
+   "HOR": "pour",
+   "LIOT": "pour",
+   "UDR": "pour"
+  },
+  "neutralises": [],
+  "ambiguite": {
+   "RN": {
+    "orateur": "M. Bernard Chaumeil",
+    "citation": "Nous voterons pour ce texte parce que ses intentions sont justes",
+    "citation_raison": null,
+    "justification": "Le groupe soutient les intentions de la proposition de résolution.",
+    "categorie": "A"
+   },
+   "EPR": {
+    "orateur": "Mme Brigitte Liso",
+    "citation": "C’est cette conviction qui guide l’engagement du groupe Ensemble pour la République et qui nous conduira à soutenir cette proposition de résolution.",
+    "citation_raison": null,
+    "justification": "Le groupe soutient l'objectif d'égalité entre les territoires.",
+    "categorie": "A"
+   },
+   "LFI": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "L'intervention du groupe, interrompue, n'énonce pas de position sur la proposition de résolution.",
+    "categorie": "C"
+   },
+   "SOC": {
+    "orateur": "M. Denis Fégné",
+    "citation": "Nous voterons toutefois en faveur de cette proposition de résolution",
+    "citation_raison": null,
+    "justification": "Le groupe soutient la proposition de résolution, avec des désaccords sur d'autres politiques.",
+    "categorie": "A"
+   },
+   "DR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "DEM": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "HOR": {
+    "orateur": "Mme Lise Magnier",
+    "citation": "Notre collègue Fabrice Brun nous propose un principe de bon sens, que nous partageons.",
+    "citation_raison": null,
+    "justification": "Le groupe soutient le principe de la proposition de résolution.",
+    "categorie": "A"
+   },
+   "LIOT": {
+    "orateur": "M. Michel Castellani",
+    "citation": "Nous voterons en faveur de cette proposition de résolution, que nous considérons comme un engagement",
+    "citation_raison": null,
+    "justification": "Le groupe soutient la proposition de résolution comme un engagement.",
+    "categorie": "A"
+   },
+   "UDR": {
+    "orateur": "M. Pierre-Henri Carbonnel",
+    "citation": "Cette proposition de résolution énonce donc le bon principe : l’effort de la nation doit être partagé équitablement entre la ville et la campagne.",
+    "citation_raison": null,
+    "justification": "Le groupe soutient le principe énoncé par la proposition de résolution.",
+    "categorie": "A"
+   }
+  },
+  "paires": 8
+ },
+ {
+  "uid": "VTANR5L17V9335",
+  "numero": 9335,
+  "date": "2026-10-29",
+  "titre": "l'article 2 de la proposition de loi pour protéger durablement les jeunes majeurs de l'aide sociale à l'enfance et de la protection judiciaire de la jeunesse (première lecture).",
+  "type": "article",
+  "votants": 214,
+  "sort": "adopté",
+  "solennel": false,
+  "positions": {
+   "RN": "contre",
+   "EPR": "contre",
+   "LFI": "pour",
+   "SOC": "pour",
+   "ECOS": "pour",
+   "DEM": "contre",
+   "HOR": "contre",
+   "UDR": "contre",
+   "GDR": "pour"
+  },
+  "voix": {
+   "RN": {
+    "pour": 0,
+    "contre": 59,
+    "abstention": 0
+   },
+   "EPR": {
+    "pour": 0,
+    "contre": 12,
+    "abstention": 0
+   },
+   "LFI": {
+    "pour": 64,
+    "contre": 0,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 26,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DR": {
+    "pour": 0,
+    "contre": 2,
+    "abstention": 1
+   },
+   "ECOS": {
+    "pour": 24,
+    "contre": 0,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 0,
+    "contre": 3,
+    "abstention": 1
+   },
+   "HOR": {
+    "pour": 0,
+    "contre": 5,
+    "abstention": 3
+   },
+   "LIOT": {
+    "pour": 0,
+    "contre": 0,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 0,
+    "contre": 8,
+    "abstention": 0
+   },
+   "GDR": {
+    "pour": 6,
+    "contre": 0,
+    "abstention": 0
+   }
+  },
+  "dossier": "DLR5L17N54298",
+  "dossier_titre": "Protéger durablement les jeunes majeurs de l’aide sociale à l’enfance et de la protection judiciaire de la jeunesse",
+  "rattachement": "officiel",
+  "titre_loi": "proposition de loi pour proteger durablement les jeunes majeurs de l aide sociale a l enfance et de la protection judiciaire de la jeunesse",
+  "seance": "RUANR5L17S2027IDS30970",
+  "amendement_numero": null,
+  "amendement": null,
+  "article": "2",
+  "socle": false,
+  "maj": "2026-10-08",
+  "positions_brutes": {
+   "RN": "contre",
+   "EPR": "contre",
+   "LFI": "pour",
+   "SOC": "pour",
+   "ECOS": "pour",
+   "DEM": "contre",
+   "HOR": "contre",
+   "UDR": "contre",
+   "GDR": "pour"
+  },
+  "neutralises": [],
+  "ambiguite": {
+   "RN": {
+    "orateur": "M. Kévin Pfeffer",
+    "citation": "Nous sommes favorables à ce que les départements soient soutenus, mais nous refusons que ce fonds serve d’alibi.",
+    "citation_raison": null,
+    "justification": "Le groupe vote contre en jugeant les moyens du fonds insuffisants pour les obligations imposées ; classement hésitant entre A et B, donc A (règle 4).",
+    "categorie": "A"
+   },
+   "EPR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "LFI": {
+    "orateur": "M. Louis Boyard",
+    "citation": "Si vous les maintenez, cette proposition de loi ne pourra pas être votée et les jeunes ne pourront pas être protégés.",
+    "citation_raison": null,
+    "justification": "Le groupe soutient l'adoption du texte pour protéger les jeunes majeurs.",
+    "categorie": "A"
+   },
+   "SOC": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "ECOS": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "DEM": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "HOR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   },
+   "UDR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "L'intervention du groupe ne porte pas sur l'article voté.",
+    "categorie": "C"
+   },
+   "GDR": {
+    "orateur": null,
+    "citation": null,
+    "citation_raison": null,
+    "justification": "Le groupe ne s'exprime pas dans l'extrait.",
+    "categorie": "C"
+   }
+  },
+  "paires": 20
+ },
+ {
+  "uid": "VTANR5L17V9895",
+  "numero": 9895,
+  "date": "2026-11-12",
+  "titre": "l'ensemble du projet de loi de finances de fin de gestion pour 2026 (première lecture).",
+  "type": "ensemble",
+  "votants": 188,
+  "sort": "rejeté",
+  "solennel": true,
+  "positions": {
+   "EPR": "pour",
+   "LFI": "contre",
+   "DR": "pour",
+   "ECOS": "contre",
+   "DEM": "pour",
+   "HOR": "pour",
+   "GDR": "contre"
+  },
+  "voix": {
+   "RN": {
+    "pour": 0,
+    "contre": 0,
+    "abstention": 51
+   },
+   "EPR": {
+    "pour": 26,
+    "contre": 0,
+    "abstention": 0
+   },
+   "LFI": {
+    "pour": 0,
+    "contre": 41,
+    "abstention": 0
+   },
+   "SOC": {
+    "pour": 0,
+    "contre": 0,
+    "abstention": 16
+   },
+   "DR": {
+    "pour": 6,
+    "contre": 0,
+    "abstention": 2
+   },
+   "ECOS": {
+    "pour": 0,
+    "contre": 15,
+    "abstention": 0
+   },
+   "DEM": {
+    "pour": 14,
+    "contre": 0,
+    "abstention": 0
+   },
+   "HOR": {
+    "pour": 3,
+    "contre": 0,
+    "abstention": 0
+   },
+   "LIOT": {
+    "pour": 0,
+    "contre": 0,
+    "abstention": 3
+   },
+   "GDR": {
+    "pour": 0,
+    "contre": 6,
+    "abstention": 0
+   },
+   "UDR": {
+    "pour": 0,
+    "contre": 0,
+    "abstention": 3
+   }
+  },
+  "dossier": "DLR5L17N55223",
+  "dossier_titre": "Projet de loi de finances de fin de gestion pour 2026",
+  "rattachement": "officiel",
+  "titre_loi": "projet de loi de finances de fin de gestion pour 2026",
+  "seance": "RUANR5L17S2027IDS30993",
+  "amendement_numero": null,
+  "amendement": null,
+  "article": null,
+  "socle": true,
+  "maj": "2026-10-08",
+  "positions_brutes": {
+   "EPR": "pour",
+   "LFI": "contre",
+   "DR": "pour",
+   "ECOS": "contre",
+   "DEM": "pour",
+   "HOR": "pour",
+   "GDR": "contre"
+  },
+  "neutralises": [],
+  "ambiguite": {
+   "EPR": {
+    "orateur": "M. Denis Masséglia (EPR)",
+    "citation": "Ce texte est conforme aux urgences et à nos priorités",
+    "citation_raison": null,
+    "justification": "Le groupe soutient les ouvertures de crédits du texte.",
+    "categorie": "A"
+   },
+   "LFI": {
+    "orateur": "Mme Claire Lejeune",
+    "citation": "Cela signifiera des annulations de crédits pour la culture, pour le travail et l’emploi alors que le taux de chômage explose, ainsi que de nouvelles réductions de crédits pour l’écologie.",
+    "citation_raison": null,
+    "justification": "Le groupe s'oppose aux annulations de crédits du texte.",
+    "categorie": "A"
+   },
+   "DR": {
+    "orateur": "Mme Marie-Christine Dalloz (DR)",
+    "citation": "Il permet de finir l’année avec les crédits engagés. Il est nécessaire d’honorer certains d’entre eux",
+    "citation_raison": null,
+    "justification": "Le groupe soutient les crédits de fin de gestion.",
+    "categorie": "A"
+   },
+   "ECOS": {
+    "orateur": "Mme Christine Arrighi (EcoS)",
+    "citation": "Il n’est que la transcription de votre gestion catastrophique",
+    "citation_raison": null,
+    "justification": "Le groupe s'oppose au contenu du texte.",
+    "categorie": "A"
+   },
+   "DEM": {
+    "orateur": "M. Emmanuel Mandon (Dem)",
+    "citation": "Il ne s’agit pas d’un nouveau budget, mais seulement d’ajustements indispensables à la bonne exécution du budget de 2026",
+    "citation_raison": null,
+    "justification": "Le groupe soutient les ajustements de crédits du texte.",
+    "categorie": "A"
+   },
+   "HOR": {
+    "orateur": "M. Sylvain Berrios (HOR)",
+    "citation": "Mais il nous faut une loi de finances de fin de gestion ; par conséquent, nous voterons pour.",
+    "citation_raison": null,
+    "justification": "Le groupe juge nécessaire l'ajustement des crédits en fin de gestion.",
+    "categorie": "A"
+   },
+   "GDR": {
+    "orateur": "M. Nicolas Sansu",
+    "citation": "Nous pensons que ce PLFG ne joue pas le rôle qui devrait être le sien ; l’adopter reviendrait à accepter un budget que nous avons toujours refusé.",
+    "citation_raison": null,
+    "justification": "Le groupe s'oppose au budget exécuté que le texte entérine.",
+    "categorie": "A"
+   }
+  },
+  "paires": 12
  }
 ]

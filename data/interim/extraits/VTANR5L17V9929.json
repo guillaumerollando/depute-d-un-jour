@@ -1,0 +1,212 @@
+{
+ "uid": "VTANR5L17V9929",
+ "titre": "l'amendement n° 458 de M. Tivoli à l'article premier du projet de loi visant la relance et la décentralisation du logement (première lecture).",
+ "type": "amendement",
+ "date": "2026-11-17",
+ "dossier": "DLR5L17N54608",
+ "dossier_titre": "La relance et la décentralisation du logement",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "contre",
+  "LFI": "contre",
+  "SOC": "contre",
+  "DR": "contre",
+  "ECOS": "contre",
+  "DEM": "contre",
+  "HOR": "contre",
+  "LIOT": "contre",
+  "UDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 72,
+   "contre": 0,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 0,
+   "contre": 30,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 20,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 0,
+   "contre": 23,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 1,
+   "contre": 8,
+   "abstention": 2
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 7,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 11,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 10,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 0,
+   "contre": 6,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 0,
+   "contre": 2,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 5,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC3188P0D1N000458",
+  "dossier": "DLR5L17N54608",
+  "texte": "PRJLANR5L17BTC3188",
+  "division": "Article PREMIER",
+  "auteur": "M. Tivoli",
+  "auteur_groupe": "RN",
+  "auteur_type": "Député",
+  "dispositif": "Compléter l’alinéa 18 par les mots : « , la sécurité et la tranquillité des résidents, les dégradations des parties communes ainsi que les actions engagées par les bailleurs pour éviter les récidives et dégradations ».",
+  "expose": "Le logement social ne peut durablement remplir sa mission que s'il garantit à ses occupants un cadre de vie sûr, apaisé et conforme aux exigences de la vie en société. En renforçant les conditions d'accès, et instaurant, dans le champs législatif, les obligations des bailleurs et les moyens d'action de l'État, le présent texte vise à mieux protéger les habitants respectueux des règles communes et à conforter la confiance des Français dans leur politique du logement. Dans de nombreux ensembles d'habitation, les habitants sont confrontés quotidiennement à des violences, des trafics de stupéfiants, des dégradations répétées des parties communes, des intimidations ou encore des nuisances graves qui compromettent durablement leur sécurité et leur qualité de vie. Ces comportements affectent en premier lieu les familles, les personnes âgées et les travailleurs qui respectent leurs obligations mais se trouvent privés de la tranquillité à laquelle ils sont en droit de prétendre."
+ },
+ "seance": "RUANR5L17S2027IDS31004",
+ "compte_rendu": "CRSANR5L17S2027O1N064",
+ "interventions": [
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Lionel Tivoli, pour soutenir l’amendement no 458."
+  },
+  {
+   "orateur": "M. Lionel Tivoli",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Vous nous expliquez qu’il faut repenser la rénovation urbaine, tirer les leçons du passé et mieux prendre en compte la vie des habitants. Très bien, allons donc jusqu’au bout de cette logique. La sécurité et la tranquillité sont essentielles : inscrivons-les explicitement parmi les indicateurs d’évaluation, en prenant notamment en compte les dégradations des parties communes et les actions engagées par les bailleurs pour y remédier. C’est précisément l’objet de cet amendement.Plus tôt dans le débat, nous en étions à rappeler qu’un hall d’immeuble doit être accessible à tous ses habitants et qu’une famille doit pouvoir rentrer tranquillement chez elle. Il est préoccupant de devoir rappeler de telles banalités dans cet hémicycle. Pour le Rassemblement national, la tranquillité des habitants doit être prise en compte dans le bilan d’une rénovation urbaine. Vous ne cessez de répéter qu’il s’agit d’une priorité : donnons-nous donc les moyens de l’évaluer, en adoptant cet amendement. (Applaudissements sur les bancs des groupes RN et UDR.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis de la commission ?"
+  },
+  {
+   "orateur": "Mme Annaïg Le Meur",
+   "qualite": "rapporteure",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "L’Anru conduit des politiques qui doivent être évaluées. Or la liste des indicateurs n’est pas encore totalement figée. Ceux qui sont prévus dans les conventions de renouvellement urbain auront vocation à couvrir l’ensemble des dimensions de ces politiques, notamment la transition écologique, l’insertion économique, la mixité sociale et l’accessibilité universelle.La sécurité, la tranquillité et les actions préventives des bailleurs en font aussi pleinement partie. Votre amendement est donc satisfait. Demande de retrait ; à défaut, avis défavorable."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis du gouvernement ?"
+  },
+  {
+   "orateur": "M. Vincent Jeanbrun",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Même avis."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Jean-René Cazeneuve."
+  },
+  {
+   "orateur": "M. Jean-René Cazeneuve",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Je souhaiterais revenir sur les arguments du Rassemblement national, en réponse aux propos très justes du ministre sur les annonces de Mme Le Pen faites ce matin. (« Ah ! » sur plusieurs bancs du groupe RN.)"
+  },
+  {
+   "orateur": "M. Frédéric Weber",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "C’est bien, ça a stimulé ton esprit !"
+  },
+  {
+   "orateur": "M. Jean-René Cazeneuve",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Vous avez annoncé vouloir supprimer le 1 % logement pour alimenter la retraite par capitalisation : ce faisant, vous supprimeriez 2,5 milliards d’euros consacrés au logement. Il faut le dire aux Français : ce serait un coup fatal porté à nos concitoyens les plus fragiles,…"
+  },
+  {
+   "orateur": "M. Jean-Claude Raux",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Ce ne sont pas ceux-là qui les intéressent !"
+  },
+  {
+   "orateur": "M. Jean-René Cazeneuve",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "…qui ont besoin de ces aides tant pour l’acquisition d’un logement que pour des travaux de rénovation. Cette mesure annoncée dans le cadre de votre campagne présidentielle n’est ni plus ni moins qu’un coup fatal porté au développement du logement dans notre pays."
+  },
+  {
+   "orateur": "M. Emeric Salmon",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Dire ça après dix ans de macronisme !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Hervé de Lépinau."
+  },
+  {
+   "orateur": "M. Hervé de Lépinau",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Nous avons déjà évoqué la distinction entre logique de stock et logique de flux. Pour notre part, nous sommes favorables au flux et au mouvement, pour une raison très simple : permettre aux communes de retrouver une réserve fiscale pour financer leurs investissements. Les offices publics de l’habitat (OPH) sont exonérés de tout : ils ne payent ni taxe foncière ni taxe d’aménagement. En remettant des logements sur le marché privé, nous permettrions l’apparition de nouveaux contributeurs.Je le dis en tant que maire : lorsqu’on succède à vos amis, notamment socialistes, les caisses sont vides. C’est pourquoi il nous faut élargir l’assiette fiscale en permettant à davantage de Français de devenir propriétaires : voilà l’enjeu pour demain. (Applaudissements sur les bancs des groupes RN et UDR.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 458."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+  "uid": "VTANR5L17V9916",
+  "consigne": "etape3_accroche v1",
+  "modifie": false,
+  "mesures_citees": [
+    {
+      "mesure": "Obligations de protection des systèmes informatiques pour les entités des secteurs critiques, sous le contrôle de l'Anssi",
+      "groupes": [
+        "DEM",
+        "DR",
+        "ECOS",
+        "EPR",
+        "LFI",
+        "RN",
+        "SOC"
+      ]
+    },
+    {
+      "mesure": "Signalement des incidents graves sous 24 heures",
+      "groupes": [
+        "DEM",
+        "DR"
+      ]
+    },
+    {
+      "mesure": "Sanctions des entreprises en faute",
+      "groupes": [
+        "DR",
+        "RN"
+      ]
+    }
+  ],
+  "titre": "Imposer des règles de cybersécurité aux entreprises et administrations des secteurs clés"
+}

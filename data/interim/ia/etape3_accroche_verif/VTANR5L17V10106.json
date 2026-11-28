@@ -1,0 +1,9 @@
+{
+  "uid": "VTANR5L17V10106",
+  "consigne": "etape3_accroche_verification v1",
+  "verdict": "refuse",
+  "problemes": [
+    "Lisibilité : « ouvrir plus de 7 milliards, en annuler près de 4 » n'est pas compris du premier coup : l'unité (euros) et l'objet (crédits) ont disparu, et « ouvrir des milliards » est un terme de technique budgétaire. Le résumé dit « ouvre plus de 7 milliards d'euros de crédits supplémentaires et en annule près de 4 milliards ».",
+    "Longueur : avec les termes exacts du résumé (« milliards d'euros de crédits »), le titre dépasse 90 caractères (100 à 102). La mesure ne tient donc pas dans la longueur : pour un budget, la consigne dit alors de garder le titre actuel (« Adopter le budget rectifié de l'État pour la fin de l'année 2026 »)."
+  ]
+}

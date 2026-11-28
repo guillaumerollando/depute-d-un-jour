@@ -1,0 +1,12 @@
+{
+  "uid": "VTANR5L17V10102",
+  "consigne": "etape3_verification v2",
+  "verdict": "corrige",
+  "problemes": [
+    "Le chiffre de 5 milliards d'euros pour le programme de renouvellement urbain ne figure pas dans le texte adopté : il ne vient que d'une intervention d'un opposant pendant le débat. Le résumé l'attribue à tort au texte.",
+    "Le « plan local d'urbanisme » n'est pas expliqué."
+  ],
+  "corrections": {
+    "ce_que_ca_change": "Le texte crée un troisième programme de rénovation des quartiers en difficulté, pour 2026-2040. Il permet de créer des « opérations d'intérêt local », où des projets de logements peuvent déroger au plan local d'urbanisme (les règles de construction de la commune). Il supprime le calendrier d'interdiction progressive de louer les logements les moins performants en énergie."
+  }
+}

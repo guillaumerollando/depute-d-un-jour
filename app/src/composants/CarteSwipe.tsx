@@ -1,10 +1,12 @@
 import { useEffect, useRef, useState } from 'react';
 import type { Carte, Reponse } from '../types';
+import { recent } from '../score';
 
 const SEUIL_X = 90;
 
 interface Props {
   carte: Carte;
+  dateDonnees: string;
   important: boolean;
   onImportant: () => void;
   onReponse: (r: Reponse) => void;
@@ -18,7 +20,7 @@ const TYPES: Record<string, string> = {
   resolution: 'Résolution',
 };
 
-export function CarteSwipe({ carte, important, onImportant, onReponse }: Props) {
+export function CarteSwipe({ carte, dateDonnees, important, onImportant, onReponse }: Props) {
   const [delta, setDelta] = useState({ x: 0, y: 0 });
   const [arguments_, setArguments] = useState(false);
   const [sortie, setSortie] = useState<Reponse | null>(null);
@@ -101,7 +103,10 @@ export function CarteSwipe({ carte, important, onImportant, onReponse }: Props) 
 
         <div className="carte-defilement" ref={defilement}>
           <div className="carte-entete">
-            <span className="puce-theme">{carte.theme}</span>
+            <span className="puces">
+              <span className="puce-theme">{carte.theme}</span>
+              {recent(carte, dateDonnees, 92) && <span className="puce-recent">Récent</span>}
+            </span>
             <span className="type-vote">{TYPES[carte.type] ?? carte.type} · scrutin n° {carte.numero}</span>
           </div>
           <h2 className="carte-titre">{carte.titre}</h2>

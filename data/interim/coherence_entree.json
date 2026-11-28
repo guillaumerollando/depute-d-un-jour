@@ -710,5 +710,117 @@
     "contexte": "Amendement qui supprime l'article 2 bis de la proposition de loi sur les risques liés aux PFAS, lors de son deuxième examen par les députés, le 20 février 2025.",
     "argument_pour": "Mieux vaut d'abord classer les PFAS selon leur nocivité, plutôt que de faire craindre aux habitants la moindre molécule de ce type.",
     "argument_contre": "Beaucoup d'habitants s'inquiètent des PFAS dans l'eau qu'ils boivent, dont les taux varient selon les régions : il faut de la transparence."
+  },
+  "VTANR5L17V10102": {
+    "titre": "Adopter le projet de loi sur la relance et la décentralisation du logement",
+    "ce_que_ca_change": "Le texte crée un troisième programme de rénovation des quartiers en difficulté, pour 2026-2040. Il permet des « opérations d'intérêt local ». Leurs projets de logements peuvent déroger au plan local d'urbanisme, c'est-à-dire aux règles de construction de la commune. Il supprime le calendrier qui interdisait peu à peu de louer les logements les moins performants en énergie.",
+    "aujourdhui": "Un calendrier interdit peu à peu de louer les logements les moins performants en énergie, et près de 3 millions de ménages attendent un logement social.",
+    "contexte": "Vote sur l'ensemble du projet de loi sur la relance et la décentralisation du logement, en première lecture, le 24 novembre 2026.",
+    "argument_pour": "Le texte relance la construction, fait confiance aux élus locaux et débloque des projets à l'arrêt depuis longtemps.",
+    "argument_contre": "Le texte mise sur des avantages fiscaux pour les investisseurs privés plutôt que sur la construction et la rénovation de logements abordables."
+  },
+  "VTANR5L17V9916": {
+    "titre": "Imposer des règles de cybersécurité aux entreprises et administrations des secteurs clés",
+    "ce_que_ca_change": "Les entreprises et administrations de secteurs jugés critiques devraient protéger leur informatique. Exemples : énergie, transports, banques, santé, eau, numérique… L'autorité nationale de cybersécurité les contrôlerait. Elles devraient lui signaler leurs incidents graves sous 24 heures. Une entreprise en faute risquerait jusqu'à 10 millions d'euros ou 2 % de son chiffre d'affaires mondial.",
+    "aujourdhui": "Seules quelques centaines d'opérateurs sont soumis aux règles de sécurité informatique de l'État, et un incident peut être signalé dans un délai de deux mois.",
+    "contexte": "Vote sur l'ensemble du projet de loi relatif à la résilience des infrastructures critiques et au renforcement de la cybersécurité, en première lecture, le 17 novembre 2026.",
+    "argument_pour": "Face aux cyberattaques, le texte soumet plus de 15 000 organismes à des obligations de sécurité, contre quelques centaines auparavant.",
+    "argument_contre": "Sans interdire les portes dérobées dans les messageries chiffrées, le texte protège des milliers d'organismes mais laisse une faille à tout pirate."
+  },
+  "VTANR5L17V8725": {
+    "titre": "Fixer la contribution de la France au budget européen pour 2027",
+    "ce_que_ca_change": "L'article estime à environ 30,9 milliards d'euros la somme que la France versera au budget de l'Union européenne en 2027. C'est 2,8 milliards de plus que la prévision pour 2026. Cette somme est prélevée directement sur les recettes de l'État.",
+    "aujourdhui": "Chaque année, la France verse sa part du budget de l'Union européenne par un prélèvement direct sur les recettes de l'État.",
+    "contexte": "Vote sur l'article 55 du budget de l'État pour 2027 (projet de loi de finances), en première lecture, le 14 octobre 2026.",
+    "argument_pour": null,
+    "argument_contre": null
+  },
+  "VTANR5L17V9202": {
+    "titre": "Faire des accompagnants d'élèves handicapés des fonctionnaires recrutés par concours",
+    "ce_que_ca_change": "Les accompagnants d'élèves en situation de handicap (AESH) deviendraient fonctionnaires, en catégorie B. Ils seraient recrutés par concours dans leur académie. Ceux en poste au 1er septembre 2026 seraient nommés stagiaires un an, avec une formation. Cela vaut dans le public et le privé sous contrat. Ceux qui ne remplissent pas les conditions pour être fonctionnaires se verraient proposer un CDI.",
+    "aujourdhui": "Les accompagnants d'élèves en situation de handicap (AESH) sont des agents contractuels de l'État, et non des fonctionnaires.",
+    "contexte": "Vote sur l'article 1er de la proposition de loi qui fait des accompagnants d'élèves handicapés des fonctionnaires, le 29 octobre 2026.",
+    "argument_pour": "Déconsidéré, mal payé et peu formé, le métier n'attire pas : le revaloriser permettrait d'offrir aux élèves handicapés l'accompagnement qui leur manque.",
+    "argument_contre": "Devenir fonctionnaire ne réglerait pas leur précarité, et le concours écarterait près d'un cinquième des accompagnants actuels."
+  },
+  "VTANR5L17V8898": {
+    "titre": "Supprimer la baisse de l'objectif de dépenses d'assurance maladie pour 2026",
+    "ce_que_ca_change": "L'article baisse de 1,1 milliard l'objectif de dépenses de l'assurance maladie pour 2026, à 273,3 milliards d'euros. Selon le Gouvernement, il tient compte de deux mesures. Un décret relève de 50 à 70 euros les plafonds des franchises médicales, sommes à la charge des patients. Des crédits en réserve pour les hôpitaux et cliniques sont annulés. L'amendement supprime l'article, pas le décret.",
+    "aujourdhui": "L'objectif de dépenses de l'assurance maladie pour 2026 a été voté en décembre 2025. Depuis, un décret a relevé de 50 à 70 euros le plafond des franchises médicales.",
+    "contexte": "Amendement qui supprime l'article 2 du budget de la Sécurité sociale pour 2027 (projet de loi de financement), voté le 20 octobre 2026.",
+    "argument_pour": null,
+    "argument_contre": null
+  },
+  "VTANR5L17V8697": {
+    "titre": "Permettre d'annuler les enquêtes pour violences sexuelles menées hors service spécialisé",
+    "ce_que_ca_change": "Le texte impose de confier les enquêtes sur les violences sexuelles, sexistes ou intrafamiliales à des services de police spécialisés. Des votes précédents prévoyaient qu'un manquement à cette règle n'annule pas la procédure. L'amendement limite cette protection aux trois ans qui suivent la promulgation de la loi. Après, la procédure pourrait être annulée.",
+    "aujourdhui": "Tel qu'il a été voté, le texte prévoit qu'une enquête qui n'a pas été confiée à un service de police spécialisé ne peut pas être annulée pour ce motif.",
+    "contexte": "Amendement à l'article 3 de la proposition de loi contre les violences sexuelles et sexistes faites aux femmes et aux enfants, lors d'un nouveau vote sur cet article, le 13 octobre 2026.",
+    "argument_pour": null,
+    "argument_contre": null
+  },
+  "VTANR5L17V10052": {
+    "titre": "Exclure les baux mobilité de l'encadrement des loyers",
+    "ce_que_ca_change": "Le bail mobilité est une location meublée d'un à dix mois. Il vise notamment les étudiants, apprentis, stagiaires ou personnes en mission temporaire. L'encadrement des loyers est une expérimentation qui plafonne les loyers dans certaines villes. L'amendement en sortirait le bail mobilité : ces logements ne seraient plus soumis au loyer plafond.",
+    "aujourdhui": "Dans les villes qui expérimentent l'encadrement des loyers, les logements loués en bail mobilité y sont soumis comme les autres.",
+    "contexte": "Amendement à l'article 1er de la proposition de loi sur l'équilibre des rapports entre propriétaires et locataires (deuxième lecture), voté le 19 novembre 2026.",
+    "argument_pour": null,
+    "argument_contre": null
+  },
+  "VTANR5L17V10051": {
+    "titre": "Exclure tous les logements meublés de l'encadrement des loyers",
+    "ce_que_ca_change": "L'encadrement des loyers est une expérimentation qui plafonne les loyers dans certaines villes. Aujourd'hui, seuls certains meublés situés dans des résidences avec services en sont exclus. L'amendement supprime cette condition : aucun logement meublé ne serait plus soumis au loyer plafond.",
+    "aujourdhui": "Dans les villes où les loyers sont plafonnés, seuls les meublés situés dans des résidences avec services échappent à ce plafond.",
+    "contexte": "Amendement à l'article 1er de la proposition de loi sur l'équilibre des rapports entre propriétaires et locataires (deuxième lecture), voté le 19 novembre 2026.",
+    "argument_pour": null,
+    "argument_contre": null
+  },
+  "VTANR5L17V9929": {
+    "titre": "Évaluer la rénovation urbaine aussi sur la sécurité des habitants et les dégradations",
+    "ce_que_ca_change": "Le projet crée un troisième programme national de rénovation des quartiers prioritaires, doté de 5 milliards d'euros. Ses projets sont évalués à l'aide d'indicateurs. L'amendement ajoute à ces indicateurs la sécurité et la tranquillité des résidents. Il ajoute aussi les dégradations des parties communes et les actions des bailleurs pour les éviter.",
+    "aujourdhui": "Le texte prévoit d'évaluer les projets de rénovation des quartiers avec des indicateurs, portant notamment sur l'accompagnement social des habitants.",
+    "contexte": "Amendement sur le programme de rénovation urbaine, à l'article 1er du projet de loi sur la relance et la décentralisation du logement, le 17 novembre 2026.",
+    "argument_pour": null,
+    "argument_contre": null
+  },
+  "VTANR5L17V8703": {
+    "titre": "Rétablir un congé pour les victimes de violences, à négocier dans le secteur privé",
+    "ce_que_ca_change": "Les agents publics victimes de violences sexuelles, sexistes ou intrafamiliales auraient droit à jusqu'à 10 jours d'absence payés, sur présentation d'un récépissé de plainte. Dans le privé, syndicats et patronat devraient négocier un congé d'un à dix jours par an, et les collègues pourraient donner anonymement des jours de repos à la victime.",
+    "aujourdhui": "Il n'existe pas de congé propre aux victimes de violences. L'article de ce texte qui en créait un avait été supprimé lors d'un premier vote.",
+    "contexte": "Amendement rétablissant l'article 46, supprimé lors d'un premier vote, de la proposition de loi contre les violences sexuelles et sexistes faites aux femmes et aux enfants, en seconde délibération, le 13 octobre 2026.",
+    "argument_pour": "Faire négocier ce congé par syndicats et patronat, avec des dons de jours entre collègues, respecterait la Constitution et l'organisation des entreprises.",
+    "argument_contre": "Ce congé reposerait sur des négociations de branche incertaines et sur des dons de jours entre collègues : un dispositif moins protecteur pour les victimes."
+  },
+  "VTANR5L17V8897": {
+    "titre": "Supprimer la révision à 21,8 milliards du déficit 2026 de la Sécurité sociale",
+    "ce_que_ca_change": "L'article corrige les comptes 2026 des régimes de base de la Sécurité sociale : maladie, retraite, famille… Le déficit prévu passe de 19,4 à 21,8 milliards d'euros. C'est surtout dû à des recettes plus faibles que prévu. Les amendements suppriment cet article, et donc cette correction.",
+    "aujourdhui": "Le budget 2026 de la Sécurité sociale prévoyait un déficit de 19,4 milliards d'euros pour ses régimes de base : maladie, retraite, famille…",
+    "contexte": "Amendements identiques qui suppriment l'article 1er du budget de la Sécurité sociale pour 2027 (projet de loi de financement), en première lecture, le 20 octobre 2026.",
+    "argument_pour": "Les recettes sont surestimées chaque année, puis ce manque sert à justifier des économies décidées après le vote du budget.",
+    "argument_contre": "Ce tableau fait l'état des lieux des comptes : il faut le regarder avec lucidité pour comprendre les déficits, plutôt que s'en priver."
+  },
+  "VTANR5L17V10106": {
+    "titre": "Adopter le budget rectifié de l'État pour la fin de l'année 2026",
+    "ce_que_ca_change": "Le texte ajuste le budget de l'État en fin d'année : il ouvre plus de 7 milliards d'euros de crédits supplémentaires et en annule près de 4 milliards. Il valide deux décrets de 2026 qui avaient modifié des crédits en urgence. Il prévoit un déficit public de 5,4 % de la richesse nationale (PIB) en 2026.",
+    "aujourdhui": "Le budget voté pour 2026 reposait sur une croissance de 1 % et un déficit public ramené à 5 % de la richesse nationale.",
+    "contexte": "Vote sur l'ensemble du projet de loi de finances de fin de gestion pour 2026, texte issu de l'accord entre députés et sénateurs, le 24 novembre 2026.",
+    "argument_pour": "Le texte apporte des aides à ceux que l'année a le plus touchés, comme les agriculteurs et les forestiers face à la sécheresse et aux incendies.",
+    "argument_contre": "Le texte valide des décrets qui ont supprimé, sans vote du Parlement, des centaines de millions pour la recherche, les collectivités ou les énergies vertes."
+  },
+  "VTANR5L17V10117": {
+    "titre": "Faire de l'égalité entre les territoires une priorité de toutes les politiques publiques",
+    "ce_que_ca_change": "La résolution, qui exprime une position de l'Assemblée sans créer de règle, invite le Gouvernement à mesurer l'effet de ses décisions sur chaque territoire. Elle demande de répartir les investissements publics selon les besoins, en particulier pour les zones rurales, les petites et moyennes villes, les bassins industriels fragilisés et les outre-mer, et de publier les résultats.",
+    "aujourdhui": "Entre 2011 et 2022, les métropoles ont concentré près de la moitié des créations d'emplois, alors qu'elles n'abritent qu'un Français sur six.",
+    "contexte": "Vote sur une proposition de résolution, texte par lequel l'Assemblée exprime une position, le 26 novembre 2026.",
+    "argument_pour": "Beaucoup de décisions publiques reposent sur des moyennes nationales éloignées de la réalité des territoires, au détriment des plus petits.",
+    "argument_contre": "Des territoires sont délaissés parce qu'ils sont populaires, et non parce qu'ils se composent de communes rurales ou moyennes."
+  },
+  "VTANR5L17V9905": {
+    "titre": "Permettre de débloquer jusqu'à 10 000 euros d'épargne salariale pour des achats",
+    "ce_que_ca_change": "Les salariés pourraient retirer exceptionnellement jusqu'à 10 000 euros nets de leur épargne salariale. Cela vaut pour la participation et l'intéressement placés avant 2026, normalement bloqués plusieurs années. L'argent servirait à acheter des biens ou des services. Les exonérations d'impôt seraient gardées. La naissance ou l'adoption d'un enfant permettrait aussi un déblocage anticipé.",
+    "aujourdhui": "La participation et l'intéressement placés sur un plan d'épargne entreprise restent bloqués cinq ans, en échange d'une exonération d'impôt.",
+    "contexte": "Vote sur l'ensemble de la proposition de loi sur l'épargne salariale et son déblocage exceptionnel, en première lecture, le 16 novembre 2026.",
+    "argument_pour": "Le texte ne touche pas aux salaires : il rend aux salariés la liberté d'utiliser, quand ils en ont besoin, l'argent qu'ils ont épargné.",
+    "argument_contre": "Puiser dans une épargne prévue pour des projets à moyen et long terme pour payer ses courses ne répond pas au problème du pouvoir d'achat."
   }
 }

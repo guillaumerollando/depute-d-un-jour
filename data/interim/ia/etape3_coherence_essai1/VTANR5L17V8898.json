@@ -1,0 +1,12 @@
+{
+  "uid": "VTANR5L17V8898",
+  "consigne": "etape3_coherence v2",
+  "modifie": true,
+  "problemes": [
+    "Le résumé et la situation actuelle parlent des seules « franchises médicales », alors que la source vise les plafonds des participations forfaitaires et des franchises ; la situation actuelle dit « le plafond », le résumé « les plafonds »."
+  ],
+  "corrections": {
+    "ce_que_ca_change": "L'article baisse de 1,1 milliard l'objectif de dépenses de l'assurance maladie pour 2026, à 273,3 milliards d'euros. Le Gouvernement l'explique par deux mesures. Un décret relève de 50 à 70 euros les plafonds des franchises et participations forfaitaires, à la charge des patients. Des crédits en réserve pour les hôpitaux et cliniques sont annulés. L'amendement supprime l'article, pas le décret.",
+    "aujourdhui": "L'objectif de dépenses de l'assurance maladie pour 2026 date de décembre 2025. Puis un décret a relevé de 50 à 70 euros les plafonds des franchises et participations forfaitaires."
+  }
+}

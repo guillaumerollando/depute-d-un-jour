@@ -1,0 +1,107 @@
+{
+ "uid": "VTANR5L17V10051",
+ "titre": "l'amendement n° 11 de M. Falcon à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+ "type": "amendement",
+ "date": "2026-11-19",
+ "dossier": "DLR5L17N53069",
+ "dossier_titre": "Retrouver la confiance et l’équilibre dans les rapports locatifs",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "contre",
+  "LFI": "contre",
+  "SOC": "contre",
+  "DR": "pour",
+  "ECOS": "contre",
+  "DEM": "contre",
+  "LIOT": "contre",
+  "UDR": "pour",
+  "GDR": "contre"
+ },
+ "voix": {
+  "RN": {
+   "pour": 77,
+   "contre": 1,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 0,
+   "contre": 13,
+   "abstention": 2
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 37,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 0,
+   "contre": 60,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 5,
+   "contre": 0,
+   "abstention": 1
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 25,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 8,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 0,
+   "abstention": 4
+  },
+  "LIOT": {
+   "pour": 0,
+   "contre": 4,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 4,
+   "contre": 0,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 0,
+   "contre": 11,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC3432P0D1N000011",
+  "dossier": "DLR5L17N53069",
+  "texte": "PIONANR5L17BTC3432",
+  "division": "Article PREMIER",
+  "auteur": "M. Falcon,  M. Amblard, M. Casterman, M. de Lépinau, M. Gabarron, Mme Florence Goulet, Mme Grangier, M. Jolly, M. Jordan, Mme Laporte, M. Le Bourgeois, M. Loubet, M. Patrice Martin, M. Rivière, M. Vos et M. Weber",
+  "auteur_groupe": "RN",
+  "auteur_type": "Député",
+  "dispositif": "Rédiger ainsi l’alinéa 21 : « B bis . – Au dernier alinéa du IV, les mots : « situés dans une résidence avec services gérée selon un mode d’organisation adapté aux nécessités des résidents par un mandataire unique, définis au c du 4° de l’article 261 D du code général des impôts » sont supprimés. »",
+  "expose": "Le présent amendement de repli vise à exclure l’ensemble des logements meublés du champ de l’encadrement des loyers. La location meublée impose au bailleur des investissements et des charges spécifiques : acquisition d’un mobilier et d’équipements conformes à la liste réglementaire, entretien et renouvellement réguliers, rotation plus fréquente des locataires. Elle représente 18 % du parc locatif privé en zone tendue, contre 9 % ailleurs, et répond aux besoins des étudiants, des jeunes actifs et des salariés en mobilité professionnelle. Or, la Cour des comptes établit dans sa communication d’octobre 2026 que les loyers de référence des logements meublés « ne peuvent être déduits de l’observation directe en raison de volumes insuffisants dans les échantillons ». Ils résultent de l’application d’un coefficient correcteur aux loyers des logements vides, variable selon les territoires (13 % à Paris, 5 à 8 % à Lille), dont la Cour souligne qu’il « peut produire des distorsions ». Les logements meublés en gestion directe ne sont même pas conservés dans les bases de données des observatoires. Plafonner des loyers sur une base statistique aussi fragile n’est pas acceptable. Libérer la location meublée de l’encadrement, c’est redonner de l’attractivité à un mode de location souple, qui facilite la mobilité et l’accès des jeunes au logement."
+ },
+ "seance": "RUANR5L17S2027IDS31055",
+ "compte_rendu": "CRSANR5L17S2027O1N069",
+ "interventions": [
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 11."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

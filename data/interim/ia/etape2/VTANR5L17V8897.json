@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V8897",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Joëlle Mélin",
+      "citation": "Les chiffres ainsi présentés sont donc biaisés et nous n’avons pas d’autre solution que de demander la suppression de cet article : il n’y a rien à discuter.",
+      "justification": "Le groupe conteste les hypothèses et la présentation des chiffres de l'article."
+    },
+    "EPR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "LFI": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Anaïs Belouassa-Cherifi",
+      "citation": "Le tableau présenté par cet article n’est pas si compliqué qu’il en a l’air : il ne s’agit que des coupes que le gouvernement entend faire sur le dos des assurés ! Nous nous y opposons.",
+      "justification": "Le groupe s'oppose aux économies traduites par l'article."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Arnaud Simion",
+      "citation": "L’article 1er concentre trois renoncements politiques majeurs.",
+      "justification": "Le groupe s'oppose au déficit, à la hausse des franchises et à l'annulation de crédits hospitaliers entérinés par l'article."
+    },
+    "DR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Hendrik Davi",
+      "citation": "Pour mettre fin à cette supercherie, supprimons l’article.",
+      "justification": "Le groupe conteste la sincérité des prévisions de l'article."
+    },
+    "DEM": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Nicolas Turquois",
+      "citation": "Je m’oppose aux amendements de suppression.",
+      "justification": "Le groupe souhaite conserver l'état des lieux présenté par l'article."
+    },
+    "HOR": {
+      "position": "contre",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "GDR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Édouard Bénard",
+      "citation": "Nous sommes en total désaccord avec les rectifications apportées à ce bien mal nommé tableau d’équilibre.",
+      "justification": "Le groupe s'oppose aux rectifications et aux mesures d'économie intégrées dans l'article."
+    }
+  }
+}

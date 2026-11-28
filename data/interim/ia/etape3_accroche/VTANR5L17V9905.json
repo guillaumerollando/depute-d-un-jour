@@ -1,0 +1,31 @@
+{
+  "uid": "VTANR5L17V9905",
+  "consigne": "etape3_accroche v1",
+  "modifie": false,
+  "mesures_citees": [
+    {
+      "mesure": "Déblocage exceptionnel de l'épargne salariale pour acheter des biens ou des services",
+      "groupes": [
+        "DEM",
+        "DR",
+        "ECOS",
+        "EPR",
+        "GDR",
+        "HOR",
+        "LIOT",
+        "RN",
+        "SOC"
+      ]
+    },
+    {
+      "mesure": "Déblocage anticipé à la naissance ou à l'adoption d'un enfant",
+      "groupes": [
+        "DEM",
+        "DR",
+        "EPR",
+        "SOC"
+      ]
+    }
+  ],
+  "titre": "Permettre de débloquer jusqu'à 10 000 euros d'épargne salariale pour des achats"
+}

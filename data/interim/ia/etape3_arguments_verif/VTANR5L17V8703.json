@@ -1,0 +1,14 @@
+{
+  "uid": "VTANR5L17V8703",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "argument_contre : « au lieu d'offrir dix jours pour quitter un conjoint violent et porter plainte » ne figure pas dans la citation retenue ; cette image forte crée aussi un déséquilibre de ton face à l'argument pour. Reformulation limitée à la citation (dispositif « moins-disant », négociations « incertaines », dons de jours).",
+    "argument_pour : la citation invoque aussi la constitutionnalité, raison principale du camp (avis du Conseil d'État sur la prise en charge par l'employeur), absente de l'argument. Ajoutée pour un degré de force comparable.",
+    "aujourdhui et resume_court exacts. Citations exactes, groupes du bon camp (RN pour, ECOS contre)."
+  ],
+  "corrections": {
+    "argument_pour": "Faire négocier ce congé par syndicats et patronat, avec des dons de jours entre collègues, respecterait la Constitution et l'organisation des entreprises.",
+    "argument_contre": "Ce congé reposerait sur des négociations de branche incertaines et sur des dons de jours entre collègues : un dispositif moins protecteur pour les victimes."
+  }
+}

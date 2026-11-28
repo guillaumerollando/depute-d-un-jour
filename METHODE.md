@@ -47,7 +47,7 @@ Une carte ne compte jamais pour un groupe sans position, ni en accord ni en dés
 4. le titre de loi cité par un scrutin déjà rattaché ;
 5. la comparaison avec le titre des documents.
 
-Au total, 99,6 % des 8 609 scrutins sont rattachés.
+Au total, 99,6 % des 8 609 scrutins du paquet initial sont rattachés.
 
 **Scrutins éligibles.** Un scrutin peut devenir une carte s'il remplit toutes ces conditions :
 - il porte sur un texte entier, une partie de budget, un article, un amendement dont on a le texte, ou une résolution ;
@@ -124,12 +124,14 @@ Chaque argument reformule une intervention **réellement prononcée** dans l'hé
    - au plus 8 cartes par thème ;
    - au plus 2 cartes par dossier ;
    - un seul vote par **sujet**. Une IA regroupe les cartes qui poseraient la même question, selon la consigne [`consignes/etape3_sujets.md`](consignes/etape3_sujets.md).
+
+   **Actualité.** Un vote récent parle davantage : un vote des **6 derniers mois** (avant la date des données) compte un départage de plus, s'il en départage déjà au moins un. Une carte qui ne départage rien ne passe jamais devant grâce à sa date.
 3. **Égalités.** Elles se règlent, dans l'ordre, par :
-   1. le type de vote (texte entier, puis article, puis amendement) ;
-   2. le nombre de votants ;
-   3. la date ;
+   1. la date (le plus récent d'abord) ;
+   2. le type de vote (texte entier, puis article, puis amendement) ;
+   3. le nombre de votants ;
    4. le numéro du scrutin.
-4. **Taille.** Le paquet compte au plus 80 cartes.
+4. **Taille.** Le paquet compte au plus 80 cartes lors d'une reconstruction complète ; chaque mise à jour en ajoute au plus 15 (§9).
 
 Les paires que les données ne départagent pas, parce que les groupes votent pareil, ne sont pas départagées artificiellement.
 
@@ -144,10 +146,15 @@ Les paires que les données ne départagent pas, parce que les groupes votent pa
 **Pourquoi pas de « plutôt pour » ?** Un groupe vote pour ou contre : un « plutôt » n'existe pas dans les données. La nuance passe par l'étoile et par les citations.
 
 **Ordre des cartes.**
-- Les quatre premières viennent du socle (les votes jugés majeurs par l'Assemblée), sur des thèmes tous différents.
-- Ensuite, la carte suivante est celle qui départage le plus de paires parmi les groupes encore en tête. Un tirage au sort départage les cartes de valeur proche.
+- Les quatre premières viennent du socle (les votes jugés majeurs par l'Assemblée), sur des thèmes tous différents. La toute première est le vote majeur le plus récent (6 derniers mois) que tu n'as pas encore vu.
+- Ensuite, la carte suivante est celle qui départage le plus de paires parmi les groupes encore en tête. Un vote d'actualité y compte un départage de plus. Un tirage au sort départage les cartes de valeur proche.
+- Les votes des 3 derniers mois portent la mention « Récent ».
 - Les cartes déjà vues lors des sessions précédentes, mémorisées sur l'appareil, passent après les autres : deux sessions de suite proposent des votes différents.
 - Une session compte 15 cartes, et on peut en ajouter par séries de 10.
+
+**Après chaque vote.** La carte suivante rappelle ce qu'a décidé l'Assemblée sur la précédente, avec le décompte officiel (pour, contre). La position des groupes n'est montrée qu'à la fin.
+
+**Ton mélange.** Le même calcul d'accord, refait dans quatre familles de thèmes : économie et social (économie et impôts, travail et retraites, santé et protection sociale, logement) ; sécurité, immigration, défense ; environnement et territoires (environnement et énergie, agriculture, territoires et outre-mer) ; société et institutions (société et éthique, éducation, culture et numérique, institutions). Une famille s'affiche à partir de 3 votes.
 
 **Député jumeau.** C'est le député dont les votes nominatifs ressemblent le plus aux tiens, parmi ceux qui ont voté sur au moins 60 % de tes cartes.
 
@@ -156,6 +163,21 @@ Les paires que les données ne départagent pas, parce que les groupes votent pa
 - Le résumé d'un texte long ne retient que ses mesures principales. Le texte complet reste accessible depuis chaque carte.
 - Si un groupe ne s'exprime pas dans le débat, une éventuelle ambiguïté de son vote ne peut pas être détectée.
 - Les IA peuvent se tromper. C'est pourquoi chaque carte est relue par une seconde IA, contrôlée mécaniquement, et entièrement publiée, pour que chacun puisse signaler une erreur.
+
+## 9. Mises à jour
+
+Entre deux reconstructions complètes, le paquet publié est **gardé tel quel** et s'enrichit des votes tenus depuis la date de ses données :
+
+1. les nouveaux scrutins passent par les mêmes règles d'éligibilité et de présélection (§3 et §6), appliquées à eux seuls (`pipeline/maj_preselection.py`) ;
+2. ils suivent les mêmes étapes de débat, de classement, de rédaction et de vérification que les autres (§4 et §5) ;
+3. la sélection (`etape3_selection.py --maj`) part du paquet publié, applique le socle puis le complément glouton aux seuls nouveaux votes, et en ajoute **au plus 15**. La limite par thème suit la taille du paquet : 10 % des cartes, et jamais moins de 8.
+
+Une carte déjà publiée n'est ni retirée ni réécrite par une mise à jour. Une reconstruction complète, elle, refait toute la sélection.
+
+| Date | Données au | Cartes ajoutées |
+|---|---|---|
+| 2026-10-10 | 2026-10-08 | paquet initial (80) |
+| 2026-11-28 | 2026-11-26 | 14 (logement, encadrement des loyers, AESH, cybersécurité, budget européen, Sécurité sociale 2027, violences, épargne salariale, budget rectifié 2026, égalité des territoires) |
 
 ## Reproduire
 
@@ -169,5 +191,7 @@ python3 pipeline/etape3_sources.py       # textes officiels, puis résumés, vé
 python3 pipeline/etape3_selection.py
 python3 pipeline/etape4_export.py        # données de l'application
 ```
+
+Mise à jour (§9) : `maj_preselection.py` à la place de `etape1_preselection.py`, puis les mêmes étapes, et `etape3_selection.py --maj`.
 
 Les sorties des IA sont conservées dans `data/interim/ia/`. On peut donc relancer les étapes mécaniques sans refaire appel à une IA.

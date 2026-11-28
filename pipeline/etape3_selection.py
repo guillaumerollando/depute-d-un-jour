@@ -5,8 +5,11 @@ Entrées : data/interim/apres_ambiguite.json, data/interim/ia/etape3/, data/inte
 Sorties : data/publie/cartes.json (paquet final), data/interim/selection.md (rapport)
 """
 import itertools
+import math
 import re
+import sys
 from collections import Counter
+from datetime import date, timedelta
 
 from commun import INTERIM, ORDRE, PRIORITE_TYPE, RACINE, charger_json, ecrire_json
 
@@ -14,6 +17,13 @@ TAILLE_MAX = 80
 COUVERTURE_CIBLE = 3
 MAX_PAR_THEME = 8
 MAX_PAR_DOSSIER = 2
+# Actualité : un vote des 6 derniers mois (avant la date des données) gagne un point dans le complément glouton,
+# et à valeur égale le vote le plus récent passe devant.
+RECENT_JOURS = 183
+BONUS_RECENT = 1
+# Mise à jour (python3 etape3_selection.py --maj) : le paquet publié est gardé, au plus MAX_AJOUT cartes s'ajoutent,
+# et la limite par thème suit la taille du paquet (10 %).
+MAX_AJOUT = 15
 THEMES = [
     "Économie et impôts", "Travail et retraites", "Santé et protection sociale", "Sécurité et justice",
     "Immigration et nationalité", "Environnement et énergie", "Agriculture et alimentation",
@@ -50,11 +60,18 @@ def controles_mecaniques(carte):
 
 
 def cle_egalite(c):
-    return (PRIORITE_TYPE[c["type"]], -c["votants"], tuple(-int(x) for x in c["date"].split("-")), c["numero"])
+    """À valeur égale : le plus récent, puis le type (texte entier d'abord), les votants, le numéro."""
+    return (tuple(-int(x) for x in c["date"].split("-")), PRIORITE_TYPE[c["type"]], -c["votants"], c["numero"])
+
+
+def recent(c, date_donnees):
+    return date.fromisoformat(c["date"]) >= date.fromisoformat(date_donnees) - timedelta(days=RECENT_JOURS)
 
 
 def main():
+    maj = "--maj" in sys.argv
     candidates = charger_json(INTERIM / "apres_ambiguite.json")
+    date_donnees = max(c["date"] for c in candidates)
     sources = charger_json(INTERIM / "sources.json")
     cartes, ecartees = [], []
     for c in candidates:
@@ -131,27 +148,45 @@ def main():
         for p in paires[c["uid"]]:
             couverture[p] += 1
 
+    taille_max, max_theme, pool = TAILLE_MAX, MAX_PAR_THEME, cartes
+    if maj:
+        # Mise à jour : le paquet publié reste tel quel, puis les mêmes règles s'appliquent aux seuls nouveaux votes
+        publie = [c["uid"] for c in charger_json(RACINE / "data/publie/cartes.json")]
+        par_uid = {c["uid"]: c for c in cartes}
+        manquantes = [u for u in publie if u not in par_uid]
+        if manquantes:
+            sys.exit(f"Cartes publiées introuvables parmi les candidates : {manquantes}")
+        for u in publie:
+            prendre(par_uid[u])
+        depuis = max(par_uid[u]["date"] for u in publie)
+        pool = [c for c in cartes if c["date"] > depuis and c["uid"] not in publie]
+        taille_max = len(publie) + MAX_AJOUT
+        max_theme = max(MAX_PAR_THEME, math.ceil(0.1 * taille_max))
+
     # 1. Socle : les votes solennels, désignés comme majeurs par l'Assemblée elle-même
-    for c in sorted((c for c in cartes if c["socle"] and c["solennel"]), key=cle_egalite):
+    for c in sorted((c for c in pool if c["socle"] and c["solennel"]), key=cle_egalite):
         if sujets.get(c["uid"], c["uid"]) not in sujets_pris:
             prendre(c)
     # puis les votes à très forte participation, du plus suivi au moins suivi, dans les limites
     # par thème, par dossier et par sujet
-    for c in sorted((c for c in cartes if c["socle"] and not c["solennel"]), key=lambda c: (-c["votants"], c["numero"])):
-        if (sujets.get(c["uid"], c["uid"]) not in sujets_pris and par_theme[c["theme"]] < MAX_PAR_THEME
+    for c in sorted((c for c in pool if c["socle"] and not c["solennel"]), key=lambda c: (-c["votants"], c["numero"])):
+        if (sujets.get(c["uid"], c["uid"]) not in sujets_pris and par_theme[c["theme"]] < max_theme
                 and par_dossier[c["dossier"]] < MAX_PAR_DOSSIER):
             prendre(c)
 
     # 2. Complément glouton déterministe : départager les paires encore peu couvertes
-    restants = sorted((c for c in cartes if c not in choisis), key=cle_egalite)
+    restants = sorted((c for c in pool if c not in choisis), key=cle_egalite)
     cible = COUVERTURE_CIBLE
-    while len(choisis) < TAILLE_MAX:
+    while len(choisis) < taille_max:
         meilleur, gain_max = None, 0
         for c in restants:
-            if (par_theme[c["theme"]] >= MAX_PAR_THEME or par_dossier[c["dossier"]] >= MAX_PAR_DOSSIER
+            if (par_theme[c["theme"]] >= max_theme or par_dossier[c["dossier"]] >= MAX_PAR_DOSSIER
                     or sujets.get(c["uid"], c["uid"]) in sujets_pris):
                 continue
             gain = sum(1 for p in paires[c["uid"]] if couverture[p] < cible)
+            # Le bonus d'actualité ne joue que pour une carte qui départage au moins une paire
+            if gain:
+                gain += BONUS_RECENT if recent(c, date_donnees) else 0
             if gain > gain_max:
                 meilleur, gain_max = c, gain
         if not meilleur:

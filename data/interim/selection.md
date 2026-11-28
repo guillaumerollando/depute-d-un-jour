@@ -1,8 +1,8 @@
 # Paquet final — étape 3
 
-- Cartes candidates : 173 ; publiables : 148 ; retenues : 80 (dont socle : 40)
-- Thèmes : {'Santé et protection sociale': 8, 'Agriculture et alimentation': 8, 'Société et éthique': 2, 'Sécurité et justice': 8, 'Territoires et outre-mer': 8, 'Économie et impôts': 8, 'Immigration et nationalité': 6, 'Travail et retraites': 8, 'Défense et international': 4, 'Logement': 4, 'Environnement et énergie': 7, 'Éducation, culture et numérique': 6, 'Institutions et démocratie': 3}
-- Types : {'ensemble': 45, 'article': 3, 'amendement': 30, 'resolution': 2}
+- Cartes candidates : 193 ; publiables : 165 ; retenues : 94 (dont socle : 42)
+- Thèmes : {'Santé et protection sociale': 10, 'Agriculture et alimentation': 8, 'Société et éthique': 2, 'Sécurité et justice': 9, 'Territoires et outre-mer': 9, 'Économie et impôts': 9, 'Immigration et nationalité': 6, 'Travail et retraites': 10, 'Défense et international': 5, 'Logement': 8, 'Environnement et énergie': 7, 'Éducation, culture et numérique': 8, 'Institutions et démocratie': 3}
+- Types : {'ensemble': 50, 'article': 5, 'amendement': 37, 'resolution': 2}
 - Paire la moins départagée : 4 fois
 
 ## Cartes retenues
@@ -247,6 +247,48 @@
 80. **Supprimer la redevance sur les rejets de PFAS dans l'eau par les industriels** — Environnement et énergie · amendement · 2025-02-20
    - L'article supprimé crée une redevance, c'est-à-dire une somme à payer. Elle vise les sites industriels qui rejettent des PFAS dans l'eau. Les PFAS sont une famille de substances chimiques. La redevance est due à partir de 100 grammes rejetés par an. Son tarif est de 100 euros par tranche de 100 grammes.
    - Pour : UDR RN · Contre : LFI GDR ECOS SOC DEM EPR HOR DR
+81. **Adopter le projet de loi sur la relance et la décentralisation du logement** — Logement · ensemble · 2026-11-24
+   - Le texte crée un troisième programme de rénovation des quartiers en difficulté, pour 2026-2040. Il permet de créer des « opérations d'intérêt local », où des projets de logements peuvent déroger au plan local d'urbanisme (les règles de construction de la commune). Il supprime le calendrier d'interdiction progressive de louer les logements les moins performants en énergie.
+   - Pour : LIOT DEM EPR HOR DR UDR RN · Contre : LFI GDR ECOS
+82. **Imposer des règles de cybersécurité aux entreprises et administrations des secteurs clés** — Éducation, culture et numérique · ensemble · 2026-11-17
+   - Les entreprises et administrations de secteurs jugés critiques (énergie, transports, banques, santé, eau, numérique…) devraient protéger leurs systèmes informatiques, sous le contrôle de l'autorité nationale de cybersécurité, et lui signaler leurs incidents graves sous 24 heures. Les entreprises en faute risqueraient jusqu'à 10 millions d'euros ou 2 % de leur chiffre d'affaires mondial.
+   - Pour : ECOS SOC LIOT DEM EPR HOR DR UDR RN · Contre : LFI
+83. **Fixer la contribution de la France au budget européen pour 2027** — Défense et international · article · 2026-10-14
+   - L'article évalue à environ 30,9 milliards d'euros la somme que la France versera au budget de l'Union européenne en 2027, soit 2,8 milliards de plus que la prévision pour 2026. Cette somme est prélevée directement sur les recettes de l'État.
+   - Pour : ECOS SOC LIOT DEM EPR HOR DR · Contre : LFI GDR UDR RN
+84. **Faire des accompagnants d'élèves handicapés des fonctionnaires recrutés par concours** — Éducation, culture et numérique · article · 2026-10-29
+   - Les accompagnants d'élèves en situation de handicap (AESH) formeraient un corps de fonctionnaires de catégorie B, recrutés par concours dans leur académie. Ceux en poste au 1er septembre 2026 dans un établissement public ou privé sous contrat seraient nommés stagiaires pour un an, avec une formation. Ceux qui ne remplissent pas les conditions pour être fonctionnaires se verraient proposer un CDI.
+   - Pour : LFI GDR ECOS SOC LIOT DR · Contre : DEM EPR HOR UDR RN
+85. **Supprimer la baisse de l'objectif de dépenses d'assurance maladie pour 2026** — Santé et protection sociale · amendement · 2026-10-20
+   - L'article abaisse de 1,1 milliard, à 273,3 milliards d'euros, l'objectif de dépenses de l'assurance maladie pour 2026. Selon le Gouvernement, il tient compte de la hausse par décret, de 50 à 70 euros, des plafonds des franchises médicales (sommes à la charge des patients) et d'une annulation de crédits en réserve pour les hôpitaux et cliniques. L'amendement supprime l'article, pas le décret.
+   - Pour : LFI GDR ECOS SOC LIOT UDR RN · Contre : DEM EPR HOR DR
+86. **Permettre d'annuler les enquêtes pour violences sexuelles menées hors service spécialisé** — Sécurité et justice · amendement · 2026-10-13
+   - Le texte impose de confier les enquêtes sur les violences sexuelles, sexistes ou intrafamiliales à des services de police spécialisés. Des votes précédents avaient prévu que le non-respect de cette règle ne soit pas une cause d'annulation de la procédure. L'amendement limite cette protection aux trois ans suivant la promulgation de la loi ; après, la procédure pourrait être annulée.
+   - Pour : LFI GDR ECOS SOC DR · Contre : DEM HOR UDR RN
+87. **Exclure les baux mobilité de l'encadrement des loyers** — Logement · amendement · 2026-11-19
+   - Le bail mobilité est une location meublée d'un à dix mois, destinée notamment aux étudiants, apprentis, stagiaires ou personnes en mission temporaire. L'amendement le sortirait de l'encadrement des loyers, l'expérimentation qui plafonne les loyers dans certaines villes : ces logements ne seraient plus soumis au loyer plafond.
+   - Pour : DR UDR RN · Contre : LFI GDR ECOS SOC LIOT DEM EPR
+88. **Exclure tous les logements meublés de l'encadrement des loyers** — Logement · amendement · 2026-11-19
+   - L'encadrement des loyers est une expérimentation qui plafonne les loyers dans certaines villes. Aujourd'hui, seuls certains meublés situés dans des résidences avec services en sont exclus. L'amendement supprime cette condition : aucun logement meublé ne serait plus soumis au loyer plafond.
+   - Pour : DR UDR RN · Contre : LFI GDR ECOS SOC LIOT DEM EPR
+89. **Évaluer la rénovation urbaine aussi sur la sécurité des habitants et les dégradations** — Logement · amendement · 2026-11-17
+   - Le projet crée un troisième programme national de rénovation des quartiers prioritaires, doté de 5 milliards d'euros, dont les projets sont évalués à l'aide d'indicateurs. L'amendement ajoute à ces indicateurs la sécurité et la tranquillité des résidents, les dégradations des parties communes et les actions des bailleurs pour les éviter.
+   - Pour : UDR RN · Contre : LFI ECOS SOC LIOT DEM EPR HOR DR
+90. **Rétablir un congé pour les victimes de violences, à négocier dans le secteur privé** — Travail et retraites · amendement · 2026-10-13
+   - Les agents publics victimes de violences sexuelles, sexistes ou intrafamiliales auraient droit à jusqu'à 10 jours d'absence payés, sur présentation d'un récépissé de plainte. Dans le privé, syndicats et patronat devraient négocier un congé d'un à dix jours par an, et les collègues pourraient donner anonymement des jours de repos à la victime.
+   - Pour : UDR RN · Contre : LFI GDR ECOS SOC LIOT DEM EPR HOR DR
+91. **Supprimer la révision à 21,8 milliards du déficit 2026 de la Sécurité sociale** — Santé et protection sociale · amendement · 2026-10-20
+   - L'article corrige les comptes 2026 des régimes de base de la Sécurité sociale (maladie, retraite, famille…) : le déficit prévu passe de 19,4 à 21,8 milliards d'euros, surtout à cause de recettes plus faibles que prévu. Les amendements suppriment cet article et donc cette correction.
+   - Pour : LFI GDR ECOS SOC UDR RN · Contre : DEM EPR HOR DR
+92. **Adopter le budget rectifié de l'État pour la fin de l'année 2026** — Économie et impôts · ensemble · 2026-11-24
+   - Le texte ajuste le budget de l'État en fin d'année : il ouvre plus de 7 milliards d'euros de crédits supplémentaires et en annule près de 4 milliards. Il valide deux décrets de 2026 qui avaient modifié des crédits en urgence. Il prévoit un déficit public de 5,4 % de la richesse nationale (PIB) en 2026.
+   - Pour : LIOT DEM EPR HOR DR · Contre : LFI GDR ECOS
+93. **Faire de l'égalité entre les territoires une priorité de toutes les politiques publiques** — Territoires et outre-mer · ensemble · 2026-11-26
+   - La résolution, qui exprime une position de l'Assemblée sans créer de règle, invite le Gouvernement à mesurer l'effet de ses décisions sur chaque territoire. Elle demande de répartir les investissements publics selon les besoins, en particulier pour les zones rurales, les petites et moyennes villes, les bassins industriels fragilisés et les outre-mer, et de publier les résultats.
+   - Pour : SOC LIOT DEM EPR HOR DR UDR RN · Contre : LFI
+94. **Permettre de débloquer jusqu'à 10 000 euros d'épargne salariale pour des achats** — Travail et retraites · ensemble · 2026-11-16
+   - Les salariés pourraient retirer de façon exceptionnelle, jusqu'à 10 000 euros nets, la participation et l'intéressement placés avant 2026 sur un plan d'épargne salariale, normalement bloqués plusieurs années, pour acheter des biens ou des services, en gardant les exonérations d'impôt. La naissance ou l'adoption d'un enfant permettrait aussi un déblocage anticipé.
+   - Pour : DEM EPR HOR DR UDR RN · Contre : LFI GDR ECOS SOC
 
 ## Cartes écartées
 
@@ -275,3 +317,6 @@
 - VTANR5L17V1304 : lisibilité : trop_technique — Le texte organique ne fait que modifier des renvois du code électoral (L.O. 141, L.O. 247-1, L.O. 255-5) dont le contenu n'est pas dans les sources ; l'extension du scrutin de liste relève de la loi ordinaire discutée en même temps.
 - VTANR5L17V2653 : lisibilité : incertain — Le texte source fourni est celui de la commission (n° 1522), pas la version modifiée en séance qui a été mise aux voix ; le moratoire sur les renouvelables, cité dans le débat, n'y figure pas et sa portée exacte n'est pas établie.
 - VTANR5L17V438 : lisibilité : incertain — Le texte source fourni est le projet initial du gouvernement ; la version amendée en séance réellement mise aux voix n'est pas disponible, d'où l'absence de mesures précises.
+- VTANR5L17V9757 : résumé ou vérification manquant
+- VTANR5L17V10104 : lisibilité : trop_technique — Mise à jour de chiffres de prévision sans effet concret identifiable.
+- VTANR5L17V9895 : résumé ou vérification manquant

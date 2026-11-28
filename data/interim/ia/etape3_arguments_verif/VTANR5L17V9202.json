@@ -1,0 +1,14 @@
+{
+  "uid": "VTANR5L17V9202",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "resume_court : « ou se verraient proposer un CDI » laisse croire à un choix ; ce_que_ca_change réserve le CDI à ceux qui ne remplissent pas les conditions pour être fonctionnaires.",
+    "Déséquilibre : l'argument pour ne fait que décrire la situation (métier peu attractif), sans dire en quoi la mesure y répond, alors que l'argument contre vise directement la mesure. Reformulation fidèle à la citation (métier « déconsidéré », salaires et formation « indécents ») qui fait le lien avec la mesure.",
+    "aujourdhui exact (le code de l'éducation régit les AESH comme agents contractuels de l'État, cité dans le débat). Citations exactes, groupes du bon camp (DR pour, UDR contre)."
+  ],
+  "corrections": {
+    "resume_court": "Les accompagnants d'élèves handicapés (AESH) deviendraient fonctionnaires, recrutés par concours. Ceux en poste seraient stagiaires un an avec une formation, ou en CDI s'ils ne remplissent pas les conditions.",
+    "argument_pour": "Déconsidéré, mal payé et peu formé, le métier n'attire pas : le revaloriser permettrait d'offrir aux élèves handicapés l'accompagnement qui leur manque."
+  }
+}

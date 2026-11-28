@@ -257,3 +257,5 @@ main:has(.jeu) { padding-bottom: 0; }
 .apercu-actions { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
 .apercu-actions .btn-secondaire { display: grid; place-items: center; text-decoration: none; padding: 12px 10px; }
 .apercu .note { margin: 0; font-size: .85rem; }
+.puces { display: inline-flex; gap: 6px; flex-wrap: wrap; }
+.puce-recent { background: color-mix(in srgb, var(--or) 22%, var(--surface)); color: var(--encre); border: 1px solid var(--or); border-radius: 99px; padding: 4px 10px; font-size: .8rem; font-weight: 700; letter-spacing: .02em; }

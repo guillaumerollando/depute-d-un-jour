@@ -1,0 +1,12 @@
+{
+  "uid": "VTANR5L17V9916",
+  "consigne": "etape3_coherence v2",
+  "modifie": true,
+  "problemes": [
+    "Le résumé parle d'« entreprises et administrations », les deux arguments d'« organismes » pour les mêmes entités soumises au texte."
+  ],
+  "corrections": {
+    "argument_pour": "Face aux cyberattaques, le texte soumet plus de 15 000 entreprises et administrations à des obligations de sécurité, contre quelques centaines auparavant.",
+    "argument_contre": "Le texte protège des milliers d'entreprises et administrations, mais sans interdire les portes dérobées des messageries chiffrées : une faille pour tout pirate."
+  }
+}

@@ -1,0 +1,499 @@
+{
+ "uid": "VTANR5L17V8697",
+ "titre": "l'amendement n° 1 de Mme Thiébault-Martinez à l'article 3 de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (seconde délibération) (première lecture).",
+ "type": "amendement",
+ "date": "2026-10-13",
+ "dossier": "DLR5L17N54776",
+ "dossier_titre": "Apporter une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants",
+ "sort": "adopté",
+ "positions": {
+  "RN": "contre",
+  "LFI": "pour",
+  "SOC": "pour",
+  "DR": "pour",
+  "ECOS": "pour",
+  "DEM": "contre",
+  "HOR": "contre",
+  "GDR": "pour",
+  "UDR": "contre"
+ },
+ "voix": {
+  "RN": {
+   "pour": 0,
+   "contre": 53,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 15,
+   "contre": 10,
+   "abstention": 1
+  },
+  "LFI": {
+   "pour": 33,
+   "contre": 0,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 45,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 17,
+   "contre": 0,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 25,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 10,
+   "abstention": 1
+  },
+  "HOR": {
+   "pour": 1,
+   "contre": 14,
+   "abstention": 1
+  },
+  "LIOT": {
+   "pour": 2,
+   "contre": 2,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 6,
+   "contre": 0,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 0,
+   "contre": 9,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901B3190P0D2N000001",
+  "dossier": "DLR5L17N54776",
+  "texte": "PIONANR5L17BTC3190",
+  "division": "Article 3",
+  "auteur": "Mme Thiébault-Martinez",
+  "auteur_groupe": "SOC",
+  "auteur_type": "Député",
+  "dispositif": "I. – Supprimer la seconde phrase de l’alinéa 3. II. – En conséquence, supprimer la seconde phrase de l’alinéa 5. III. – En conséquence, supprimer l’alinéa 13. IV. – En conséquence, compléter cet article par l’alinéa suivant : « II. – À titre dérogatoire, pendant une durée de trois ans à compter de la promulgation de la présente loi, le non-respect des dispositions du I du présent article ne constitue pas une cause de nullité de la procédure. »",
+  "expose": "Le présent amendement vise à revenir sur le vote, à l’article 3, d’une cause de non nullité des procédures lorsqu’un service ou une unité de police judiciaire spécialisée n’a pas été saisi. Il s’agit d’une erreur de vote, alors qu’un compromis se dessinait autour d’un amendement prévoyant un régime transitoire de non nullité pour une durée d’uniquement trois ans à compter de la promulgation de la loi."
+ },
+ "seance": "RUANR5L17S2027IDS30940",
+ "compte_rendu": "CRSANR5L17S2027O1N020",
+ "interventions": [
+  {
+   "orateur": "M. Damien Girard (EcoS)",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Ce jeudi, la Fonderie de Bretagne sera placée en liquidation judiciaire : 250 emplois supprimés, une usine moderne condamnée, des savoir-faire industriels sacrifiés. Pourtant, ce désastre était évitable : il est le résultat de vos choix, et surtout de votre inaction.Vous avez d’abord favorisé la reprise par Europlasma : malgré les nombreuses alertes, vous avez laissé faire, jusqu’à la catastrophe.Vous n’avez utilisé aucun des leviers dont vous disposiez. L’État, qui détient 15 % du capital de Renault, aurait pu exiger des commandes garanties de la part de cette entreprise : vous n’avez rien fait. La direction générale de l’armement aurait pu favoriser une seconde source d’approvisionnement en corps d’obus : vous n’avez rien fait. À quoi bon annoncer 8,5 milliards d’euros pour France Munitions si vous laissez mourir les usines et les compétences nécessaires à notre défense ?Il restait une dernière solution, la nationalisation provisoire, pour sauver l’outil industriel, préserver les compétences et préparer l’avenir. Là encore, vous n’avez rien fait.Vous avez la souveraineté industrielle à la bouche en permanence, mais quand il faut agir, vous n’êtes nulle part. Vous n’avez été là ni pour Vencorex ni pour Michelin, pas plus que pour ArcelorMittal (Applaudissements sur plusieurs bancs des groupes EcoS et GDR) – et la liste est immense.La disparition de ce site moderne et équipé, qui a déjà reçu des millions d’euros d’investissement, est non seulement une catastrophe, mais son abandon est une faute politique majeure dont vous portez la responsabilité. Aujourd’hui, 250 salariés et leur famille vont payer le prix de votre abandon. Vous avez échoué à sauver leur usine, vous n’avez pas le droit de les abandonner une seconde fois.Quels moyens, quels engagements et quel calendrier pouvez-vous annoncer afin de garantir à ces 250 salariés une formation, une reconversion et un emploi industriel de qualité ? (Applaudissements sur les bancs du groupe EcoS et sur quelques bancs des groupes SOC et GDR.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. le ministre de l’économie, des finances et de la souveraineté industrielle, énergétique et numérique."
+  },
+  {
+   "orateur": "M. Roland Lescure",
+   "qualite": "ministre de l’économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "La situation de la Fonderie de Bretagne me tient particulièrement à cœur, car j’étais ministre de l’industrie quand l’usine a rencontré ses premières difficultés. Lorsque je suis redevenu député, j’ai accompagné mon successeur, M. Ferracci, pour organiser sa reprise par Europlasma, qui s’est révélée décevante – je vous l’accorde. Malheureusement, nous ne disposions à ce moment-là d’aucun autre repreneur. Si nous en avions trouvé d’autres, nous les aurions accompagnés.Nous avons fait beaucoup pour cette entreprise. Depuis des mois, Sébastien Martin, ministre de l’industrie, se bat jour et nuit pour essayer de trouver un repreneur : malheureusement, cela n’a pas été possible. Je suis en désaccord avec vous lorsque vous considérez que la nationalisation constitue la solution à tous les problèmes industriels."
+  },
+  {
+   "orateur": "M. Damien Girard",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Mais là, c’était le cas !"
+  },
+  {
+   "orateur": "M. Roland Lescure",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je considère au contraire que nous ne sauverons pas l’industrie française en nationalisant des entreprises qui peinent à trouver des commandes ou qui sont confrontées à des enjeux de compétitivité.Certes, nos solutions ne fonctionnent pas toujours, malheureusement. Vous avez mentionné quelques exemples où nous n’avons pas réussi à sauver l’entreprise. Mais Michelin, pardon, demeure l’un des champions mondiaux du pneu et reste implanté en France, emploie encore des milliers de salariés dans notre pays et dans le monde. Malheureusement, il arrive que nous ne parvenions ni à trouver un repreneur, ni à élaborer un plan d’affaires crédible, ni à réunir les financements nécessaires pour aller plus loin.Dans ces situations, je vous rejoins sur le dernier point de votre question : la priorité des priorités, ce sont les salariés. En l’espèce, l’entreprise est située dans le Morbihan, département dont le taux de chômage est inférieur à la moyenne nationale et où des besoins de recrutement existent."
+  },
+  {
+   "orateur": "M. Damien Girard",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "C’est aujourd’hui qu’il faut mettre de l’argent !"
+  },
+  {
+   "orateur": "M. Roland Lescure",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Les instructions ont été données à la préfète pour accompagner les salariés dans la formation et la recherche d’emploi. Nous nous assurerons que chacun d’entre eux en bénéficie."
+  },
+  {
+   "orateur": "M. Damien Girard",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Et Renault ?"
+  },
+  {
+   "orateur": "M. Roland Lescure",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Renault était prêt à mettre de l’argent. Contrairement à ce qui avait été le cas par le passé, la difficulté ne résidait plus dans le volume des commandes. Désormais, la priorité est d’accompagner les salariés. (M. Christopher Weissberg applaudit.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Sophie Errante."
+  },
+  {
+   "orateur": "Mme Sophie Errante (NI)",
+   "qualite": null,
+   "groupe": "NI",
+   "president_de_seance": false,
+   "texte": "Dans la nuit du 11 au 12 octobre, et de nouveau la nuit dernière, des cyberattaques ont frappé les installations frigorifiques de plusieurs enseignes : des denrées sont détruites, des commerçants pénalisés, des approvisionnements fragilisés et des clients inquiets. Je veux exprimer mon soutien aux commerçants et aux salariés mobilisés au service de nos concitoyens dans ma circonscription de Loire-Atlantique comme dans d’autres départements. (Applaudissements sur quelques bancs du groupe EPR.)Parler de continuum de sécurité exige de protéger nos infrastructures civiles sensibles, dont la chaîne du froid. Les risques qui les menacent doivent orienter nos doctrines de protection et de défense. La force de l’agresseur tient aussi à sa rapidité et à son agilité. Nous devons adapter nos défenses, décider plus vite, coordonner nos réponses et rétablir les activités essentielles.Nos concitoyens n’attendent pas la promesse qu’aucune attaque ne surviendra. Ils exigent en revanche que nous soyons préparés et capables de réagir vite. Comment mobiliserez-vous les enseignes et leurs prestataires, avec l’appui de l’Agence nationale de la sécurité des systèmes d’information, pour renforcer les contrôles, corriger les failles et assurer la continuité des approvisionnements ?Comment le gouvernement articulera-t-il protection, lutte contre la cybercriminalité et riposte, sans préjuger de l’origine de cette attaque ? Notre souveraineté se joue aussi dans notre capacité à protéger le secteur qui nourrit le pays. Alors, monsieur le ministre de l’économie et des finances, quels choix, quels moyens et quel calendrier pour faire face, ensemble et rapidement ? (Applaudissements sur quelques bancs du groupe EPR.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. le ministre de l’économie, des finances et de la souveraineté industrielle, énergétique et numérique."
+  },
+  {
+   "orateur": "M. Roland Lescure",
+   "qualite": "ministre de l’économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Nous avons tous été saisis d’effroi en découvrant cette cyberattaque qui nous a tous inquiétés car elle touche au cœur de la souveraineté alimentaire française et à la capacité de nos chaînes de distribution à fournir de la nourriture à tous nos concitoyens.Mon collègue chargé de la consommation et du pouvoir d’achat s’est assuré que l’approvisionnement de notre pays n’était pas compromis : seuls 700 des 10 000 centres répartis sur l’ensemble du territoire ont été touchés. Ces 700 centres ont déconnecté la plateforme sur laquelle je reviendrai dans un instant, et procèdent actuellement au réapprovisionnement de leurs rayons.Le défi majeur est celui d’une cyberattaque qui n’a pas directement visé les distributeurs, mais un de leurs fournisseurs, une entreprise danoise qui met à leur disposition une plateforme de régulation des températures. Cette situation relève de la responsabilité de l’Anssi, qui exercera ses missions de prévention, de correction, d’enquête et de sanction.Cette attaque doit conduire chacun à prendre ses responsabilités. Une entreprise peut être parfaitement préparée, mais si ses fournisseurs ne le sont pas, elle demeure elle-même exposée. Ce rappel doit servir de réveil pour tous : chaque acteur doit veiller à ce que l’ensemble de ses partenaires, en amont comme en aval de sa chaîne de production, fassent eux aussi tout ce qui est nécessaire pour se prémunir contre les cyberattaques.Sous l’égide du premier ministre, nous avons décidé d’investir davantage dans la protection des ministères. À terme, sans doute 10 % au moins des budgets informatiques ministériels seront consacrés à la cyberprotection. Mais c’est aujourd’hui l’affaire de tous. Chacun doit se réveiller, prendre la question à bras-le-corps et travailler dans ce sens. (Mme Annaïg Le Meur applaudit.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Sophie Errante."
+  },
+  {
+   "orateur": "Mme Sophie Errante",
+   "qualite": null,
+   "groupe": "NI",
+   "president_de_seance": false,
+   "texte": "L’enjeu porte aussi sur les coûts de la cyberprotection. Les chefs d’entreprise sont inquiets quant aux solutions qui vont leur être proposées : elles risquent de se traduire par des coûts supplémentaires et une réduction des marges. Je vous fais confiance pour leur proposer des solutions adéquates."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Jean-Victor Castor."
+  },
+  {
+   "orateur": "M. Jean-Victor Castor (GDR)",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Au nom du groupe GDR, je veux m’associer à l’hommage qui a été rendu à Gabriel Serville, président de la collectivité territoriale et qui a exercé deux mandats dans cette assemblée. (Applaudissements sur les bancs du groupe GDR et sur quelques bancs des groupes EPR, SOC, DR, EcoS, Dem, HOR et LIOT.)J’aimerais poser ma question au premier ministre, mais peut-être Mme Naïma Moutchou y répondra-t-elle. La situation est explosive partout dans nos territoires. Les lycéens qui sont dans la rue sont également réprimés chez nous ; or personne n’en parle dans les médias ni même dans cet hémicycle. Je tiens vraiment, au nom de mon groupe, à apporter ma solidarité et mon soutien à tous les lycéens qui se mobilisent. (M. Marcellin Nadeau applaudit.)Je vais vous parler de la Guyane : là-bas, les jeunes se lèvent à 4 heures du matin et rentrent chez eux à 20 heures. Dans les périodes de sécheresse, certains ne peuvent même pas se rendre à l’école. À Camopi, pendant plus de deux ans, des élèves n’ont pas pu aller en classe. Voilà la réalité de mon pays.Et pourtant vous supprimez 60 % de la ligne budgétaire unique. Ainsi, dans les deux foyers importants pour les jeunes, la maison et l’école, il n’y a pas d’investissement. (Applaudissements sur quelques bancs du groupe GDR.) Vous abandonnez cette jeunesse !S’agissant de la Guyane, vous ne pourrez pas invoquer l’argument d’une baisse de la population : notre croissance démographique est hors normes ! Pourtant, malgré cela, vous diminuez les investissements, de sorte que les collectivités territoriales ont de moins en moins de moyens.Quand vous supprimez 60 % de la ligne budgétaire unique pour le logement – ce qui est le cas en Guyane mais aussi dans les autres territoires dits d’outre-mer –, vous brisez toute une partie de l’économie guyanaise parce que le logement représente 40 % de la commande publique, qui représente elle-même 80 % de l’activité dans nos territoires. Ce n’est pas simplement scandaleux de supprimer 60 % de la LBU pour la Guyane, c’est criminel, inacceptable ! En réalité, vous serez tenus responsables du climat explosif qui a commencé à régner dans nos pays. (Applaudissements sur les bancs du groupe GDR ainsi que sur quelques bancs du groupe EcoS.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme la ministre des outre-mer."
+  },
+  {
+   "orateur": "Mme Naïma Moutchou",
+   "qualite": "ministre des outre-mer",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Après avoir présenté, en Guyane, à vos côtés, au nom du président de la République et du gouvernement, nos condoléances à la famille et aux proches du président Gabriel Serville, je m’associe, avec M. le premier ministre, à l’hommage qui lui a été rendu ici.J’en viens aux deux sujets que vous avez évoqués. Le premier concerne la jeunesse et la mobilisation des lycéens : je veux dire aux jeunes Guyanais que nous avons entendu leurs revendications et que M. le ministre de l’éducation nationale et moi-même sommes au travail. La semaine dernière, nous avons réuni les exécutifs régionaux des territoires ultramarins, dont la Guyane, pour voir ce que nous pouvions accélérer, voire débloquer. Nous avons évoqué la rénovation et l’adaptation climatique du bâti scolaire et nous regarderons, territoire par territoire, projet par projet, notamment en Guyane, là où il est possible de mobiliser des financements pour procéder aux rénovations et aux réhabilitations. Je suis bien consciente de la pression démographique particulière qui s’exerce en Guyane – vous l’avez mentionnée – et à Mayotte. Nous poursuivons ce travail avec le rectorat, en lien avec la collectivité territoriale, pour amplifier dans les prochains jours les discussions et la réalisation de ces projets.Le second sujet est celui du logement. Un premier point important : il n’y a pas de coupe budgétaire ; il n’y aura pas de diminution de la LBU. Les crédits ont été maintenus au niveau de 2026, soit 234 millions d’euros. Conscients des difficultés existantes en matière de logement dans les outre-mer, nous avons fait le choix, contrairement à ce que j’ai entendu, de maintenir l’enveloppe budgétaire.Deuxième point : il n’y a pas de diminution de cette enveloppe puisque les crédits qui concernaient Mayotte sont désormais inscrits ailleurs. Si nous les avons retirés de la LBU, ils existent toujours, dans un programme propre à Mayotte.Troisième point : tous les dispositifs de défiscalisation et de crédits d’impôt seront maintenus ; cela représente 350 millions d’euros. Enfin, pour l’année 2026, Vincent Jeanbrun et moi-même reprendrons notre travail pour – je l’espère –, renforcer les financements dans le cadre de la fin de l’exercice 2026."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Matthias Renault."
+  },
+  {
+   "orateur": "M. Matthias Renault (RN)",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Depuis le début de l’année, les prix du gaz ont augmenté six fois : au mois de mars, au mois de mai, en juillet, le 1er septembre, le 1er octobre, et une nouvelle augmentation est prévue le 1er novembre. En tout, 6,6 % d’augmentation, soit une hausse moyenne de 135 euros par facture par rapport à 2025.Certes – c’est ce que vous allez me répondre –, il y a le contexte international.Mais il y a aussi un problème : non seulement vous refusez toute baisse des taxes sur l’énergie – qu’il s’agisse du gaz, du carburant ou de l’électricité –, mais, en plus, vous faites des promesses intenables. Le premier ministre a déclaré mercredi que le prix de l’électricité ne devait pas augmenter cet hiver, mais c’est intenable, parce que les prix de l’électricité sont indexés sur les prix du gaz (Applaudissements sur les bancs des groupes RN et UDR), à cause de règles européennes défavorables à la France, qui obligent les ménages et les entreprises françaises à payer pour les mauvais choix énergétiques de nos voisins.C’est une promesse intenable parce que vous refusez d’utiliser certains leviers – que ce soit la fiscalité ou la sortie des règles européennes de l’électricité – et que nous n’avons plus les moyens d’instituer un bouclier tarifaire, c’est-à-dire de subventionner les factures d’électricité.Dans ce cadre, j’ai deux questions à poser. La première est ouverte : quels leviers comptez-vous actionner pour tenir cette promesse intenable ?Deuxièmement, je rappelle que, par le passé, il est arrivé qu’une proposition de hausse des tarifs émanant de la Commission de régulation de l’énergie, après avoir été refusée dans un premier temps, soit ensuite appliquée, à titre rétroactif, après une élection présidentielle. Ma question, à laquelle vous ne pouvez répondre que par oui ou par non, est la suivante : comptez-vous utiliser cette technique ? (Applaudissements sur les bancs des groupes RN et UDR.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme la ministre déléguée, porte-parole du gouvernement, et ministre déléguée chargée de l’énergie."
+  },
+  {
+   "orateur": "Mme Maud Bregeon",
+   "qualite": "ministre déléguée, porte-parole du gouvernement, et ministre déléguée chargée de l’énergie",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "D’abord, vous avez raison de souligner que la situation est très difficile pour de nombreux Français. Toutefois, si ce qui se passe depuis six à sept mois maintenant dans le détroit d’Ormuz, où circulait 20 % du gaz naturel liquéfié, impacte très durement les factures de gaz et le prix à la pompe – nous en parlons régulièrement ici –, cela n’a pas de répercussions sur les prix de l’électricité.Depuis le début, nous avons fait le choix d’une réponse ciblée et respectueuse des finances publiques, attentive aux Français et aux entreprises les plus en difficulté. Il y a deux semaines, le premier ministre a annoncé la reconduction du chèque « grands rouleurs » de 100 euros pour 5,5 millions de Français, tandis que 1,2 million de Français, ayant déjà bénéficié du premier versement de cette aide, l’obtiendront automatiquement dans trois jours.J’en viens à l’électricité. Premièrement, son prix ne dépend de celui du gaz que pendant 25 % du temps en moyenne. Ensuite, l’évolution du prix de l’électricité doit être envisagée sur le long terme, et notamment sur les derniers mois, et pas uniquement au vu de ce qui est observé en ce moment sur le marché de gros. Ce qui compte surtout, c’est notre capacité à produire de l’électricité nous-mêmes, grâce à notre parc nucléaire. Il tourne à plein, et c’est ainsi que nous réussirons à maîtriser les factures."
+  },
+  {
+   "orateur": "M. Thibault Bazin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Très bien !"
+  },
+  {
+   "orateur": "Mme Maud Bregeon",
+   "qualite": "ministre déléguée",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Dès lors, l’engagement du premier ministre sur la stabilité totale du prix de l’électricité pendant l’hiver sera tenu."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Anne-Laure Blin."
+  },
+  {
+   "orateur": "Mme Anne-Laure Blin (DR)",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Samedi, les policiers ont enfin délogé les squatteurs qui occupaient l’université de Nantes, telle une ZAD. Ils sont restés trois jours ; trois jours de ravages, laissant l’établissement dans un véritable état de désolation : locaux saccagés, murs tagués, matériels informatiques vandalisés, mobiliers détruits. Une facture à plusieurs millions d’euros d’argent public !"
+  },
+  {
+   "orateur": "M. Pierre Cordier",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Des copains de Mélenchon !"
+  },
+  {
+   "orateur": "Mme Anne-Laure Blin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Pire encore, des personnels ont été menacés et se sont vus intimidés.Ces faits sont injustifiables. Ils sont inacceptables et profondément choquants. Stop à la récupération politique, entretenue par l’extrême gauche dans le seul but de détruire notre pays, et qui entraîne casses et violences.Il est plus que temps que l’État tape du poing sur la table et affirme son autorité. Il ne peut y avoir de demi-mesure face à des groupuscules extrémistes et radicaux, qui cherchent à faire régner la terreur devant nos lycées et nos facultés. Ceux qui ont adoubé les blocages au sein des directions des universités et dans cet hémicycle doivent être mis face à leurs responsabilités. Encourager les saccages est coupable. Il n’est pas possible de demander des millions en plus pour nos étudiants et d’empêcher la grande majorité de ceux qui veulent étudier d’aller en cours pour le faire.À l’université comme au lycée, la liberté d’étudier est sacrée. Vous devez la garantir. Face à la violence, la fermeté ne se décrète pas ; elle se prouve. Pouvez-vous nous assurer que ceux qui saccagent nos universités seront identifiés, poursuivis et contraints de payer l’addition ? Les casseurs doivent payer les dégâts selon un principe très simple : casseur, payeur. (Applaudissements sur plusieurs bancs du groupe DR.) Ceux qui piétinent la France doivent payer. (Applaudissements sur les bancs du groupe DR.– Mme Danielle Brulebois applaudit également.)"
+  },
+  {
+   "orateur": "M. Matthias Tavel",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "C’est l’alliance DR-Attal !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. le ministre de l’intérieur."
+  },
+  {
+   "orateur": "M. Laurent Nuñez",
+   "qualite": "ministre de l’intérieur",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Je puis tout de suite vous rassurer : la main de l’État, celle du ministre de l’intérieur et celles des forces de sécurité intérieure, ne tremble pas. Chaque fois qu’il y a des exactions et des violences, il y a des interventions.Vous avez raison de dénoncer une partie de la classe politique, une grande partie de l’ultragauche, qui contribue très largement à la commission des exactions auxquelles nous assistons (Applaudissements sur plusieurs bancs du groupe DR), dont, notamment, l’intrusion que vous avez citée dans l’université de Nantes. Celle-ci a entraîné des dégâts très importants et le saccage de certains bureaux syndicaux et de bureaux de professeurs. Dès que nous avons été requis, nous sommes intervenus – il faut en effet être requis pour intervenir dans les universités. Comptez sur moi pour le faire systématiquement, n’en déplaise à certains bords politiques.Ça n’est pas de la contestation, c’est de l’obstruction et de la destruction de l’outil de travail des étudiants. Ainsi, aujourd’hui, des manifestations se sont tenues sur la voie publique à la demande des organisations intersyndicales. Partout où elles ont dégénéré – c’est le cas en ce moment à Paris, où il y a des violences, et c’était le cas à Lyon il y a encore quelques minutes –, l’ultragauche est à la manœuvre !"
+  },
+  {
+   "orateur": "Mme Anne-Laure Blin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Eh oui !"
+  },
+  {
+   "orateur": "Mme Justine Gruet",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Ils vandalisent tout !"
+  },
+  {
+   "orateur": "M. Laurent Nuñez",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Systématiquement, l’ultragauche est à la manœuvre, se constitue en black blocs et fait dégénérer les manifestations. Il faut que cela soit dit clairement !Quand les organisations syndicales sont présentes, contrairement à ce que Marc Pena a dit d’une manière que je juge excessive et maladroite, il n’y a pas de répression, il y a un encadrement. Chaque fois que l’ultragauche passe à la violence et commet des exactions, cela entraîne une réponse. Comptez sur ma fermeté pour agir systématiquement. (Applaudissements sur les bancs du groupe DR.)"
+  },
+  {
+   "orateur": "M. Thibault Bazin",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Très bien !"
+  },
+  {
+   "orateur": "Mme Christine Arrighi",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Ah ça, sur ce plan, on n’est pas déçu !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Anna Pic."
+  },
+  {
+   "orateur": "Mme Anna Pic (SOC)",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "L’Union européenne va-t-elle céder au chantage de Donald Trump ? La semaine dernière, son administration franchissait un nouveau cap dans son offensive contre la Cour pénale internationale en plaçant cette juridiction sur la liste noire du Trésor américain. L’ultimatum adressé au « tribunal voyou » – pour reprendre les mots de Marco Rubio – est sans ambiguïté : « Soit la CPI met fin à ses menaces, soit nous mettrons fin à la CPI ! »Alors que Poutine frappe toujours plus profondément l’Ukraine et que ses drones font des incursions régulières dans le ciel européen, le président américain lui achète 4 millions de tonnes de gaz et, par une tentative d’ingérence à peine dissimulée, il appelle au remplacement de Volodymyr Zelensky à la tête de l’Ukraine.Au Brésil, dans une logique néo-impérialiste parfaitement décomplexée, l’élection présidentielle se déroule sous les injonctions des Maga et de leurs bots.À quelques semaines des élections de mi-mandat, Trump, en difficulté dans les sondages, multiplie pressions et chantages sur nos démocraties. Dans sa volonté d’apparaître aux yeux des Américains comme le faiseur de rois et de paix, le président des États-Unis tente de démanteler l’ordre international construit au sortir de la seconde guerre mondiale et de soumettre les Européens à son bon vouloir, y compris en cherchant à nous obliger à abandonner l’Ukraine.Notre réponse à ces provocations doit être plus ferme. Plus que jamais, l’Union européenne doit réaffirmer son attachement à ses valeurs fondatrices (Applaudissements sur les bancs du groupe SOC et sur quelques bancs du groupe EcoS), son soutien indéfectible à la résistance ukrainienne, comme à la CPI menacée.Trump, Poutine, Xi Jinping, Netanyahou, Milei : alors que la coalition des autoritaires gagne du terrain,…"
+  },
+  {
+   "orateur": "M. Pierre Cordier",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Vous oubliez la Corée du Nord !"
+  },
+  {
+   "orateur": "Mme Anna Pic",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "…l’Europe doit rester un bastion du droit international, de la démocratie et du respect des droits fondamentaux. (Applaudissements sur les bancs du groupe SOC.)Les déclarations aux tournures de phrases pesées et soupesées ne suffisent plus. La France prévoit-elle d’appeler l’Union européenne à faire usage des deux outils dont elle dispose – le règlement de blocage européen et l’instrument anticoercition – pour rappeler à Donald Trump qu’il ne peut remodeler le monde par la peur et le chaos ? (Applaudissements sur les bancs du groupe SOC ainsi que sur quelques bancs des groupes EcoS, Dem et LIOT.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. le ministre délégué chargé du commerce extérieur et de l’attractivité."
+  },
+  {
+   "orateur": "M. Nicolas Forissier",
+   "qualite": "ministre délégué chargé du commerce extérieur et de l’attractivité",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "J’entends votre analyse de l’attitude des États-Unis et du président Trump. Vous nous interrogez sur les positions de la France et de l’Union européenne : la France garde le cap à l’intérieur de l’Union européenne, mais aussi vis-à-vis des Américains, dans le cadre du G7 qu’elle préside.Aux sujets des tensions qui pèsent sur le marché des carburants et du diesel et des pressions exercées sur les pays où des élections sont en cours, la France et l’Union européenne ont toujours rappelé que le droit devait prévaloir. Elles tiennent aussi cette position à l’égard de la Cour pénale internationale : il n’y a aucune raison que l’Union européenne ne continue pas à soutenir cette institution majeure.Nous conservons notre position et nous sommes en mouvement. Qu’il s’agisse de la Coalition des volontaires, de l’octroi d’un prêt de 90 milliards d’euros pour aider l’Ukraine à tenir bon ou des accords sur la préparation et la production de missiles, la France a joué un rôle majeur, qui mérite d’autant plus d’être souligné qu’il est trop rarement évoqué."
+  },
+  {
+   "orateur": "M. Boris Vallaud",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Qu’en est-il de l’instrument anticoercition ?"
+  },
+  {
+   "orateur": "M. Nicolas Forissier",
+   "qualite": "ministre délégué",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "La France entend continuer à faire preuve de volontarisme, de constance et de cohérence à l’égard de l’Ukraine et du président Zelensky. N’ayez crainte à ce sujet. (Applaudissements sur quelques bancs des groupes DR et HOR.)"
+  },
+  {
+   "orateur": "Mme Anna Pic",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "C’est tout ?"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Éric Bothorel."
+  },
+  {
+   "orateur": "M. Éric Bothorel (EPR)",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Sophie Errante l’a déjà évoquée, mais je me permets d’insister : nous avons connu, hier, l’une des cyberattaques les plus tangibles quand les armoires frigorifiques de nombreux supermarchés ont été touchées.Une faille dans le logiciel d’une société danoise et ce sont des frigos en panne ou qui chauffent quand ils devraient refroidir. Des millions de pertes, mais le bilan aurait pu être plus grave, car aucun incendie ne s’est déclaré dans la nuit de dimanche à lundi – attendons toutefois d’avoir vérifié si celui du marché des Enfants-Rouges n’est pas lié à cette affaire.Quand la cybercriminalité frappe un grand groupe ou les impôts, cela agace, voire amuse – n’y a-t-il pas un Robin des bois qui sommeille en chaque Français, heureux que seuls les puissants soient touchés ? –, mais avec l’Intermarché de Lannion et les équipes de Jean-Luc Allichon, que je salue, le Leclerc du bourg, les produits frais jetés, les concitoyens récupérant des denrées avariées avant leur destruction, tous les Français et toutes les Françaises peuvent se sentir concernés.Le risque cyber est désormais dans le monde réel. Une enquête a été confiée à l’Office anti-cybercriminalité : attendons ses conclusions.Alors que le Cybermois, un mois de sensibilisation, a commencé, nous attendons toujours Godot. Je veux parler de la transposition de la directive NIS 2, qui aurait dû intervenir il y a plus de deux ans, mais qui vient encore d’être repoussée. L’adoption du projet de loi sur la résilience et la cybersécurité n’aurait peut-être pas empêché ces incidents, mais elle aurait rappelé quelques fondamentaux d’hygiène numérique. L’Agence nationale de la sécurité des systèmes d’information a été mobilisée toute la journée d’hier auprès des responsables de supermarchés : c’est désormais sa fonction, qu’elle exerce vingt-quatre heures sur vingt-quatre. L’application de l’article 17 de NIS 2 lui aurait permis d’obtenir plus rapidement une vue consolidée et de limiter ainsi la propagation, sans empêcher l’attaque. C’est cela aussi, la prévention !Danfoss, le fournisseur danois d’armoires frigorifiques, évoque des équipements obsolètes ou sans mise à jour. Le prestataire de télémaintenance devra être interrogé. Les fournisseurs de services gérés, secteur hautement critique, doivent informer leurs clients des mesures à appliquer en cas de vulnérabilité.Dès août 2026, Team82 recensait 2 765 interfaces de Danfoss exposées à des risques. Un tel relevé aurait dû déboucher sur une prescription. Si la directive NIS 2 avait été transposée, l’Anssi aurait pu imposer des mesures de remédiation, assortie de délais d’application.Hier des hôpitaux, cet été la DGFIP, aujourd’hui des frigos : la chaîne casse toujours par son maillon le plus faible. Nous sommes attaqués, il faut agir, et plus vite. Que savez-vous des événements d’hier ? Quel est le calendrier d’examen du projet de loi « résilience » ?"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. le ministre de l’économie, des finances et de la souveraineté industrielle, énergétique et numérique."
+  },
+  {
+   "orateur": "M. Roland Lescure",
+   "qualite": "ministre de l’économie, des finances et de la souveraineté industrielle, énergétique et numérique",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Merci pour votre engagement : cela fait presque dix ans que nous travaillons ensemble, lors desquels j’ai eu l’occasion de mesurer votre implication sur tous les sujets qui touchent aux technologies numériques, singulièrement ceux relatifs à la cybersécurité.Merci pour votre engagement auprès de votre territoire : près de chez vous, certains commerçants ont été touchés par la cyberattaque. On a l’impression que tout cela vient du ciel, mais la réalité, c’est que ces événements affectent le quotidien de nos concitoyens et des commerçants frappés.L’incident doit, en ce Cybermois, offrir l’occasion de rappeler à toutes et tous que ce n’est pas parce qu’on fait les bonnes choses que celles et ceux avec qui on travaille en font autant. Chefs de grandes, petites ou moyennes entreprises, assurez-vous que vos fournisseurs et les clients avec lesquels vous êtes en relation informatique font également leur travail !La France ne connaît aucun problème d’approvisionnement alimentaire, il est important de le rappeler. Les 700 magasins touchés ont débranché le logiciel défectueux et ont commencé à garnir à nouveau leurs rayons, mais c’est quand même un sacré gâchis, vous l’avez dit. On a détruit des aliments avariés, qui auraient sinon pu être vendus et consommés.Cet événement doit provoquer le réveil de tous et rappelle combien le projet de loi « résilience » peut nous aider à combler certaines failles. Vous le savez, il était prévu qu’il soit examiné par l’Assemblée nationale la semaine dernière, mais un autre texte important, la proposition de loi intégrale sur les violences sexistes et sexuelles, a pris le dessus, et c’est normal. Nous espérons l’inscrire de nouveau à l’ordre du jour des travaux de l’Assemblée, si les textes budgétaires et les vicissitudes de leur parcours parlementaire nous en laissent le temps.Le gouvernement reste mobilisé pour que ce projet de loi soit examiné et voté : on en a bien besoin, comme vous l’avez dit ! (Applaudissement sur quelques bancs du groupe EPR.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Nous avons terminé les questions au gouvernement. La séance est suspendue."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(La séance, suspendue à seize heures vingt, est reprise à seize heures trente-cinq.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La séance est reprise. L’ordre du jour appelle la suite de la discussion de la proposition de loi apportant une réponse intégrale au phénomène des violences sexuelles et sexistes contre les femmes et les enfants (nos 3106, 3190 rectifié). Je vous rappelle qu’en application de l’article 101 du règlement, la commission a demandé qu’il soit procédé à une seconde délibération des articles 3, 28, 31, 32 bis, 44 et 46.Je suis saisie de plusieurs demandes de scrutin public : sur les amendements nos 1, 2, 6, 3 et 4 rectifié, par le groupe Socialistes et apparentés ; sur l’amendement no 7, par le groupe Rassemblement national ; sur l’amendement no 5, par les groupes Socialistes et apparentés et Rassemblement national. Les scrutins sont annoncés dans l’enceinte de l’Assemblée nationale. La parole est à Mme Céline Thiébault-Martinez, rapporteure générale de la commission spéciale, pour soutenir l’amendement no 1."
+  },
+  {
+   "orateur": "Mme Céline Thiébault-Martinez",
+   "qualite": "rapporteure générale de la commission spéciale",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Il y a eu quelques erreurs dans le vote et nous avons finalement supprimé la possibilité de prononcer la nullité de la procédure lorsqu’un service ou une unité spécialisé de police judiciaire n’a pas été saisi. L’amendement propose de rétablir cette nullité, conformément à nos débats, en laissant un délai de trois ans au ministère de l’intérieur et au ministère de la justice pour assurer le respect de ces nouvelles dispositions."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme la ministre déléguée chargée de l’égalité entre les femmes et les hommes et de la lutte contre les discriminations, pour donner l’avis du gouvernement."
+  },
+  {
+   "orateur": "Mme Aurore Bergé",
+   "qualite": "ministre déléguée chargée de l’égalité entre les femmes et les hommes et de la lutte contre les discriminations",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Le gouvernement s’était engagé à laisser le temps nécessaire pour que ces secondes délibérations puissent avoir lieu, sans être d’accord pour autant avec tous les amendements qui ont été déposés.À l’article 3, qui est un article important, vous avez adopté trois amendements de Constance Le Grip, Laure Miller et Agnès Firmin Le Bodo qui prévoient déjà qu’il n’y aura pas de nullité de procédure si jamais les dispositions de l’article 3 ne pouvaient pas être appliquées pour des raisons capacitaires. C’est la raison pour laquelle le gouvernement reste favorable aux amendements que vous avez adoptés et émet un avis défavorable sur celui-ci."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 1."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ],
+ "compte_rendu_precedent": "CRSANR5L17S2027O1N019"
+}

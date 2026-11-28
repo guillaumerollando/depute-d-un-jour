@@ -1,0 +1,14 @@
+{
+  "uid": "VTANR5L17V9905",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "resume_court : « une fois » n'est ni dans ce_que_ca_change ni dans le texte (plafond global de 10 000 euros) ; l'omission de « placée avant 2026 » élargit la portée.",
+    "argument_contre : « ne règle rien » durcit la citation (« ne répondrait pas à l'enjeu du pouvoir d'achat ») et « il faut pouvoir vivre de son salaire » n'est pas dans la citation retenue.",
+    "aujourdhui exact (blocage de cinq ans en échange de l'exonération, texte et débat). Citations exactes, groupes du bon camp (EPR pour, SOC contre)."
+  ],
+  "corrections": {
+    "resume_court": "Les salariés pourraient retirer jusqu'à 10 000 euros de l'épargne salariale placée avant 2026 pour des achats, sans perdre l'avantage fiscal. Une naissance ou une adoption permettrait aussi d'en retirer.",
+    "argument_contre": "Puiser dans une épargne prévue pour des projets à moyen et long terme pour payer ses courses ne répond pas au problème du pouvoir d'achat."
+  }
+}

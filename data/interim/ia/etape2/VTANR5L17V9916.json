@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V9916",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Emeric Salmon (RN)",
+      "citation": "Renforcer la résilience de nos infrastructures, mieux prévenir les cyberattaques et améliorer la protection de nos services essentiels : ce sont des objectifs que nous partageons pleinement.",
+      "justification": "Le groupe soutient les objectifs du texte, avec des réserves."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Patricia Lemoine (EPR)",
+      "citation": "C’est précisément ce que ce texte corrige.",
+      "justification": "Le groupe soutient la transposition de la directive NIS 2."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. René Pilato",
+      "citation": "Nous parlons de liberté et nous voterons liberté, donc contre ce projet de loi.",
+      "justification": "Le groupe s'oppose au texte après la suppression de l'article 16 bis sur les portes dérobées."
+    },
+    "SOC": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Sébastien Saint-Pasteur",
+      "citation": "Nous voterons ce texte, qui apporte des avancées nécessaires, sans confondre son adoption avec l’accomplissement de notre mission.",
+      "justification": "Le groupe soutient les avancées du texte."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Virginie Duby-Muller (DR)",
+      "citation": "Pour toutes ces raisons, le groupe Droite républicaine votera pour ce projet de loi qu’il attendait depuis deux ans.",
+      "justification": "Le groupe soutient le renforcement des obligations de cybersécurité."
+    },
+    "ECOS": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Catherine Hervieu (EcoS)",
+      "citation": "En votant ce texte, nous assumons la responsabilité collective de renforcer la cybersécurité et la résilience des opérateurs d’importance vitale",
+      "justification": "Le groupe soutient le renforcement de la cybersécurité et de la résilience."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Geneviève Darrieussecq (Dem)",
+      "citation": "Parce que ce texte impose un devoir général de vigilance, aux entreprises comme aux administrations, aux collectivités et à l’État, le groupe Les Démocrates votera en sa faveur.",
+      "justification": "Le groupe soutient le devoir de vigilance imposé par le texte."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "LIOT": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "Le groupe ne s'exprime pas dans l'extrait."
+    }
+  }
+}

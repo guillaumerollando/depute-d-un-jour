@@ -1,0 +1,39 @@
+{
+  "uid": "VTANR5L17V10106",
+  "consigne": "etape3_accroche v1",
+  "modifie": true,
+  "mesures_citees": [
+    {
+      "mesure": "Ouverture de crédits supplémentaires et annulation de crédits",
+      "groupes": [
+        "EPR",
+        "GDR",
+        "HOR",
+        "LFI",
+        "LIOT",
+        "SOC",
+        "UDR"
+      ]
+    },
+    {
+      "mesure": "Déficit public de 5,4 % du PIB en 2026",
+      "groupes": [
+        "EPR",
+        "GDR",
+        "HOR",
+        "LFI",
+        "LIOT",
+        "SOC",
+        "UDR"
+      ]
+    },
+    {
+      "mesure": "Validation de deux décrets d'avance",
+      "groupes": [
+        "EPR",
+        "GDR"
+      ]
+    }
+  ],
+  "titre": "Ajuster le budget 2026 de l'État : ouvrir plus de 7 milliards, en annuler près de 4"
+}

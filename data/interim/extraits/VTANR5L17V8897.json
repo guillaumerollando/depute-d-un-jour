@@ -1,0 +1,261 @@
+{
+ "uid": "VTANR5L17V8897",
+ "titre": "l'amendement n° 33 de Mme Runel et les amendements identiques suivants de suppression de l'article premier du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+ "type": "amendement",
+ "date": "2026-10-20",
+ "dossier": "DLR5L17N54951",
+ "dossier_titre": "Projet de loi de financement de la sécurité sociale pour 2027",
+ "sort": "adopté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "contre",
+  "LFI": "pour",
+  "SOC": "pour",
+  "DR": "contre",
+  "ECOS": "pour",
+  "DEM": "contre",
+  "HOR": "contre",
+  "UDR": "pour",
+  "GDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 68,
+   "contre": 0,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 0,
+   "contre": 23,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 26,
+   "contre": 0,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 23,
+   "contre": 1,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 0,
+   "contre": 13,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 17,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 12,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 8,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 3,
+   "contre": 1,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 8,
+   "contre": 0,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 5,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901B3211P0D1N000033",
+  "dossier": "DLR5L17N54951",
+  "texte": "PRJLANR5L17B3211",
+  "division": "Article PREMIER",
+  "auteur": "Mme Runel,  Mme Battistel, Mme Allemand, M. Aviragnet, M. Baptiste, M. Barusseau, M. Baumel, M. Belhaddad, Mme Bellay, M. Benbrahim, M. Mickaël Bouloux, Mme Bregman, M. Califer, Mme Capdevielle, M. Christophle, M. Courbon, M. David, M. Delaporte, M. Delautrette, Mme Diop, Mme Dombre Coste, M. Dufau, M. Echaniz, M. Eskenazi, M. Faure, Mme Froger, M. Fégné, M. Garot, Mme Godard, Mme Got, M. Guedj, M. Hablot, Mme Hadizadeh, Mme Hadj-Mimoune, Mme Herouin-Léautey, Mme Céline Hervieu, M. Hollande, M. Houlié, Mme Jourdan, Mme Karamanli, Mme Keloua Hachi, M. Leseul, M. Lhardit, Mme Mercier, M. Naillet, M. Oberti, Mme Pantel, M. Pena, Mme Pic, Mme Pirès Beaune, M. Potier, M. Pribetich, M. Proença, Mme Rossi, Mme Rouaux, M. Aurélien Rousseau, M. Roussel, Mme Récalde, M. Saint-Pasteur, Mme Santiago, M. Saulignac, M. Simion, M. Sother, Mme Thiébault-Martinez, Mme Thomin, M. Vallaud, M. Vicot, M. William et les membres du groupe Socialistes et apparentés",
+  "auteur_groupe": "SOC",
+  "auteur_type": "Député",
+  "dispositif": "Supprimer cet article.",
+  "expose": "Cet amendement des députés socialistes et apparentés vise à supprimer cet article 1er qui vient entériner la dégradation du déficit de la Sécurité sociale pour 2026. Cet article 1er entérine également le doublement du plafond annuel de franchises réalisé par décret en septembre ; foulant ici au pied l’accord parlementaire noué à l’occasion du vote de la LFSS pour 2026 au terme duquel le reste à charge des malades ne devait pas augmenter. Il entérine également l’annulation d’une partie des mises en réserve pour les hôpitaux pour 600 millions d’euros. Tous ces choix politiques pris isolément, au mépris de notre système de santé, doivent être rejetés. Tel est l’objet du présent amendement."
+ },
+ "seance": "RUANR5L17S2027IDS30953",
+ "compte_rendu": "CRSANR5L17S2027O1N033",
+ "interventions": [
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Nous abordons la première partie du projet de loi, concernant les dispositions relatives aux recettes et à l’équilibre de la sécurité sociale pour l’exercice 2026. Je suis saisie de cinq amendements identiques, nos 33, 281, 1358, 1500 et 1886, tendant à supprimer l’article 1er.Sur ces amendements, je suis saisie de demandes de scrutin public par les groupes Rassemblement national, La France insoumise-Nouveau Front populaire et Socialistes et apparentés.Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.La parole est à M. Arnaud Simion, pour soutenir l’amendement no 33."
+  },
+  {
+   "orateur": "M. Arnaud Simion",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "L’article 1er concentre trois renoncements politiques majeurs.Le premier entérine une nouvelle dégradation du déficit de la sécurité sociale, conséquence de choix budgétaires que nous contestons depuis des années – en particulier l’affaissement et l’assèchement des recettes.Le deuxième est le doublement des plafonds des franchises médicales décidé le 11 septembre par décret. Le gouvernement fait ainsi payer davantage les malades : c’est profondément injuste, et contraire à ses engagements.Le troisième est l’annulation de 600 millions d’euros de crédits mis en réserve pour nos hôpitaux. Alors que les personnels sont épuisés, que les services sont sous tension et que les patients attendent, le gouvernement choisit encore de fragiliser l’hôpital public.Le sens des responsabilités ne doit pas nous obliger à accepter l’inacceptable. (Applaudissements sur plusieurs bancs du groupe SOC.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Édouard Bénard, pour soutenir l’amendement no 281."
+  },
+  {
+   "orateur": "M. Édouard Bénard",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Nous sommes en total désaccord avec les rectifications apportées à ce bien mal nommé tableau d’équilibre. Le déficit de la sécurité sociale de cette année y est chiffré à 21,8 milliards d’euros, au lieu des 19,4 milliards prévus dans la loi de financement de la sécurité sociale pour 2026. Ce surcroît de déficit n’est pas dû à une augmentation des dépenses mais, bien au contraire et selon les termes mêmes du gouvernement, à de moindres recettes liées aux dégradations des perspectives macroéconomiques.Comme chaque année, vous surévaluez la masse salariale et, avec elle, son rendement en termes de cotisations sociales. Vous prétextez ensuite de ce manque de ressources organisé et répété pour prendre des mesures d’économie supplémentaires après le vote du budget et contre l’avis des députés. Comme le disait un de nos anciens collègues, ce sont les Dalton qui crient au voleur ! La rectification que vous présentez intègre une hausse des plafonds de la participation forfaitaire et des franchises à la charge des assurés ainsi qu’une annulation de la mise en réserve pour l’hôpital à hauteur de 600 millions d’euros : aucun « équilibre » n’est respecté."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Joëlle Mélin, pour soutenir l’amendement no 1358."
+  },
+  {
+   "orateur": "Mme Joëlle Mélin",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Sur le fond, la rectification des tableaux d’équilibre de l’exercice antérieur, établis par la loi de financement de la sécurité sociale de l’année n-1, est très problématique. Depuis plus d’une dizaine d’années, il est avéré que les hypothèses retenues en matière d’inflation, de croissance et de rebond de l’investissement privé des entreprises sont trop optimistes – c’est encore l’avis exprimé cette année par Mme de Montchalin, présidente du Haut Conseil des finances publiques (HCFP) et, cet après-midi même, par M. Bernard Lejeune, président de la sixième chambre de la Cour des comptes.Sur la forme, comme je vous l’indiquais tout à l’heure, les chiffres des cinq branches présentés dans chaque PLFSS le sont après transferts. Or non, monsieur le ministre, nous n’avons pas d’annexe nous détaillant les montants de ces transferts. Les chiffres ainsi présentés sont donc biaisés et nous n’avons pas d’autre solution que de demander la suppression de cet article : il n’y a rien à discuter. (Applaudissements sur plusieurs bancs du groupe RN.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Anaïs Belouassa-Cherifi, pour soutenir l’amendement no 1500."
+  },
+  {
+   "orateur": "Mme Anaïs Belouassa-Cherifi",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Le tableau présenté par cet article n’est pas si compliqué qu’il en a l’air : il ne s’agit que des coupes que le gouvernement entend faire sur le dos des assurés ! Nous nous y opposons. Nous nous opposons aux cadeaux que vous faites aux grands patrons de ce pays, avec de multiples exonérations de cotisations sociales, alors que vous vous apprêtez à geler les pensions de retraite supérieures à 1 260 euros mensuels – un revenu qui vous place en dessous du seuil de pauvreté. Quand on sait que 15 % de la population vit dans une extrême pauvreté, c’est d’une grande indignité. Vous prévoyez également de dérembourser des médicaments, de doubler les franchises médicales et de geler les tarifs hospitaliers, privant ainsi de moyens les hôpitaux.Enfin, vous vous attaquez à la politique familiale. Vous nous demandez de réarmer nos utérus ; laissez nos utérus tranquilles ! (« Oh ! » sur les bancs du groupe RN.) Évitez plutôt de geler les allocations familiales ! (Applaudissements sur les bancs du groupe LFI-NFP et sur plusieurs bancs du groupe EcoS.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Hendrik Davi, pour soutenir l’amendement no 1886."
+  },
+  {
+   "orateur": "M. Hendrik Davi",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Quel est l’intérêt de voter contre des tableaux rectificatifs ? Parce qu’ils sont emblématiques des manipulations du gouvernement. Pourquoi ? Parce qu’à chaque PLFSS, vous sous-évaluez les dépenses de santé et les recettes nécessaires ; à chaque PLFSS, vous minimisez le déficit. Au bout du compte, le déficit est plus important que vos prévisions et vous voulez les rectifier. Tout cela n’est qu’une vaste supercherie ; vous organisez le déficit, parce que vous refusez, année après année, d’augmenter les recettes. Nous n’aurons de cesse de vous le répéter tout au long de l’examen de ce texte : il est possible de trouver des recettes. L’augmentation des dépenses, elle, est normale. Pour mettre fin à cette supercherie, supprimons l’article. (Mme Marie Pochon applaudit.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis de la commission ?"
+  },
+  {
+   "orateur": "M. Thibault Bazin",
+   "qualite": "rapporteur général",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Pour vous faire plaisir, madame la présidente, je vais essayer de vous le donner en une minute.Je partage, chers collègues, certains de vos points de vue.Vous avez raison, monsieur Bénard, la surévaluation des hypothèses a une incidence sur la dégradation du déficit puisque la masse salariale n’est pas au rendez-vous. Il est du reste savoureux qu’Amélie de Montchalin, dans ses nouvelles fonctions, juge quelque peu optimistes des hypothèses qu’elles jugeaient très crédibles il y a un an, lorsqu’elle était ministre."
+  },
+  {
+   "orateur": "M. Thierry Tesson",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "C’est le macronisme !"
+  },
+  {
+   "orateur": "M. Thibault Bazin",
+   "qualite": "rapporteur général",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "On ne peut cependant pas dire, monsieur Simion, que la dégradation soit uniquement due à des décisions propres à la France. Les événements du détroit d’Ormuz ont eu des conséquences majeures sur la croissance et sur la masse salariale. Vous mentionnez à juste titre un problème de méthode s’agissant des plafonds de participations forfaitaires : le Parlement n’a pas été associé à cette décision.Madame Belouassa-Cherifi, vous parlez beaucoup de 2027, mais l’article concerne 2026.Chers collègues, je vous invite à vous abstenir plutôt qu’à supprimer cet article. Ses chiffres sont cohérents et sincères. Ils ne représentent rien d’autre qu’une évolution des prévisions, qui peut présenter de l’intérêt pour le Parlement. La commission a adopté ces articles de suppression ; à titre personnel, je leur donne un avis défavorable."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis du gouvernement ?"
+  },
+  {
+   "orateur": "M. David Amiel",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Avis défavorable, pour les mêmes raisons."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Christophe Bentz."
+  },
+  {
+   "orateur": "M. Christophe Bentz",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Je souhaite simplement apporter quelques éléments de réponse, notamment à vous, monsieur le ministre. D’abord, s’agissant du cadre organique, le problème n’est pas que nous ne le respectons pas ; c’est plutôt que vous ne respectez même pas les exigences minimales de transparence en présentant des chiffres évidemment tronqués et des tableaux budgétaires qui ne reflètent pas la réalité.Vous nous interrogez sur notre contre-budget, sur les recettes et les dépenses que nous prévoyons : lisez donc ce document ! Nous avons déposé plus de 200 amendements au PLFSS : nous apportons donc des réponses. Pardonnez-moi, mais c’est un peu le monde à l’envers ! Le gouvernement est responsable devant le Parlement, et non l’inverse. Ce n’est pas à nous de nous justifier ; c’est à vous de justifier les équilibres ou les déséquilibres financiers et budgétaires qui sont de votre fait. C’est à vous de nous rendre des comptes ! (Applaudissements sur les bancs des groupes RN et UDR.)"
+  },
+  {
+   "orateur": "M. David Amiel",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Vous ne m’avez toujours pas répondu !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Nicolas Turquois."
+  },
+  {
+   "orateur": "M. Nicolas Turquois",
+   "qualite": null,
+   "groupe": "DEM",
+   "president_de_seance": false,
+   "texte": "Je m’oppose aux amendements de suppression. La sécurité sociale est en difficulté et nous refusons de dresser un état des lieux de la situation. Certes, il y a un flou dans la photographie puisque nous sommes encore à deux mois de la fin de l’année. Certes, les prévisions sont un exercice difficile et nécessairement imprécis, notamment dans le contexte géopolitique actuel. Mais refuser de regarder et de commenter la photographie pour éviter de travailler sur le fond, c’est pathétique. Nous devons objectiver les choses et regarder avec lucidité pourquoi les différentes branches de la sécurité sociale sont en déficit, sans nous priver d’un tel outil."
+  },
+  {
+   "orateur": "Mme Sandrine Rousseau",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "La photographie n’est pas sincère !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix les amendements identiques nos 33, 281, 1358, 1500 et 1886."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

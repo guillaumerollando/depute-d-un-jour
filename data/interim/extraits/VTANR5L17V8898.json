@@ -1,0 +1,248 @@
+{
+ "uid": "VTANR5L17V8898",
+ "titre": "l'amendement n° 34 de Mme Runel et les amendements identiques suivants de suppression de l'article 2 du projet de loi de financement de la sécurité sociale pour 2027 (première lecture).",
+ "type": "amendement",
+ "date": "2026-10-20",
+ "dossier": "DLR5L17N54951",
+ "dossier_titre": "Projet de loi de financement de la sécurité sociale pour 2027",
+ "sort": "adopté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "contre",
+  "LFI": "pour",
+  "SOC": "pour",
+  "DR": "contre",
+  "ECOS": "pour",
+  "DEM": "contre",
+  "HOR": "contre",
+  "LIOT": "pour",
+  "UDR": "pour",
+  "GDR": "pour"
+ },
+ "voix": {
+  "RN": {
+   "pour": 66,
+   "contre": 0,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 0,
+   "contre": 24,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 28,
+   "contre": 0,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 24,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 0,
+   "contre": 13,
+   "abstention": 0
+  },
+  "ECOS": {
+   "pour": 17,
+   "contre": 0,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 12,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 9,
+   "abstention": 0
+  },
+  "LIOT": {
+   "pour": 3,
+   "contre": 0,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 9,
+   "contre": 0,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 4,
+   "contre": 0,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901B3211P0D1N000034",
+  "dossier": "DLR5L17N54951",
+  "texte": "PRJLANR5L17B3211",
+  "division": "Article 2",
+  "auteur": "Mme Runel,  Mme Battistel, Mme Allemand, M. Aviragnet, M. Baptiste, M. Barusseau, M. Baumel, M. Belhaddad, Mme Bellay, M. Benbrahim, M. Mickaël Bouloux, Mme Bregman, M. Califer, Mme Capdevielle, M. Christophle, M. Courbon, M. David, M. Delaporte, M. Delautrette, Mme Diop, Mme Dombre Coste, M. Dufau, M. Echaniz, M. Eskenazi, M. Faure, Mme Froger, M. Fégné, M. Garot, Mme Godard, Mme Got, M. Guedj, M. Hablot, Mme Hadizadeh, Mme Hadj-Mimoune, Mme Herouin-Léautey, Mme Céline Hervieu, M. Hollande, M. Houlié, Mme Jourdan, Mme Karamanli, Mme Keloua Hachi, M. Leseul, M. Lhardit, Mme Mercier, M. Naillet, M. Oberti, Mme Pantel, M. Pena, Mme Pic, Mme Pirès Beaune, M. Potier, M. Pribetich, M. Proença, Mme Rossi, Mme Rouaux, M. Aurélien Rousseau, M. Roussel, Mme Récalde, M. Saint-Pasteur, Mme Santiago, M. Saulignac, M. Simion, M. Sother, Mme Thiébault-Martinez, Mme Thomin, M. Vallaud, M. Vicot, M. William et les membres du groupe Socialistes et apparentés",
+  "auteur_groupe": "SOC",
+  "auteur_type": "Député",
+  "dispositif": "Supprimer cet article.",
+  "expose": "Cet amendement des députés socialistes et apparentés vise à supprimer l’article 2 qui rectifie l’ONDAM pour 2026, et entérine donc le doublement du plafond annuel des franchises décidé cet été par décret. Le Gouvernement justifie cette rectification des sous-objectifs de l’ONDAM pour 2026 de 1,1 milliards d’euros à la baisse ; notamment par la hausse des plafonds des participations forfaitaires et franchises, actée par le décret du 11 septembre 2026. Rappelons que, lors de la discussion du PLFSS pour 2026, le Gouvernement avait annoncé son intention de doubler les franchises, avant de retirer cette mesure à la suite des négociations menées avec notre groupe. Cependant, bafouant ces engagements, le Gouvernement a relancé cette réforme en juillet 2026, en annonçant vouloir doubler les plafonds des franchises et participations forfaitaires, de 50 à 100 euros chacun, soit 200 euros au total. Finalement, le décret du 11 septembre 2026 porte ces deux plafonds à 70 euros à compter du 1er octobre 2026, soit un plafond cumulé de 140 euros. Le décret prévoit par ailleurs une revalorisation annuelle des plafonds à compter de janvier 2028, sur la base de l’évolution de l’inflation. Or ces franchises et participations forfaitaires ne peuvent pas être remboursées par les organismes d’assurance maladie complémentaire et renforcent donc le reste à charge des patients, particulièrement celui des personnes âgées et des assurés en affection de longue durée (ALD). Pour les personnes âgées de 70 ans ou plus, ce reste à charge est quatre fois supérieur à celui des personnes âgées de 20 à 39 ans. Il est également 1,8 fois plus élevé pour les assurés en ALD que pour les assurés sans ALD. Par conséquent, nous sommes fortement opposés à cet article qui rappelle que le Gouvernement continue d’augmenter les restes à charge en santé et qui acte l’augmentation des plafonds des participations forfaitaires et des franchises médicales. Tel est l’objet de cet amendement de suppression."
+ },
+ "seance": "RUANR5L17S2027IDS30953",
+ "compte_rendu": "CRSANR5L17S2027O1N033",
+ "interventions": [
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Nous en venons à l’article 2 et, tout d’abord, à cinq amendements identiques, nos 34, 283, 1363, 1505 et 3075, tendant à le supprimer. Sur ces amendements, je suis saisie par le groupe Rassemblement national, le groupe La France insoumise-Nouveau Front populaire et le groupe Socialistes et apparentés de demandes de scrutin public. Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.La parole est à M. Arnaud Simion, pour soutenir l’amendement no 34."
+  },
+  {
+   "orateur": "M. Arnaud Simion",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Nous en avons parlé tout à l’heure : l’article 2 entérine une mesure profondément injuste, le doublement des franchises médicales et des participations forfaitaires, décidée par décret le 11 septembre dernier, alors même que le gouvernement s’était engagé à y renoncer. Cette mesure frappera durement les personnes âgées, les personnes souffrant d’affections de longue durée et, plus généralement, celles qui ont le plus besoin de soins. C’est pourquoi nous demandons la suppression de l’article. (Applaudissements sur quelques bancs des groupes SOC et EcoS.)"
+  },
+  {
+   "orateur": "M. Pierre Pribetich",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Bravo !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Karine Lebon, pour soutenir l’amendement no 283."
+  },
+  {
+   "orateur": "Mme Karine Lebon",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "L’article 2 acte une baisse des dépenses de 1,1 milliard d’euros, qui concerne en particulier l’hôpital. Cette économie se traduit également par un reste à charge plus important pour les assurés sociaux, avec le relèvement des plafonds des franchises et des participations forfaitaires.Cette mesure, à laquelle la majorité des députés s’étaient opposés lors de l’examen du PLFSS pour 2026, est d’autant plus contestable que trois quarts des Français déclarent avoir déjà renoncé à au moins un soin au cours des cinq dernières années, notamment pour des raisons financières. Et ce sont précisément ces personnes qui subiront les conséquences de votre décret.En juin dernier, le Haut Conseil pour l’avenir de l’assurance maladie a en effet montré que la participation financière des patients n’améliore pas la pertinence des soins, mais qu’elle réduit mécaniquement l’accès aux soins des ménages à faibles revenus. Pour toutes ces raisons, nous demandons la suppression de l’article."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Joëlle Mélin, pour soutenir l’amendement no 1363."
+  },
+  {
+   "orateur": "Mme Joëlle Mélin",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Nous demandons, nous aussi, la suppression de l’article 2, même si nous avons conscience que la loi organique ne le permet pas totalement. Nous voulons surtout dire clairement que cet Ondam n’est plus supportable. Depuis plusieurs années, nous dénonçons un Ondam qui n’est plus un guide, mais un frein aveugle et inefficace, puisqu’il est toujours rectifié a posteriori. Selon nous, il est directement responsable de la dégradation de notre système de soins. Pour une économie de 1,1 milliard d’euros sur un total de 274 milliards, ce rabot, certes mineur, a des conséquences majeures, notamment sur les établissements de santé et sur le reste à charge des patients. Tout cela est intolérable."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Zahia Hamdane, pour soutenir l’amendement no 1505."
+  },
+  {
+   "orateur": "Mme Zahia Hamdane",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "La sécurité sociale doit protéger les personnes lorsqu’elles sont malades. Elle n’a pas été créée pour leur demander de faire des efforts afin de compenser un budget que les macronistes n’ont pas su maîtriser. Ils ont en revanche creusé le déficit chaque année en multipliant les cadeaux à leurs amis milliardaires et, à la fin, c’est le malade qui paie. Quelle honte !Quand un hôpital manque de moyens, qui en paie le prix ? Les soignants et les patients, qui renoncent trop souvent à se soigner ! Les hôpitaux publics affichent 2,3 milliards d’euros de déficit. Pendant ce temps, le gouvernement nous propose 1,1 milliard d’euros de coupes supplémentaires dans l’Ondam pour 2026, après plus de 4 milliards d’euros d’économies l’an passé. Nous demandons donc la suppression de cet article.Avec Jean-Luc Mélenchon, en 2027, vous aurez le remboursement intégral des soins prescrits, sans franchises ni reste à charge. (Applaudissements sur les bancs du groupe LFI-NFP. – Exclamations sur quelques bancs du groupe RN.)"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Hendrik Davi, pour soutenir l’amendement no 3075."
+  },
+  {
+   "orateur": "M. Hendrik Davi",
+   "qualite": null,
+   "groupe": "ECOS",
+   "president_de_seance": false,
+   "texte": "Pourquoi supprimer l’article 2 constitué, comme l’ont rappelé mes collègues, d’un tableau récapitulatif dans lequel figure la rectification de l’Ondam pour 2026 ? Vous le réévaluez à la baisse de 1,1 milliard d’euros. Cette révision devrait tout de même nous interroger. Permettez-moi d’expliquer la supercherie à tous. En décembre 2025, nous avons voté une augmentation de l’Ondam – c’est d’ailleurs pour cette raison que certains membres du groupe Écologiste et social se sont abstenus sur le vote du projet de loi de financement de la sécurité sociale. Vous avez donc cédé et accepté cette augmentation, mais vous ne l’avez pas mise en pratique dès janvier. Madame la ministre de la santé, quelques semaines seulement après notre vote, vous avez gelé les tarifs hospitaliers. Et ensuite, que s’est-il passé ? En fin d’année, vous constatez un excédent de 600 millions d’euros par rapport aux prévisions. Mais au lieu de rendre cet argent aux hôpitaux, vous le reprenez. Au bout du compte, nous nous retrouvons avec un déficit de 2,1 milliards d’euros pour l’ensemble des hôpitaux cette année."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Quel est l’avis de la commission ?"
+  },
+  {
+   "orateur": "M. Thibault Bazin",
+   "qualite": "rapporteur général",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "L’article 2 est obligatoire si on veut respecter notre cadre organique. En tant que républicain, je considère qu’il faut donc le conserver, même s’il ne nous satisfait pas.Il vise uniquement à rectifier l’Ondam pour 2026. Si nous ne nous crashons pas d’ici là, nous devrions disposer d’une version définitive autour du 26 ou du 27 novembre, même si le texte peut encore évoluer au cours de la navette parlementaire. Monsieur Simion et madame Lebon, il faut être honnête : la suppression de l’article 2 n’annulera pas les textes réglementaires qui ont instauré le doublement des plafonds des participations forfaitaires et des franchises. Je pense que Mme la ministre vous a entendus, mais cette suppression ne remettra pas en cause les décisions réglementaires.L’enjeu est donc de nous tourner vers le gouvernement pour connaître le point d’atterrissage de l’Ondam. Actuellement, 400 millions d’euros sont gelés au titre du coefficient prudentiel. Vous avez estimé à 300 millions d’euros le coût de la suractivité hospitalière, ce qui est une bonne nouvelle pour les hôpitaux. Selon vos calculs, environ 100 millions d’euros pourraient être dégelés. Madame la ministre, allez-vous procéder à ce dégel ? Envisagez-vous un dégel supplémentaire ? Les fédérations hospitalières que j’ai rencontrées le souhaitent. Je me fais donc leur relais auprès de vous.Monsieur Davi, le cadre organique autorise les mises en réserve, mais notre loi de programmation des finances publiques prévoit un plancher en la matière de 0,3 %. Dès le mois de janvier, si nous voulons respecter la loi de programmation des finances publiques pour 2023-2027, adoptée en 2024, nous devons donc geler une partie des crédits, puis les dégeler progressivement au cours de l’année. Cette décision n’est pas propre au gouvernement, c’est une obligation que nous impose la loi organique.J’émets un avis défavorable sur les amendements de suppression de l’article 2, que la commission avait adoptés."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme la ministre de la santé, des familles, de l’autonomie et des personnes handicapées, pour donner l’avis du gouvernement."
+  },
+  {
+   "orateur": "Mme Stéphanie Rist",
+   "qualite": "ministre de la santé, des familles, de l’autonomie et des personnes handicapées",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Cet article rectifie effectivement l’Ondam pour 2026, mais, monsieur Davi, il ne s’agit en rien d’une supercherie : c’est au contraire une démarche menée en toute transparence et en toute sincérité.Lors de nos débats de l’an dernier, nous avions indiqué, avec Amélie de Montchalin, que nous ne nous engagions pas sur un chemin nous amenant à prendre des décrets relatifs aux plafonds des franchises, compte tenu des échanges que nous avions eus. Cependant, il y a un an, la crise d’Ormuz n’avait pas eu lieu et nous n’étions pas confrontés au ralentissement de la croissance. Dans le cadre d’un effort global, j’assume donc d’avoir pris ces décrets cet été.Ils font passer de 50 à 70 euros le plafond annuel des franchises. Autrement dit, même si vous consommez davantage de médicaments au cours de l’année, le montant des franchises qui reste à votre charge est plafonné à 70 euros. (Exclamations sur quelques bancs des groupes LFI-NFP, SOC et EcoS.) Je rappelle que l’ancien plafond de 50 euros n’avait pas évolué depuis 2005. Cette mesure représente, en moyenne, environ 10 euros supplémentaires par an à la charge de nos concitoyens, sachant que les personnes les plus fragiles en sont exonérées : 18 millions de Français ne paient pas ces franchises – bénéficiaires de la complémentaire santé solidaire (C2S), mineurs ou femmes enceintes. J’assume donc cette mesure, qui permet de réduire les dépenses d’environ 330 millions d’euros en 2026.S’agissant des établissements de santé, il y a effectivement une annulation des mises en réserve de l’ordre de 600 millions d’euros. Le reste relève du coefficient prudentiel, qui dépend de la dynamique de l’activité. Chaque année, la décision de maintenir ou de lever cette réserve est prise à la fin du mois de novembre. À ce stade, je ne peux donc pas encore me prononcer. Cela dépendra de l’évolution de l’activité des établissements de santé. Au total, cette rectification représente bien 1,1 milliard d’euros sur l’Ondam pour 2026.Le gouvernement est défavorable aux amendements de suppression de l’article 2."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à M. Arnaud Simion."
+  },
+  {
+   "orateur": "M. Arnaud Simion",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Je comprends pourquoi le rapporteur général renvoie la responsabilité vers la ministre. Madame la ministre, un engagement est un engagement. À force de vouloir faire des économies sur le dos des malades, on finit par provoquer ce que l’on appelle le renoncement aux soins. Or ce phénomène est aujourd’hui massif, et il entraînera demain des dépenses de santé supplémentaires. Ce n’est pas moi qui le dis, c’est Arnaud Robinet, président de la Fédération hospitalière de France. Il alerte sur l’ampleur du renoncement aux soins, qu’il qualifie de signal d’alerte majeur et de risque pour notre pacte social. Supprimons donc l’article 2 ! (Applaudissements sur les bancs du groupe SOC.)"
+  },
+  {
+   "orateur": "M. Pierre Pribetich",
+   "qualite": null,
+   "groupe": "SOC",
+   "president_de_seance": false,
+   "texte": "Bravo !"
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "La parole est à Mme Justine Gruet."
+  },
+  {
+   "orateur": "Mme Justine Gruet",
+   "qualite": null,
+   "groupe": "DR",
+   "president_de_seance": false,
+   "texte": "Le problème porte moins sur le montant que sur le principe même de l’Ondam. Madame Mélin, l’Ondam est un objectif, et non un plafond de dépenses. C’est une caractéristique essentielle des dépenses de santé : nous établissons des prévisions sans pouvoir plafonner les dépenses, qui explosent sous l’effet du nombre important de maladies chroniques et d’affections de longue durée, mais aussi du vieillissement de la population.La logique est totalement différente dans le domaine de la dépendance, où des plafonds sont fixés. Prenons l’exemple du matériel médical et du renouvellement d’un fauteuil roulant : lorsque le montant de la prestation de compensation du handicap (PCH) est atteint, les parents d’un enfant en situation de handicap sont contraints d’attendre l’année suivante. Nous devons donc engager une véritable réflexion sur l’évolution de nos dépenses de santé. C’est l’un des enjeux de l’Ondam. Enfin, nous avons un défi majeur à relever : celui de la prévention. Nous devons faire en sorte que les Français restent en meilleure santé, pour faire diminuer les dépenses de santé."
+  },
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix les amendements identiques nos 34, 283, 1363, 1505 et 3075."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

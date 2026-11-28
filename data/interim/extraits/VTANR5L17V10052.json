@@ -1,0 +1,107 @@
+{
+ "uid": "VTANR5L17V10052",
+ "titre": "l'amendement n° 12 de M. Falcon à l'article premier de la proposition de loi pour retrouver la confiance et l'équilibre dans les rapports locatifs (deuxième lecture).",
+ "type": "amendement",
+ "date": "2026-11-19",
+ "dossier": "DLR5L17N53069",
+ "dossier_titre": "Retrouver la confiance et l’équilibre dans les rapports locatifs",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "pour",
+  "EPR": "contre",
+  "LFI": "contre",
+  "SOC": "contre",
+  "DR": "pour",
+  "ECOS": "contre",
+  "DEM": "contre",
+  "LIOT": "contre",
+  "UDR": "pour",
+  "GDR": "contre"
+ },
+ "voix": {
+  "RN": {
+   "pour": 77,
+   "contre": 1,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 0,
+   "contre": 13,
+   "abstention": 2
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 38,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 0,
+   "contre": 60,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 5,
+   "contre": 0,
+   "abstention": 1
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 25,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 0,
+   "contre": 8,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 0,
+   "contre": 0,
+   "abstention": 4
+  },
+  "LIOT": {
+   "pour": 0,
+   "contre": 4,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 4,
+   "contre": 0,
+   "abstention": 0
+  },
+  "GDR": {
+   "pour": 0,
+   "contre": 11,
+   "abstention": 0
+  }
+ },
+ "amendement": {
+  "uid": "AMANR5L17PO838901BTC3432P0D1N000012",
+  "dossier": "DLR5L17N53069",
+  "texte": "PIONANR5L17BTC3432",
+  "division": "Article PREMIER",
+  "auteur": "M. Falcon,  M. Amblard, M. Casterman, M. de Lépinau, M. Gabarron, Mme Florence Goulet, Mme Grangier, M. Jolly, M. Jordan, Mme Laporte, M. Le Bourgeois, M. Loubet, M. Patrice Martin, M. Rivière, M. Vos et M. Weber",
+  "auteur_groupe": "RN",
+  "auteur_type": "Député",
+  "dispositif": "Rédiger ainsi l’alinéa 21 : « B bis . – Le dernier alinéa du IV est complété par les mots :« , ou aux logements donnés à bail au sens des articles 25‑12 et suivants du titre I er ter de la loi n° 89‑462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86‑1290 du 23 décembre 1986 ».",
+  "expose": "Le présent amendement de repli vise à exclure du champ de l’encadrement des loyers les logements loués dans le cadre d’un bail mobilité, régi par les articles 25-12 et suivants de la loi n° 89-462 du 6 juillet 1989. Créé par la loi ÉLAN elle-même, le bail mobilité est un contrat de courte durée, d’un à dix mois, destiné aux personnes en formation professionnelle, en études supérieures, en apprentissage, en stage, en service civique ou en mission temporaire. Il ne peut porter que sur un logement meublé et ne permet pas au bailleur d’exiger de dépôt de garantie. La Cour des comptes relève dans sa communication d’octobre 2026 que cette catégorie de bail est « globalement absente des données » des observatoires locaux des loyers. Les loyers de référence qui lui sont opposés ne reposent donc sur aucune observation de ce segment de marché, qui fait peser sur le propriétaire des périodes de vacance entre deux locataires, une gestion plus lourde et un risque accru. Soumettre ce bail à l’encadrement revient à en neutraliser l’intérêt, alors qu’il a précisément été conçu pour faciliter le logement des apprentis, des stagiaires et des travailleurs en mobilité. Son exclusion permettra de développer cette offre au service de l’emploi et de la formation."
+ },
+ "seance": "RUANR5L17S2027IDS31055",
+ "compte_rendu": "CRSANR5L17S2027O1N069",
+ "interventions": [
+  {
+   "orateur": "Mme la présidente",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’amendement no 12."
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  }
+ ]
+}

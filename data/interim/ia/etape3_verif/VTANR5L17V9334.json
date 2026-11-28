@@ -1,0 +1,11 @@
+{
+ "uid": "VTANR5L17V9334",
+ "consigne": "etape3_verification v2",
+ "verdict": "corrige",
+ "problemes": [
+  "La première phrase laisse croire que les jeunes suivis par la protection judiciaire de la jeunesse ont déjà droit à un accompagnement jusqu'à 21 ans : le texte étend ce droit, aujourd'hui réservé aux jeunes sortant de l'aide sociale à l'enfance, à ceux suivis par la protection judiciaire de la jeunesse."
+ ],
+ "corrections": {
+  "ce_que_ca_change": "Les jeunes majeurs sortant de l'aide sociale à l'enfance, et ceux suivis par la protection judiciaire de la jeunesse (justice des mineurs), auraient droit à un accompagnement jusqu'à 25 ans au lieu de 21. La condition de manque de ressources disparaîtrait et les jeunes visés par une obligation de quitter le territoire ne seraient plus exclus. Ce droit serait défendable par recours puis en justice."
+ }
+}

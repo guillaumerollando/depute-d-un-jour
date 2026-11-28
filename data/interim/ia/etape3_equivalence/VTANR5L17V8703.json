@@ -1,0 +1,8 @@
+{
+  "uid": "VTANR5L17V8703",
+  "consigne": "etape3_equivalence v1",
+  "verdict": "different",
+  "ecarts": [
+    "Le contexte perd l'indication « en seconde délibération » (le vote a lieu lors d'un nouveau vote sur l'article) : une information est retirée. La carte voisine VTANR5L17V8697, même séance, la garde (« lors d'un nouveau vote sur cet article »)."
+  ]
+}

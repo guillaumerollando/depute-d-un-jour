@@ -1,0 +1,1690 @@
+N° 3490
+N° 187
+ASSEMBLÉE NATIONALE
+SÉNAT
+CONSTITUTION DU 4 OCTOBRE 1958
+SESSION ORDINAIRE DE 2026-2027
+DIX-SEPTIÈME LÉGISLATURE
+Enregistré à la Présidence de l’Assemblée nationale le 20 novembre 2026
+Enregistré à la Présidence du Sénat le 20 novembre 2026
+PROJET DE LOI
+de finances de fin de gestion pour 2026 ,
+TEXTE ÉLABORÉ PAR
+LA COMMISSION MIXTE PARITAIRE
+Voir les numéros :
+Assemblée nationale (17 e législature) : 1 re lecture : 3434 , 3443 et T.A. 364 .
+Sénat : 1 re lecture : 172 , 176 et T.A. 34 (2026‑2027).
+Commission mixte paritaire : 186 (2026‑2027).
+– 1 –
+Projet de loi de finances de fin de gestion pour 2026
+Article liminaire
+Les prévisions de solde structurel et de solde effectif de l’ensemble des administrations publiques, les prévisions de solde par sous‑secteur, la prévision, déclinée par sous‑secteur d’administration publique, de l’objectif d’évolution en volume et la prévision en milliards d’euros courants des dépenses d’administrations publiques, les prévisions de prélèvements obligatoires, de dépenses et d’endettement de l’ensemble des administrations publiques pour l’année 2026, les prévisions pour 2026 de ces mêmes agrégats de la loi de programmation des finances publiques pour les années 2023 à 2027, ainsi que les données d’exécution pour l’année 2025 s’établissent comme suit :
+(En % du produit intérieur brut, sauf mention contraire)
+Projet de loi de finances de fin de gestion pour 2026
+LPFP 2023-2027*
+2025
+2026
+2026
+Ensemble des administrations publiques
+Solde structurel [1]
+-5,2
+-5,1
+-2,9
+Solde conjoncturel [2]
+0,1
+-0,3
+-0,2
+Solde des mesures ponctuelles et temporaires [3]
+0,0
+0,0
+0,0
+Solde effectif [1 + 2 + 3]
+-5,1
+-5,4
+-3,2
+Solde effectif ( en milliards d’euros )
+-151,6
+-166,1
+-97,6
+Dette au sens de Maastricht
+115,7
+119,4
+109,1
+Taux de prélèvements obligatoires ( y compris Union européenne, nets des crédits d’impôts )
+43,6
+43,9
+44,4
+Dépense publique ( hors crédits d’impôt )
+56,6
+57,2
+54,4
+Dépense publique ( hors crédits d’impôt, en milliards d’euros )
+1694
+1744
+1705
+Évolution de la dépense publique hors crédits d’impôt en volume ( en % ) (1)
+1,6
+0,9
+0,5
+Principales dépenses d’investissement ( en milliards d’euros ) (2)
+26
+34
+35
+Administrations publiques centrales
+Solde
+-4,4
+-4,9
+-4,2
+Solde ( en milliards d’euros )
+-130,3
+-149,6
+-128,1
+Dépense publique ( hors crédits d’impôt, en milliards d’euros )
+661
+693
+678
+Évolution de la dépense publique en volume ( en % ) (3)
+0,9
+3,2
+1,5
+Administrations publiques locales
+Solde
+-0,5
+-0,4
+0,2
+Solde ( en milliards d’euros )
+-15,6
+-11,8
+6,1
+Dépense publique ( hors crédits d’impôt, en milliards d’euros )
+335
+336
+329
+Évolution de la dépense publique hors crédits d’impôt en volume ( en % ) (3)
+1,0
+-2,0
+-1,9
+Administrations de sécurité sociale
+Solde
+-0,2
+-0,2
+0,9
+Solde ( en milliards d’euros )
+-5,8
+-4,8
+27,5
+Dépense publique ( hors crédits d’impôt, en milliards d’euros )
+803
+823
+798
+Évolution de la dépense publique hors crédits d’impôt en volume ( en % ) (3)
+2,4
+0,3
+0,7
+Les chiffres en comptabilité nationale relatifs au projet de loi de finances de fin de gestion (PLFG) pour 2026 se réfèrent, pour 2025, au compte publié par l’Insee en comptabilité nationale en base 2020, et, pour 2026, aux prévisions du Gouvernement dans la même base. Les prévisions relatives à la loi n° 2023-1195 du 18 décembre 2023 de programmation des finances publiques (LPFP) pour les années 2023 à 2027 en comptabilité nationale, antérieures au changement de base des comptes nationaux français, étaient relatives à la base antérieure des comptes nationaux, la base 2014.
+Le passage des comptes nationaux en base 2020, opéré par l’Insee sous le contrôle d’Eurostat, a significativement affecté les ratios de finances publiques et la comparabilité des exercices. La sortie de l’établissement de retraite additionnelle de la fonction publique (ERAFP), structurellement excédentaire, du champ des administrations publiques a conduit à une dégradation du déficit public d’environ 2,6 milliards d’euros en 2023. Par ailleurs, des changements méthodologiques affectant significativement les ratios de finances publiques ont entraîné un niveau nettement plus élevé des dépenses publiques et des recettes hors prélèvements obligatoires sans impact sur le solde.
+Deux principaux effets expliquent cette augmentation :
+- l’intégration du compte complet de SNCF Réseau (dont seul le solde était retracé précédemment) pour 10 milliards d’euros environ de hausse des recettes hors prélèvements obligatoires et des dépenses en 2023 ;
+- un nouveau traitement des corrections liées à la recherche et développement pour 4 milliards d’euros environ de hausse des recettes hors prélèvements obligatoires et des dépenses.
+Ainsi, s’agissant tout particulièrement de la dépense, les effets du changement de base contribuent largement aux écarts importants sur le montant en milliards d’euros et sur la part dans le produit intérieur brut de la dépense publique.
+Le scénario potentiel retenu dans la présente loi de finances de fin de gestion a évolué depuis la loi n° 2023-1195 du 18 décembre 2023 précitée pour les années 2023 à 2027 afin de tirer les conséquences des révisions de la chronique de produit intérieur brut opérées par l’Insee depuis l’adoption de cette même loi. La croissance du produit intérieur brut ayant été revue à la hausse sur les années antérieures à 2024, le diagnostic sur la capacité de rebond de l’économie française sur la suite de la période a été révisé. Par ailleurs, la croissance potentielle est désormais estimée à 1,20 % par an en 2025 et 2026, contre 1,35 % chaque année dans ladite loi.
+* Loi de programmation des finances publiques pour les années 2023 à 2027.
+(1) À champ constant.
+(2) Au sens du rapport annexé au projet de loi n° 2023-1195 du 18 décembre 2023 de programmation des finances publiques pour les années 2023 à 2027.
+(3) À champ constant, hors transferts entre administrations publiques.
+PREMIÈRE PARTIE
+CONDITIONS GÉNÉRALES DE L’ÉQUILIBRE FINANCIER
+TITRE I ER
+DISPOSITIONS RELATIVES AUX RESSOURCES
+Article 1 er
+I. – Le tableau du I de l’article 135 de la loi n° 2026‑103 du 19 février 2026 de finances pour 2026 est ainsi modifié :
+1° À l’avant‑dernière colonne :
+a) À la ligne trois, le montant : « 1 469 455 925 » est remplacé par le montant : « 1 211 455 925 » ;
+b) À la ligne vingt‑quatre, le montant : « 4 400 000 » est remplacé par le montant : « 8 800 000 » ;
+c) À la ligne cent un, le montant : « 95 013 716 » est remplacé par le montant : « 99 436 874 » ;
+d) À la ligne cent vingt‑huit, le montant : « 86 198 112 » est remplacé par le montant : « 89 819 056 » ;
+2° À la dernière colonne :
+a) À la ligne trois, le montant : « 1 469 455 925 » est remplacé par le montant : « 1 211 455 925 » ;
+b) À la ligne vingt‑quatre, le montant : « 4 620 000 » est remplacé par le montant : « 9 200 000 » ;
+c) (Supprimé)
+d) À la ligne cent un, le montant : « 99 260 726 » est remplacé par le montant : « 99 436 874 » ;
+e) À la ligne cent vingt‑huit, le montant : « 90 508 018 » est remplacé par le montant : « 70 508 018 ».
+II. – Au 2° du 1 du VI de l’article 46 de la loi n° 2005‑1719 du 30 décembre 2005 de finances pour 2006, la deuxième phrase est remplacée par les dispositions suivantes : « En 2026, cette fraction s’élève à 3 869 365 526 euros. »
+III. – (Supprimé)
+Article 2
+I. – Le premier alinéa du II de l’article 49 de la loi n° 2005‑1719 du 30 décembre 2005 de finances pour 2006 est ainsi modifié :
+1° À la fin de la première phrase, le montant : « 514,65 millions d’euros » est remplacé par le montant : « 514,34 millions d’euros » ;
+2° À la seconde phrase, le montant : « 344,65 millions d’euros » est remplacé par le montant : « 344,34 millions d’euros ».
+II. – Pour l’année 2026, les montants de 514,34 millions d’euros et 344,34 millions d’euros mentionnés au premier alinéa du II de l’article 49 de la loi n° 2005‑1719 du 30 décembre 2005 de finances pour 2006 sont ramenés respectivement à 494,34 millions d’euros et 324,34 millions d’euros.
+Pour la même année 2026, le solde du produit mentionné au second alinéa du II de ce même article est diminué de 20 millions d’euros avant son affectation aux organismes mentionnés à cet alinéa et est reversé au budget général.
+Article 3
+Le montant de la fraction du produit de la taxe sur la valeur ajoutée affectée, au titre de l’année 2026, à la branche mentionnée au 1° de l’article L. 200‑2 du code de la sécurité sociale, en application du a du 9° de l’article L. 131‑8 du même code, est minoré de 739 millions d’euros en 2026.
+TITRE II
+DISPOSITIONS RELATIVES À L’ÉQUILIBRE DES RESSOURCES ET DES CHARGES
+Article 4
+I. – Pour 2026, l’ajustement des ressources tel qu’il résulte des évaluations révisées figurant à l’état A annexé à la présente loi et la variation des charges du budget de l’État sont fixés aux montants suivants :
+(En millions d’euros*)
+Ressources (1)
+dont fonctionnement (2)
+dont investissement (3)
+Charges (1)
+dont fonctionnement (2)
+dont investissement (3)
+Solde
+Budget général
+1
+2
+3
+1
+2
+3
+Recettes fiscales** / dépenses***
+-4 822
+-4 822
+0
++3 652
++2 774
++878
+Recettes non fiscales
++4 154
++2 958
++1 196
+Recettes totales / dépenses totales
+-667
+-1 863
++1 196
++3 652
++2 774
++878
+À déduire : Prélèvements sur recettes au profit des collectivités territoriales et de l’Union européenne
+-878
+-878
+Montants nets pour le budget général
++210
+-986
++1 196
++3 652
++2 774
++878
+-3 442
+Évaluation des fonds de concours et des attributions de produits
+0
+0
+0
+0
+0
+0
+Montants nets pour le budget général, y compris fonds de concours
++210
+-986
++1 196
++3 652
++2 774
++878
+Budgets annexes
+Contrôle et exploitation aériens
++83
++83
+-27
+-5
+-22
++110
+Publications officielles et information administrative
++9
++9
+0
+0
+0
++10
+Totaux pour budgets annexes
++92
++92
+-27
+-5
+-22
++120
+Évaluation des fonds de concours et des attributions de produits
+Contrôle et exploitation aériens
+0
+0
+0
+0
+Publications officielles et information administrative
+0
+0
+0
+0
+Totaux pour les budgets annexes y compris fonds de concours
++92
++92
+-27
+-5
+-22
+Comptes spéciaux
+Comptes d’affectation spéciale
+-761
++550
+-1 311
+-235
+-215
+-20
+-526
+Comptes de concours financiers
++982
++982
+-566
+-288
+-278
++1 548
+Comptes de commerce (solde)
++45
+Comptes d’opérations monétaires (solde)
+-6
+Solde pour les comptes spéciaux
++1 061
+Solde général
+-2 261
+* Les montants figurant dans le présent tableau sont arrondis au million d’euros le plus proche ; il résulte de l’application de ce principe que le montant arrondi des totaux et sous-totaux peut ne pas être égal à la somme des montants arrondis entrant dans son calcul.
+** Recettes fiscales brutes, minorées des remboursements et dégrèvements d’impôts d’État (cf. état B, mission « Remboursements et dégrèvements », programme 200).
+*** Dépenses budgétaires brutes, minorées des remboursements et dégrèvements d’impôts d’État (cf. état B, mission « Remboursements et dégrèvements », programme 200).
+II. – Pour 2026 :
+1° Les ressources et les charges de trésorerie qui concourent à la réalisation de l’équilibre financier sont évaluées comme suit :
+(En milliards d’euros)
+Besoin de financement
+Amortissement de la dette à moyen et long termes
+169,8
+Dont remboursement du nominal à valeur faciale
+167,5
+Dont suppléments d’indexation versés à l’échéance (titres indexés)
+2,3
+Amortissement de la dette reprise de SNCF Réseau
+2,5
+Amortissement des autres dettes
+0,0
+Déficit à financer
+135,5
+Autres besoins de trésorerie
+2,1
+Total
+309,9
+Ressources de financement
+Émission de dette à moyen et long termes, nette des rachats
+310,0
+Ressources affectées à la Caisse de la dette publique et consacrées au désendettement
+0,0
+Variation nette de l’encours des titres d’État à court terme
+11,6
+Variation des dépôts des correspondants
+0,0
+Prêts auprès des institutions et agences financières de l’Union européenne
+2,3
+Variation des disponibilités du Trésor à la Banque de France et des placements de trésorerie de l’État
+0,0
+Autres ressources de trésorerie
+-14,0
+Total
+309,9
+2° Le plafond de la variation nette, appréciée en fin d’année et en valeur nominale, de la dette négociable de l’État d’une durée supérieure à un an demeure inchangé.
+SECONDE PARTIE
+MOYENS DES POLITIQUES PUBLIQUES ET DISPOSITIONS SPÉCIALES
+TITRE I er
+AUTORISATIONS BUDGÉTAIRES POUR 2026
+I. – Autorisation des crédits des missions
+Article 5
+I. – Il est ouvert aux ministres, pour 2026, au titre du budget général, des autorisations d’engagement et des crédits de paiement supplémentaires s’élevant respectivement aux montants de 6 962 279 282 € et de 7 422 468 241 €, conformément à la répartition par mission donnée à l’état B annexé à la présente loi.
+II. – Il est annulé pour 2026, au titre du budget général, des autorisations d’engagement et des crédits de paiement s’élevant respectivement aux montants de 4 180 090 887 € et de 3 934 527 025 €, conformément à la répartition par mission donnée à l’état B annexé à la présente loi.
+Article 6
+Il est annulé pour 2026, au titre des budgets annexes, des autorisations d’engagement et des crédits de paiement s’élevant respectivement aux montants de 9 405 861 € et de 27 254 623 €, conformément à la répartition par mission donnée à l’état C annexé à la présente loi.
+Article 7
+I. – Il est annulé pour 2026, au titre des comptes d’affectation spéciale, des crédits de paiement s’élevant au montant de 234 940 200 €, conformément à la répartition par mission donnée à l’état D annexé à la présente loi.
+II. – Il est ouvert aux ministres, pour 2026, au titre des comptes de concours financiers, des autorisations d’engagement et des crédits de paiement supplémentaires s’élevant respectivement aux montants de 10 038 000 € et de 10 038 000 €, conformément à la répartition par mission donnée à l’état D annexé à la présente loi.
+III. – Il est annulé pour 2026, au titre des comptes de concours financiers, des autorisations d’engagement et des crédits de paiement s’élevant respectivement aux montants de 338 363 035 € et de 576 242 251 €, conformément à la répartition par mission donnée à l’état D annexé à la présente loi.
+II. – Plafonds des autorisations d’emplois
+Article 8
+L’article 154 de la loi n° 2026‑103 du 19 février 2026 de finances pour 2026 est ainsi modifié :
+1° Au premier alinéa, le nombre : « 401 389 » est remplacé par le nombre : « 401 665 » ;
+2° À la seconde colonne du tableau du second alinéa :
+a) À la quatorzième ligne, le nombre : « 17 198 » est remplacé par le nombre : « 17 195 » ;
+b) À la dix‑septième ligne, le nombre : « 3 225 » est remplacé par le nombre : « 3 222 » ;
+c) À la vingt‑sixième ligne, le nombre : « 19 492 » est remplacé par le nombre : « 19 580 » ;
+d) À la vingt‑septième ligne, le nombre : « 5 034 » est remplacé par le nombre : « 5 122 » ;
+e) À la quarante‑et‑unième ligne, le nombre : « 796 » est remplacé par le nombre : « 802 » ;
+f) À la quarante‑troisième ligne, le nombre : « 275 » est remplacé par le nombre : « 279 » ;
+g) À la quarante‑quatrième ligne, le nombre : « 238 » est remplacé par le nombre : « 240 » ;
+h) À la cinquante‑et‑unième ligne, le nombre : « 251 884 » est remplacé par le nombre : « 252 069 » ;
+i) À la cinquante‑troisième ligne, le nombre : « 12 833 » est remplacé par le nombre : « 13 018 » ;
+j) À la dernière ligne, le nombre : « 401 389 » est remplacé par le nombre : « 401 665 ».
+TITRE II
+RATIFICATION DE DÉCRETS D’AVANCE
+Article 9
+Sont ratifiées les ouvertures et les annulations de crédits opérées par les décrets n° 2026‑489 du 11 juin 2026 et n° 2026‑956 du 14 octobre 2026 portant ouverture et annulation de crédits à titre d’avance.
+ÉTATS LÉGISLATIFS ANNEXÉS
+État A
+(Article 4 de la loi)
+VOIES ET MOYENS POUR 2026 RÉVISÉS
+I. – BUDGET GÉNÉRAL
+(En euros)
+Numéro de ligne
+Intitulé de la recette
+Révision des évaluations pour 2026
+1. Recettes fiscales
+11. Impôt net sur le revenu
+-3 060 374 779
+1101-net
+Impôt net sur le revenu
+-3 060 374 779
+12. Autres impôts directs perçus par voie d’émission de rôles
+-2 905 657
+1201
+Autres impôts directs perçus par voie d’émission de rôles
+-2 905 657
+13. Impôt net sur les sociétés
+-1 958 578 288
+1301-net
+Impôt net sur les sociétés
+-1 958 578 288
+13bis. Contribution sociale sur les bénéfices des sociétés
++99 302 559
+1302
+Contribution sociale sur les bénéfices des sociétés
++99 302 559
+13ter. Contribution de la Caisse des dépôts et consignations représentative de l’impôt sur les sociétés
++261 000 000
+1303
+Contribution de la Caisse des dépôts et consignations représentative de l’impôt sur les sociétés
++261 000 000
+14. Autres impôts directs et taxes assimilées
+-33 461 050
+1401
+Retenues à la source sur certains bénéfices non commerciaux et de l’impôt sur le revenu
++125 685 715
+1402
+Retenues à la source et prélèvements sur les revenus de capitaux mobiliers et le prélèvement sur les bons anonymes
++300 000 000
+1405
+Prélèvement exceptionnel de 25 % sur les distributions de bénéfices
+-161
+1406
+Impôt sur la fortune immobilière
+-159 077 912
+1407
+Taxe sur les locaux à usage de bureaux, les locaux commerciaux et de stockage
+-24 312 009
+1408
+Prélèvements sur les entreprises d’assurance
++39 431 812
+1410
+Cotisation minimale de taxe professionnelle
++1 034 272
+1411
+Cotisations perçues au titre de la participation des employeurs à l’effort de construction
+-7 899 394
+1412
+Taxe de participation des employeurs au financement de la formation professionnelle continue
+-9 338 274
+1413
+Taxe forfaitaire sur les métaux précieux, les bijoux, les objets d’art, de collection et d’antiquité
++151 489 724
+1415
+Contribution des institutions financières
++27
+1416
+Taxe sur les surfaces commerciales
+-11 418 745
+1421
+Cotisation nationale de péréquation de taxe professionnelle
++100 719
+1427
+Prélèvements de solidarité
+-675 261 938
+1429
+Taxe sur les gestionnaires d’infrastructures de transport (écrêtement)
++97 856 836
+1430
+Taxe sur les services numériques
++23 119 779
+1431
+Taxe d’habitation sur les résidences principales
++17 327 418
+1440
+Contribution différentielle applicable à certains contribuables titulaires de très hauts revenus
++140 000 000
+1441
+Contribution exceptionnelle sur les bénéfices des grandes entreprises
++300 000 000
+1442
+Taxe sur les petits colis
+-396 000 000
+1497
+Cotisation sur la valeur ajoutée des entreprises
++64 708 199
+1499
+Recettes diverses
+-10 907 118
+15. Accises sur les énergies
+-1 924 725 116
+1501
+Accises sur les énergies (ex-TICPE)
+-1 102 200 394
+1502
+Accises sur les énergies (ex-TICGN)
++7 913 030
+1503
+Accises sur les énergies (ex-TICFE)
+-836 437 752
+1504
+Autres taxes intérieures
++6 000 000
+16. Taxe sur la valeur ajoutée nette
++1 268 395 030
+1601-net
+Taxe sur la valeur ajoutée nette
++1 268 395 030
+17. Enregistrement, timbre, autres contributions et taxes indirectes
++1 138 909 267
+1701
+Mutations à titre onéreux de créances, rentes, prix d’offices
++3 071 040
+1702
+Mutations à titre onéreux de fonds de commerce
+-40 019 190
+1703
+Mutations à titre onéreux de meubles corporels
+-230
+1704
+Mutations à titre onéreux d’immeubles et droits immobiliers
++19 186 412
+1705
+Mutations à titre gratuit entre vifs (donations)
++414 310 659
+1706
+Mutations à titre gratuit par décès
++1 150 669 600
+1707
+Contribution de sécurité immobilière
+-54 671 544
+1711
+Autres conventions et actes civils
++19 223 431
+1713
+Taxe de publicité foncière
+-8 060 506
+1714
+Prélèvement sur les sommes versées par les organismes d’assurances et assimilés à raison des contrats d’assurances en cas de décès
++65 206 637
+1716
+Recettes diverses et pénalités
+-97 980 648
+1721
+Timbre unique
++35 088 640
+1726
+Produit de la taxe additionnelle à la taxe sur les certifications d’immatriculation des véhicules
+-266 000 000
+1754
+Autres droits et recettes accessoires
+-896 032
+1755
+Amendes et confiscations
++96 140
+1756
+Taxe générale sur les activités polluantes
++58 751 438
+1761
+Taxe et droits de consommation sur les tabacs
++22 000 000
+1768
+Taxe spéciale sur certains véhicules routiers
+-5 840 447
+1769
+Autres droits et recettes à différents titres
++10 620 025
+1776
+Redevances sanitaires d’abattage et de découpage
+-464 882
+1777
+Taxe sur certaines dépenses de publicité
+-3 391 550
+1781
+Taxe sur les installations nucléaires de base
++94 000 000
+1782
+Taxes sur les stations et liaisons radioélectriques privées
+-637 265
+1785
+Produits des jeux exploités par la Française des jeux (hors paris sportifs)
+-33 000 000
+1786
+Prélèvements sur le produit des jeux dans les casinos
+-8 544 429
+1787
+Prélèvement sur le produit brut des paris hippiques
+-47 990 196
+1788
+Prélèvement sur les paris sportifs
+-62 745 542
+1789
+Prélèvement sur les jeux de cercle en ligne
++6 173 476
+1797
+Taxe sur les transactions financières
++258 000 000
+1799
+Autres taxes
+-387 245 770
+18. Autres remboursements et dégrèvements d’impôts d’État
+-609 156 536
+Remboursements et dégrèvements d’impôts d’État, autres que ceux s’appliquant à l’impôt sur le revenu, l’impôt sur les sociétés et la taxe sur la valeur ajoutée
+-609 156 536
+2. Recettes non fiscales
+21. Dividendes et recettes assimilées
++1 355 358 712
+2110
+Produits des participations de l’État dans des entreprises financières
++643 516 748
+2116
+Produits des participations de l’État dans des entreprises non financières et bénéfices des établissements publics non financiers
++63 000 000
+2199
+Autres dividendes et recettes assimilées
++648 841 964
+22. Produits du domaine de l’État
+-9 878 944
+2201
+Revenus du domaine public non militaire
+-64 059 684
+2202
+Autres revenus du domaine public
++1 000 000
+2203
+Revenus du domaine privé
+-14 152 593
+2204
+Redevances d’usage des fréquences radioélectriques
++68 333 333
+2299
+Autres revenus du Domaine
+-1 000 000
+23. Produits de la vente de biens et services
+-206 407 438
+2301
+Remboursement par l’Union européenne des frais d’assiette et de perception des impôts et taxes perçus au profit de son budget
++83 057 610
+2303
+Autres frais d’assiette et de recouvrement
+-1 186 282
+2304
+Rémunération des prestations assurées par les services du Trésor Public au titre de la collecte de l’épargne
++2 996 115
+2305
+Produits de la vente de divers biens
++11 456
+2306
+Produits de la vente de divers services
++424 303
+2399
+Autres recettes diverses
+-291 710 640
+24. Remboursements et intérêts des prêts, avances et autres immobilisations financières
+-159 675 607
+2401
+Intérêts des prêts à des banques et à des États étrangers
+-33 671 234
+2402
+Intérêts des prêts du fonds de développement économique et social
+-14 078 734
+2403
+Prêts et avances à divers services de l’État ou organismes gérant des services publics
++12 534 464
+2409
+Intérêts des autres prêts et avances
+-9 608 503
+2411
+Avances remboursables sous conditions consenties à l’aviation civile
+-48 892 079
+2413
+Reversement au titre des créances garanties par l’État
+-365 051
+2499
+Autres remboursements d’avances, de prêts et d’autres créances immobilisées
+-65 594 470
+25. Amendes, sanctions, pénalités et frais de poursuites
++100 082 360
+2501
+Produits des amendes de la police de la circulation et du stationnement routiers
++20 000 000
+2502
+Produits des amendes prononcées par les autorités de la concurrence
+-408 326 831
+2503
+Produits des amendes prononcées par les autres autorités administratives indépendantes
++29 460 042
+2504
+Recouvrements poursuivis à l’initiative de l’agence judiciaire de l’État
+-46 205
+2505
+Produit des autres amendes et condamnations pécuniaires
++443 127 304
+2510
+Frais de poursuite
++4 784 897
+2511
+Frais de justice et d’instance
++2 103 942
+2512
+Intérêts moratoires
++14 021
+2513
+Pénalités
++8 965 190
+26. Divers
++3 074 641 017
+2602
+Reversements au titre des procédures de soutien financier au commerce extérieur
++186 447 378
+2603
+Prélèvements sur les fonds d’épargne gérés par la Caisse des Dépôts et Consignations
++925 000 000
+2604
+Divers produits de la rémunération de la garantie de l’État
++19 355 411
+2611
+Produits des chancelleries diplomatiques et consulaires
+-5 057 436
+2612
+Redevances et divers produits pour frais de contrôle et de gestion
+-746 402
+2613
+Prélèvement effectué sur les salaires des conservateurs des hypothèques
+-3 938
+2615
+Commissions et frais de trésorerie perçus par l’État dans le cadre de son activité régalienne
+-26 881
+2616
+Frais d’inscription
++177 117
+2617
+Recouvrement des indemnisations versées par l’État au titre des expulsions locatives
+-133 451
+2618
+Remboursement des frais de scolarité et accessoires
++921 547
+2620
+Récupération d’indus
++13 343 161
+2621
+Recouvrements après admission en non-valeur
++2 244 911
+2623
+Reversements de fonds sur les dépenses des ministères ne donnant pas lieu à rétablissement de crédits .
++26 748 381
+2624
+Intérêts divers (hors immobilisations financières)
++5 322 702
+2625
+Recettes diverses en provenance de l’étranger
++102 245 791
+2626
+Remboursement de certaines exonérations de taxe foncière sur les propriétés non bâties (art.109 de la loi de finances pour 1992)
+-44 267
+2697
+Recettes accidentelles
++8 010 164
+2698
+Produits divers
++1 900 000 000
+2699
+Autres produits divers
+-109 163 171
+3. Prélèvements sur les recettes de l’État
+31. Prélèvements sur les recettes de l’État au profit des collectivités territoriales
+-283 358 751
+3106
+Prélèvement sur les recettes de l’État au profit du Fonds de compensation pour la taxe sur la valeur ajoutée (FCTVA)
+-225 397 387
+3107
+Prélèvement sur les recettes de l’État au titre de la compensation d’exonérations relatives à la fiscalité locale
++9 701 951
+3120
+Dotation de compensation de la réforme de la taxe professionnelle (départements)
++2 677 363
+3121
+Dotation de compensation de la réforme de la taxe professionnelle (établissements publics de coopération intercommunale)
+-86 178 908
+3122
+Dotation de compensation de la réforme de la taxe professionnelle (communes)
++86 178 917
+3123
+Dotation pour transferts de compensations d’exonérations de fiscalité directe locale
++194 808
+3145
+Prélèvement sur les recettes de l’État au titre de la compensation de la réduction de 50 % des valeurs locatives de taxe foncière sur les propriétés bâties et de cotisation foncière des entreprises des locaux industriels
+-70 535 495
+3164
+Prélèvement sur les recettes de l’État compensant les pertes de recettes résultant du recentrage de l’assiette de taxe d’habitation sur les résidences secondaires
+0
+3165
+Prélèvement sur les recettes de l’État compensant les pertes de recettes résultant du recentrage de l’assiette de taxe d’habitation sur les résidences secondaires
+0
+32. Prélèvement sur les recettes de l’État au profit de l’Union européenne
+-594 316 395
+3201
+Prélèvement sur les recettes de l’État au profit du budget de l’Union européenne
+-594 316 395
+RÉCAPITULATION DES RÉVISIONS DE RECETTES DU BUDGET GÉNÉRAL
+(En euros)
+Numéro de ligne
+Intitulé de la recette
+Révision des évaluations pour 2026
+1. Recettes fiscales
+-4 821 594 570
+11
+Impôt net sur le revenu
+-3 060 374 779
+12
+Autres impôts directs perçus par voie d’émission de rôles
+-2 905 657
+13
+Impôt net sur les sociétés
+-1 958 578 288
+13 bis
+Contribution sociale sur les bénéfices des sociétés
++99 302 559
+13 ter
+Contribution de la Caisse des dépôts et consignations représentative de l’impôt sur les sociétés
++261 000 000
+14
+Autres impôts directs et taxes assimilées
+-33 461 050
+15
+Accises sur les énergies
+-1 924 725 116
+16
+Taxe sur la valeur ajoutée nette
++1 268 395 030
+17
+Enregistrement, timbre, autres contributions et taxes indirectes
++1 138 909 267
+18
+Autres remboursements et dégrèvements d’impôts d’État
+-609 156 536
+2. Recettes non fiscales
++4 154 120 100
+21
+Dividendes et recettes assimilées
++1 355 358 712
+22
+Produits du domaine de l’État
+-9 878 944
+23
+Produits de la vente de biens et services
+-206 407 438
+24
+Remboursements et intérêts des prêts, avances et autres immobilisations financières
+-159 675 607
+25
+Amendes, sanctions, pénalités et frais de poursuites
++100 082 360
+26
+Divers
++3 074 641 017
+3. Prélèvements sur les recettes de l’État
+-877 675 146
+31
+Prélèvements sur les recettes de l’État au profit des collectivités territoriales
+-283 358 751
+32
+Prélèvement sur les recettes de l’État au profit de l’Union européenne
+-594 316 395
+Total des révisions de recettes, nettes des prélèvements (1 + 2 - 3)
++210 200 676
+II. – BUDGETS ANNEXES
+(En euros)
+Numéro de ligne
+Intitulé de la recette
+Révision des évaluations pour 2026
+Contrôle et exploitation aériens
++83 290 283
+7060
+Redevance océanique et redevances pour services terminaux de la circulation aérienne en outre-mer
++2 300 000
+7061
+Redevances de route
++33 438 071
+7063
+Redevances pour services terminaux de la circulation aérienne pour la métropole
++2 728 376
+7069
+Contribution Bâle-Mulhouse
++160 596
+7081
+Recettes diverses
++44 663 240
+Publications officielles et information administrative
++9 200 000
+A702
+Bulletin officiel des annonces des marchés publics
+-5 000 000
+A704
+Bulletin officiel des annonces civiles et commerciales
++15 000 000
+A706
+Vente de publications et abonnements
+-100 000
+A707
+Prestations et travaux d’édition
+-400 000
+A708
+Autres activités
+-300 000
+Total
++92 490 283
+III. – COMPTES D’AFFECTATION SPÉCIALE
+(En euros)
+Numéro de ligne
+Intitulé de la recette
+Révision des évaluations pour 2026
+Contrôle de la circulation et du stationnement routiers
+-20 000 000
+Section : Contrôle automatisé
+-20 000 000
+01
+Amendes perçues par la voie du système de contrôle-sanction automatisé
+-20 000 000
+Section : Circulation et stationnement routiers
+0
+04
+Amendes forfaitaires de la police de la circulation et amendes forfaitaires majorées issues des infractions constatées par la voie du système de contrôle-sanction automatisé et des infractions aux règles de la police de la circulation
+0
+Développement agricole et rural
++5 000 000
+01
+Taxe sur le chiffre d’affaires des exploitations agricoles
++5 000 000
+Financement des aides aux collectivités pour l’électrification rurale
++3 016 000
+01
+Fraction du produit de l’accise sur l’électricité affectée au financement des aides aux collectivités pour l’électrification rurale
++3 016 000
+Gestion du patrimoine immobilier de l’État
+-13 000 000
+01
+Produits des cessions immobilières
+-13 000 000
+Participations financières de l’État
+-1 310 707 392
+01
+Produit des cessions, par l’État, de titres, parts ou droits de sociétés détenus directement
+-668 950 001
+03
+Reversement de dotations en capital et de produits de réduction de capital ou de liquidation
++900 000
+05
+Remboursements de créances liées à d’autres investissements, de l’État, de nature patrimoniale
++11 136 188
+06
+Versement du budget général
+-653 793 579
+Pensions
++574 540 253
+Section : Pensions civiles et militaires de retraite et allocations temporaires d’invalidité
++573 298 878
+01
+Personnels civils : retenues pour pensions : agents propres de l’État et agents détachés dans une administration de l’État sur un emploi conduisant à pension
++31 335 221
+02
+Personnels civils : retenues pour pensions : agents détachés dans une administration de l’État sur un emploi ne conduisant pas à pension
+-298 282
+03
+Personnels civils : retenues pour pensions : agents propres des établissements publics et agents détachés en établissement public sur un emploi conduisant à pension
+-5 177 017
+04
+Personnels civils : retenues pour pensions : agents détachés dans les collectivités et établissements publics locaux sur un emploi conduisant à pension
+-120 599
+05
+Personnels civils : retenues pour pensions : agents détachés hors l’État sur un emploi ne conduisant pas à pension (hors France Télécom et hors La Poste)
++3 030 183
+06
+Personnels civils : retenues pour pensions : agents propres de France Télécom et agents détachés à France Télécom
++178 166
+07
+Personnels civils : retenues pour pensions : primes et indemnités ouvrant droit à pension
++28 480 941
+08
+Personnels civils : retenues pour pensions : validation des services auxiliaires : part agent : retenues rétroactives, versements du régime général, des autres régimes de base et de l’IRCANTEC
+-1 000 820
+10
+Personnels civils : retenues pour pensions : agents propres de l’État et agents détachés dans une administration de l’État : surcotisations salariales du temps partiel et des cessations progressives d’activité
++3 582 825
+11
+Personnels civils : retenues pour pensions : agents propres des établissements publics et agents détachés hors l’État : surcotisations salariales du temps partiel et des cessations progressives d’activité
++8 554 968
+12
+Personnels civils : retenues pour pensions : agents propres de La Poste et agents détachés à La Poste
+-5 088 181
+14
+Personnels civils : retenues pour pensions : agents propres et détachés des budgets annexes
++803 878
+21
+Personnels civils : contributions des employeurs : agents propres de l’État et agents détachés dans une administration de l’État sur un emploi conduisant à pension (hors allocation temporaire d’invalidité)
++476 577 965
+22
+Personnels civils : contributions des employeurs : agents détachés dans une administration de l’État sur un emploi ne conduisant pas à pension (hors allocation temporaire d’invalidité)
+-1 794 218
+23
+Personnels civils : contributions des employeurs : agents propres des établissements publics et agents détachés en établissement public sur un emploi conduisant à pension
+-46 044 055
+24
+Personnels civils : contributions des employeurs : agents détachés dans les collectivités et établissements publics locaux sur un emploi conduisant à pension
+-4 034 027
+25
+Personnels civils : contributions des employeurs : agents détachés hors l’État sur un emploi ne conduisant pas à pension (hors France Télécom et hors La Poste)
++13 170 449
+26
+Personnels civils : contributions des employeurs : agents propres de France Télécom et agents détachés à France Télécom
+-59 525 604
+27
+Personnels civils : contributions des employeurs : primes et indemnités ouvrant droit à pension
++108 758 386
+28
+Personnels civils : contributions des employeurs : validation des services auxiliaires : part employeur : complément patronal, versements du régime général, des autres régimes de base et de l’IRCANTEC
+-2 007 320
+32
+Personnels civils : contributions des employeurs : agents propres de La Poste et agents détachés à La Poste
+-1
+33
+Personnels civils : contributions des employeurs : allocation temporaire d’invalidité
++2 085 704
+34
+Personnels civils : contributions des employeurs : agents propres et détachés des budgets annexes
+-10 347 859
+41
+Personnels militaires : retenues pour pensions : agents propres de l’État et agents détachés dans une administration de l’État sur un emploi conduisant à pension
++1 250 733
+42
+Personnels militaires : retenues pour pensions : agents détachés dans une administration de l’État sur un emploi ne conduisant pas à pension
+-22 396
+43
+Personnels militaires : retenues pour pensions : agents propres des établissements publics et agents détachés en établissement public sur un emploi conduisant à pension
+-282 693
+44
+Personnels militaires : retenues pour pensions : agents détachés dans les collectivités et établissements publics locaux sur un emploi conduisant à pension
+-296 536
+45
+Personnels militaires : retenues pour pensions : agents détachés hors l’État sur un emploi ne conduisant pas à pension (hors France Télécom et hors La Poste)
++305 325
+47
+Personnels militaires : retenues pour pensions : primes et indemnités ouvrant droit à pension
++6 990 289
+51
+Personnels militaires : contributions des employeurs : agents propres de l’État et agents détachés dans une administration de l’État sur un emploi conduisant à pension
++35 488 832
+52
+Personnels militaires : contributions des employeurs : agents détachés dans une administration de l’État sur un emploi ne conduisant pas à pension
+-243 605
+53
+Personnels militaires : contributions des employeurs : agents propres des établissements publics et agents détachés en établissement public sur un emploi conduisant à pension
++585 914
+54
+Personnels militaires : contributions des employeurs : agents détachés dans les collectivités et établissements publics locaux sur un emploi conduisant à pension
+-962 045
+55
+Personnels militaires : contributions des employeurs : agents détachés hors l’État sur un emploi ne conduisant pas à pension (hors France Télécom et hors La Poste)
++376 130
+57
+Personnels militaires : contributions des employeurs : primes et indemnités ouvrant droit à pension
++54 988 227
+61
+Recettes diverses (administration centrale) : Caisse nationale de retraite des agents des collectivités locales (CNRACL) : transfert au titre de l’article 59 de la loi n° 2009-1673 du 30 décembre 2009 de finances pour 2010
+-26 000 000
+65
+Recettes diverses (administration centrale) : compensation démographique généralisée : personnels civils
+-40 000 000
+Section : Ouvriers des établissements industriels de l’État
++2 291 502
+71
+Cotisations salariales et patronales
++1 690 343
+72
+Contribution au Fonds spécial des pensions des ouvriers des établissements industriels de l’État (FSPOEIE) et au Fonds des rentes d’accident du travail des ouvriers civils des établissements militaires (RATOCEM)
+-528 170
+73
+Compensations inter-régimes généralisée et spécifique
++1 000 000
+74
+Recettes diverses
++130 430
+75
+Autres financements : Fonds de solidarité vieillesse (FSV), Fonds de solidarité invalidité (FSI) et cotisations rétroactives
+-1 101
+Section : Pensions militaires d’invalidité et des victimes de guerre et autres pensions
+-1 050 127
+81
+Financement de la retraite du combattant : participation du budget général
+-8 288 456
+87
+Financement des pensions militaires d’invalidité : participation du budget général
++13 106 749
+91
+Financement des allocations de reconnaissance des anciens supplétifs : participation du budget général .
+-5 975 664
+92
+Financement des pensions des anciens agents du chemin de fer franco-éthiopien : participation du budget général
+-78
+93
+Financement des pensions des sapeurs-pompiers et anciens agents de la défense passive victimes d’accident : participation du budget général
++124 322
+94
+Financement des pensions de l’ORTF : participation du budget général
+-17 000
+Total
+-761 151 139
+IV. – COMPTES DE CONCOURS FINANCIERS
+(En euros)
+Numéro de ligne
+Intitulé de la recette
+Révision des évaluations pour 2026
+Avances à l’audiovisuel public
++21 052 581
+01
+Recettes
++21 052 581
+Avances aux collectivités territoriales et aux collectivités régies par les articles 73, 74 et 76 de la Constitution
+-490 610 553
+Section : Avances sur le montant des impositions revenant aux régions, départements, communes, établissements et divers organismes
+-490 610 553
+05
+Recettes diverses
++403 205 573
+09
+Taxe d’habitation et taxes annexes
+-441 191 806
+10
+Taxes foncières et taxes annexes
+-588 626 981
+11
+Cotisation sur la valeur ajoutée des entreprises
++5 059 530
+12
+Cotisation foncière des entreprises et taxes annexes
++130 943 131
+Prêts à des États étrangers
++1 530 507 805
+Section : Prêts à des États étrangers en vue de faciliter la vente de biens et de services concourant au développement du commerce extérieur de la France
++7 883 016
+01
+Remboursement des prêts accordés à des États étrangers en vue de faciliter la vente de biens et de services concourant au développement du commerce extérieur de la France
++7 883 016
+Section : Prêts à des États étrangers pour consolidation de dettes envers la France
++25 738 891
+02
+Remboursement de prêts du Trésor
++25 738 891
+Section : Prêts aux États membres de la zone euro
++1 496 885 898
+04
+Remboursement des prêts consentis aux États membres de l’Union européenne dont la monnaie est l’euro
++1 496 885 898
+Prêts et avances à des particuliers ou à des organismes privés
+-96 714 472
+Section : Prêts pour le développement économique et social
+-96 714 472
+05
+Prêts accordés au titre du soutien à la filière nickel
+-30 000 000
+06
+Prêts pour le développement économique et social
+-81 724 394
+09
+Prêts aux petites et moyennes entreprises
++157 654
+12
+Prêts octroyés dans le cadre des programmes d’investissement d’avenir
++14 852 268
+Prêts et avances à divers services de l’État ou organismes gérant des services publics
++17 850 647
+03
+Remboursement des avances octroyées à des organismes distincts de l’État et gérant des services publics
++33 387 500
+04
+Remboursement des prêts et avances octroyés à des services de l’État
+-23 265 702
+06
+Remboursement des prêts octroyés aux exploitants d’aéroports touchés par la crise de covid-19 au titre des dépenses de sûreté-sécurité
++7 728 849
+Total
++982 086 008
+État B
+(Article 5 de la loi)
+RÉPARTITION DES CRÉDITS POUR 2026 OUVERTS ET ANNULÉS, PAR MISSION ET PROGRAMME, AU TITRE DU BUDGET GÉNÉRAL
+(En euros)
+Mission / Programme
+Autorisations d’engagement supplémentaires ouvertes
+Crédits de paiement supplémentaires ouverts
+Autorisations d’engagement annulées
+Crédits de paiement annulés
+Action extérieure de l’État
+61 661 587
+60 864 677
+Action de la France en Europe et dans le monde
+40 295 281
+40 945 466
+Diplomatie culturelle et d’influence
+13 862 381
+12 796 340
+Français à l’étranger et affaires consulaires
+7 503 925
+7 122 871
+Administration générale et territoriale de l’État
+41 422 550
+92 179 055
+Administration territoriale de l’État
+17 924 361
+15 142 801
+Vie politique
+14 730 381
+19 507 127
+Conduite et pilotage des politiques de l’intérieur
+8 767 808
+57 529 127
+Agriculture, alimentation, forêt et affaires rurales
+324 000 000
+223 000 000
+55 363 592
+29 689 026
+Compétitivité et durabilité de l’agriculture, de l’agroalimentaire et de la forêt
+324 000 000
+223 000 000
+Sécurité et qualité sanitaires de l’alimentation
+55 326 227
+29 651 661
+Conduite et pilotage des politiques de l’agriculture
+37 365
+37 365
+Aide publique au développement
+381 420 804
+57 153 258
+Aide économique et financière au développement
+244 757 056
+11 163 525
+Solidarité à l’égard des pays en développement
+136 663 748
+45 989 733
+Cohésion des territoires
+746 678 390
+746 678 390
+162 828 960
+167 169 514
+Hébergement, parcours vers le logement et insertion des personnes vulnérables
+101 500 000
+101 500 000
+Aide à l’accès au logement
+645 178 390
+645 178 390
+Urbanisme, territoires et amélioration de l’habitat
+94 250 094
+122 633 113
+Impulsion et coordination de la politique d’aménagement du territoire
+28 605 572
+6 207 920
+Politique de la ville
+37 718 778
+35 786 908
+Interventions territoriales de l’État
+2 254 516
+2 541 573
+Conseil et contrôle de l’État
+53 716
+85 792
+Conseil économique, social et environnemental
+53 716
+85 792
+Crédits non répartis
+200 000
+200 000
+200 000
+200 000
+Provision relative aux rémunérations publiques
+200 000
+200 000
+dont titre 2
+200 000
+200 000
+Dépenses accidentelles et imprévisibles
+200 000
+200 000
+Culture
+117 343 651
+71 581 366
+Patrimoines
+52 194 861
+46 043 345
+Création
+30 644 520
+15 617 803
+Transmission des savoirs et démocratisation de la culture
+31 574 976
+8 257 159
+Soutien aux politiques du ministère de la culture
+2 929 294
+1 663 059
+Défense
+200 000 000
+700 000 000
+166 424 114
+Environnement et prospective de la politique de défense
+20 260 861
+Préparation et emploi des forces
+200 000 000
+200 000 000
+Soutien de la politique de la défense
+9 640 395
+Équipement des forces
+500 000 000
+136 522 858
+Direction de l’action du Gouvernement
+25 473 924
+536 316
+11 693 522
+Coordination du travail gouvernemental
+25 473 924
+11 149 863
+Protection des droits et libertés
+536 316
+543 659
+Écologie, développement et mobilité durables
+150 163 113
+202 028 183
+1 344 736 319
+1 176 418 710
+Infrastructures et services de transports
+130 693 080
+186 874 211
+Affaires maritimes, pêche et aquaculture
+18 017 061
+14 568 016
+Paysages, eau et biodiversité
+1 452 972
+585 956
+Expertise, information géographique et météorologie
+6 908 158
+6 320 728
+Prévention des risques
+127 362 794
+28 481 496
+Service public de l’énergie
+1 188 651 043
+1 116 647 394
+Conduite et pilotage des politiques de l’écologie, du développement et de la mobilité durables
+17 520 101
+21 496 557
+Sûreté nucléaire et radioprotection
+4 294 223
+3 472 535
+Économie
+85 238 644
+40 039 805
+180 883 221
+Développement des entreprises et régulations
+85 238 644
+30 761 061
+Plan “France Très haut débit”
+976 709
+173 454 832
+Statistiques et études économiques
+3 065 832
+3 572 353
+Stratégies économiques
+5 236 203
+3 856 036
+Engagements financiers de l’État
+4 532 244 014
+4 532 244 014
+27 496 134
+29 140 517
+Charge de la dette et trésorerie de l’État (crédits évaluatifs)
+3 481 000 000
+3 481 000 000
+Charge de la dette de SNCF Réseau reprise par l’État (crédits évaluatifs)
+3 000 000
+3 000 000
+Appels en garantie de l’État (crédits évaluatifs)
+1 048 244 014
+1 048 244 014
+Épargne
+27 174 929
+26 958 398
+Fonds de soutien relatif aux prêts et contrats financiers structurés à risque
+321 205
+2 182 119
+Enseignement scolaire
+22 389 926
+231 827 878
+10 928 813
+10 399 319
+Enseignement scolaire public du premier degré
+4 311 484
+4 372 521
+Enseignement scolaire public du second degré
+16 600 782
+16 600 782
+dont titre 2
+16 600 782
+16 600 782
+Enseignement privé du premier et du second degrés
+6 617 329
+6 026 798
+Soutien de la politique de l’éducation nationale
+206 424 589
+Enseignement technique agricole
+5 789 144
+8 802 507
+Gestion des finances publiques
+61 121 379
+40 593 401
+21 538 397
+40 044 197
+Gestion fiscale et financière de l’État et du secteur public local
+5 850 172
+34 278 171
+Conduite et pilotage des politiques économiques et financières
+15 688 225
+5 766 026
+Facilitation et sécurisation des échanges
+61 121 379
+40 593 401
+Immigration, asile et intégration
+92 818 372
+83 610 484
+Immigration et asile
+76 148 451
+63 999 999
+Intégration et accès à la nationalité française
+16 669 921
+19 610 485
+Investir pour la France de 2030
+24 750 000
+581 500 158
+Soutien des progrès de l’enseignement et de la recherche
+26 457 301
+Valorisation de la recherche
+1 034 799
+Accélération de la modernisation des entreprises
+14 397 036
+Financement des investissements stratégiques
+425 388 428
+Financement structurel des écosystèmes d’innovation
+24 750 000
+114 222 594
+Justice
+63 822 411
+99 294 147
+87 805 281
+Justice judiciaire
+3 382 405
+2 470 561
+Administration pénitentiaire
+60 440 006
+Protection judiciaire de la jeunesse
+21 425 650
+22 137 773
+Accès au droit et à la justice
+64 149 611
+65 251 710
+Conduite et pilotage de la politique de la justice
+11 203 230
+336 052
+Conseil supérieur de la magistrature
+45 095
+79 746
+Médias, livre et industries culturelles
+17 847 276
+25 751 487
+Presse et médias
+12 625 783
+21 441 032
+Livre et industries culturelles
+5 221 493
+4 310 455
+Monde combattant, mémoire et liens avec la Nation
+35 405 073
+35 405 073
+Reconnaissance et réparation en faveur du monde combattant, mémoire et liens avec la Nation
+26 868 388
+26 868 388
+Indemnisation des victimes des persécutions antisémites et des actes de barbarie pendant la seconde guerre mondiale
+8 536 685
+8 536 685
+Outre-mer
+72 409 782
+75 350 415
+23 250 463
+Emploi outre-mer
+72 409 782
+14 350 415
+Conditions de vie outre-mer
+61 000 000
+23 250 463
+Recherche et enseignement supérieur
+7 172 390
+8 138 543
+290 240 494
+185 111 972
+Formations supérieures et recherche universitaire
+44 911 141
+15 600 452
+Vie étudiante
+4 305 365
+5 491 418
+Recherches scientifiques et technologiques pluridisciplinaires
+166 529 953
+91 561 069
+Recherche spatiale
+45 651 494
+45 651 494
+Recherche dans les domaines de l’énergie, du développement et de la mobilité durables
+23 147 906
+22 298 957
+Recherche et enseignement supérieur en matière économique et industrielle
+2 867 025
+2 647 125
+Recherche duale (civile et militaire)
+10 000 000
+10 000 000
+Régimes sociaux et de retraite
+65 393 497
+64 734 984
+Régimes de retraite et de sécurité sociale des marins
+51 660 188
+51 376 324
+Régimes de retraite des mines, de la SEITA, et divers
+13 733 309
+13 358 660
+Relations avec les collectivités territoriales
+8 000 000
+8 000 000
+214 175 000
+22 024 597
+Concours financiers aux collectivités territoriales et à leurs groupements
+214 175 000
+22 024 597
+Concours spécifiques et administration
+8 000 000
+8 000 000
+Remboursements et dégrèvements
+288 809 691
+288 809 691
+Remboursements et dégrèvements d’impôts d’État (crédits évaluatifs)
+164 220 225
+164 220 225
+Remboursements et dégrèvements d’impôts locaux (crédits évaluatifs)
+124 589 466
+124 589 466
+Santé
+10 650 891
+7 186 486
+Prévention, sécurité sanitaire et offre de soins
+10 650 891
+7 186 486
+Sécurités
+391 938 913
+72 570 420
+5 000 000
+2 000 000
+Police nationale
+7 724 000
+7 724 000
+Gendarmerie nationale
+342 651 216
+Sécurité et éducation routières
+5 000 000
+2 000 000
+Sécurité civile
+41 563 697
+64 846 420
+Solidarité, insertion et égalité des chances
+420 487 451
+432 775 942
+Inclusion sociale et protection des personnes
+209 263 967
+221 565 211
+Handicap et dépendance
+211 223 484
+211 210 731
+Sport, jeunesse et vie associative
+49 833 274
+38 972 978
+Sport
+21 122 940
+12 704 000
+Jeunesse et vie associative
+28 710 334
+26 268 978
+Transformation et fonction publiques
+14 345 930
+15 756 446
+Transformation publique
+11 697 782
+6 202 688
+Fonction publique
+2 648 148
+9 553 758
+Travail, emploi et administration des ministères sociaux
+516 282 021
+568 355 214
+Accès et retour à l’emploi
+252 182 835
+208 215 161
+Accompagnement des mutations économiques et développement de l’emploi
+250 445 182
+344 371 021
+Amélioration de la qualité de l’emploi et des relations du travail
+712 109
+1 232 917
+Soutien des ministères sociaux
+12 941 895
+14 536 115
+Total
+6 962 279 282
+7 422 468 241
+4 180 090 887
+3 934 527 025
+État C
+(Article 6 de la loi)
+RÉPARTITION DES CRÉDITS POUR 2026 OUVERTS ET ANNULÉS, PAR MISSION ET PROGRAMME, AU TITRE DES BUDGETS ANNEXES
+(En euros)
+Mission / Programme
+Autorisations d’engagement supplémentaires ouvertes
+Crédits de paiement supplémentaires ouverts
+Autorisations d’engagement annulées
+Crédits de paiement annulés
+Contrôle et exploitation aériens
+9 055 861
+26 904 623
+Soutien aux prestations de l’aviation civile
+2 600 000
+Navigation aérienne
+5 000 000
+24 999 999
+Transports aériens, surveillance et certification
+1 455 861
+1 904 624
+Publications officielles et information administrative
+350 000
+350 000
+Pilotage et ressources humaines
+350 000
+350 000
+Total
+9 405 861
+27 254 623
+État D
+(Article 7 de la loi)
+RÉPARTITION DES CRÉDITS POUR 2026 OUVERTS ET ANNULÉS, PAR MISSION ET PROGRAMME, AU TITRE DES COMPTES SPÉCIAUX
+I. – COMPTES D’AFFECTATION SPÉCIALE
+(En euros)
+Mission / Programme
+Autorisations d’engagement supplémentaires ouvertes
+Crédits de paiement supplémentaires ouverts
+Autorisations d’engagement annulées
+Crédits de paiement annulés
+Contrôle de la circulation et du stationnement routiers
+20 000 000
+Structures et dispositifs de sécurité routière
+20 000 000
+Gestion du patrimoine immobilier de l’État
+214 940 200
+Opérations immobilières et entretien des bâtiments de l’État
+214 940 200
+Total
+234 940 200
+II. – COMPTES DE CONCOURS FINANCIERS
+(En euros)
+Mission / Programme
+Autorisations d’engagement supplémentaires ouvertes
+Crédits de paiement supplémentaires ouverts
+Autorisations d’engagement annulées
+Crédits de paiement annulés
+Avances à l’audiovisuel public
+10 038 000
+10 038 000
+France Médias Monde
+10 038 000
+10 038 000
+Avances aux collectivités territoriales et aux collectivités régies par les articles 73, 74 et 76 de la Constitution
+250 384 994
+250 384 994
+Avances sur le montant des impositions revenant aux régions, départements, communes, établissements et divers organismes
+250 384 994
+250 384 994
+Prêts à des États étrangers
+7 928 041
+245 807 257
+Prêts du Trésor à des États étrangers en vue de faciliter la vente de biens et de services concourant au développement du commerce extérieur de la France
+237 879 216
+Prêts à des États étrangers pour consolidation de dettes envers la France
+7 928 041
+7 928 041
+Prêts et avances à des particuliers ou à des organismes privés
+20 050 000
+20 050 000
+Prêts et avances pour le logement des agents de l’État
+50 000
+50 000
+Prêts pour le développement économique et social
+20 000 000
+20 000 000
+Prêts et avances à divers services de l’État ou organismes gérant des services publics
+60 000 000
+60 000 000
+Prêts et avances à des services de l’État
+30 000 000
+30 000 000
+Prêts à FranceAgriMer au titre des préfinancements de fonds européens
+30 000 000
+30 000 000
+Total
+10 038 000
+10 038 000
+338 363 035
+576 242 251

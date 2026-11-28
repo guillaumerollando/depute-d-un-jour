@@ -1,0 +1,13 @@
+{
+  "uid": "VTANR5L17V10106",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "corrige",
+  "problemes": [
+    "argument_contre : la citation dit « sans vote du Parlement », l'argument dit « sans vote des députés » : à rendre fidèle.",
+    "aujourdhui exact (croissance de 1 % et déficit de 5 % annoncés dans le budget initial, rappelés dans le débat). Le texte officiel PRJLANR5L17BTA0373 est absent de data/interim/textes : contrôle fait sur ce_que_ca_change et le débat.",
+    "resume_court fidèle. Citations exactes, groupes du bon camp (HOR pour, GDR contre), équilibre correct."
+  ],
+  "corrections": {
+    "argument_contre": "Le texte valide des décrets qui ont supprimé, sans vote du Parlement, des centaines de millions pour la recherche, les collectivités ou les énergies vertes."
+  }
+}

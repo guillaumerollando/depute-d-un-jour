@@ -1,0 +1,32 @@
+{
+  "uid": "VTANR5L17V10117",
+  "consigne": "etape3_accroche v1",
+  "modifie": true,
+  "mesures_citees": [
+    {
+      "mesure": "Répartir les investissements publics selon les besoins des territoires",
+      "groupes": [
+        "ECOS",
+        "HOR",
+        "RN",
+        "SOC",
+        "UDR"
+      ]
+    },
+    {
+      "mesure": "Mesurer l'effet des décisions publiques sur chaque territoire",
+      "groupes": [
+        "EPR",
+        "HOR",
+        "SOC"
+      ]
+    },
+    {
+      "mesure": "Publier les résultats",
+      "groupes": [
+        "LIOT"
+      ]
+    }
+  ],
+  "titre": "Demander de répartir les investissements publics selon les besoins des territoires"
+}

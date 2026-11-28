@@ -1,0 +1,13 @@
+{
+  "uid": "VTANR5L17V9929",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "sans_arguments",
+  "problemes": [
+    "Le camp contre n'avance aucun argument de fond : seule la rapporteure (sans groupe) répond ; les interventions EPR portent sur un autre sujet. Arguments à null, à juste titre.",
+    "aujourdhui exact (texte : indicateurs portant notamment sur l'accompagnement social des habitants).",
+    "resume_court affaiblit la portée : il omet les actions des bailleurs pour éviter les dégradations, que l'amendement ajoute aussi aux indicateurs."
+  ],
+  "corrections": {
+    "resume_court": "Le programme de rénovation des quartiers prioritaires serait aussi évalué sur la sécurité et la tranquillité des habitants, les dégradations des parties communes et les actions des bailleurs pour les éviter."
+  }
+}

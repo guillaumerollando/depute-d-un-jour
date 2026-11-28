@@ -161,6 +161,7 @@ export default function App() {
           <CarteSwipe
             key={carte.uid}
             carte={carte}
+            dateDonnees={donnees.meta.date_donnees}
             important={important}
             onImportant={() => setImportant(!important)}
             onReponse={repondre}

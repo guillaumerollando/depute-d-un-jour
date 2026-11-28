@@ -44,13 +44,21 @@ function melanger<T>(t: T[]): T[] {
 }
 
 const PREMIERES_CARTES = 4;
+const JOUR = 24 * 60 * 60 * 1000;
+export const RECENT_JOURS = 183; // un vote des 6 derniers mois compte comme « d'actualité » (METHODE §7)
+
+/** Le vote a-t-il eu lieu dans les `jours` précédant la date des données ? */
+export function recent(c: Carte, dateDonnees: string, jours = RECENT_JOURS) {
+  return new Date(dateDonnees).getTime() - new Date(c.date).getTime() <= jours * JOUR;
+}
 
 /**
  * Carte suivante :
- * - les premières cartes viennent du socle des votes solennels, sur des thèmes tous différents ;
+ * - les premières cartes viennent du socle des votes solennels, sur des thèmes tous différents, la toute première
+ *   = le vote majeur d'actualité (6 derniers mois) le plus récent pas encore vu ;
  * - ensuite, la carte qui départage le plus de paires parmi les groupes encore en tête.
  * Un vote solennel vaut un départage et demi de plus : une carte mineure ne passe devant que si elle
- * départage nettement mieux. À égalité, le hasard (pour varier les sessions).
+ * départage nettement mieux. Un vote d'actualité vaut un départage de plus. À égalité, le hasard.
  */
 export function carteSuivante(d: Donnees, votes: Vote[], dejaVues: Set<string> = new Set()): Carte | null {
   const vues = new Set(votes.map((v) => v.uid));
@@ -61,6 +69,11 @@ export function carteSuivante(d: Donnees, votes: Vote[], dejaVues: Set<string> =
 
   if (votes.length < PREMIERES_CARTES) {
     const themesVus = new Set(votes.map((v) => d.cartes.find((c) => c.uid === v.uid)?.theme));
+    // Première carte : le vote majeur le plus récent que la personne n'a pas encore vu
+    const actualite = votes.length === 0 && restantes
+      .filter((c) => c.socle && !dejaVues.has(c.uid) && recent(c, d.meta.date_donnees))
+      .sort((a, b) => b.date.localeCompare(a.date))[0];
+    if (actualite) return actualite;
     return (
       restantes.find((c) => c.socle && !themesVus.has(c.theme)) ??
       restantes.find((c) => !themesVus.has(c.theme)) ??
@@ -83,7 +96,10 @@ export function carteSuivante(d: Donnees, votes: Vote[], dejaVues: Set<string> =
         const a = c.positions[tete[i]], b = c.positions[tete[j]];
         if (a && b && a !== b) gain += 1;
       }
-    notes.push({ c, score: gain * 2 + (c.socle ? 3 : 0) - (dejaVues.has(c.uid) ? 4 : 0) });
+    notes.push({
+      c,
+      score: gain * 2 + (c.socle ? 3 : 0) + (recent(c, d.meta.date_donnees) ? 2 : 0) - (dejaVues.has(c.uid) ? 4 : 0),
+    });
   }
   // Un peu de hasard parmi les meilleures cartes (à 2 points près), pour que deux sessions diffèrent
   const max = Math.max(...notes.map((n) => n.score));

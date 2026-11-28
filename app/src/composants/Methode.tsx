@@ -23,7 +23,8 @@ export function Methode({ donnees, onRetour }: { donnees: Donnees; onRetour: () 
         Personne ne choisit les cartes. On garde d'abord tous les <strong>votes solennels</strong>, ceux que
         l'Assemblée désigne elle-même comme ses votes majeurs. Un algorithme ajoute ensuite les votes qui
         distinguent le mieux les groupes entre eux, avec une forte participation, sur des thèmes variés.
-        Relancer le calcul donne exactement le même résultat.
+        Relancer le calcul donne exactement le même résultat. À valeur égale, le vote le plus récent passe devant,
+        et un vote des six derniers mois compte un peu plus : l'actualité parle davantage.
       </p>
 
       <h2>3. Les votes ambigus</h2>

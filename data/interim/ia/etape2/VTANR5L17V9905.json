@@ -1,0 +1,76 @@
+{
+  "uid": "VTANR5L17V9905",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "RN": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Alexandre Dufosset (RN)",
+      "citation": "Nous voterons ce texte parce qu’il permettra d’augmenter le pouvoir d’achat des Français.",
+      "justification": "Le groupe soutient le déblocage de l'épargne salariale."
+    },
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Christophe Mongardien (EPR)",
+      "citation": "Grâce à cette proposition de loi, nous allons pouvoir soulager certains salariés : ils pourront accéder à une épargne qui leur était inaccessible jusqu’à présent.",
+      "justification": "Le groupe soutient l'accès anticipé à l'épargne salariale."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Hadrien Clouet",
+      "citation": "Nous voulons une augmentation des salaires.",
+      "justification": "Le groupe oppose au texte une hausse des salaires."
+    },
+    "SOC": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Romain Eskenazi",
+      "citation": "C’est donc avec beaucoup de conviction que nous voterons contre ce texte, qui selon nous ne va pas dans le bon sens.",
+      "justification": "Le groupe s'oppose au déblocage de l'épargne comme réponse au pouvoir d'achat."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Ian Boucard (DR)",
+      "citation": "Le groupe Droite républicaine soutiendra bien évidemment cette mesure de pouvoir d’achat et son adoption rapide avant la fin de l’année.",
+      "justification": "Le groupe soutient le déblocage de l'épargne salariale."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Eva Sas (EcoS)",
+      "citation": "Nous voterons bien sûr contre ce texte, qui n’est qu’un leurre de plus dans la boîte à outils macroniste pour ne pas augmenter les salaires.",
+      "justification": "Le groupe s'oppose au déblocage de l'épargne au profit d'une hausse des salaires."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Louise Morel",
+      "citation": "Dans l’ensemble, le texte reste équilibré – composé de mesures ponctuelles et encadrées de soutien au pouvoir d’achat –, donc nous le soutiendrons.",
+      "justification": "Le groupe soutient le texte, avec des regrets sur le plafond et la rédaction."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. François Gernigon",
+      "citation": "Parce que ce texte préserve la philosophie de l’épargne salariale, parce qu’il facilite la transmission des entreprises à leurs salariés et parce qu’il est strictement encadré",
+      "justification": "Le groupe soutient le contenu encadré du texte."
+    },
+    "UDR": {
+      "position": "pour",
+      "categorie": "C",
+      "orateur": null,
+      "citation": null,
+      "justification": "L'intervention du groupe ne porte pas sur le contenu du texte voté."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Yannick Monnet (GDR)",
+      "citation": "Nous, nous sommes contre le fait de mobiliser de l’épargne pour soigner un enfant gravement malade – nous trouvons cela totalement injuste, l’épargne ne sert pas à cela –, ou pour se payer soi-même.",
+      "justification": "Le groupe s'oppose à l'usage de l'épargne salariale prévu par le texte."
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V8725",
+  "consigne": "etape3_arguments_verification v1",
+  "verdict": "sans_arguments",
+  "problemes": [
+    "Absence d'arguments justifiée : aucune intervention de l'extrait n'a un groupe du camp pour dans son champ groupe (le rapporteur général et le ministre n'ont pas de groupe renseigné). Côté contre, les seules interventions rattachées à un groupe (LFI) portent sur la politique extérieure de l'Union et Gaza, sur un ton polémique, pas sur le montant de la contribution. Pas de débat élargi.",
+    "aujourdhui : exact, l'exposé des motifs indique que la contribution prend la forme d'un prélèvement sur les recettes de l'État ; neutre, 123 caractères.",
+    "resume_court : fidèle à ce_que_ca_change et au texte (30 905 520 986 €, soit 30,9 Md€ ; +2,8 Md€ par rapport à la prévision révisée 2026 de 28 118 M€), rien d'ajouté, 188 caractères."
+  ],
+  "corrections": {}
+}

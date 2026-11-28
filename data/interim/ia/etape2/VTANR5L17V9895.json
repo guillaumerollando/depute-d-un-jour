@@ -1,0 +1,55 @@
+{
+  "uid": "VTANR5L17V9895",
+  "consigne": "etape2_ambiguite v3",
+  "groupes": {
+    "EPR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Denis Masséglia (EPR)",
+      "citation": "Ce texte est conforme aux urgences et à nos priorités",
+      "justification": "Le groupe soutient les ouvertures de crédits du texte."
+    },
+    "LFI": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Claire Lejeune",
+      "citation": "Cela signifiera des annulations de crédits pour la culture, pour le travail et l’emploi alors que le taux de chômage explose, ainsi que de nouvelles réductions de crédits pour l’écologie.",
+      "justification": "Le groupe s'oppose aux annulations de crédits du texte."
+    },
+    "DR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "Mme Marie-Christine Dalloz (DR)",
+      "citation": "Il permet de finir l’année avec les crédits engagés. Il est nécessaire d’honorer certains d’entre eux",
+      "justification": "Le groupe soutient les crédits de fin de gestion."
+    },
+    "ECOS": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "Mme Christine Arrighi (EcoS)",
+      "citation": "Il n’est que la transcription de votre gestion catastrophique",
+      "justification": "Le groupe s'oppose au contenu du texte."
+    },
+    "DEM": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Emmanuel Mandon (Dem)",
+      "citation": "Il ne s’agit pas d’un nouveau budget, mais seulement d’ajustements indispensables à la bonne exécution du budget de 2026",
+      "justification": "Le groupe soutient les ajustements de crédits du texte."
+    },
+    "HOR": {
+      "position": "pour",
+      "categorie": "A",
+      "orateur": "M. Sylvain Berrios (HOR)",
+      "citation": "Mais il nous faut une loi de finances de fin de gestion ; par conséquent, nous voterons pour.",
+      "justification": "Le groupe juge nécessaire l'ajustement des crédits en fin de gestion."
+    },
+    "GDR": {
+      "position": "contre",
+      "categorie": "A",
+      "orateur": "M. Nicolas Sansu",
+      "citation": "Nous pensons que ce PLFG ne joue pas le rôle qui devrait être le sien ; l’adopter reviendrait à accepter un budget que nous avons toujours refusé.",
+      "justification": "Le groupe s'oppose au budget exécuté que le texte entérine."
+    }
+  }
+}

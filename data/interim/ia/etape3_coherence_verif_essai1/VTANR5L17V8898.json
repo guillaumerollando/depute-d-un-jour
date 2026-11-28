@@ -1,0 +1,9 @@
+{
+ "uid": "VTANR5L17V8898",
+ "consigne": "etape3_coherence_verification v1",
+ "verdict": "refuse",
+ "problemes": [
+  "ce_que_ca_change refusé : le terme « franchises et participations forfaitaires » est exact (exposé des motifs de l'article 2), mais « Selon le Gouvernement, il tient compte de deux mesures » devient « Le Gouvernement l'explique par deux mesures ». La source dit « tient compte » et l'amendement « notamment » : les deux mesures (0,3 et 0,6 milliard) n'expliquent pas à elles seules la baisse de 1,1 milliard. La portée est renforcée.",
+  "aujourdhui refusé : le terme « plafonds des franchises et participations forfaitaires » est exact, mais « a été voté en décembre 2025 » devient « date de décembre 2025 ». L'information que l'objectif a été voté par le Parlement est retirée, alors que la carte porte sur la remise en cause de ce vote."
+ ]
+}

@@ -1,0 +1,11 @@
+{
+  "uid": "VTANR5L17V10051",
+  "consigne": "etape3_coherence v2",
+  "modifie": true,
+  "problemes": [
+    "Le résumé dit que « certains meublés » des résidences avec services sont exclus, la situation actuelle dit « les meublés » de ces résidences."
+  ],
+  "corrections": {
+    "aujourdhui": "Dans les villes où les loyers sont plafonnés, seuls certains meublés situés dans des résidences avec services échappent à ce plafond."
+  }
+}

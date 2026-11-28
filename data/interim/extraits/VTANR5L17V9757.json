@@ -1,0 +1,203 @@
+{
+ "uid": "VTANR5L17V9757",
+ "titre": "l'article 57 et état A du projet de loi de finances pour 2027 (première lecture).",
+ "type": "article",
+ "date": "2026-11-04",
+ "dossier": "DLR5L17N54629",
+ "dossier_titre": "Projet de loi de finances pour 2027",
+ "sort": "rejeté",
+ "positions": {
+  "RN": "contre",
+  "EPR": "pour",
+  "LFI": "contre",
+  "SOC": "contre",
+  "DR": "pour",
+  "ECOS": "contre",
+  "DEM": "pour",
+  "HOR": "pour",
+  "LIOT": "contre",
+  "GDR": "contre",
+  "UDR": "contre"
+ },
+ "voix": {
+  "RN": {
+   "pour": 0,
+   "contre": 67,
+   "abstention": 0
+  },
+  "EPR": {
+   "pour": 33,
+   "contre": 0,
+   "abstention": 0
+  },
+  "LFI": {
+   "pour": 0,
+   "contre": 32,
+   "abstention": 0
+  },
+  "SOC": {
+   "pour": 0,
+   "contre": 15,
+   "abstention": 0
+  },
+  "DR": {
+   "pour": 18,
+   "contre": 0,
+   "abstention": 1
+  },
+  "ECOS": {
+   "pour": 0,
+   "contre": 18,
+   "abstention": 0
+  },
+  "DEM": {
+   "pour": 13,
+   "contre": 0,
+   "abstention": 0
+  },
+  "HOR": {
+   "pour": 20,
+   "contre": 0,
+   "abstention": 1
+  },
+  "LIOT": {
+   "pour": 1,
+   "contre": 7,
+   "abstention": 1
+  },
+  "GDR": {
+   "pour": 0,
+   "contre": 10,
+   "abstention": 0
+  },
+  "UDR": {
+   "pour": 0,
+   "contre": 5,
+   "abstention": 0
+  }
+ },
+ "amendement": null,
+ "seance": "RUANR5L17S2027IDS30980",
+ "compte_rendu": "CRSANR5L17S2027O1N056",
+ "interventions": [
+  {
+   "orateur": "M. Charles de Courson",
+   "qualite": null,
+   "groupe": "LIOT",
+   "president_de_seance": false,
+   "texte": "Dans votre amendement, monsieur le ministre, vous avez essayé d’évaluer l’incidence, à la hausse ou à la baisse, de toutes les mesures que nous avons adoptées. Le solde est une dégradation de 20,7 milliards. Cependant, vous l’avez évoqué et cela figure dans le dernier paragraphe de l’exposé sommaire de votre amendement, il y a cinq mesures que vous n’avez pas évaluées parce que vous les considérez comme anti-européennes. Avant que nous ne votions, pouvez-vous nous indiquer quel serait le montant des recettes supplémentaires procurées par ces cinq amendements ? Quelle en est l’estimation ?"
+  },
+  {
+   "orateur": "M. Éric Coquerel",
+   "qualite": "président de la commission des finances, de l’économie générale et du contrôle budgétaire",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Il faut cesser d’émettre des OATI, car elles coûtent trop cher à l’État. Elles avaient permis d’économiser 1 milliard d’euros sur une longue période, car l’inflation était longtemps restée faible après leur création en 1998. Cependant, avec la hausse du niveau d’inflation à partir de 2022, les OATI sont devenues très désavantageuses. En effet, si les investisseurs ne peuvent pas perdre – le taux de ces obligations ne peut redescendre en dessous du plafond auquel elles ont été acquises –, ils peuvent en revanche gagner des sommes importantes, puisque les OATI sont indexées sur l’inflation. C’est donc une excellente affaire pour eux. Les Allemands ont été, comme nous, très désavantagés en 2022, si bien qu’ils ont arrêté en 2023, pendant que nous continuions. Je n’ai pas bien compris, tout à l’heure, la réponse de M. Lescure à ma question sur ce sujet, mais les OATI contribuent encore beaucoup à l’augmentation de la charge de la dette. Nous entrons dans une période troublée, où les taux vont beaucoup fluctuer ; dans ce contexte, soyons raisonnables, arrêtons l’émission des OATI !"
+  },
+  {
+   "orateur": "M. Kévin Mauvieux",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Tout d’abord, je me félicite de voir que le travail que j’ai mené avec mes collègues du RN depuis quatre ans porte ses fruits, puisque désormais la gauche veut aussi supprimer les OATI, qui sont toxiques pour notre pays (Applaudissements sur les bancs du groupe RN), alors que cette même gauche avait instauré cet instrument en 1998, avec Lionel Jospin et Dominique Strauss-Kahn. D’ailleurs, Jean-Luc Mélenchon était membre de ce gouvernement, et l’avait donc validé à l’époque. Je suis ravi de voir que vous vous ralliez à nous sur cette cause.Monsieur le ministre, nous avons eu, sur les OATI, un court débat en séance à l’occasion de l’amendement de Jean-Philippe Tanguy qui visait à indexer le taux d’intérêt du livret A sur l’inflation. Je rappelle que nous émettons des OATI toxiques parce qu’il faut financer l’épargne indexée sur l’inflation, alors que le livret A ne l’est plus. Enfin, j’ai demandé à l’Agence France Trésor (AFT), dans mes auditions, quel montant nous aurions économisé sur la charge d’intérêt de la dette si nous n’avions pas émis d’OATI quand les taux étaient nuls : la réponse est 15 milliards d’euros. (Applaudissements sur les bancs du groupe RN.)"
+  },
+  {
+   "orateur": "M. Jean-René Cazeneuve",
+   "qualite": null,
+   "groupe": "EPR",
+   "president_de_seance": false,
+   "texte": "Tout n’est pas perdu : les Insoumis ont découvert que nous devions payer des intérêts sur la dette ! Depuis des années, ils nous expliquent que la dette n’est pas un problème et qu’il ne faut pas la rembourser.S’agissant des OATI, tout d’abord, quand vous avez 30 à 35 milliards à emprunter chaque mois à vos créanciers, vous ne choisissez pas, hélas, la part d’OAT indexées et non indexées que vous pouvez distribuer. Le taux d’intérêt est plus ou moins élevé selon qu’il est, ou non, indexé sur l’inflation. Ensuite, vous ne pouvez pas savoir si l’inflation va progresser ou ralentir au cours des prochaines années. Il est facile de dire, après coup, que l’on n’aurait pas dû emprunter à taux variable ; avant, vous ne le saviez pas, comme vous ne savez pas quelle sera l’inflation dans cinq ans. (Applaudissements sur plusieurs bancs du groupe EPR.)"
+  },
+  {
+   "orateur": "M. Aurélien Le Coq",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Les grands discours gouvernementaux sur la dette ne sont peut-être qu’un panache de fumée pour justifier de saigner toujours plus les Français. Monsieur le ministre, nous vous prions de donner votre avis sur ce qui représente jusqu’à 40 % de l’augmentation de la charge de la dette !Monsieur Cazeneuve, soyez sérieux. Vous nous reprochez de ne pas nous intéresser au sujet, mais quand nous le faisons, nous voyons que le coût de la dette qui pèse sur les finances publiques, c’est le vôtre, c’est celui de la Macronie ! (Applaudissements sur les bancs du groupe LFI-NFP.)"
+  },
+  {
+   "orateur": "M. Aurélien Le Coq",
+   "qualite": null,
+   "groupe": "LFI",
+   "president_de_seance": false,
+   "texte": "Vous avez créé 1 400 milliards de dette, vous avez indexé la dette sur l’inflation et vous décidez encore de jouer en bourse nos finances publiques sur trente ans ! Dans cet amendement, nous proposons de limiter les prévisions à cinq années. Vous-même, vous venez de dire qu’il était impossible de savoir quelle serait l’inflation demain et que le gouvernement a été incapable de la prévoir. (Applaudissements sur les bancs du groupe LFI-NFP.)"
+  },
+  {
+   "orateur": "M. Nicolas Sansu",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "Pour clore l’examen de la première partie du projet de loi de finances, nous proposons de reconsidérer le financement de notre économie en réinternalisant notre dette. D’aucuns disent que nous faisons face à une crise de la dette. Outre le fait que nous contestons cette allégation, la charge des taux d’intérêt par rapport à notre PIB étant proportionnée – 2,4 points de PIB aujourd’hui contre 2,7 en 1990 –, nous réaffirmons qu’être endetté n’est pas un problème en soi."
+  },
+  {
+   "orateur": "M. Nicolas Sansu",
+   "qualite": null,
+   "groupe": "GDR",
+   "president_de_seance": false,
+   "texte": "C’est un problème parce que nous avons abandonné notre dette aux mains des marchés financiers. Dans ce système dérégulé, nous ne connaissons plus nos créanciers. Le nombre de créanciers étrangers a doublé en vingt ans pour atteindre 57 %, et les fonds spéculatifs y contribuent beaucoup. Avoir une dette soutenable, c’est avant tout avoir des créanciers alignés sur l’objectif de souveraineté de la France. Le Japon, dont la dette est très importante, n’est pas inquiété car 90 % des créanciers sont des résidents. Nous avons une épargne privée record de 6 600 milliards d’euros ; nous proposons de mieux la mobiliser en permettant à nos concitoyens de souscrire des titres du Trésor et donc de financer notre économie de manière vertueuse."
+  },
+  {
+   "orateur": "M. Kévin Mauvieux",
+   "qualite": null,
+   "groupe": "RN",
+   "president_de_seance": false,
+   "texte": "Nous, nous sommes le bloc des responsables : nous savons que la dette est néfaste et nous voulons un budget à l’équilibre. La seule candidate qui propose une règle d’or, c’est Marine Le Pen, le seul premier ministre qui remettra de l’ordre dans les comptes publics, c’est Jordan Bardella ! (Applaudissements sur les bancs des groupes RN et UDR.)"
+  },
+  {
+   "orateur": "M. David Amiel",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Les amendements du Rassemblement national sur la deuxième partie du projet de loi de financement de la sécurité sociale creuseraient le déficit de 14 milliards d’euros ! (Exclamations sur les bancs du groupe RN.)Pour ce qui est du projet de loi de finances, M. Renault, il y a quelques jours, m’a invité à regarder non seulement les amendements déposés par le Rassemblement national sur la première partie, mais aussi sur la deuxième – en commission. C’est chose faite. L’ensemble de ces amendements auraient conduit à une dégradation du déficit public de plus de 30 milliards d’euros ! Telle est la réalité du contre-budget du Rassemblement national. (Applaudissements sur les bancs des groupes EPR et HOR. – M. Éric Martineau applaudit également. – Vives protestations sur les bancs du groupe RN.)"
+  },
+  {
+   "orateur": "M. David Amiel",
+   "qualite": "ministre",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Monsieur le député, dans l’hémicycle, on débat. Le débat parlementaire a la grande vertu de permettre de passer aux rayons X les projets des uns et des autres. Votre contre-budget s’est écrasé au décollage du débat parlementaire en proposant une explosion des déficits de la sécurité sociale et des finances publiques. (Applaudissements sur quelques bancs du groupe EPR.)"
+  },
+  {
+   "orateur": "M. Éric Coquerel",
+   "qualite": "président de la commission des finances",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "L’autre moitié s’explique facilement : nous sommes dans un système incapable de répondre aux crises – crise des subprimes ou crise du covid – et qui est obligé de faire appel à l’État pour s’en sortir. Nous payons tous cette dépendance ! C’est la raison pour laquelle l’annulation de la dette covid avait du sens, car il aurait été impensable que nous payions tous, avec l’argent de l’État,…"
+  },
+  {
+   "orateur": "M. Éric Coquerel",
+   "qualite": "président de la commission des finances",
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "Gardez vos leçons, car c’est vous qui avez baissé les recettes et fait le choix, que je ne conteste pas, de faire venir l’État au secours de l’économie de marché et des entreprises. À chaque fois, le capitalisme a besoin de l’État pour s’en sortir ! (Applaudissements sur les bancs du groupe LFI-NFP.)"
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(Il est procédé au scrutin.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Voici le résultat du scrutin : Nombre de votants 246 Nombre de suffrages exprimés 173 Majorité absolue 87 Pour l’adoption 81 Contre 92"
+  },
+  {
+   "orateur": null,
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": false,
+   "texte": "(L’amendement no 3897 n’est pas adopté.)"
+  },
+  {
+   "orateur": "M. le président",
+   "qualite": null,
+   "groupe": null,
+   "president_de_seance": true,
+   "texte": "Je mets aux voix l’article 57 et l’état A, tels qu’ils ont été amendés."
+  }
+ ]
+}

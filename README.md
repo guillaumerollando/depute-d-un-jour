@@ -6,7 +6,7 @@
 
 Les tests politiques habituels comparent tes opinions à des programmes, c'est-à-dire à des promesses. *Député d'un jour* compare tes réponses à des **votes réels**. Tu votes pour ou contre des mesures votées à l'Assemblée, puis tu vois ton taux d'accord avec chaque groupe, ton siège dans l'hémicycle et ton « député jumeau ».
 
-- 🗳️ Des cartes tirées de 8 609 scrutins publics de la 17e législature.
+- 🗳️ 94 cartes tirées de 10 175 scrutins publics de la 17e législature, mises à jour avec l'actualité.
 - ⚖️ Une sélection faite par des règles publiques, sans aucun choix éditorial. Voir [METHODE.md](METHODE.md).
 - 🔎 Chaque carte renvoie vers le texte, le scrutin et le débat officiels.
 - 🔒 Aucun compte, aucune donnée collectée : tout se calcule sur l'appareil.

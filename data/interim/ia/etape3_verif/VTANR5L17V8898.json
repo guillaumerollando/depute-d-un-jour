@@ -1,0 +1,12 @@
+{
+ "uid": "VTANR5L17V8898",
+ "consigne": "etape3_verification v2",
+ "verdict": "corrige",
+ "problemes": [
+  "Le résumé présente la baisse de 1,1 milliard comme liée aux seules franchises médicales, alors que l'exposé des motifs de l'article l'explique aussi (et pour une part plus grande : 0,6 contre 0,3 milliard) par l'annulation de crédits mis en réserve pour les établissements de santé.",
+  "La carte ne dit pas que supprimer l'article n'annule pas le décret relevant les plafonds des franchises (le rapporteur général le précise dans le débat) : sans cette précision, l'utilisateur peut croire qu'il vote sur les franchises elles-mêmes."
+ ],
+ "corrections": {
+  "ce_que_ca_change": "L'article abaisse de 1,1 milliard, à 273,3 milliards d'euros, l'objectif de dépenses de l'assurance maladie pour 2026. Selon le Gouvernement, il tient compte de la hausse par décret, de 50 à 70 euros, des plafonds des franchises médicales (sommes à la charge des patients) et d'une annulation de crédits en réserve pour les hôpitaux et cliniques. L'amendement supprime l'article, pas le décret."
+ }
+}
