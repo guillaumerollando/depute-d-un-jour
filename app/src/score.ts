@@ -118,3 +118,35 @@ export function deputeJumeau(deputes: Depute[], cartes: Map<string, Carte>, vote
   }
   return best;
 }
+
+/**
+ * Familles de thèmes, pour « ton mélange » : les 13 thèmes des cartes regroupés en 4 grandes familles,
+ * pour avoir assez de votes dans chacune dès 15 cartes. Le calcul est le même que le score global.
+ */
+export const FAMILLES: { nom: string; themes: string[] }[] = [
+  { nom: 'Économie et social', themes: ['Économie et impôts', 'Travail et retraites', 'Santé et protection sociale', 'Logement'] },
+  { nom: 'Sécurité, immigration, défense', themes: ['Sécurité et justice', 'Immigration et nationalité', 'Défense et international'] },
+  { nom: 'Environnement et territoires', themes: ['Environnement et énergie', 'Agriculture et alimentation', 'Territoires et outre-mer'] },
+  { nom: 'Société et institutions', themes: ['Société et éthique', 'Éducation, culture et numérique', 'Institutions et démocratie'] },
+];
+export const MIN_FAMILLE = 3; // cartes répondues dans la famille pour afficher un résultat
+
+export interface Melange { famille: string; premiers: ScoreGroupe[]; cartes: number }
+
+/** Groupe(s) le(s) plus proche(s) dans chaque famille de thèmes où tu as assez voté. */
+export function melange(groupes: Groupe[], cartes: Map<string, Carte>, votes: Vote[]): Melange[] {
+  return FAMILLES.flatMap((f) => {
+    const siens = votes.filter((v) => v.reponse !== 'passe' && f.themes.includes(cartes.get(v.uid)?.theme ?? ''));
+    if (siens.length < MIN_FAMILLE) return [];
+    const premiers = paliers(scores(groupes, cartes, siens))[0] ?? [];
+    return premiers.length ? [{ famille: f.nom, premiers, cartes: siens.length }] : [];
+  });
+}
+
+/** Part de tes votes identiques au résultat final de l'Assemblée (adopté = pour, rejeté = contre). */
+export function accordAssemblee(cartes: Map<string, Carte>, votes: Vote[]) {
+  const siens = votes.filter((v) => v.reponse !== 'passe' && cartes.has(v.uid));
+  if (!siens.length) return null;
+  const memes = siens.filter((v) => (cartes.get(v.uid)!.resultat === 'adopté' ? 'pour' : 'contre') === v.reponse).length;
+  return { memes, total: siens.length, pourcentage: Math.round((100 * memes) / siens.length) };
+}

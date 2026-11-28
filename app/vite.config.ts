@@ -18,14 +18,14 @@ export default defineConfig({
         description: "Vote sur de vrais textes de l'Assemblée nationale et découvre de quels groupes tu es le plus proche, d'après leurs votes réels.",
         lang: 'fr',
         theme_color: '#1d2b4f',
-        background_color: '#f6f4ef',
+        background_color: '#f4f5f8',
         display: 'standalone',
         icons: [
           { src: 'icone.svg', sizes: 'any', type: 'image/svg+xml', purpose: 'any maskable' },
         ],
       },
       workbox: {
-        globPatterns: ['**/*.{js,css,html,svg,json}'],
+        globPatterns: ['**/*.{js,css,html,svg,json,woff2}'],
         runtimeCaching: [{ urlPattern: /\/data\/.*\.json$/, handler: 'StaleWhileRevalidate' }],
       },
     }),

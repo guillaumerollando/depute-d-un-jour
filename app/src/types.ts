@@ -31,6 +31,7 @@ export interface Carte {
   citations: Record<string, Citation>;
   liens: { scrutin: string; dossier: string; texte: string | null; compte_rendu: string | null };
   deputes: { p: number[]; c: number[] };
+  decompte?: { pour: number; contre: number; abstentions: number }; // résultat officiel du scrutin
   aujourdhui?: string;
   resume_court?: string;
   arguments?: { pour: string; contre: string; citation_pour: string; citation_contre: string };

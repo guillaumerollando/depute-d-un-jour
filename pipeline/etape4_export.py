@@ -17,6 +17,12 @@ from etape3_selection import CAMPS_POLITIQUES, NOMS_INTERDITS
 LIMITES = {"aujourdhui": 180, "resume_court": 220, "argument_pour": 160, "argument_contre": 160}
 
 
+def decompte(s):
+    """Résultat officiel du scrutin (tous les députés, non-inscrits compris) : affiché après le vote."""
+    d = s["syntheseVote"]["decompte"]
+    return {"pour": int(d["pour"]), "contre": int(d["contre"]), "abstentions": int(d["abstentions"])}
+
+
 def complements(c):
     """Situation actuelle, résumé court et arguments (consignes etape3_arguments), après vérification
     IA puis contrôle mécanique : citations exactes, du bon camp, sans nom de parti, longueurs respectées."""
@@ -154,7 +160,8 @@ def main():
                     votes[cle].append(idx(x["acteurRef"], c["date"]))
         sortie.append({k: c[k] for k in ("uid", "numero", "date", "type", "theme", "titre", "ce_que_ca_change",
                                           "contexte", "resultat", "positions", "neutralises", "citations", "liens")}
-                      | {"socle": c.get("socle", False), "deputes": votes} | complements(c))
+                      | {"socle": c.get("socle", False), "deputes": votes, "decompte": decompte(bruts[c["uid"]])}
+                      | complements(c))
         sortie[-1] = accroche(coherence(sortie[-1]))
 
     meta = {"date_donnees": dernier["dateScrutin"], "scrutins_analyses": len(bruts), "cartes": len(sortie), "depot": DEPOT}

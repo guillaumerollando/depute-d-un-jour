@@ -57,7 +57,7 @@ export function Accueil({ donnees, reprise, onReprendre, onCommencer, onMethode 
       )}
 
       <p className="garanties">
-        Aucun compte, aucune donnée collectée : tout se passe sur ton téléphone.
+        Aucun compte : tes réponses restent sur ton téléphone.
         Cartes sélectionnées par une méthode publique, sans choix éditorial.
       </p>
       <button className="lien" onClick={onMethode}>Comment ça marche ?</button>

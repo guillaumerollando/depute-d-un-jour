@@ -102,7 +102,7 @@ export function CarteSwipe({ carte, important, onImportant, onReponse }: Props) 
         <div className="carte-defilement" ref={defilement}>
           <div className="carte-entete">
             <span className="puce-theme">{carte.theme}</span>
-            <span className="type-vote">{TYPES[carte.type] ?? carte.type}</span>
+            <span className="type-vote">{TYPES[carte.type] ?? carte.type} · scrutin n° {carte.numero}</span>
           </div>
           <h2 className="carte-titre">{carte.titre}</h2>
           <p className="carte-resume">{carte.ce_que_ca_change}</p>

@@ -49,13 +49,31 @@ export function Methode({ donnees, onRetour }: { donnees: Donnees; onRetour: () 
         10 points d'écart sont présentés ex aequo. L'ordre des cartes s'adapte à tes réponses pour départager
         les groupes dont tu es proche.
       </p>
+      <p>
+        <strong>Ton mélange</strong> refait le même calcul séparément dans quatre familles de thèmes : économie et
+        social ; sécurité, immigration et défense ; environnement et territoires ; société et institutions.
+        Une famille n'apparaît qu'à partir de 3 votes.
+      </p>
+      <p>
+        Après chaque vote, tu vois aussi ce qu'a décidé l'Assemblée, avec le décompte officiel. La position des
+        groupes, elle, n'est révélée qu'à la fin, pour ne pas influencer tes votes suivants.
+      </p>
 
       <h2>Ce que l'appli ne fait pas</h2>
       <ul>
         <li>Elle ne te dit pas pour qui voter.</li>
         <li>Elle ne prédit pas les votes futurs.</li>
-        <li>Elle ne collecte rien : aucun compte, aucun suivi.</li>
+        <li>Elle ne collecte rien sur toi : aucun compte, tes réponses restent sur ton appareil.</li>
       </ul>
+
+      <h2 id="confidentialite">Confidentialité</h2>
+      <p>
+        Tes votes, ton résultat et ton image de partage sont calculés sur ton appareil et n'en sortent jamais,
+        sauf si tu choisis de partager l'image. Pour savoir combien de personnes utilisent le site, un compteur
+        de visites (GoatCounter) compte les pages vues et quelques étapes (début du test, résultat affiché,
+        partage) : sans cookie, sans adresse IP conservée, sans aucune de tes réponses. Il ne sert qu'à des
+        statistiques globales.
+      </p>
 
       <p className="note">
         Le code, la méthode détaillée, les consignes données à l'IA et toutes les données intermédiaires sont

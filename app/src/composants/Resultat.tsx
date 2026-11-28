@@ -1,8 +1,10 @@
-import { useMemo, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import type { Carte, Donnees, Groupe, Vote } from '../types';
-import { deputeJumeau, paliers, scores } from '../score';
+import { accordAssemblee, deputeJumeau, melange, MIN_FAMILLE, paliers, scores } from '../score';
 import { Hemicycle } from './Hemicycle';
-import { partagerSite } from '../partage';
+import { NOM_IMAGE, partagerImage, partagerSite } from '../partage';
+import { dessinerResultat } from '../imageResultat';
+import { compter } from '../mesure';
 
 interface Props {
   donnees: Donnees;
@@ -29,6 +31,15 @@ export function Resultat({ donnees, votes, onContinuer, onRecommencer, onMethode
   const proches = new Set(premiers.map((s) => s.groupe.id));
   const [copie, setCopie] = useState(false);
   const [ouvert, setOuvert] = useState<string | null>(null);
+  const mix = useMemo(() => melange(donnees.groupes, index, votes), [donnees, index, votes]);
+  const assemblee = useMemo(() => accordAssemblee(index, votes), [index, votes]);
+  const [apercu, setApercu] = useState<{ blob: Blob; url: string } | null>(null);
+  useEffect(() => () => { if (apercu) URL.revokeObjectURL(apercu.url); }, [apercu]);
+
+  const creerImage = async () => {
+    const blob = await dessinerResultat({ groupes: donnees.groupes, premiers: niveaux[0] ?? [], repondus, melange: mix, assemblee });
+    setApercu({ blob, url: URL.createObjectURL(blob) });
+  };
 
   if (repondus === 0)
     return (
@@ -58,6 +69,41 @@ export function Resultat({ donnees, votes, onContinuer, onRecommencer, onMethode
           ({derniers[0].pourcentage} % d'accord)
         </p>
       )}
+
+      {mix.length > 0 && (
+        <div className="melange">
+          <h2>Ton mélange</h2>
+          <ul>
+            {mix.map((m) => (
+              <li key={m.famille}>
+                <span className="melange-famille">{m.famille}<small>{m.cartes} votes</small></span>
+                <span className="melange-groupes">
+                  {m.premiers.slice(0, 3).map((s) => (
+                    <span key={s.groupe.id} className="melange-groupe" title={s.groupe.nom}>
+                      <span className="pastille" style={{ background: s.groupe.couleur }} />{s.groupe.sigle}
+                    </span>
+                  ))}
+                  {m.premiers.length > 3 && <span className="melange-plus">+{m.premiers.length - 3}</span>}
+                </span>
+              </li>
+            ))}
+          </ul>
+          <p className="note">
+            Le groupe le plus proche de toi dans chaque famille de thèmes où tu as voté au moins {MIN_FAMILLE} fois
+            (ex aequo à moins de 10 points).{mix.length < 4 && ' Vote davantage pour compléter ton mélange.'}
+          </p>
+        </div>
+      )}
+
+      {assemblee && (
+        <p className="majorite">
+          Tu as voté comme la majorité de l'Assemblée sur <strong>{assemblee.memes} texte{assemblee.memes > 1 ? 's' : ''} sur {assemblee.total}</strong>.
+        </p>
+      )}
+
+      <div className="partage-image">
+        <button className="btn-principal" onClick={creerImage}>Partager mon résultat en image</button>
+      </div>
 
       <h2>Ton accord avec chaque groupe</h2>
       <ol className="classement">
@@ -104,9 +150,12 @@ export function Resultat({ donnees, votes, onContinuer, onRecommencer, onMethode
 
       <div className="actions">
         {onContinuer && <button className="btn-principal" onClick={onContinuer}>Affiner avec 10 votes de plus</button>}
+        <button className="btn-secondaire" onClick={creerImage}>Mon image</button>
         <button className="btn-secondaire" onClick={async () => setCopie(await partagerSite())}>{copie ? 'Lien copié !' : 'Partager le test'}</button>
         <button className="btn-secondaire" onClick={onRecommencer}>Recommencer</button>
       </div>
+
+      {apercu && <Apercu image={apercu} onFermer={() => setApercu(null)} />}
 
       <h2>Vote par vote</h2>
       <p className="note">Compare ta réponse aux votes réels des groupes. Touche une carte pour voir ce qu'ils ont dit.</p>
@@ -122,6 +171,30 @@ export function Resultat({ donnees, votes, onContinuer, onRecommencer, onMethode
         <button className="lien" onClick={onMethode}>Comment c'est calculé ?</button>
       </p>
     </section>
+  );
+}
+
+/** Aperçu de l'image avant de la partager : la personne voit exactement ce qui part. */
+function Apercu({ image, onFermer }: { image: { blob: Blob; url: string }; onFermer: () => void }) {
+  const [impossible, setImpossible] = useState(false);
+  useEffect(() => {
+    const touche = (e: KeyboardEvent) => { if (e.key === 'Escape') onFermer(); };
+    window.addEventListener('keydown', touche);
+    return () => window.removeEventListener('keydown', touche);
+  }, [onFermer]);
+  return (
+    <div className="voile" role="dialog" aria-modal="true" aria-label="Ton image à partager" onClick={onFermer}>
+      <div className="apercu" onClick={(e) => e.stopPropagation()}>
+        <img src={image.url} alt="Ton résultat : groupe le plus proche, hémicycle et mélange par thème" />
+        <div className="apercu-actions">
+          <button className="btn-principal" onClick={async () => setImpossible(!(await partagerImage(image.blob)))}>Partager</button>
+          <a className="btn-secondaire" href={image.url} download={NOM_IMAGE} onClick={() => compter('partage-image')}>Enregistrer l'image</a>
+        </div>
+        {impossible && <p className="note">Ton navigateur ne sait pas partager une image directement : enregistre-la, puis publie-la où tu veux.</p>}
+        <p className="note">L'image est créée sur ton appareil. Rien n'est envoyé tant que tu ne la partages pas toi-même.</p>
+        <button className="lien" onClick={onFermer}>Fermer</button>
+      </div>
+    </div>
   );
 }
 

@@ -9,3 +9,5 @@ app/dist/
 app/dev-dist/
 .claude/
 SYNTHESE.md
+# Analyses de mise à jour (scrutins régénérés, volumineux)
+data/interim/maj-*/

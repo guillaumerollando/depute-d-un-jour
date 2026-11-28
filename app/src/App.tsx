@@ -6,6 +6,8 @@ import { CarteSwipe } from './composants/CarteSwipe';
 import { Resultat } from './composants/Resultat';
 import { Methode } from './composants/Methode';
 import { Pied } from './composants/Pied';
+import { Verdict } from './composants/Verdict';
+import { compter } from './mesure';
 
 type Ecran = 'accueil' | 'jeu' | 'resultat' | 'methode';
 const SERIE = 15; // nombre de votes proposés au départ
@@ -60,6 +62,8 @@ export default function App() {
   const [objectif, setObjectif] = useState(SERIE);
   const [carte, setCarte] = useState<Carte | null>(null);
   const [important, setImportant] = useState(false);
+  // Dernier vote, pour afficher ce qu'a décidé l'Assemblée au-dessus de la carte suivante
+  const [dernier, setDernier] = useState<{ carte: Carte; reponse: Reponse } | null>(null);
 
   const [reprise, setReprise] = useState<Sauvegarde | null>(null);
 
@@ -104,8 +108,10 @@ export default function App() {
     setVotes([]);
     setObjectif(SERIE);
     setImportant(false);
+    setDernier(null);
     setCarte(carteSuivante(donnees, [], lireVues()));
     setEcran('jeu');
+    compter('commencer');
   };
 
   const repondre = (r: Reponse) => {
@@ -114,13 +120,16 @@ export default function App() {
     const nouveaux = [...votes, { uid: carte.uid, reponse: r, important }];
     setVotes(nouveaux);
     setImportant(false);
+    setDernier({ carte, reponse: r });
     const suivante = nouveaux.length < objectif ? carteSuivante(donnees, nouveaux, lireVues()) : null;
     if (suivante) setCarte(suivante);
-    else setEcran('resultat');
+    else { setEcran('resultat'); compter('resultat'); }
   };
 
   const continuer = () => {
     setObjectif(votes.length + RALLONGE);
+    setDernier(null);
+    compter('rallonge');
     setCarte(carteSuivante(donnees, votes, lireVues()));
     setEcran('jeu');
   };
@@ -143,6 +152,9 @@ export default function App() {
             </div>
             <span className="compteur">{progression + 1}/{objectif}</span>
           </header>
+          {dernier && dernier.carte.uid !== carte.uid
+            ? <Verdict key={dernier.carte.uid} carte={dernier.carte} reponse={dernier.reponse} />
+            : <p className="verdict-vide">Après ton vote, tu verras ce qu'a décidé l'Assemblée.</p>}
           <p className="consigne">
             Le <strong>{dateVote(carte.date)}</strong>, votes-tu ce texte ?
           </p>
@@ -154,7 +166,7 @@ export default function App() {
             onReponse={repondre}
           />
           {votes.length >= 5 && (
-            <button className="lien terminer" onClick={() => setEcran('resultat')}>Voir mon résultat maintenant</button>
+            <button className="lien terminer" onClick={() => { setEcran('resultat'); compter('resultat'); }}>Voir mon résultat maintenant</button>
           )}
         </section>
       )}
